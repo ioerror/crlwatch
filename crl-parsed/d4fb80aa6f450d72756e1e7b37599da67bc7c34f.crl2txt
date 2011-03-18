@@ -1,0 +1,105 @@
+issuer=/C=US/O=WoSign, Inc./CN=WoSign SGC Server Authority
+SHA1 Fingerprint=69:CC:1C:F9:A7:9B:22:D1:AD:A4:D1:DB:4E:87:01:19:E5:2D:8B:A3
+1f41d0a0
+crlNumber=0596
+lastUpdate=Mar 18 07:26:44 2011 GMT
+nextUpdate=Mar 22 07:26:44 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=WoSign, Inc./CN=WoSign SGC Server Authority
+        Last Update: Mar 18 07:26:44 2011 GMT
+        Next Update: Mar 22 07:26:44 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:CA:34:B5:12:B9:BA:8C:45:B1:F9:AC:FD:E7:B4:A4:86:B2:EC:CA:21
+
+            X509v3 CRL Number: 
+                1430
+Revoked Certificates:
+    Serial Number: 9467E342C8FA27383813DBB35A55DBDD
+        Revocation Date: Jul  2 19:57:16 2008 GMT
+    Serial Number: B58F5127E73D5EE7AC44BCF67F2E705B
+        Revocation Date: Oct 15 08:28:47 2008 GMT
+    Serial Number: 3FC5129B1C1173CAE9B0EE628F1CFC1F
+        Revocation Date: Nov  4 08:43:58 2008 GMT
+    Serial Number: 8B210751A80571C656CE9C090AF1F514
+        Revocation Date: Dec  9 06:07:00 2008 GMT
+    Serial Number: CEDB9DDA4E3641AFF1D6A94223907491
+        Revocation Date: Jan  6 09:35:21 2009 GMT
+    Serial Number: 86A543CAAFDA97EBE01801712A7F94D2
+        Revocation Date: Jan  7 06:07:10 2009 GMT
+    Serial Number: D4EC843F236E47933C4BA2785E518F3D
+        Revocation Date: Jan  7 07:31:48 2009 GMT
+    Serial Number: 9F24919D2F76B5C06D187ECBC1E51832
+        Revocation Date: Mar 10 09:00:54 2009 GMT
+    Serial Number: E1334857941F74AB371D5B249FE2E47D
+        Revocation Date: May  4 17:26:14 2009 GMT
+    Serial Number: AEA6A1268C0577FD5664218D1F0214C3
+        Revocation Date: Sep 10 07:13:40 2009 GMT
+    Serial Number: 5E93996AD5F56A0BA8088E0853C8CD23
+        Revocation Date: Nov 16 03:46:02 2009 GMT
+    Serial Number: AC19CB1F5491B4B5D4F993C8EAEA0742
+        Revocation Date: Dec 10 08:22:36 2009 GMT
+    Serial Number: 49F92750E2EB6A72170EB9B0DA6EF8DA
+        Revocation Date: Dec 14 07:24:59 2009 GMT
+    Serial Number: A982597A53E6E70CD57A63B908273261
+        Revocation Date: Jan 21 02:39:00 2010 GMT
+    Serial Number: EC490B58907432431A634AE5581537B2
+        Revocation Date: Apr  6 06:30:03 2010 GMT
+    Serial Number: CEB6DCEA97E051B79D5708CEA2E87A62
+        Revocation Date: Apr 26 01:59:44 2010 GMT
+    Serial Number: 9E3A605B0AD4988BF6370D8A0A918382
+        Revocation Date: Apr 26 02:22:35 2010 GMT
+    Serial Number: C8A073C43ED472B58AE5F78F9E1B3E28
+        Revocation Date: May 20 03:46:08 2010 GMT
+    Serial Number: AF93B331B2BB8E746DEE224DC3CF334B
+        Revocation Date: Jun  1 06:07:43 2010 GMT
+    Serial Number: 289046318C5D5B148A5789BBE1186659
+        Revocation Date: Jul  1 06:39:41 2010 GMT
+    Serial Number: 0D9EC314DD5C5950F39B4E095C342A58
+        Revocation Date: Jul 26 06:43:37 2010 GMT
+    Serial Number: CA897E681BEFB2D0619C0C1CDFCAF34D
+        Revocation Date: Sep 27 05:46:45 2010 GMT
+    Serial Number: 3286C959511EE28CE192DE259A16E898
+        Revocation Date: Sep 27 05:47:43 2010 GMT
+    Serial Number: 938DF939C062FD86783666D4A012A6F0
+        Revocation Date: Sep 27 05:48:24 2010 GMT
+    Serial Number: BF53F930587BC02347607657E40F6F37
+        Revocation Date: Nov 10 09:27:34 2010 GMT
+    Serial Number: 9DFA4C0DBACB79ED5C0424520C5B9FF0
+        Revocation Date: Nov 16 03:01:04 2010 GMT
+    Serial Number: CF72DEDA8B6BFB40FC59E0B6D0E9DC04
+        Revocation Date: Nov 16 03:01:22 2010 GMT
+    Serial Number: F7EF51D073A56C06D0B3086E1A29C21E
+        Revocation Date: Nov 22 08:57:37 2010 GMT
+    Serial Number: 32D781784586BF8407A28389619F53AA
+        Revocation Date: Nov 23 08:54:23 2010 GMT
+    Serial Number: 6CC75EB8BD8B54833AD64959EC8EE0F7
+        Revocation Date: Nov 24 05:49:05 2010 GMT
+    Serial Number: 07EC56B1AECCB71461557A89449D8AAE
+        Revocation Date: Dec  9 09:52:57 2010 GMT
+    Serial Number: 82758CA5AA224AC235F9133827DB13C7
+        Revocation Date: Dec 20 06:25:58 2010 GMT
+    Serial Number: BAA84C73CF990AA9AE34CD4A1D9982F2
+        Revocation Date: Dec 21 08:46:16 2010 GMT
+    Serial Number: 755B5275542CEBFF8A564B34ACECC069
+        Revocation Date: Jan 20 05:56:49 2011 GMT
+    Serial Number: F06963617772397122A10631D29D7698
+        Revocation Date: Jan 20 05:57:26 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        32:04:21:ee:ea:67:ac:9e:a1:18:f8:48:ac:a0:b0:8f:1c:c2:
+        f7:3a:75:82:1a:6d:a0:50:2b:34:0b:de:d2:f3:d5:28:47:59:
+        ce:01:71:dd:8e:19:e5:88:b0:f9:0e:2b:83:eb:f1:be:ae:7e:
+        79:b4:f9:93:84:77:ed:66:73:0e:b2:47:bd:9b:4c:44:29:ac:
+        76:63:82:14:45:6e:fb:b5:40:84:c9:30:d7:a5:a9:71:7b:32:
+        9f:a5:4f:fb:0a:21:78:54:2f:23:2c:70:f5:39:64:c9:f1:34:
+        5a:30:ab:2f:4c:76:a7:05:ae:8a:56:cb:22:f8:8d:61:09:e3:
+        70:4e:4c:31:cb:57:eb:c5:bf:d8:a5:ce:16:8a:66:a9:37:3c:
+        b1:54:6b:da:7b:e6:da:79:94:56:1f:b1:60:94:a2:fd:8f:12:
+        32:e6:11:ae:78:8d:0f:cc:75:92:0d:e7:f0:51:d7:9a:cf:bd:
+        a6:66:46:ec:02:a1:9e:c0:03:0b:b3:41:60:7f:c3:d5:46:89:
+        7a:78:57:c9:a6:6a:1a:7b:13:32:0f:97:42:fa:99:9f:ad:f2:
+        32:53:cb:15:d6:fb:54:e2:f2:40:ae:38:b8:f7:51:54:f2:cb:
+        f8:93:37:90:f3:be:34:3b:2c:b3:55:25:e6:6e:f6:92:88:69:
+        09:4c:95:ae
