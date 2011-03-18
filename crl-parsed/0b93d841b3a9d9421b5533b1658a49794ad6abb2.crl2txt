@@ -1,0 +1,41 @@
+issuer=/DC=INT/DC=ICC/O=ICC-CPI/CN=ICC-CPI Advanced G3 CA1
+SHA1 Fingerprint=26:CA:38:35:84:D8:22:A2:80:94:A3:CD:A9:2D:DC:87:90:14:6A:2C
+7fea6235
+crlNumber=03A9
+lastUpdate=Mar 18 00:49:55 2011 GMT
+nextUpdate=Mar 19 01:09:55 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=INT/DC=ICC/O=ICC-CPI/CN=ICC-CPI Advanced G3 CA1
+        Last Update: Mar 18 00:49:55 2011 GMT
+        Next Update: Mar 19 01:09:55 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:DD:FF:19:92:A5:6C:08:40:FE:FC:65:4B:23:38:B5:1C:21:77:22:E0
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                937
+            1.3.6.1.4.1.311.21.4: 
+                .110318125955Z
+            X509v3 Delta CRL Indicator: critical
+                936
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        f2:27:b1:c7:a7:25:66:33:99:79:5e:08:c7:9e:6c:04:d6:13:
+        a3:a9:08:7c:28:b3:4c:c0:a5:41:c5:dc:e8:c9:a9:b9:8e:b9:
+        f7:54:9b:14:57:96:ff:05:10:55:09:4f:9f:69:8a:00:73:b5:
+        38:80:06:cf:11:bd:da:c3:f3:90:57:8c:81:b2:f4:01:de:0f:
+        ae:7c:00:60:9f:32:a9:38:7e:4c:3b:ad:13:91:c4:4f:cb:9a:
+        58:54:e4:bc:e5:9d:ab:ff:e3:0c:97:68:3e:1e:32:8f:91:38:
+        30:af:f0:9d:c6:44:e9:20:02:1c:a0:a5:82:c9:9a:e1:b6:4c:
+        b0:4a:d1:89:92:9d:d7:53:38:42:4e:47:83:29:57:cb:40:8f:
+        32:2f:7c:92:82:7e:49:0e:15:8b:59:bf:08:55:98:5d:95:13:
+        1b:6e:4d:d8:64:a1:9c:67:0e:19:a1:79:9f:f1:db:11:ef:d5:
+        28:66:fc:3f:34:ad:9e:f9:1a:10:01:6b:83:35:58:fd:02:13:
+        83:ee:0a:af:fc:4f:d3:77:dc:72:1c:7d:d6:91:5c:aa:0f:1d:
+        1e:ac:0f:73:0d:03:31:28:67:cb:c7:83:a4:f4:11:b2:4f:1b:
+        77:1b:04:5e:20:b5:dc:79:c4:b5:e0:80:95:43:f9:88:42:94:
+        2f:74:72:f6
