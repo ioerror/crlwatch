@@ -1,0 +1,166 @@
+issuer=/C=TW/O=TAIWAN-CA.COM Inc./OU=SSL Certification Service Provider/CN=TaiCA Secure CA
+SHA1 Fingerprint=CC:4E:23:CA:1C:C3:40:87:54:E5:5E:DC:E4:01:0D:0B:72:35:5D:A9
+2deda8f1
+crlNumber=65C7CA9D
+lastUpdate=Mar 18 08:50:00 2011 GMT
+nextUpdate=Mar 19 08:50:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=TW/O=TAIWAN-CA.COM Inc./OU=SSL Certification Service Provider/CN=TaiCA Secure CA
+        Last Update: Mar 18 08:50:00 2011 GMT
+        Next Update: Mar 19 08:50:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                1707592349
+            X509v3 Authority Key Identifier: 
+                keyid:D4:85:27:D2:27:A4:BE:AB:5E:2F:41:1B:EA:52:24:39:99:4E:46:2E
+
+            X509v3 Issuing Distrubution Point: critical
+                09.7.5.3http://sslserver.twca.com.tw/sslserver/revoke10.crl
+Revoked Certificates:
+    Serial Number: 4ADC2E0B
+        Revocation Date: Oct 20 01:43:00 2009 GMT
+    Serial Number: 4ADD8FB1
+        Revocation Date: Oct 20 10:31:16 2009 GMT
+    Serial Number: 4ADD8F25
+        Revocation Date: Oct 20 10:32:09 2009 GMT
+    Serial Number: 4ADD8DE5
+        Revocation Date: Oct 20 10:33:08 2009 GMT
+    Serial Number: 4ADD8E71
+        Revocation Date: Oct 20 10:34:50 2009 GMT
+    Serial Number: 65C7CA44
+        Revocation Date: Dec 11 08:53:42 2009 GMT
+    Serial Number: 65C7C781
+        Revocation Date: Dec 17 01:40:40 2009 GMT
+    Serial Number: 65C7C669
+        Revocation Date: Dec 17 01:42:37 2009 GMT
+    Serial Number: 65C7C9D4
+        Revocation Date: Dec 17 01:42:52 2009 GMT
+    Serial Number: 65C7CD85
+        Revocation Date: Dec 17 07:41:43 2009 GMT
+    Serial Number: 65C7CE1F
+        Revocation Date: Dec 18 08:12:19 2009 GMT
+    Serial Number: 65C7D52D
+        Revocation Date: Feb  4 10:41:26 2010 GMT
+    Serial Number: 65C7DAA5
+        Revocation Date: Mar 18 09:12:28 2010 GMT
+    Serial Number: 65C7E6AD
+        Revocation Date: Mar 24 02:20:22 2010 GMT
+    Serial Number: 65C7F3E2
+        Revocation Date: May  7 09:38:52 2010 GMT
+    Serial Number: 65C7F94C
+        Revocation Date: May 20 02:11:25 2010 GMT
+    Serial Number: 65C7D75D
+        Revocation Date: Jun  3 15:03:24 2010 GMT
+    Serial Number: 65C7FECB
+        Revocation Date: Jun  8 02:31:46 2010 GMT
+    Serial Number: 65C80068
+        Revocation Date: Jun  8 05:54:57 2010 GMT
+    Serial Number: 65C7FA79
+        Revocation Date: Jun  8 07:34:37 2010 GMT
+    Serial Number: 65C800ED
+        Revocation Date: Jun 10 06:54:46 2010 GMT
+    Serial Number: 65C800FB
+        Revocation Date: Jun 10 07:24:39 2010 GMT
+    Serial Number: 65C8012C
+        Revocation Date: Jun 10 07:26:11 2010 GMT
+    Serial Number: 65C805FC
+        Revocation Date: Jun 29 10:50:01 2010 GMT
+    Serial Number: 65C8066C
+        Revocation Date: Jun 29 10:50:09 2010 GMT
+    Serial Number: 65C80799
+        Revocation Date: Jul  1 11:50:17 2010 GMT
+    Serial Number: 65C80817
+        Revocation Date: Jul  6 03:55:19 2010 GMT
+    Serial Number: 65C7F031
+        Revocation Date: Jul  6 10:42:31 2010 GMT
+    Serial Number: 65C808CD
+        Revocation Date: Jul  7 01:28:14 2010 GMT
+    Serial Number: 65C80944
+        Revocation Date: Jul 10 17:06:20 2010 GMT
+    Serial Number: 65C80936
+        Revocation Date: Jul 10 17:08:52 2010 GMT
+    Serial Number: 65C7FBA6
+        Revocation Date: Jul 19 10:17:13 2010 GMT
+    Serial Number: 65C80B9E
+        Revocation Date: Aug  3 02:25:21 2010 GMT
+    Serial Number: 65C80B97
+        Revocation Date: Aug  3 10:06:00 2010 GMT
+    Serial Number: 65C80E4C
+        Revocation Date: Aug 20 02:14:06 2010 GMT
+    Serial Number: 65C8115C
+        Revocation Date: Sep 24 05:56:04 2010 GMT
+    Serial Number: 65C80E92
+        Revocation Date: Oct  5 08:09:36 2010 GMT
+    Serial Number: 65C80FCD
+        Revocation Date: Oct 14 10:23:13 2010 GMT
+    Serial Number: 65C80F02
+        Revocation Date: Oct 14 10:23:21 2010 GMT
+    Serial Number: 65C8131C
+        Revocation Date: Oct 19 10:45:21 2010 GMT
+    Serial Number: 65C81338
+        Revocation Date: Oct 19 10:45:35 2010 GMT
+    Serial Number: 65C8133F
+        Revocation Date: Oct 19 10:45:41 2010 GMT
+    Serial Number: 65C813D2
+        Revocation Date: Oct 20 09:15:25 2010 GMT
+    Serial Number: 65C805E0
+        Revocation Date: Oct 22 07:53:10 2010 GMT
+    Serial Number: 65C80A1D
+        Revocation Date: Oct 26 10:06:16 2010 GMT
+    Serial Number: 65C80A16
+        Revocation Date: Oct 26 10:06:42 2010 GMT
+    Serial Number: 65C809D7
+        Revocation Date: Oct 26 10:06:54 2010 GMT
+    Serial Number: 65C81506
+        Revocation Date: Oct 28 02:57:56 2010 GMT
+    Serial Number: 65C814D5
+        Revocation Date: Oct 28 04:07:23 2010 GMT
+    Serial Number: 65C81529
+        Revocation Date: Oct 28 10:14:48 2010 GMT
+    Serial Number: 65C811C5
+        Revocation Date: Nov  5 06:50:47 2010 GMT
+    Serial Number: 65C8146C
+        Revocation Date: Nov 10 03:23:04 2010 GMT
+    Serial Number: 65C812CF
+        Revocation Date: Nov 23 08:07:18 2010 GMT
+    Serial Number: 65C80179
+        Revocation Date: Nov 30 10:11:29 2010 GMT
+    Serial Number: 65C7CB63
+        Revocation Date: Nov 30 10:11:43 2010 GMT
+    Serial Number: 65C7DF0C
+        Revocation Date: Dec  8 10:32:03 2010 GMT
+    Serial Number: 65C81B88
+        Revocation Date: Dec 16 10:18:35 2010 GMT
+    Serial Number: 65C81B6C
+        Revocation Date: Dec 24 07:22:52 2010 GMT
+    Serial Number: 65C8101A
+        Revocation Date: Jan  7 07:01:39 2011 GMT
+    Serial Number: 65C80FC6
+        Revocation Date: Jan  7 07:01:50 2011 GMT
+    Serial Number: 65C80E6F
+        Revocation Date: Jan  7 07:08:16 2011 GMT
+    Serial Number: 65C7FE31
+        Revocation Date: Jan  7 07:08:23 2011 GMT
+    Serial Number: 65C80EFB
+        Revocation Date: Jan  7 07:08:35 2011 GMT
+    Serial Number: 65C815B5
+        Revocation Date: Jan 10 03:48:41 2011 GMT
+    Serial Number: 65C7FCC5
+        Revocation Date: Jan 25 07:39:45 2011 GMT
+    Serial Number: 65C81DF7
+        Revocation Date: Jan 25 09:25:08 2011 GMT
+    Serial Number: 65C810A6
+        Revocation Date: Jan 25 09:25:45 2011 GMT
+    Serial Number: 65C811B7
+        Revocation Date: Mar  7 08:01:57 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        72:09:46:eb:e1:98:93:49:42:e6:fc:f8:5d:89:d0:45:5e:db:
+        34:d4:49:71:20:ba:36:b2:29:0b:56:e5:68:a1:5e:66:6f:c6:
+        33:65:c4:f0:4e:2a:48:f2:30:74:b6:61:7b:c4:b3:d5:bc:61:
+        0c:7e:a4:18:ed:64:0c:66:a3:41:1e:8a:9f:c9:e0:c6:93:88:
+        15:a5:cb:66:91:eb:65:6e:36:af:a5:cd:01:00:62:cb:74:94:
+        7c:db:60:db:07:88:7a:40:cf:fc:99:6f:d1:71:b6:85:09:b4:
+        63:57:b3:ac:3b:90:2e:bd:c3:ed:dd:20:cc:09:77:ae:14:e2:
+        c4:62
