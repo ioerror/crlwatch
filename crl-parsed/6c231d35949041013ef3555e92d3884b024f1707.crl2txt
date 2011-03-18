@@ -1,0 +1,40 @@
+issuer=/C=DE/ST=Nordrhein-Westfalen/L=Dortmund/O=Leibniz-Institut fuer Analytische Wissenschaften - ISAS - e.V./OU=IT/CN=ISAS CA - G01/emailAddress=pki@isas.de
+SHA1 Fingerprint=B6:67:73:7F:9E:9D:1C:3A:C9:26:B4:43:E6:69:7E:77:E7:C0:A8:1B
+ad038296
+crlNumber=48
+lastUpdate=Mar 14 08:42:26 2011 GMT
+nextUpdate=Apr 13 08:42:26 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Nordrhein-Westfalen/L=Dortmund/O=Leibniz-Institut fuer Analytische Wissenschaften - ISAS - e.V./OU=IT/CN=ISAS CA - G01/emailAddress=pki@isas.de
+        Last Update: Mar 14 08:42:26 2011 GMT
+        Next Update: Apr 13 08:42:26 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                72
+Revoked Certificates:
+    Serial Number: 0F76A404
+        Revocation Date: Jan 21 14:31:09 2010 GMT
+    Serial Number: 0F77E333
+        Revocation Date: Jan 27 09:28:09 2010 GMT
+    Serial Number: 0F9105BC
+        Revocation Date: Feb 11 13:19:12 2010 GMT
+    Serial Number: 1095B1EB
+        Revocation Date: Aug 31 11:22:15 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        8a:f2:fb:8e:ee:bb:0e:95:30:d4:5d:c8:30:76:f6:22:98:81:
+        d4:b3:57:ad:e6:81:17:f2:81:7f:27:89:80:56:38:de:20:60:
+        5e:0b:2b:c3:f4:70:d7:de:e4:f8:67:80:52:f5:7a:40:31:65:
+        d4:ae:e8:38:00:bd:1e:03:78:a8:cf:da:a9:4f:d6:13:6d:c7:
+        d0:42:6c:1d:1d:43:4b:60:5f:28:e6:f1:70:8a:fe:d9:71:d8:
+        da:90:b9:7f:25:89:e8:63:f0:5a:c8:15:6d:de:2f:8d:9a:3b:
+        b7:02:79:2f:70:0c:eb:3e:5d:52:a7:64:02:d4:d8:88:49:21:
+        62:1b:35:69:4b:24:1c:06:10:ae:5b:e4:3d:76:90:22:ae:b6:
+        f8:d2:07:74:1b:d0:da:22:62:26:a1:ff:d9:a1:49:0f:e3:a4:
+        34:67:28:93:10:97:b8:9b:77:99:00:73:56:68:f7:b9:eb:59:
+        af:f7:64:de:dd:ba:87:7e:d7:74:4c:5a:0b:1f:7b:c7:43:10:
+        ad:0f:65:79:25:d5:60:77:13:af:27:67:3a:b2:fe:c3:ac:d7:
+        8e:46:5b:f0:a1:01:a0:79:b3:8f:09:6c:e9:8c:16:b4:24:50:
+        ca:cb:7f:ab:92:29:b4:23:1d:26:ab:9e:78:c7:0a:b0:51:6d:
+        5d:c1:e8:de
