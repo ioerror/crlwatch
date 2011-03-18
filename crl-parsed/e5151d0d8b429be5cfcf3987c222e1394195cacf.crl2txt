@@ -1,0 +1,94 @@
+issuer=/CN=Sempra Energy Secure Server CA1
+SHA1 Fingerprint=7C:39:56:68:09:92:D7:86:7E:6B:D1:ED:D8:8C:74:87:E1:F5:72:88
+cf441805
+crlNumber=7E
+lastUpdate=Mar 10 22:36:02 2011 GMT
+nextUpdate=Mar 25 10:56:02 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /CN=Sempra Energy Secure Server CA1
+        Last Update: Mar 10 22:36:02 2011 GMT
+        Next Update: Mar 25 10:56:02 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:41:C2:1B:76:71:FA:71:80:43:F2:AB:AC:70:CE:D2:B8:ED:52:80:D7
+
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            X509v3 CRL Number: 
+                126
+            1.3.6.1.4.1.311.21.4: 
+                .110324224602Z
+Revoked Certificates:
+    Serial Number: 1C1C39BC000200000234
+        Revocation Date: May 18 23:16:03 2010 GMT
+    Serial Number: 176A743B0002000001B7
+        Revocation Date: Jan  4 22:28:46 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 2035894C0002000001AB
+        Revocation Date: Dec 12 19:46:47 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 347A093800020000014E
+        Revocation Date: Sep  2 17:48:56 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 341F871D000200000148
+        Revocation Date: Sep  2 16:01:42 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 54D1F736000200000134
+        Revocation Date: Aug 18 17:44:53 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 69BDC6B4000200000130
+        Revocation Date: Jun 11 17:33:36 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 5F534BAF00020000012F
+        Revocation Date: Jun 11 17:33:24 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3451E76A000200000123
+        Revocation Date: May  7 13:29:57 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 15AE1462000200000111
+        Revocation Date: Mar  9 17:44:33 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 15AE33A2000200000110
+        Revocation Date: Mar  9 17:44:33 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 15AE401600020000010F
+        Revocation Date: Mar  9 17:44:12 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3831FE3500020000010D
+        Revocation Date: Mar  9 17:38:54 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: sha1WithRSAEncryption
+        93:af:6b:9a:74:f2:7f:0a:dc:43:05:7d:82:d0:fb:6d:ae:7d:
+        77:92:33:43:93:28:12:d3:af:2b:23:22:70:4f:3d:68:70:d5:
+        4f:43:b2:d8:b9:e1:16:ec:18:9b:c2:bd:54:dd:b0:64:1d:c0:
+        30:09:ce:98:e4:84:d7:75:8d:7f:10:52:ec:c7:cd:13:03:cf:
+        2b:c3:9f:f2:f4:15:0e:2b:86:02:35:bd:e9:a9:e4:d6:e7:63:
+        2d:44:43:1f:72:18:01:75:36:76:b0:4b:01:ab:80:6e:c8:3e:
+        7f:6a:97:9c:bb:49:6a:9b:57:cd:cf:41:af:f1:b6:c0:3a:c7:
+        4a:9b
