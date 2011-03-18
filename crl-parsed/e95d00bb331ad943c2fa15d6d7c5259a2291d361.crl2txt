@@ -1,0 +1,52 @@
+issuer=/C=DE/ST=Brandenburg/L=Wildau/O=Technische Fachhochschule Wildau/OU=Hochschulrechenzentrum/CN=TFH Wildau CA/emailAddress=pki@tfh-wildau.de
+SHA1 Fingerprint=80:DB:0D:27:97:68:9C:49:7C:3D:1A:4E:CC:6E:8C:4F:F6:7A:86:D6
+ff231e88
+crlNumber=68
+lastUpdate=Mar 14 09:07:23 2011 GMT
+nextUpdate=Apr 13 09:07:23 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Brandenburg/L=Wildau/O=Technische Fachhochschule Wildau/OU=Hochschulrechenzentrum/CN=TFH Wildau CA/emailAddress=pki@tfh-wildau.de
+        Last Update: Mar 14 09:07:23 2011 GMT
+        Next Update: Apr 13 09:07:23 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                104
+Revoked Certificates:
+    Serial Number: 0E6AA419
+        Revocation Date: Sep  9 09:18:08 2009 GMT
+    Serial Number: 0E72765B
+        Revocation Date: Apr 21 05:45:09 2010 GMT
+    Serial Number: 0EC6BEAF
+        Revocation Date: Sep  9 08:08:16 2009 GMT
+    Serial Number: 0ECDB210
+        Revocation Date: Jan 10 14:21:21 2011 GMT
+    Serial Number: 0FA46300
+        Revocation Date: Aug 20 09:09:09 2010 GMT
+    Serial Number: 0FB83F90
+        Revocation Date: Apr 21 10:42:08 2010 GMT
+    Serial Number: 0FEE0FDC
+        Revocation Date: Apr 21 06:03:08 2010 GMT
+    Serial Number: 0FEE5487
+        Revocation Date: Apr 21 11:17:07 2010 GMT
+    Serial Number: 0FEFD6C8
+        Revocation Date: Apr 22 15:10:08 2010 GMT
+    Serial Number: 0FF0B840
+        Revocation Date: Jun 25 10:45:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        74:85:64:c6:e1:49:11:30:72:0a:ef:db:83:51:15:c8:b1:21:
+        b3:c2:b3:df:5a:0b:83:d8:0e:65:e3:54:ec:43:00:00:30:99:
+        5c:57:0b:b8:72:b3:f8:ce:ca:07:ae:c2:bc:f1:4b:20:88:b4:
+        de:bb:11:76:7d:84:74:6f:ee:11:f7:76:77:6b:66:f0:9d:9c:
+        14:37:5e:bc:d2:62:2f:56:e6:6e:e5:b0:4f:39:07:a3:1e:83:
+        ee:06:6d:fb:2d:33:ec:9a:be:02:35:ce:3b:93:49:48:22:33:
+        ba:48:3b:2a:91:8a:27:86:f1:ef:51:d7:10:c5:50:06:89:d7:
+        d2:be:49:05:99:0e:27:f3:cd:a5:db:85:a5:fd:b7:75:05:bd:
+        f6:92:bc:a1:bc:4e:04:82:48:67:2a:7b:3a:15:d6:81:b7:14:
+        89:61:74:5b:c3:00:f8:4d:ee:48:6b:d1:b7:2c:8b:98:52:39:
+        50:e2:f3:d5:1b:1f:80:20:73:3b:8c:7b:1d:49:df:c4:82:16:
+        ce:fc:e5:4d:2e:09:5d:be:8a:12:36:40:0b:0a:80:7b:28:98:
+        8f:9d:c3:87:8e:ea:49:a1:82:34:66:c6:a6:46:14:d0:30:28:
+        bf:93:6c:74:ce:48:d5:46:5f:20:e7:16:6e:75:c4:61:ea:59:
+        b5:24:c5:6d
