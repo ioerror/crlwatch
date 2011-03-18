@@ -1,0 +1,39 @@
+issuer=/C=US/O=SAIC/OU=PKI/CN=SAIC Public Policy CA 01
+SHA1 Fingerprint=75:50:25:4B:D3:98:DC:F5:1B:A3:6C:E8:D8:2C:1F:06:E8:31:5C:F4
+5dc5dd9d
+crlNumber=1B
+lastUpdate=Jan 18 22:33:44 2011 GMT
+nextUpdate=Aug 18 22:53:44 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=SAIC/OU=PKI/CN=SAIC Public Policy CA 01
+        Last Update: Jan 18 22:33:44 2011 GMT
+        Next Update: Aug 18 22:53:44 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:F9:D1:D6:AB:60:D0:91:5A:D2:28:D8:46:9A:27:FC:AA:29:4F:F9:DC
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                27
+            1.3.6.1.4.1.311.21.4: 
+                .110718224344Z
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        cd:97:cf:94:a0:a6:c2:61:6d:32:04:8b:f5:6f:9e:9a:d5:16:
+        7a:4d:47:41:c8:8f:af:2c:37:71:54:6a:06:65:79:45:e2:3b:
+        d1:0b:95:1d:f5:fc:d0:7a:2b:2f:53:8e:86:e2:02:5e:f5:9c:
+        b9:31:a1:a4:bc:93:7d:bd:68:1c:73:82:f6:f6:3d:4a:f6:aa:
+        88:1b:61:d5:9d:e3:b6:8a:d9:8e:f3:67:26:9d:0a:76:9b:7d:
+        e5:6e:59:3d:64:18:83:0f:d0:a2:cd:ca:b1:0e:af:bb:bc:57:
+        70:05:02:91:72:21:09:db:b6:97:a7:17:e0:ec:4c:90:40:ea:
+        95:96:5a:bb:03:ec:36:78:48:41:69:6e:cd:3f:aa:df:a9:3c:
+        1f:61:f1:a5:c5:4d:8b:3d:e5:3c:bc:0c:c5:69:cb:98:c7:36:
+        5f:96:f9:2c:c4:4a:32:fc:5e:f5:cd:55:7b:97:df:98:ec:26:
+        e9:17:03:0f:69:4b:6f:0c:d7:11:86:7a:5a:f3:47:f1:d8:82:
+        8c:c2:3e:bd:d1:ee:a2:f3:f1:b3:11:1b:69:12:81:f6:69:ec:
+        a4:67:5a:2d:02:05:45:74:94:95:7d:fc:a6:b8:79:98:8f:ea:
+        f9:ea:41:8d:82:82:6a:f3:6a:d8:7e:03:35:1d:53:7c:1c:4f:
+        4e:8e:07:d9
