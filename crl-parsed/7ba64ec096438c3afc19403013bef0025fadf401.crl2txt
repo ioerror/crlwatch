@@ -1,0 +1,50 @@
+issuer=/C=DE/O=Fachhochschule Augsburg/OU=Rechenzentrum/CN=FH Augsburg CA - G02/emailAddress=ca@fh-augsburg.de
+SHA1 Fingerprint=B9:18:C1:E6:CA:FB:1E:6B:F5:19:78:CC:95:C6:D8:1C:93:60:F4:64
+d3884290
+crlNumber=EB
+lastUpdate=Mar 14 07:34:07 2011 GMT
+nextUpdate=Apr 13 07:34:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Fachhochschule Augsburg/OU=Rechenzentrum/CN=FH Augsburg CA - G02/emailAddress=ca@fh-augsburg.de
+        Last Update: Mar 14 07:34:07 2011 GMT
+        Next Update: Apr 13 07:34:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                235
+Revoked Certificates:
+    Serial Number: 0A5E94CE
+        Revocation Date: May 19 14:26:07 2008 GMT
+    Serial Number: 0B481AF9
+        Revocation Date: Nov  5 12:00:07 2007 GMT
+    Serial Number: 0C52201F
+        Revocation Date: May 26 09:45:07 2008 GMT
+    Serial Number: 0C80683E
+        Revocation Date: Jun 24 12:48:06 2008 GMT
+    Serial Number: 0D13AFEB
+        Revocation Date: Oct 14 14:13:06 2008 GMT
+    Serial Number: 0D13E686
+        Revocation Date: Oct 14 13:58:08 2008 GMT
+    Serial Number: 0D37567B
+        Revocation Date: Nov 11 09:30:07 2008 GMT
+    Serial Number: 1009E553
+        Revocation Date: May 14 11:06:07 2010 GMT
+    Serial Number: 1009E554
+        Revocation Date: May 14 11:48:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        57:d0:9d:b1:23:e3:0a:a3:df:d2:d3:8f:e2:94:19:23:c6:06:
+        f2:b5:15:27:ba:34:83:b8:af:8e:95:e1:f6:46:3c:c3:bd:dc:
+        ff:ed:77:e2:35:2d:d1:a7:62:46:b5:53:b7:6e:11:c4:cb:3d:
+        b1:97:4f:37:1e:45:41:1d:34:8e:0d:c9:0a:8f:cf:e1:1f:34:
+        bb:39:f9:9f:70:6a:36:c5:1a:c8:f4:ff:e9:80:6e:50:b8:e2:
+        cd:d9:58:78:b0:0c:a2:03:15:b0:06:ca:46:a4:cb:27:ca:fb:
+        81:4f:14:6e:5c:83:14:25:08:36:1c:b8:a0:ff:75:d6:d6:76:
+        c5:2f:46:e0:8b:5c:ca:d7:95:18:31:94:6f:06:f7:95:c4:14:
+        9a:ad:fe:5c:5e:b7:a1:62:46:bc:58:50:d3:83:1f:ca:8a:f6:
+        bf:2d:da:49:37:85:1b:11:79:d8:2b:aa:94:60:6f:d6:0b:19:
+        70:48:2c:70:2f:34:5d:6a:66:57:55:26:74:f4:80:0d:a5:1e:
+        c5:06:1b:86:21:20:42:96:24:31:a2:ff:6f:1f:4b:f0:74:d4:
+        63:5e:5d:39:0e:16:42:d2:64:61:48:97:26:1c:2f:52:fd:28:
+        b8:f9:1b:b0:c3:46:b4:8c:94:83:1e:8e:b4:10:7d:a9:34:b3:
+        3e:c0:72:19
