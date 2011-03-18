@@ -1,0 +1,38 @@
+issuer=/C=DE/O=Fachhochschule Erfurt/OU=Hochschulrechenzentrum/CN=FH-Erfurt-CA/emailAddress=hrz@fh-erfurt.de
+SHA1 Fingerprint=25:C5:CD:08:84:9D:48:4B:36:96:76:19:2E:DA:F1:2E:0F:F0:DD:F0
+4a1f6440
+crlNumber=ED
+lastUpdate=Mar 14 07:38:07 2011 GMT
+nextUpdate=Apr 13 07:38:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Fachhochschule Erfurt/OU=Hochschulrechenzentrum/CN=FH-Erfurt-CA/emailAddress=hrz@fh-erfurt.de
+        Last Update: Mar 14 07:38:07 2011 GMT
+        Next Update: Apr 13 07:38:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                237
+Revoked Certificates:
+    Serial Number: 0B51342A
+        Revocation Date: Nov  8 13:58:17 2007 GMT
+    Serial Number: 0DD854DB
+        Revocation Date: Mar 24 07:28:06 2009 GMT
+    Serial Number: 0EC83177
+        Revocation Date: Jul  2 11:46:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        85:4a:af:da:9f:ca:c8:bc:22:6a:d7:b1:cb:84:f5:33:dc:83:
+        61:a7:46:73:b6:f2:61:24:61:db:1f:71:7d:52:f5:68:42:db:
+        5f:da:ba:a5:f7:9a:30:3c:1b:33:d7:42:d4:8c:0d:22:6c:a1:
+        b4:31:7a:ee:49:f5:da:7f:49:16:c6:b8:2f:e3:31:81:3a:3e:
+        c0:55:7c:12:cb:59:f9:d7:1a:98:2d:97:a7:73:1d:e7:58:24:
+        1e:31:e4:1a:c1:83:fb:07:bb:ab:5f:d8:06:2d:68:cf:8a:a2:
+        de:74:a1:ee:fd:8e:97:c4:fb:71:fc:5f:e1:ee:9d:3b:72:1f:
+        fc:31:dc:07:4c:1b:65:89:6d:57:50:92:9d:78:9f:c1:07:f7:
+        eb:37:b0:a2:3a:6d:6a:b9:77:a5:34:7c:36:d6:7c:79:74:9c:
+        fe:40:f5:89:7a:88:7c:25:ae:76:57:ad:d6:3d:a3:c6:a3:3b:
+        9d:29:30:38:d7:46:ea:3e:56:51:09:3d:43:3b:4c:9d:66:81:
+        b5:52:3a:44:82:a7:0e:80:15:76:71:48:eb:15:c5:f8:53:22:
+        86:ef:80:7a:f8:fe:4b:a7:95:89:4e:46:c8:ce:e5:94:7e:8e:
+        0d:33:6b:26:f1:16:e2:b7:8b:cf:e9:fe:d8:e2:c5:59:4f:25:
+        82:3f:13:30
