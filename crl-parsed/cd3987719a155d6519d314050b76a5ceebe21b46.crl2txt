@@ -1,0 +1,65 @@
+issuer=/C=JP/O=KAGOYA JAPAN Inc./CN=KAGOYA JAPAN Certification Authority
+SHA1 Fingerprint=AE:46:7C:0E:FA:0B:C0:39:BC:39:3F:4B:67:91:0C:CC:64:9F:61:0B
+76de025d
+crlNumber=02F2
+lastUpdate=Mar 17 09:33:03 2011 GMT
+nextUpdate=Mar 21 09:33:03 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=JP/O=KAGOYA JAPAN Inc./CN=KAGOYA JAPAN Certification Authority
+        Last Update: Mar 17 09:33:03 2011 GMT
+        Next Update: Mar 21 09:33:03 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:D8:77:D6:6D:51:49:07:83:60:07:B9:45:15:7F:61:C1:8A:1F:F2:5E
+
+            X509v3 CRL Number: 
+                754
+Revoked Certificates:
+    Serial Number: 3940CB6C8BC153A5
+        Revocation Date: Feb 18 08:42:30 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 55DF420DC16F1248
+        Revocation Date: Feb  7 04:11:49 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 052E983E4D0BF85B
+        Revocation Date: Dec  1 06:42:01 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4B0A4FDFC65CBBB2
+        Revocation Date: Oct 21 08:53:12 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 33289B678F175362
+        Revocation Date: Aug 31 06:23:58 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 58D9745DDDA2330D
+        Revocation Date: Mar 29 05:09:01 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        24:67:99:fb:12:39:f8:5a:a6:d5:d2:da:e8:f4:87:1b:a3:69:
+        6d:4a:a3:b4:d0:c3:b4:74:9d:47:95:3f:b4:a3:c7:83:1f:fc:
+        dd:fc:f5:8a:2a:49:f3:fa:62:a2:6b:cb:aa:3d:38:88:fa:6a:
+        22:d0:56:81:68:de:79:69:17:50:12:a3:f6:2f:b6:82:f5:a0:
+        87:e1:f2:cd:a4:4a:fb:73:a0:eb:b1:a3:20:c4:2b:09:ec:28:
+        ce:ca:52:96:25:d6:b5:cf:68:32:4e:d8:84:88:59:4f:12:c9:
+        0a:bb:c9:4c:67:c0:ab:65:d9:d8:a0:bf:72:cc:fe:00:c3:ba:
+        62:11:6a:57:4b:6e:d8:9b:f7:59:84:08:26:81:2a:e2:6c:2d:
+        4f:94:17:b8:51:0e:db:95:67:b0:64:36:2d:c0:27:4c:c8:00:
+        c8:88:7c:14:51:87:60:11:86:0d:44:a2:43:4d:15:a6:3e:80:
+        7f:2e:4b:e2:55:63:78:b1:8a:52:cf:d0:a3:49:87:26:b1:66:
+        a5:60:94:10:cf:68:6f:57:ce:bc:58:b6:5b:ee:64:63:31:8e:
+        67:f6:3f:ab:7f:05:2e:c9:6b:2c:84:1c:74:f6:14:87:4b:5b:
+        bd:d4:1a:72:d9:d8:81:ee:51:0d:72:46:16:d1:d0:dd:d3:36:
+        5f:aa:23:08
