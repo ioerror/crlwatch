@@ -1,0 +1,39 @@
+issuer=/C=TW/O=TAIWAN-CA INC./OU=SSL Certification Service Provider-Evaluation Only/CN=TWCA Secure CA -Evaluation Only
+SHA1 Fingerprint=07:9B:85:52:2B:A4:02:3D:6C:B8:3D:22:14:A0:FC:75:E2:0E:F4:2B
+d6abfa1c
+crlNumber=0822
+lastUpdate=Mar 18 08:30:00 2011 GMT
+nextUpdate=Mar 19 08:30:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=TW/O=TAIWAN-CA INC./OU=SSL Certification Service Provider-Evaluation Only/CN=TWCA Secure CA -Evaluation Only
+        Last Update: Mar 18 08:30:00 2011 GMT
+        Next Update: Mar 19 08:30:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                2082
+            X509v3 Authority Key Identifier: 
+                keyid:B3:9C:0A:90:1E:F6:AD:6F:CB:C5:F5:D7:D9:26:B6:46:8E:43:22:E1
+
+            X509v3 Issuing Distrubution Point: critical
+                0C.A.?.=http://sslserver.twca.com.tw/sslserver-test/revoke11_test.crl
+Revoked Certificates:
+    Serial Number: 0278
+        Revocation Date: Jan 27 08:01:06 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        86:a3:16:99:49:a5:1b:32:77:b9:61:79:72:70:84:67:43:be:
+        32:d3:df:3d:1f:ff:d5:ca:54:08:60:05:60:6c:67:df:e5:f0:
+        7e:56:fd:86:7d:9b:8e:85:c1:7b:f9:11:48:df:92:62:ff:a0:
+        66:68:64:a3:64:bf:6d:d3:1a:8b:b5:25:14:3d:66:7f:1a:53:
+        d2:77:26:9f:6d:25:fc:ff:aa:19:6a:0a:86:00:7e:40:de:b3:
+        41:58:a2:5e:3e:57:c8:31:ee:e8:9a:ba:5e:30:47:b7:03:e0:
+        f3:9c:a9:23:b9:dd:43:34:d7:88:c8:90:91:f0:b1:72:99:6e:
+        31:8e:47:3f:a9:f6:54:a9:1b:c8:89:75:ea:9d:24:f9:d7:32:
+        eb:77:78:51:23:5a:0b:ed:2f:41:ca:f1:fb:83:39:86:74:47:
+        58:9d:cd:5e:68:c2:ab:35:70:4c:8c:7e:63:16:e8:97:74:c1:
+        17:fa:a4:37:e0:c9:82:65:2e:07:00:c6:94:a5:23:d0:2d:8a:
+        86:79:8e:4f:4f:cd:4a:cd:bd:80:7f:db:1c:75:f0:42:b2:80:
+        02:d2:8e:98:77:2b:f2:a2:a1:8a:01:c8:6c:a7:71:d2:1d:1a:
+        6a:bc:24:0b:a3:96:41:78:eb:9f:93:c4:2e:3c:db:b1:69:b5:
+        82:d9:91:51
