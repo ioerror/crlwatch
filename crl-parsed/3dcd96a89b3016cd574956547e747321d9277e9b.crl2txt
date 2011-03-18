@@ -1,0 +1,58 @@
+issuer=/C=DE/ST=Hessen/L=Wiesbaden/O=Fachhochschule Wiesbaden/OU=IT-Center/CN=FHW-CA/emailAddress=fhw-ca@itc.fh-wiesbaden.de
+SHA1 Fingerprint=7A:16:0C:D2:B0:FC:76:30:53:99:A4:B6:E1:F3:45:19:9D:F3:C4:58
+644859c5
+crlNumber=A1
+lastUpdate=Mar 14 07:52:07 2011 GMT
+nextUpdate=Apr 13 07:52:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Hessen/L=Wiesbaden/O=Fachhochschule Wiesbaden/OU=IT-Center/CN=FHW-CA/emailAddress=fhw-ca@itc.fh-wiesbaden.de
+        Last Update: Mar 14 07:52:07 2011 GMT
+        Next Update: Apr 13 07:52:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                161
+Revoked Certificates:
+    Serial Number: 0C5E38B0
+        Revocation Date: Jun  3 08:49:08 2008 GMT
+    Serial Number: 0C638B1C
+        Revocation Date: Jun  4 10:17:07 2008 GMT
+    Serial Number: 0E27B002
+        Revocation Date: Jun 16 11:28:06 2009 GMT
+    Serial Number: 0E27B21E
+        Revocation Date: Jun 16 11:28:07 2009 GMT
+    Serial Number: 0E56E2BF
+        Revocation Date: Feb  3 12:01:09 2011 GMT
+    Serial Number: 0E83AE7B
+        Revocation Date: Jul 20 10:31:06 2009 GMT
+    Serial Number: 0E83AFE2
+        Revocation Date: Jul 27 10:27:07 2009 GMT
+    Serial Number: 0E83B185
+        Revocation Date: Jul 27 10:27:08 2009 GMT
+    Serial Number: 0E83B2EE
+        Revocation Date: Jul 20 10:31:07 2009 GMT
+    Serial Number: 0E83B3DE
+        Revocation Date: Sep  1 06:19:07 2009 GMT
+    Serial Number: 0E9A7AA6
+        Revocation Date: Aug 12 12:30:07 2009 GMT
+    Serial Number: 0F337F27
+        Revocation Date: Dec  1 09:26:09 2009 GMT
+    Serial Number: 10710E3A
+        Revocation Date: Jul 29 14:34:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        04:4b:03:0e:47:d3:e5:79:4d:69:6e:07:c5:0a:67:c4:47:d4:
+        45:f4:c5:45:24:e3:53:6d:cb:70:f7:7c:e0:2f:bb:54:27:1c:
+        97:de:ab:35:d9:08:f0:2a:32:fb:ef:20:b5:4a:c4:b8:1f:8d:
+        c1:23:36:01:1c:86:58:17:49:07:5f:62:44:0f:8f:9b:9b:58:
+        1c:34:e1:dd:3a:3f:b3:52:6c:9c:b8:78:16:f6:f7:35:c4:2c:
+        7f:b9:c6:f6:75:60:6f:a9:87:76:fa:1e:98:3c:a4:a0:95:f6:
+        44:17:d1:82:41:9b:4b:1b:74:3f:1b:16:fa:36:cd:a8:fa:5d:
+        16:8e:89:d0:51:82:89:b5:08:54:9d:12:98:e0:95:5a:7f:2e:
+        7b:af:04:3c:99:db:d9:3b:a5:61:b4:52:62:05:05:45:f5:fe:
+        66:05:06:05:02:48:89:5b:70:b2:99:dd:05:f2:6c:62:ed:4f:
+        17:ca:3b:ee:ed:46:6d:e3:ec:9f:e5:d5:98:65:e1:6a:a5:26:
+        e9:4c:09:13:36:53:d4:b1:d7:f8:7b:8f:06:d1:f4:cf:49:8d:
+        09:63:fa:4e:6d:4e:47:ba:71:e7:60:da:93:89:cc:c8:e2:4a:
+        e9:11:2d:4e:7a:01:a6:41:87:bc:0d:77:5d:d3:0f:7b:b9:09:
+        3c:e2:50:2c
