@@ -1,0 +1,35 @@
+issuer=/DC=local/DC=experian/CN=Configuration/CN=Services/CN=Public Key Services/CN=AIA/CN=Experian Primary CA
+SHA1 Fingerprint=B9:49:5B:29:09:34:E8:46:F5:9C:70:B1:58:78:7E:66:A4:00:A3:FB
+f9408dd3
+crlNumber=15AC
+lastUpdate=Mar 18 08:51:45 2011 GMT
+nextUpdate=Mar 19 08:51:45 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=local/DC=experian/CN=Configuration/CN=Services/CN=Public Key Services/CN=AIA/CN=Experian Primary CA
+        Last Update: Mar 18 08:51:45 2011 GMT
+        Next Update: Mar 19 08:51:45 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                5548
+            X509v3 Authority Key Identifier: 
+                keyid:9E:AE:26:A5:EF:96:BC:1E:62:83:27:2C:AE:B5:03:0F:1A:FF:D9:5B
+
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        77:df:6c:ff:ea:eb:8e:87:39:f3:78:1f:61:b1:fd:4d:ef:1c:
+        e9:0e:23:9a:e8:5f:c5:0f:7e:dd:ce:b0:41:3e:a7:1b:5c:5a:
+        15:aa:8b:b0:21:41:f5:c9:c8:8e:18:3f:8b:ae:8f:e6:51:b9:
+        f0:83:52:79:9e:70:93:fc:d5:61:b4:6a:81:b7:94:f8:eb:30:
+        7f:28:27:92:1d:90:43:1f:84:25:d4:e9:64:b2:37:9b:2b:11:
+        fd:f1:77:49:b0:46:56:d6:f7:dc:32:10:f4:f7:87:90:5f:bf:
+        a8:60:05:ce:dd:bc:f0:4c:92:d6:7f:ec:80:b8:80:15:b2:7e:
+        d3:1d:ed:89:42:63:7d:f0:40:ba:4d:93:d0:36:01:5a:2c:9e:
+        a1:7b:26:cd:95:e9:9a:b1:9f:dd:ec:79:d5:68:fd:2d:de:0f:
+        e9:83:45:dc:29:a4:b2:19:98:52:32:cb:4a:58:c5:1a:4f:57:
+        37:c1:4f:01:b1:d9:5c:a0:b7:34:cf:fc:1e:e7:0c:92:02:75:
+        12:2b:b6:e3:6e:d5:f7:82:58:0e:7e:02:46:67:81:e6:d8:a8:
+        0b:d2:be:94:77:51:58:f2:4b:87:76:8a:e8:50:75:60:01:a1:
+        66:69:af:c4:ce:be:7a:9a:a9:70:7a:c9:01:d0:87:58:53:46:
+        6a:ab:bc:99
