@@ -1,0 +1,95 @@
+issuer=/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./OU=http://www.starfieldtech.com/repository/CN=Starfield Secure Certification Authority/emailAddress=practices@starfieldtech.com
+SHA1 Fingerprint=2C:63:F6:C6:4E:8B:76:05:0A:18:7D:9C:E0:65:CE:2B:82:65:23:74
+b737b221
+crlNumber=03A4
+lastUpdate=Mar 17 11:24:04 2011 GMT
+nextUpdate=Mar 18 11:54:04 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./OU=http://www.starfieldtech.com/repository/CN=Starfield Secure Certification Authority/emailAddress=practices@starfieldtech.com
+        Last Update: Mar 17 11:24:04 2011 GMT
+        Next Update: Mar 18 11:54:04 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:AC:55:DE:B7:EA:13:EB:FC:98:68:E2:53:60:1E:F1:25:3E:8C:EE:E7
+                DirName:/L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 2 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+                serial:01:04
+
+            X509v3 CRL Number: 
+                932
+Revoked Certificates:
+    Serial Number: 3D431C
+        Revocation Date: Aug 31 21:01:48 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3D4396
+        Revocation Date: Dec 14 19:07:37 2005 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D4CD9
+        Revocation Date: May 23 20:24:01 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D4F05
+        Revocation Date: Jan 17 03:19:10 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D51D9
+        Revocation Date: Jan  4 18:43:27 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D53BB
+        Revocation Date: Feb  9 15:57:18 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D57B7
+        Revocation Date: Jan 12 19:49:50 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D58B3
+        Revocation Date: Jan 20 01:41:25 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D597C
+        Revocation Date: May  1 14:59:26 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D5D17
+        Revocation Date: Apr 10 22:07:11 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D60FD
+        Revocation Date: May  8 14:19:47 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D61A7
+        Revocation Date: Feb 13 16:38:24 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D6225
+        Revocation Date: Mar 17 01:54:47 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        1c:f3:f2:05:6c:ee:c5:9c:63:69:b1:3a:6a:b0:c1:6a:0b:64:
+        14:09:4c:12:3b:be:3f:6b:85:c3:f9:24:9d:cc:03:12:17:53:
+        7e:45:69:c5:ea:f2:82:f3:bb:f8:19:6a:37:ce:51:2b:c5:4c:
+        20:4e:32:ae:53:d5:f8:43:29:e0:8e:0c:7a:de:74:70:61:f2:
+        a2:32:05:57:a7:7e:30:e8:8c:7d:d2:b7:e9:e4:1d:c4:f2:98:
+        e3:68:c7:a8:50:ff:9e:bd:9f:8f:42:9d:5d:e3:36:1e:bf:c0:
+        cc:46:69:f5:98:d9:8e:be:c6:58:cf:7e:fb:fa:91:3c:0f:a7:
+        47:47
