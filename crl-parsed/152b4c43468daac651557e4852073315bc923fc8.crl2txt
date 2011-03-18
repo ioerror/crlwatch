@@ -1,0 +1,40 @@
+issuer=/C=DE/O=Hochschule Heilbronn/OU=Rechenzentrum/CN=Hochschule Heilbronn CA-G02/emailAddress=pki@hs-heilbronn.de
+SHA1 Fingerprint=2D:1E:78:7F:95:07:C1:A0:6C:98:A6:91:F3:EE:35:37:D4:B0:EC:6C
+fc1fa215
+crlNumber=8C
+lastUpdate=Mar 14 08:21:14 2011 GMT
+nextUpdate=Apr 13 08:21:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschule Heilbronn/OU=Rechenzentrum/CN=Hochschule Heilbronn CA-G02/emailAddress=pki@hs-heilbronn.de
+        Last Update: Mar 14 08:21:14 2011 GMT
+        Next Update: Apr 13 08:21:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                140
+Revoked Certificates:
+    Serial Number: 0D5F5002
+        Revocation Date: Sep 22 12:26:06 2009 GMT
+    Serial Number: 0F418EFA
+        Revocation Date: Dec 11 12:32:15 2009 GMT
+    Serial Number: 0F418EFB
+        Revocation Date: Dec 11 12:32:14 2009 GMT
+    Serial Number: 111F07AB
+        Revocation Date: Dec  8 14:45:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        52:18:cd:ca:58:00:0b:b8:5f:2f:06:cf:de:6b:b1:90:18:a0:
+        11:8b:25:58:57:b6:56:40:70:32:3b:76:d5:4a:72:8a:12:58:
+        35:13:76:85:ed:1f:55:cd:53:f3:f6:68:a8:3a:9f:23:29:76:
+        1f:02:c1:a5:9a:41:40:c2:c2:ff:aa:c6:e3:01:91:10:ee:e9:
+        d0:e0:62:00:d5:48:cd:ce:10:16:99:fc:01:0a:a4:ee:6e:09:
+        5e:ee:eb:3b:5a:41:4a:56:8c:33:5b:8f:89:f8:b1:a4:c8:2e:
+        de:a4:0f:ad:43:5e:fc:bf:ed:ef:2f:ed:30:07:8d:24:7d:c8:
+        77:18:af:d5:a2:53:57:04:12:16:71:10:d1:3f:bf:13:2b:fc:
+        51:78:d9:1e:0c:14:2b:0e:be:85:c1:80:81:3d:45:02:ce:e1:
+        4d:79:df:bf:02:46:d2:ef:f9:a8:40:9f:7a:0e:4c:df:42:be:
+        06:9a:0e:ae:26:2b:eb:a7:a8:06:62:4e:b8:ce:86:de:46:40:
+        a0:03:60:d9:b2:5f:74:7e:f8:7f:a5:a7:bf:40:06:62:e9:51:
+        79:4c:c8:1a:a7:60:ae:d2:d5:3d:b5:16:5a:c9:42:cf:36:eb:
+        46:c6:0d:eb:75:70:c9:15:24:89:df:3d:3a:c8:80:56:11:8c:
+        42:1b:74:6c
