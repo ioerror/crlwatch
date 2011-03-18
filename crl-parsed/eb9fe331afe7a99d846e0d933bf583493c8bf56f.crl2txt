@@ -1,0 +1,36 @@
+issuer=/C=DE/O=Hochschul-Informations-System GmbH/CN=HIS GmbH CA/emailAddress=ca@his.de
+SHA1 Fingerprint=21:65:F5:E2:8C:85:D4:1A:4B:32:62:55:4D:8B:33:BA:1E:16:5B:3D
+2e1da81b
+crlNumber=3F
+lastUpdate=Mar 14 08:12:07 2011 GMT
+nextUpdate=Apr 13 08:12:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschul-Informations-System GmbH/CN=HIS GmbH CA/emailAddress=ca@his.de
+        Last Update: Mar 14 08:12:07 2011 GMT
+        Next Update: Apr 13 08:12:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                63
+Revoked Certificates:
+    Serial Number: 0FA4A89C
+        Revocation Date: Mar 11 07:59:08 2010 GMT
+    Serial Number: 0FB829BC
+        Revocation Date: Mar 29 08:47:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        88:b7:9a:63:65:8a:27:c4:e1:0a:72:0d:9e:d7:63:7e:2f:1b:
+        aa:c8:f3:ae:dc:0a:0c:01:ea:e0:07:54:6b:fa:51:97:ca:7c:
+        70:a4:18:ef:12:f5:56:bd:91:fc:d3:88:3a:e8:7f:fb:ce:39:
+        c0:8d:da:62:86:5c:02:6e:9b:16:54:a3:63:b6:ba:48:8d:9b:
+        d4:80:c2:7d:27:0f:c2:58:2f:4b:f1:1e:4a:6b:c1:81:80:92:
+        bb:e7:23:4a:8e:13:f5:c2:42:49:50:ee:88:89:ae:8a:7e:08:
+        a6:6a:fd:80:b2:a8:7f:2c:61:12:93:fa:98:f2:5b:fe:b6:e7:
+        a6:ec:fb:10:89:5e:33:16:b8:8a:88:73:38:c5:d7:e9:96:c9:
+        08:f0:c1:d6:45:20:57:74:f4:21:6e:c9:5d:45:ec:e2:55:c0:
+        0d:5f:51:cd:f8:49:8e:cd:03:07:62:d7:4a:f2:32:54:91:43:
+        e7:8d:c8:11:f8:80:1c:45:5c:dc:72:80:f6:a6:a2:41:a7:7b:
+        65:ba:91:5e:0f:36:d4:87:b1:37:9f:90:54:e0:06:70:97:ac:
+        2a:3f:91:88:f4:db:01:13:0a:3b:25:96:86:3d:a5:4b:18:49:
+        c4:bb:ea:51:6b:51:9a:82:a4:7a:a6:33:a8:64:61:09:f0:35:
+        61:0f:36:e6
