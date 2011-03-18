@@ -1,0 +1,815 @@
+issuer=/C=CH/O=WISeKey/OU=Copyright (c) 2006 WISeKey SA/OU=International/CN=WISeKey CertifyID Advanced Services CA 1
+SHA1 Fingerprint=83:22:F0:99:46:C8:41:57:5D:20:57:AA:A3:80:43:03:32:9C:0F:ED
+c3841b40
+crlNumber=0755
+lastUpdate=Mar 18 08:09:07 2011 GMT
+nextUpdate=Mar 19 10:53:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=CH/O=WISeKey/OU=Copyright (c) 2006 WISeKey SA/OU=International/CN=WISeKey CertifyID Advanced Services CA 1
+        Last Update: Mar 18 08:09:07 2011 GMT
+        Next Update: Mar 19 10:53:07 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:6A:AE:5E:A8:BE:9E:5A:59:A5:AB:59:C4:2A:2E:53:F1:2F:30:97:2A
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                1877
+            1.3.6.1.4.1.311.21.4: 
+                .110319081907Z
+Revoked Certificates:
+    Serial Number: 1B51B599000000000443
+        Revocation Date: Jun 17 09:35:31 2009 GMT
+    Serial Number: 12FA4AC70000000005EE
+        Revocation Date: Jun 17 08:41:48 2009 GMT
+    Serial Number: 26C68A6F0000000005E4
+        Revocation Date: Jun 12 09:23:07 2009 GMT
+    Serial Number: 1BF4244800000000033C
+        Revocation Date: Jun 12 07:55:23 2009 GMT
+    Serial Number: 22EB321C0000000005DD
+        Revocation Date: Jun 11 16:10:17 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 230228720000000005DE
+        Revocation Date: Jun 11 16:09:46 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3A86DF34000000000509
+        Revocation Date: Jun 11 06:30:06 2009 GMT
+    Serial Number: 1CB1A7BF00000000034F
+        Revocation Date: Jun 10 03:23:22 2009 GMT
+    Serial Number: 7349C6A8000000000588
+        Revocation Date: Jun  8 06:42:44 2009 GMT
+    Serial Number: 1132D4000000000004C0
+        Revocation Date: Jun  5 07:41:32 2009 GMT
+    Serial Number: 1BF718D700000000033E
+        Revocation Date: Jun  4 13:29:53 2009 GMT
+    Serial Number: 1BA4931C000000000334
+        Revocation Date: Jun  4 07:53:13 2009 GMT
+    Serial Number: 44733B0D000000000454
+        Revocation Date: Jun  3 13:56:58 2009 GMT
+    Serial Number: 6FB28ABB00000000042A
+        Revocation Date: Jun  1 09:24:32 2009 GMT
+    Serial Number: 31438AA40000000004EE
+        Revocation Date: May 28 19:59:29 2009 GMT
+    Serial Number: 497BA43B00000000045A
+        Revocation Date: May 28 07:22:10 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 17073ED90000000004A8
+        Revocation Date: May 26 07:32:14 2009 GMT
+    Serial Number: 48D39B25000000000523
+        Revocation Date: May 25 03:27:48 2009 GMT
+    Serial Number: 48B4AE90000000000521
+        Revocation Date: May 25 03:25:53 2009 GMT
+    Serial Number: 67005F9C000000000473
+        Revocation Date: May 22 09:46:04 2009 GMT
+    Serial Number: 3F978E5A00000000044F
+        Revocation Date: May 20 16:35:08 2009 GMT
+    Serial Number: 14067391000000000499
+        Revocation Date: May 20 13:43:03 2009 GMT
+    Serial Number: 67CABA61000000000477
+        Revocation Date: May 20 06:25:24 2009 GMT
+    Serial Number: 12172B86000000000493
+        Revocation Date: May 18 05:44:44 2009 GMT
+    Serial Number: 120B8A64000000000492
+        Revocation Date: May 18 02:14:18 2009 GMT
+    Serial Number: 12C34110000000000497
+        Revocation Date: May 11 12:46:07 2009 GMT
+    Serial Number: 39A98A4700000000041E
+        Revocation Date: May 11 12:45:08 2009 GMT
+    Serial Number: 5E22EADA00000000046B
+        Revocation Date: May  8 06:46:28 2009 GMT
+    Serial Number: 5DCC7F16000000000469
+        Revocation Date: May  6 03:10:35 2009 GMT
+    Serial Number: 62C272EB00000000046C
+        Revocation Date: May  6 02:50:09 2009 GMT
+    Serial Number: 32F76246000000000414
+        Revocation Date: Apr 16 01:19:55 2009 GMT
+    Serial Number: 2CAEA2BC00000000040A
+        Revocation Date: Apr 16 01:16:40 2009 GMT
+    Serial Number: 569C0B3D000000000423
+        Revocation Date: Apr 15 09:53:01 2009 GMT
+    Serial Number: 522C26B8000000000422
+        Revocation Date: Apr 14 03:49:11 2009 GMT
+    Serial Number: 6FC3379A00000000042B
+        Revocation Date: Apr 14 03:48:07 2009 GMT
+    Serial Number: 6F828E95000000000428
+        Revocation Date: Apr 14 03:46:13 2009 GMT
+    Serial Number: 6F7AB7E8000000000427
+        Revocation Date: Apr 14 03:45:34 2009 GMT
+    Serial Number: 6C217845000000000426
+        Revocation Date: Apr 14 03:42:26 2009 GMT
+    Serial Number: 148CC7C7000000000405
+        Revocation Date: Apr 14 03:40:51 2009 GMT
+    Serial Number: 16F649B3000000000318
+        Revocation Date: Mar 17 15:22:42 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 140ACD290000000003D4
+        Revocation Date: Mar 13 11:27:07 2009 GMT
+    Serial Number: 1D9E3D3C000000000377
+        Revocation Date: Mar 13 04:46:49 2009 GMT
+    Serial Number: 1D9D4814000000000376
+        Revocation Date: Mar 13 04:35:54 2009 GMT
+    Serial Number: 1D7F2E27000000000371
+        Revocation Date: Mar 13 04:26:15 2009 GMT
+    Serial Number: 11742EC60000000003CE
+        Revocation Date: Mar 12 09:18:53 2009 GMT
+    Serial Number: 112B59370000000003CD
+        Revocation Date: Mar 12 09:16:33 2009 GMT
+    Serial Number: 72A7D9920000000003BE
+        Revocation Date: Mar 10 23:44:32 2009 GMT
+    Serial Number: 1DB6DBF8000000000381
+        Revocation Date: Dec 17 08:54:41 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1BA01003000000000333
+        Revocation Date: Dec 16 11:57:06 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 28D0F9F5000000000F52
+        Revocation Date: Mar 18 07:14:35 2011 GMT
+    Serial Number: 23577333000000000F04
+        Revocation Date: Mar 15 08:27:28 2011 GMT
+    Serial Number: 234A53CD000000000F03
+        Revocation Date: Mar 15 08:11:25 2011 GMT
+    Serial Number: 19CDC2CD000000000EC7
+        Revocation Date: Mar 14 16:52:52 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 56D64F9D000000000E04
+        Revocation Date: Mar 14 10:22:13 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 1E1B2903000000000DF4
+        Revocation Date: Mar 14 10:21:51 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 61435E7A000000000EC1
+        Revocation Date: Mar 10 16:35:31 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 11BBE4D6000000000F20
+        Revocation Date: Mar 10 16:34:40 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 536EBE78000000000F18
+        Revocation Date: Mar 10 15:04:18 2011 GMT
+    Serial Number: 561BC46B000000000F1A
+        Revocation Date: Mar 10 06:38:01 2011 GMT
+    Serial Number: 47DFE153000000000F11
+        Revocation Date: Mar  9 14:04:54 2011 GMT
+    Serial Number: 4F2A6580000000000F13
+        Revocation Date: Mar  9 06:16:16 2011 GMT
+    Serial Number: 50E59588000000000F14
+        Revocation Date: Mar  9 06:14:37 2011 GMT
+    Serial Number: 28A66729000000000F07
+        Revocation Date: Mar  7 12:05:38 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 7844E89C000000000B5B
+        Revocation Date: Mar  2 18:02:55 2011 GMT
+    Serial Number: 670936BF000000000BEB
+        Revocation Date: Mar  2 18:00:46 2011 GMT
+    Serial Number: 66F7E57F000000000BE2
+        Revocation Date: Mar  2 17:59:29 2011 GMT
+    Serial Number: 66F5A30C000000000BE1
+        Revocation Date: Mar  2 17:58:57 2011 GMT
+    Serial Number: 66F1A100000000000BDF
+        Revocation Date: Mar  2 17:57:42 2011 GMT
+    Serial Number: 5F614F4E000000000C62
+        Revocation Date: Mar  2 17:56:35 2011 GMT
+    Serial Number: 5A9993E1000000000AF9
+        Revocation Date: Mar  2 17:52:06 2011 GMT
+    Serial Number: 670CE120000000000BEE
+        Revocation Date: Mar  2 17:50:59 2011 GMT
+    Serial Number: 670F6786000000000BF0
+        Revocation Date: Mar  2 17:49:36 2011 GMT
+    Serial Number: 5A4FA9D3000000000AF7
+        Revocation Date: Mar  2 17:48:29 2011 GMT
+    Serial Number: 67002B4F000000000BE5
+        Revocation Date: Mar  2 17:41:58 2011 GMT
+    Serial Number: 670A835F000000000BEC
+        Revocation Date: Mar  2 16:55:33 2011 GMT
+    Serial Number: 5FF99741000000000D7E
+        Revocation Date: Mar  2 16:47:03 2011 GMT
+    Serial Number: 700D6388000000000DDE
+        Revocation Date: Mar  2 16:42:44 2011 GMT
+    Serial Number: 5A4D4403000000000AF6
+        Revocation Date: Mar  2 16:37:47 2011 GMT
+    Serial Number: 66FA73FE000000000BE3
+        Revocation Date: Mar  2 16:30:38 2011 GMT
+    Serial Number: 49696415000000000BA6
+        Revocation Date: Mar  2 16:27:38 2011 GMT
+    Serial Number: 5A5C449D000000000AF8
+        Revocation Date: Mar  2 16:22:57 2011 GMT
+    Serial Number: 670E227D000000000BEF
+        Revocation Date: Mar  2 16:21:07 2011 GMT
+    Serial Number: 67154609000000000BF3
+        Revocation Date: Mar  2 16:19:45 2011 GMT
+    Serial Number: 5A47CF79000000000AF5
+        Revocation Date: Mar  2 16:18:18 2011 GMT
+    Serial Number: 36499AF5000000000CBE
+        Revocation Date: Mar  2 16:05:53 2011 GMT
+    Serial Number: 5A45F5C9000000000AF4
+        Revocation Date: Mar  2 15:52:50 2011 GMT
+    Serial Number: 4E289548000000000BCE
+        Revocation Date: Mar  2 15:51:12 2011 GMT
+    Serial Number: 6707E94C000000000BEA
+        Revocation Date: Mar  2 15:47:53 2011 GMT
+    Serial Number: 671432F4000000000BF2
+        Revocation Date: Mar  2 00:50:23 2011 GMT
+    Serial Number: 6706C08B000000000BE9
+        Revocation Date: Mar  2 00:48:38 2011 GMT
+    Serial Number: 6706B868000000000BE8
+        Revocation Date: Mar  2 00:48:11 2011 GMT
+    Serial Number: 4E058A60000000000BC1
+        Revocation Date: Mar  2 00:46:50 2011 GMT
+    Serial Number: 66FEDD50000000000BE4
+        Revocation Date: Mar  2 00:43:57 2011 GMT
+    Serial Number: 4DEEEF25000000000AC6
+        Revocation Date: Mar  2 00:42:39 2011 GMT
+    Serial Number: 67056264000000000BE7
+        Revocation Date: Mar  2 00:38:37 2011 GMT
+    Serial Number: 36B71117000000000CC1
+        Revocation Date: Mar  2 00:34:34 2011 GMT
+    Serial Number: 4E253883000000000BCD
+        Revocation Date: Mar  2 00:29:55 2011 GMT
+    Serial Number: 1CC291A1000000000C98
+        Revocation Date: Mar  2 00:28:36 2011 GMT
+    Serial Number: 1392DD99000000000C8E
+        Revocation Date: Mar  2 00:27:54 2011 GMT
+    Serial Number: 66F33664000000000BE0
+        Revocation Date: Mar  2 00:24:27 2011 GMT
+    Serial Number: 1D7B3001000000000C9F
+        Revocation Date: Mar  2 00:20:25 2011 GMT
+    Serial Number: 4D50E9A0000000000BB4
+        Revocation Date: Mar  2 00:02:36 2011 GMT
+    Serial Number: 4E0C450C000000000BC3
+        Revocation Date: Mar  1 23:59:46 2011 GMT
+    Serial Number: 4DFF8BD3000000000BBF
+        Revocation Date: Mar  1 23:57:42 2011 GMT
+    Serial Number: 4D539EE3000000000BB5
+        Revocation Date: Mar  1 23:55:48 2011 GMT
+    Serial Number: 4D568BD1000000000BB6
+        Revocation Date: Mar  1 23:52:33 2011 GMT
+    Serial Number: 4E02C1AB000000000BC0
+        Revocation Date: Mar  1 23:47:51 2011 GMT
+    Serial Number: 4D61043C000000000BB9
+        Revocation Date: Mar  1 23:39:48 2011 GMT
+    Serial Number: 4D5A16B5000000000BB7
+        Revocation Date: Mar  1 23:25:06 2011 GMT
+    Serial Number: 4E1210BE000000000BC5
+        Revocation Date: Mar  1 23:23:05 2011 GMT
+    Serial Number: 4E34ABBB000000000BD2
+        Revocation Date: Mar  1 23:18:21 2011 GMT
+    Serial Number: 3AF7E102000000000C4B
+        Revocation Date: Mar  1 23:14:59 2011 GMT
+    Serial Number: 3145EDC1000000000ABE
+        Revocation Date: Mar  1 23:10:00 2011 GMT
+    Serial Number: 577DB2B9000000000D6F
+        Revocation Date: Mar  1 23:05:08 2011 GMT
+    Serial Number: 3919712E000000000ED2
+        Revocation Date: Mar  1 22:59:32 2011 GMT
+    Serial Number: 11027935000000000E57
+        Revocation Date: Mar  1 22:56:27 2011 GMT
+    Serial Number: 1B05FF07000000000EF3
+        Revocation Date: Feb 23 16:39:38 2011 GMT
+    Serial Number: 7F788438000000000EEE
+        Revocation Date: Feb 23 12:53:21 2011 GMT
+    Serial Number: 7F917BB7000000000EEF
+        Revocation Date: Feb 23 12:53:00 2011 GMT
+    Serial Number: 610FF138000000000EF0
+        Revocation Date: Feb 23 12:51:23 2011 GMT
+    Serial Number: 4BA6ADA0000000000EDC
+        Revocation Date: Feb 16 09:13:55 2011 GMT
+    Serial Number: 5C5077D0000000000EDF
+        Revocation Date: Feb 16 09:13:05 2011 GMT
+    Serial Number: 209667C1000000000B7C
+        Revocation Date: Feb 10 10:17:42 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 384CBF4E000000000ED1
+        Revocation Date: Feb 10 10:16:20 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 5873C26E000000000C1F
+        Revocation Date: Feb 10 09:52:03 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1993C493000000000E21
+        Revocation Date: Feb 10 09:51:20 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 42D29EFB000000000EDA
+        Revocation Date: Feb  9 16:16:13 2011 GMT
+    Serial Number: 122CAD40000000000EC3
+        Revocation Date: Feb  7 22:55:44 2011 GMT
+    Serial Number: 4D6E70E5000000000EB8
+        Revocation Date: Jan 27 10:10:02 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 24F1FD29000000000E9A
+        Revocation Date: Jan 19 13:35:08 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                CA Compromise
+    Serial Number: 1A93B1C9000000000E79
+        Revocation Date: Jan 17 13:14:12 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 19D4957A000000000E33
+        Revocation Date: Jan 10 13:54:26 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 237307E7000000000E28
+        Revocation Date: Jan  7 14:05:08 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 2996F242000000000E2B
+        Revocation Date: Dec 28 12:07:34 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                CA Compromise
+    Serial Number: 1A84D61A000000000E1E
+        Revocation Date: Dec 17 15:57:45 2010 GMT
+    Serial Number: 1A38DC9D000000000E1D
+        Revocation Date: Dec 17 14:28:50 2010 GMT
+    Serial Number: 3FAA4E3A000000000DF9
+        Revocation Date: Dec 16 06:02:56 2010 GMT
+    Serial Number: 56058245000000000E03
+        Revocation Date: Dec 14 10:13:49 2010 GMT
+    Serial Number: 758E7668000000000E12
+        Revocation Date: Dec 13 13:54:34 2010 GMT
+    Serial Number: 18383B78000000000DF1
+        Revocation Date: Dec 10 11:12:36 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 1FD84EE5000000000CA9
+        Revocation Date: Dec  9 09:13:21 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 573B93F6000000000E08
+        Revocation Date: Dec  8 14:07:35 2010 GMT
+    Serial Number: 572A13CF000000000E06
+        Revocation Date: Dec  7 16:32:55 2010 GMT
+    Serial Number: 572F45BB000000000E07
+        Revocation Date: Dec  7 16:25:18 2010 GMT
+    Serial Number: 5E73AD27000000000D78
+        Revocation Date: Dec  7 16:25:03 2010 GMT
+    Serial Number: 1E71E03C000000000DF5
+        Revocation Date: Dec  7 15:06:17 2010 GMT
+    Serial Number: 7D56DD45000000000D9E
+        Revocation Date: Dec  7 15:05:07 2010 GMT
+    Serial Number: 1E7813FC0000000009B7
+        Revocation Date: Dec  7 08:48:50 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 5242E618000000000E00
+        Revocation Date: Dec  6 17:35:22 2010 GMT
+    Serial Number: 177ED8CC000000000DEE
+        Revocation Date: Dec  3 01:53:40 2010 GMT
+    Serial Number: 549FF08D000000000916
+        Revocation Date: Nov 25 07:49:33 2010 GMT
+    Serial Number: 44C0A225000000000D3C
+        Revocation Date: Nov 23 15:16:21 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 6CF707E4000000000A8A
+        Revocation Date: Nov 10 09:41:06 2010 GMT
+    Serial Number: 5551B33C000000000D59
+        Revocation Date: Nov  8 15:54:11 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 554EC5FE000000000D58
+        Revocation Date: Nov  8 15:53:36 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 554BFFCA000000000D57
+        Revocation Date: Nov  8 15:52:37 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 5547099B000000000D56
+        Revocation Date: Nov  8 15:51:47 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 5544624F000000000D55
+        Revocation Date: Nov  8 15:51:09 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 5541C506000000000D54
+        Revocation Date: Nov  8 15:48:21 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 553BE601000000000D52
+        Revocation Date: Nov  8 15:37:49 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1C0A9BB4000000000956
+        Revocation Date: Oct 29 02:38:01 2010 GMT
+    Serial Number: 53BDC5D3000000000D4F
+        Revocation Date: Oct 20 09:24:24 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 53BC972A000000000D4E
+        Revocation Date: Oct 20 09:23:59 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 53BB98A8000000000D4D
+        Revocation Date: Oct 20 09:23:42 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 53BA26A2000000000D4C
+        Revocation Date: Oct 20 09:23:11 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 5766E178000000000D6C
+        Revocation Date: Oct 19 00:53:22 2010 GMT
+    Serial Number: 3A3FB3C4000000000D26
+        Revocation Date: Oct 13 09:03:40 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3A36C0DB000000000D25
+        Revocation Date: Oct 13 08:52:27 2010 GMT
+    Serial Number: 3CA2C11D000000000737
+        Revocation Date: Oct 13 08:02:54 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 7CE7AFC1000000000B5D
+        Revocation Date: Oct 11 10:27:58 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 49058A68000000000CC9
+        Revocation Date: Sep 21 12:47:32 2010 GMT
+    Serial Number: 49046F9E000000000CC8
+        Revocation Date: Sep 21 12:47:16 2010 GMT
+    Serial Number: 489586EB000000000CC5
+        Revocation Date: Sep 21 08:48:32 2010 GMT
+    Serial Number: 345B1D83000000000CBD
+        Revocation Date: Sep 21 08:48:13 2010 GMT
+    Serial Number: 1A09B006000000000BF9
+        Revocation Date: Sep 20 10:19:06 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 37808446000000000C36
+        Revocation Date: Sep 17 08:03:52 2010 GMT
+    Serial Number: 377C9B12000000000C35
+        Revocation Date: Sep 17 08:03:12 2010 GMT
+    Serial Number: 371C2C52000000000C2C
+        Revocation Date: Aug 24 16:34:04 2010 GMT
+    Serial Number: 28FD2509000000000C03
+        Revocation Date: Aug 24 10:27:06 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 28E1EFA1000000000C01
+        Revocation Date: Aug 24 04:01:38 2010 GMT
+    Serial Number: 533DB07D000000000C1C
+        Revocation Date: Aug 11 09:29:58 2010 GMT
+    Serial Number: 52CDE8BB000000000C1B
+        Revocation Date: Aug 10 14:42:21 2010 GMT
+    Serial Number: 14242764000000000B9A
+        Revocation Date: Jul 27 10:10:07 2010 GMT
+    Serial Number: 141C0D3C000000000B99
+        Revocation Date: Jul 27 10:09:15 2010 GMT
+    Serial Number: 142765F6000000000B9B
+        Revocation Date: Jul 15 12:27:32 2010 GMT
+    Serial Number: 4215C143000000000B9F
+        Revocation Date: Jul 13 11:08:26 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 1407D5B5000000000B97
+        Revocation Date: Jul  1 09:41:59 2010 GMT
+    Serial Number: 13EF632D000000000B95
+        Revocation Date: Jul  1 09:19:02 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 2AE28AF500000000038E
+        Revocation Date: Jun 28 08:24:21 2010 GMT
+    Serial Number: 71F9D0EA000000000B58
+        Revocation Date: Jun 25 14:25:50 2010 GMT
+    Serial Number: 528F05CD000000000ACE
+        Revocation Date: Jun 25 14:25:35 2010 GMT
+    Serial Number: 2F09899B000000000ABD
+        Revocation Date: Jun 25 14:23:55 2010 GMT
+    Serial Number: 521BB5F8000000000ACC
+        Revocation Date: Jun 25 14:23:41 2010 GMT
+    Serial Number: 5234A1F7000000000ACD
+        Revocation Date: Jun 25 14:23:18 2010 GMT
+    Serial Number: 51C2CF63000000000ACB
+        Revocation Date: Jun 25 14:22:40 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                CA Compromise
+    Serial Number: 78A0396E000000000AA2
+        Revocation Date: Jun 18 13:14:40 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 4858CBAD000000000B3C
+        Revocation Date: Jun 18 13:08:31 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 1B548A0A000000000B79
+        Revocation Date: Jun 18 12:00:22 2010 GMT
+    Serial Number: 1A61D8F0000000000B77
+        Revocation Date: Jun 17 12:52:56 2010 GMT
+    Serial Number: 1B446DCA000000000B78
+        Revocation Date: Jun 17 12:52:39 2010 GMT
+    Serial Number: 712FFD4D000000000B55
+        Revocation Date: Jun  9 09:15:38 2010 GMT
+    Serial Number: 496EAA9F000000000B3D
+        Revocation Date: Jun  1 15:25:07 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 483C538A000000000B3B
+        Revocation Date: Jun  1 10:14:36 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 71D0329C000000000B01
+        Revocation Date: May 31 07:36:10 2010 GMT
+    Serial Number: 19B5ACDE000000000AA5
+        Revocation Date: May 31 07:11:53 2010 GMT
+    Serial Number: 617675C1000000000B02
+        Revocation Date: May 19 10:25:09 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 1A9ED007000000000442
+        Revocation Date: May 19 07:52:33 2010 GMT
+    Serial Number: 2DB5D922000000000410
+        Revocation Date: May 19 07:51:40 2010 GMT
+    Serial Number: 2D96BC2A00000000040E
+        Revocation Date: May 19 07:50:50 2010 GMT
+    Serial Number: 71B59267000000000AFF
+        Revocation Date: May 17 09:33:27 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 56981C2B000000000AF1
+        Revocation Date: May 12 03:15:17 2010 GMT
+    Serial Number: 47DC9A26000000000AC5
+        Revocation Date: May  6 15:34:39 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 3E6EC73F000000000AC2
+        Revocation Date: Apr 13 08:49:42 2010 GMT
+    Serial Number: 1FDBBF89000000000AB6
+        Revocation Date: Apr  9 19:21:57 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1FDACF08000000000AB5
+        Revocation Date: Apr  9 19:19:37 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 2ED00198000000000ABC
+        Revocation Date: Apr  9 14:31:52 2010 GMT
+    Serial Number: 71EB0B8B000000000A94
+        Revocation Date: Mar 16 08:47:34 2010 GMT
+    Serial Number: 4A32532B00000000052C
+        Revocation Date: Jan 29 09:31:20 2010 GMT
+    Serial Number: 46D75A450000000009BE
+        Revocation Date: Jan  7 13:20:44 2010 GMT
+    Serial Number: 1491A0460000000009D1
+        Revocation Date: Jan  7 13:15:05 2010 GMT
+    Serial Number: 30CEAB2C0000000009AD
+        Revocation Date: Jan  6 02:34:59 2010 GMT
+    Serial Number: 43144D3D0000000009BB
+        Revocation Date: Dec 23 11:03:52 2009 GMT
+    Serial Number: 46CDE4EF0000000009BD
+        Revocation Date: Dec 23 11:02:31 2009 GMT
+    Serial Number: 197821B50000000009A7
+        Revocation Date: Dec  4 15:08:32 2009 GMT
+    Serial Number: 198102D20000000009A8
+        Revocation Date: Dec  4 15:08:14 2009 GMT
+    Serial Number: 1981529F0000000009A9
+        Revocation Date: Dec  4 15:06:56 2009 GMT
+    Serial Number: 2131CE1300000000088C
+        Revocation Date: Dec  4 14:54:58 2009 GMT
+    Serial Number: 133AD9F000000000099E
+        Revocation Date: Nov 30 09:46:58 2009 GMT
+    Serial Number: 6565ABFE00000000098E
+        Revocation Date: Nov 27 13:31:55 2009 GMT
+    Serial Number: 5FE7A97400000000098B
+        Revocation Date: Nov 26 11:06:28 2009 GMT
+    Serial Number: 6515D84700000000098D
+        Revocation Date: Nov 26 09:57:12 2009 GMT
+    Serial Number: 31739269000000000967
+        Revocation Date: Nov 25 07:33:55 2009 GMT
+    Serial Number: 355323E600000000096F
+        Revocation Date: Nov 17 03:18:36 2009 GMT
+    Serial Number: 1252720E00000000095B
+        Revocation Date: Nov 10 08:38:37 2009 GMT
+    Serial Number: 58995182000000000921
+        Revocation Date: Nov  9 09:22:31 2009 GMT
+    Serial Number: 5895E658000000000920
+        Revocation Date: Nov  9 09:20:49 2009 GMT
+    Serial Number: 1EA79033000000000644
+        Revocation Date: Nov  6 11:08:22 2009 GMT
+    Serial Number: 32DF2C06000000000690
+        Revocation Date: Nov  6 11:04:57 2009 GMT
+    Serial Number: 1E1881E800000000065E
+        Revocation Date: Nov  6 11:01:52 2009 GMT
+    Serial Number: 478A79440000000006BB
+        Revocation Date: Nov  6 10:59:14 2009 GMT
+    Serial Number: 479047C80000000006BC
+        Revocation Date: Nov  6 10:57:06 2009 GMT
+    Serial Number: 47A362040000000006C0
+        Revocation Date: Nov  6 10:54:35 2009 GMT
+    Serial Number: 46EDCCEE0000000006A6
+        Revocation Date: Nov  6 09:21:38 2009 GMT
+    Serial Number: 46F693990000000006A8
+        Revocation Date: Nov  6 09:18:55 2009 GMT
+    Serial Number: 32E79A67000000000692
+        Revocation Date: Nov  6 09:16:19 2009 GMT
+    Serial Number: 41D9485F000000000695
+        Revocation Date: Nov  6 09:12:08 2009 GMT
+    Serial Number: 1E21AB8100000000065F
+        Revocation Date: Nov  6 09:09:57 2009 GMT
+    Serial Number: 4710AF270000000006AC
+        Revocation Date: Nov  6 09:07:06 2009 GMT
+    Serial Number: 4714CDD60000000006AD
+        Revocation Date: Nov  6 08:28:00 2009 GMT
+    Serial Number: 25DDA578000000000892
+        Revocation Date: Nov  6 08:24:16 2009 GMT
+    Serial Number: 32B9268900000000068E
+        Revocation Date: Nov  3 11:39:56 2009 GMT
+    Serial Number: 5646CCC40000000006D0
+        Revocation Date: Nov  2 13:09:45 2009 GMT
+    Serial Number: 799815B9000000000590
+        Revocation Date: Oct 29 09:20:43 2009 GMT
+    Serial Number: 474541880000000006B1
+        Revocation Date: Oct 27 14:33:51 2009 GMT
+    Serial Number: 28C101E4000000000408
+        Revocation Date: Oct 22 13:58:47 2009 GMT
+    Serial Number: 198F4DD1000000000620
+        Revocation Date: Oct 21 10:14:35 2009 GMT
+    Serial Number: 1AC87B9800000000031F
+        Revocation Date: Oct  6 08:59:45 2009 GMT
+    Serial Number: 25C4A81B00000000088F
+        Revocation Date: Sep 25 12:31:30 2009 GMT
+    Serial Number: 25D58432000000000891
+        Revocation Date: Sep 25 09:47:01 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 25C8FDB6000000000890
+        Revocation Date: Sep 25 09:26:53 2009 GMT
+    Serial Number: 25C066D800000000088D
+        Revocation Date: Sep 25 09:26:29 2009 GMT
+    Serial Number: 1ACC3BEB000000000320
+        Revocation Date: Sep  9 12:11:08 2009 GMT
+    Serial Number: 49A22682000000000849
+        Revocation Date: Sep  7 12:10:36 2009 GMT
+    Serial Number: 49AC67E300000000084A
+        Revocation Date: Sep  7 12:10:28 2009 GMT
+    Serial Number: 49A0C65D000000000848
+        Revocation Date: Sep  7 12:10:18 2009 GMT
+    Serial Number: 492C1A24000000000845
+        Revocation Date: Sep  7 11:52:54 2009 GMT
+    Serial Number: 49322337000000000846
+        Revocation Date: Sep  7 11:52:44 2009 GMT
+    Serial Number: 4953A279000000000847
+        Revocation Date: Sep  7 11:52:31 2009 GMT
+    Serial Number: 3A851C3E000000000843
+        Revocation Date: Sep  4 13:30:36 2009 GMT
+    Serial Number: 3A7AB171000000000842
+        Revocation Date: Sep  4 13:25:21 2009 GMT
+    Serial Number: 3A7839DE000000000841
+        Revocation Date: Sep  4 13:15:36 2009 GMT
+    Serial Number: 3A4C3534000000000840
+        Revocation Date: Sep  4 13:12:20 2009 GMT
+    Serial Number: 7D8E5DFB0000000005A4
+        Revocation Date: Sep  3 15:34:56 2009 GMT
+    Serial Number: 3AF51E9A0000000005EB
+        Revocation Date: Sep  2 06:10:28 2009 GMT
+    Serial Number: 119300670000000003CF
+        Revocation Date: Sep  1 08:27:09 2009 GMT
+    Serial Number: 5CE223170000000007C0
+        Revocation Date: Aug 20 15:04:33 2009 GMT
+    Serial Number: 65D12F5B0000000007D7
+        Revocation Date: Aug 19 12:06:57 2009 GMT
+    Serial Number: 679250DF0000000007D8
+        Revocation Date: Aug 19 10:50:25 2009 GMT
+    Serial Number: 16B9ED210000000004DB
+        Revocation Date: Aug 19 02:47:29 2009 GMT
+    Serial Number: 447DCDC10000000007A7
+        Revocation Date: Aug 12 15:20:08 2009 GMT
+    Serial Number: 4452C4F00000000007A5
+        Revocation Date: Aug 12 14:52:36 2009 GMT
+    Serial Number: 4457D9D50000000007A6
+        Revocation Date: Aug 12 14:52:22 2009 GMT
+    Serial Number: 2BF18BF1000000000679
+        Revocation Date: Aug 11 06:19:18 2009 GMT
+    Serial Number: 406E8598000000000739
+        Revocation Date: Aug 11 06:06:06 2009 GMT
+    Serial Number: 1DD86DED000000000756
+        Revocation Date: Aug  5 03:14:59 2009 GMT
+    Serial Number: 7D00A3CF0000000005A2
+        Revocation Date: Aug  5 02:25:26 2009 GMT
+    Serial Number: 1FD6A1010000000004BC
+        Revocation Date: Aug  4 03:02:17 2009 GMT
+    Serial Number: 57729A59000000000740
+        Revocation Date: Jul 28 14:16:07 2009 GMT
+    Serial Number: 40B5945200000000073A
+        Revocation Date: Jul 24 10:19:12 2009 GMT
+    Serial Number: 17DA4D6800000000031B
+        Revocation Date: Jul 23 07:28:57 2009 GMT
+    Serial Number: 3AC1B4B5000000000514
+        Revocation Date: Jul 15 04:59:28 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 407CBC4D000000000693
+        Revocation Date: Jul  1 03:04:03 2009 GMT
+    Serial Number: 470A71B30000000006AB
+        Revocation Date: Jun 30 14:03:18 2009 GMT
+    Serial Number: 2D6B46D5000000000684
+        Revocation Date: Jun 25 14:48:19 2009 GMT
+    Serial Number: 2D5EF99E000000000683
+        Revocation Date: Jun 25 14:47:43 2009 GMT
+    Serial Number: 7359A6B400000000058A
+        Revocation Date: Jun 25 02:07:00 2009 GMT
+    Serial Number: 306B1F760000000004EC
+        Revocation Date: Jun 24 03:04:00 2009 GMT
+    Serial Number: 7527B0B2000000000431
+        Revocation Date: Jun 23 07:22:16 2009 GMT
+    Serial Number: 2556C6FD0000000004E2
+        Revocation Date: Jun 22 01:49:15 2009 GMT
+    Serial Number: 1BFCDAFD000000000341
+        Revocation Date: Jun 19 16:01:04 2009 GMT
+    Serial Number: 53F38542000000000560
+        Revocation Date: Jun 19 05:51:13 2009 GMT
+    Serial Number: 53DF253E00000000055F
+        Revocation Date: Jun 19 05:50:07 2009 GMT
+    Serial Number: 1819303E000000000607
+        Revocation Date: Jun 18 08:25:02 2009 GMT
+    Serial Number: 18169C8B000000000606
+        Revocation Date: Jun 18 08:16:56 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        03:8f:26:64:df:7c:97:e6:25:eb:ce:e5:d2:b5:10:8a:84:5c:
+        66:dc:e4:8c:f8:fe:9d:2d:e0:18:57:7e:5d:91:23:41:9f:81:
+        8e:63:5a:dd:f6:3c:a9:f0:a2:93:d5:43:a5:c7:e3:e6:07:6c:
+        00:b6:33:5b:45:f9:4c:f0:2a:e8:85:d0:49:f2:0b:44:b7:2e:
+        58:80:aa:e6:de:c4:ca:3a:7c:2a:ca:61:2b:a5:78:41:47:b4:
+        c3:b6:94:24:ad:a1:d2:f9:dd:9c:4b:13:8e:26:d1:f6:84:85:
+        e5:49:94:75:60:a9:92:ac:93:bf:21:64:fb:4f:2c:9d:32:ea:
+        b6:5e:8d:da:a3:7f:c3:6a:b5:be:a9:88:31:45:b8:7c:58:1e:
+        39:4d:e8:7c:ee:22:bb:69:55:23:44:6b:dd:61:c0:c2:a2:6d:
+        cf:22:ca:08:f9:ae:67:56:18:54:e9:aa:a6:5a:13:98:38:6f:
+        24:94:ae:72:2f:a4:d1:f9:14:ff:8e:6e:c9:58:92:20:31:a1:
+        da:d4:c3:8c:db:8e:7c:15:90:ba:4d:51:47:c4:23:db:ef:af:
+        0e:d8:27:0a:30:db:69:f0:9f:00:73:4c:84:ff:c0:dd:1f:3e:
+        04:00:71:39:29:67:bf:42:f2:8c:07:7e:ca:17:52:f2:c2:d2:
+        66:f9:ff:af
