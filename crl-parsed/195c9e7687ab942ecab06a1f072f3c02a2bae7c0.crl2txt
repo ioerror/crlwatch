@@ -1,0 +1,51 @@
+issuer=/C=RU/O=RBC Hosting Center/CN=RBC HC High Assurance Services CA
+SHA1 Fingerprint=ED:C2:50:6D:C3:05:DC:AC:0B:EC:70:E5:62:B3:42:99:95:DD:CC:FB
+7593e359
+crlNumber=05F5
+lastUpdate=Mar 18 07:16:39 2011 GMT
+nextUpdate=Mar 22 07:16:39 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=RU/O=RBC Hosting Center/CN=RBC HC High Assurance Services CA
+        Last Update: Mar 18 07:16:39 2011 GMT
+        Next Update: Mar 22 07:16:39 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:66:8F:F1:9F:4D:DB:8E:DD:FA:EC:1B:99:13:6A:B8:82:68:85:06:ED
+
+            X509v3 CRL Number: 
+                1525
+Revoked Certificates:
+    Serial Number: 03FC061B62D17EB06D116DAAAC3E96BB
+        Revocation Date: Nov 17 07:45:08 2009 GMT
+    Serial Number: 4339A6760A20A3686C83E4915E67D219
+        Revocation Date: Nov 25 14:19:11 2009 GMT
+    Serial Number: 8BFB693D2886027B987E1E95F7059F92
+        Revocation Date: Aug  5 14:50:04 2010 GMT
+    Serial Number: 4B12DAF051200E39F05A53FC9F470CDF
+        Revocation Date: Sep  7 18:02:21 2010 GMT
+    Serial Number: 8D199B4EA2846D8F1589F2AC78C5B283
+        Revocation Date: Sep  7 18:02:38 2010 GMT
+    Serial Number: D3D1B12F155B367E34681C934C3FFE90
+        Revocation Date: Sep 10 15:26:52 2010 GMT
+    Serial Number: 75F7AFA14760576BB1A4329D3532B0C2
+        Revocation Date: Sep 10 15:27:57 2010 GMT
+    Serial Number: BDEA687D4656F60D0795A29618BE1BA0
+        Revocation Date: Jan 13 14:10:51 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        a0:93:61:88:2a:c1:db:1d:01:51:45:8f:e1:3f:c3:9e:96:56:
+        7b:5b:48:f8:fe:27:c0:47:4e:ae:23:65:d6:e1:92:e4:1a:af:
+        23:d4:2a:7e:39:b9:4f:56:68:ae:11:2d:45:e5:a3:d7:8a:10:
+        da:87:97:f0:93:69:54:c0:e3:0f:db:71:3e:f9:e9:bf:d1:db:
+        74:3b:23:bc:52:12:dd:fc:1d:b0:be:03:6e:ed:33:6e:da:d3:
+        ec:18:9e:d3:23:28:b6:ef:11:71:08:bf:bb:c8:c8:1b:2c:e0:
+        c5:03:f2:9d:cc:90:93:6d:e3:13:fe:4e:9f:09:94:be:87:74:
+        bd:75:c4:af:d1:0e:86:81:6c:53:fa:04:f6:89:78:13:ca:71:
+        49:60:73:b2:b9:a2:8c:55:18:6f:e2:b3:4d:46:2f:63:92:95:
+        a2:0c:9b:f7:38:ff:b7:68:14:1e:12:34:09:8f:48:16:16:bd:
+        44:34:bf:d0:85:07:61:ab:21:a6:30:6a:5a:3c:5d:27:49:24:
+        7b:28:a8:e2:7a:a1:cc:38:f1:8c:e2:97:df:f5:d6:a8:d1:9c:
+        8c:ab:71:7b:3b:30:83:6e:6e:4e:bb:fc:ce:58:30:6d:cd:25:
+        a3:00:19:0c:93:ba:e1:e9:a5:e8:8e:73:00:e5:2a:c9:34:e2:
+        77:d1:4f:08
