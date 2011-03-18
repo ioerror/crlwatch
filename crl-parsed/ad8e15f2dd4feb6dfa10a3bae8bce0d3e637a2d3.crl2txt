@@ -1,0 +1,40 @@
+issuer=/C=DE/O=Physikalisch-Technische Bundesanstalt/CN=PTB CA/emailAddress=pki@ptb.de
+SHA1 Fingerprint=A2:46:8B:8E:66:9A:A3:B9:75:4D:97:5C:84:0A:B8:2A:7B:F8:5D:4E
+0ca96ddc
+crlNumber=82
+lastUpdate=Mar 17 10:41:09 2011 GMT
+nextUpdate=Apr 16 10:41:09 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Physikalisch-Technische Bundesanstalt/CN=PTB CA/emailAddress=pki@ptb.de
+        Last Update: Mar 17 10:41:09 2011 GMT
+        Next Update: Apr 16 10:41:09 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                130
+Revoked Certificates:
+    Serial Number: 0D4B7953
+        Revocation Date: Nov 26 10:34:07 2008 GMT
+    Serial Number: 0F93518C
+        Revocation Date: Mar 17 10:41:08 2011 GMT
+    Serial Number: 0F9A2548
+        Revocation Date: Mar 17 10:41:07 2011 GMT
+    Serial Number: 116B4783
+        Revocation Date: Feb  7 12:03:09 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        3e:91:9e:2f:73:ac:5c:fa:d0:25:0b:41:bf:43:7f:93:2f:63:
+        6c:4f:73:c1:33:7c:d2:9b:93:c4:7a:3a:53:fc:9c:ef:93:6e:
+        00:1d:c9:35:39:1b:1a:0b:ea:88:f3:48:64:25:62:b8:88:00:
+        f9:92:08:54:c9:e0:64:7e:a4:23:8e:e8:fc:ac:6b:29:c0:62:
+        0e:40:29:2e:42:a7:63:64:63:25:eb:02:d8:ab:d6:70:14:79:
+        75:d6:ec:8f:4f:b1:cf:03:32:22:60:79:b9:cb:dd:57:67:db:
+        b4:cf:f0:66:9d:e1:b0:1b:6f:cf:20:46:3c:7f:8d:7f:2c:a3:
+        b7:e0:5b:b7:f2:e5:73:fb:f8:c5:03:7c:c7:04:ee:5a:5e:4c:
+        d3:51:c4:a5:d3:4e:b3:f9:14:bb:74:05:77:b3:02:aa:cf:1b:
+        c2:20:d7:a3:1a:70:83:d0:1a:11:70:ca:2c:81:c6:f0:be:65:
+        d0:1c:fd:0a:c9:b1:76:ca:cd:93:e1:c9:f2:26:fb:3c:c2:8d:
+        e5:59:8c:53:00:c9:89:f0:20:de:7a:b7:41:ee:3a:e9:ac:ca:
+        0e:6f:77:4b:f3:b1:c5:be:36:fc:29:e6:2c:2e:1f:cc:31:69:
+        20:30:ce:73:11:79:fe:48:58:ae:74:46:a7:3d:80:db:4e:65:
+        20:aa:73:fc
