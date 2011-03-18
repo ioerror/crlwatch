@@ -1,0 +1,95 @@
+issuer=/DC=com/DC=disney/OU=PKI/CN=The Walt Disney Company Enterprise CA
+SHA1 Fingerprint=FB:AE:52:60:1D:19:98:42:77:69:0D:62:05:3D:9A:41:E2:33:3A:EC
+986dc2f1
+crlNumber=0B40
+lastUpdate=Mar 18 01:05:45 2011 GMT
+nextUpdate=Mar 21 01:05:45 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=com/DC=disney/OU=PKI/CN=The Walt Disney Company Enterprise CA
+        Last Update: Mar 18 01:05:45 2011 GMT
+        Next Update: Mar 21 01:05:45 2011 GMT
+        CRL extensions:
+            X509v3 Issuing Distrubution Point: critical
+                0.........~0|1.0..
+..&...,d....com1.0..
+..&...,d....disney1.0
+..U....PKI1.0,..U...%The Walt Disney Company Enterprise CA1.0..U....CRL109.,http://cdp.disney.pvt/CRL/Enterprisec109.crl.,http://cdp.disney.com/CRL/Enterprisec109.crl...
+            X509v3 CRL Number: 
+                2880
+            X509v3 Authority Key Identifier: 
+                keyid:78:2F:15:38:BA:3B:41:FD:A0:B9:CF:C6:90:51:41:AE:6E:C1:B0:4A
+
+Revoked Certificates:
+    Serial Number: 48F7F60B
+        Revocation Date: Feb 18 16:13:39 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7F60C
+        Revocation Date: Feb 18 16:13:39 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7F68F
+        Revocation Date: Feb 19 16:02:12 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7F690
+        Revocation Date: Feb 19 16:02:12 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7F691
+        Revocation Date: Feb 19 16:02:12 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7F6F3
+        Revocation Date: Feb 19 21:22:03 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7F6F4
+        Revocation Date: Feb 19 21:22:03 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7F856
+        Revocation Date: Feb 23 17:55:24 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7F857
+        Revocation Date: Feb 23 17:55:24 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7F9A9
+        Revocation Date: Feb 25 00:26:02 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7F9AA
+        Revocation Date: Feb 25 00:26:02 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        0a:cd:75:3e:a2:59:8e:bc:fb:b7:aa:7f:4c:c3:73:12:f4:23:
+        d5:ec:ca:37:79:62:0f:10:ad:5c:29:06:9f:80:6a:0c:aa:4a:
+        f4:56:64:70:2e:c5:23:38:52:ff:0e:b7:2f:1b:d0:8c:b5:5c:
+        55:87:07:6f:bb:64:a7:5d:8e:7e:17:7d:cd:c1:01:c4:2e:0f:
+        49:fc:81:f8:ac:c5:63:6e:15:34:c8:cb:ff:95:ce:e6:21:0f:
+        c0:1d:b5:66:4d:14:72:76:67:50:74:fa:a3:68:a6:ff:9b:74:
+        0b:bb:cd:ee:b4:3c:4b:31:86:42:6c:2c:31:1a:c1:ac:fd:62:
+        cb:d4:da:b9:75:3e:4b:73:03:fa:7c:d7:7b:73:cd:2c:b5:77:
+        cf:9c:82:9e:d2:66:ec:4f:2d:db:0a:0e:ac:91:18:0c:6d:f6:
+        67:cc:99:0c:6b:f0:d7:b3:39:3c:02:9f:49:7b:84:18:a6:54:
+        79:6a:c5:ff:79:3b:f2:e3:7f:d0:af:d6:ea:1b:b2:3b:65:ca:
+        4d:8e:69:c2:2e:da:ed:c1:a7:0e:22:a9:9b:bb:b6:8b:2e:e8:
+        95:da:a6:f3:3e:0b:0a:ff:77:10:a3:e9:d3:d0:81:fe:61:39:
+        50:4a:72:c2:16:e6:2d:eb:0b:38:9d:90:ea:16:fd:6e:05:0b:
+        a1:5c:f5:cb
