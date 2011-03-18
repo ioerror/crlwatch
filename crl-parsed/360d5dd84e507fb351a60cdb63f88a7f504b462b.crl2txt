@@ -1,0 +1,44 @@
+issuer=/C=DE/O=Alfred-Wegener-Institut/CN=Alfred-Wegener-Institut CA - G01/emailAddress=pki@awi.de
+SHA1 Fingerprint=6A:7D:65:8B:D9:FD:A1:1E:DE:CC:31:13:0D:0E:59:B3:ED:D5:A4:B9
+718221e3
+crlNumber=9C
+lastUpdate=Mar 14 07:06:28 2011 GMT
+nextUpdate=Apr 13 07:06:28 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Alfred-Wegener-Institut/CN=Alfred-Wegener-Institut CA - G01/emailAddress=pki@awi.de
+        Last Update: Mar 14 07:06:28 2011 GMT
+        Next Update: Apr 13 07:06:28 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                156
+Revoked Certificates:
+    Serial Number: 0C677983
+        Revocation Date: Jun  5 16:08:06 2008 GMT
+    Serial Number: 0C67848A
+        Revocation Date: Jun  5 16:10:06 2008 GMT
+    Serial Number: 0C678792
+        Revocation Date: Jun  5 16:08:07 2008 GMT
+    Serial Number: 0C678B8F
+        Revocation Date: Jun  5 16:10:07 2008 GMT
+    Serial Number: 0D4DDBA6
+        Revocation Date: Nov 28 14:03:05 2008 GMT
+    Serial Number: 108DE200
+        Revocation Date: Aug 20 11:34:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        0b:a7:36:2a:ae:71:ca:f3:17:d8:57:37:38:58:e2:b5:e7:df:
+        12:28:6c:b9:4e:8e:e5:f0:cd:6a:c7:fe:38:c3:77:28:d5:6f:
+        1e:6f:06:c5:21:73:f6:95:c3:79:3c:17:1a:6f:d4:27:ee:85:
+        c9:dd:4a:42:46:47:c7:1d:76:a1:e9:54:3d:6b:22:c4:6a:24:
+        4d:99:71:cc:dc:7a:c9:58:61:fc:62:ae:3a:53:2f:0a:61:9b:
+        68:2e:89:37:3f:63:08:d2:b0:f9:a3:99:30:db:20:b5:2f:a5:
+        73:5f:f6:84:cb:85:ad:c4:62:35:b4:8b:17:13:88:19:75:1f:
+        a8:f8:38:fc:00:fe:0e:33:34:e0:ae:b5:f1:59:de:af:d8:dc:
+        f4:fb:15:2d:a5:ea:2f:ab:a4:8a:83:51:66:21:fb:58:69:8a:
+        79:85:5f:19:e6:da:3d:07:ad:a5:92:33:0a:50:7b:2d:47:05:
+        11:97:c1:54:80:57:ed:2d:b6:34:d2:c1:82:0e:aa:17:ff:d3:
+        0d:1d:4a:07:d8:e3:bb:9c:3f:fe:a3:8f:cf:52:77:9b:2d:74:
+        1f:aa:98:6b:e6:74:cf:0b:17:21:77:ed:95:ef:e7:8c:3c:9a:
+        87:e9:39:d6:8d:fc:2d:36:3c:f9:44:be:fb:d1:42:ae:2a:39:
+        e3:9d:8a:52
