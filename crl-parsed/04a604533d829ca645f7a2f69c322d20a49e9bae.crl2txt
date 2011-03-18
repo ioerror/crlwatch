@@ -1,0 +1,110 @@
+issuer=/C=IL/O=ComSign Ltd./CN=ComSign Server CA
+SHA1 Fingerprint=09:F9:A4:31:AD:7C:39:69:84:39:72:28:74:88:C5:27:05:87:DA:72
+a21ab6a7
+crlNumber=0E57
+lastUpdate=Mar 17 22:00:07 2011 GMT
+nextUpdate=Mar 18 22:00:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=IL/O=ComSign Ltd./CN=ComSign Server CA
+        Last Update: Mar 17 22:00:07 2011 GMT
+        Next Update: Mar 18 22:00:07 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:B9:2E:6B:93:9B:A9:70:95:3D:1C:1A:84:5A:D4:8A:F5:69:07:57:6E
+
+            X509v3 CRL Number: 
+                3671
+Revoked Certificates:
+    Serial Number: 0BA6930E92F432C66CF4586835416506
+        Revocation Date: Feb  9 15:24:53 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Feb  9 15:24:53 2010 GMT
+    Serial Number: 0CE885BD06ECEE8D4350A2F6B906C284
+        Revocation Date: Jul 30 07:38:59 2008 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul 30 07:38:41 2008 GMT
+    Serial Number: 1203DF75AB0D3FB31776C9DA73EFF9A8
+        Revocation Date: Nov 18 13:16:08 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov 18 13:13:12 2009 GMT
+    Serial Number: 21743A78B256DA16847F5AFFDD2C331A
+        Revocation Date: Jun 22 07:16:08 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 22 07:15:18 2009 GMT
+    Serial Number: 43C42C349BB7A95CE7A89E15B35E71DA
+        Revocation Date: Sep 21 11:51:16 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Sep 21 11:51:16 2009 GMT
+    Serial Number: 457518AD377E736A2C2DEC33D135B16A
+        Revocation Date: Mar 24 10:10:42 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar 24 10:10:42 2010 GMT
+    Serial Number: 4C54597EE32EC71740FB766834DBD1ED
+        Revocation Date: May 26 10:45:19 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                May 26 10:45:19 2010 GMT
+    Serial Number: 4E7B35E8CEFB3DF834F506585DEC1F65
+        Revocation Date: Feb 21 14:56:37 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Feb 21 14:56:37 2011 GMT
+    Serial Number: 5842715BB21E70CA8FB48D63044B667D
+        Revocation Date: Feb  6 07:33:17 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Feb  6 07:33:12 2011 GMT
+    Serial Number: 5EEC51822FCB6E666B6837ECBACB5517
+        Revocation Date: Oct  1 14:00:28 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct  1 14:00:28 2009 GMT
+    Serial Number: 64B03406BAA8277474521C0E9F0F079A
+        Revocation Date: Jun 19 09:02:07 2008 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 19 09:02:07 2008 GMT
+    Serial Number: 70D69A3CB939EBC19D6A6364B8C0F96C
+        Revocation Date: Mar 24 10:10:17 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar 24 10:10:17 2010 GMT
+    Serial Number: 7342A918031D40379B06BAF9941B5B9E
+        Revocation Date: Feb  9 15:25:18 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Feb  9 15:25:18 2010 GMT
+    Serial Number: DE27EF1CB5A0E8BD45F907D8E1B70957
+        Revocation Date: Jun  3 10:36:05 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun  3 10:35:09 2009 GMT
+    Serial Number: EEA74DF3DD5741AF8B00167C4A87B1F2
+        Revocation Date: Jul 29 12:54:50 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul 29 12:54:50 2010 GMT
+    Serial Number: F6BBE61E3A64AA03CE8172BC41E86E35
+        Revocation Date: Jun 29 14:53:19 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jun 29 14:53:14 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        b2:a1:a0:8e:f3:ca:4e:55:f9:71:f0:8a:19:54:eb:ef:bd:a4:
+        3a:43:59:5c:fc:41:0c:b5:c9:a5:69:fc:35:62:f9:f7:39:b2:
+        8c:4b:63:9f:c5:cd:0d:fc:53:04:e4:36:86:91:10:ef:2b:d7:
+        37:c6:d8:01:7d:80:84:1f:d8:8f:e1:22:d9:b3:07:bd:09:39:
+        a8:b1:98:55:e9:9d:75:98:56:06:e3:fe:b3:4a:3f:9f:2c:6c:
+        cd:ae:e8:3b:6b:08:1a:5b:29:0e:1b:5f:2b:a5:0a:f7:79:78:
+        d2:6f:a3:d3:23:02:8b:fb:a4:f6:61:ec:ef:ea:14:9f:4c:4a:
+        26:6f
