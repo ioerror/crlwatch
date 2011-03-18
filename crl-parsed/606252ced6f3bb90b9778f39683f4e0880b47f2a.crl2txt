@@ -1,0 +1,50 @@
+issuer=/C=DE/O=IPK Gatersleben/CN=IPK Gatersleben CA - G02/emailAddress=ca@ipk-gatersleben.de
+SHA1 Fingerprint=0B:05:E6:AA:FF:56:CD:53:7B:C5:71:3B:B5:10:DA:2A:84:06:57:EE
+b9a30ae0
+crlNumber=8F
+lastUpdate=Mar 14 08:42:17 2011 GMT
+nextUpdate=Apr 13 08:42:17 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=IPK Gatersleben/CN=IPK Gatersleben CA - G02/emailAddress=ca@ipk-gatersleben.de
+        Last Update: Mar 14 08:42:17 2011 GMT
+        Next Update: Apr 13 08:42:17 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                143
+Revoked Certificates:
+    Serial Number: 0EB2235F
+        Revocation Date: Aug 31 13:49:08 2009 GMT
+    Serial Number: 0EB22360
+        Revocation Date: Aug 31 13:49:09 2009 GMT
+    Serial Number: 0EB22361
+        Revocation Date: Aug 31 13:49:08 2009 GMT
+    Serial Number: 0EB22362
+        Revocation Date: Aug 25 13:14:07 2009 GMT
+    Serial Number: 0EDACF41
+        Revocation Date: Sep 24 11:20:07 2009 GMT
+    Serial Number: 0EDACFB7
+        Revocation Date: Sep 24 11:14:07 2009 GMT
+    Serial Number: 1028602B
+        Revocation Date: Jun 14 07:39:08 2010 GMT
+    Serial Number: 1028602C
+        Revocation Date: Jun 14 07:40:11 2010 GMT
+    Serial Number: 115FB1F4
+        Revocation Date: Feb 11 08:27:08 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        8d:df:bd:97:62:80:e2:22:96:93:29:5e:bf:be:69:99:40:89:
+        48:5b:14:83:2b:c3:00:a8:47:e3:dd:b6:73:40:d4:20:b5:be:
+        6b:a5:5f:c1:c3:f3:51:05:f4:18:d6:c1:a0:c6:31:89:e6:92:
+        55:77:25:29:17:5f:77:4d:48:66:f5:c2:99:d4:15:ae:eb:08:
+        81:58:87:59:b8:23:15:e7:8a:17:4c:57:47:b9:71:05:d6:14:
+        28:11:98:ff:6c:0a:27:f4:13:a9:14:d7:9c:bb:f4:4c:29:e6:
+        36:a2:93:5a:ee:74:73:f3:16:32:0b:ad:ee:23:a3:3e:ee:97:
+        23:0d:ce:37:e1:69:c9:9c:b3:32:a2:b0:8f:31:14:69:2f:26:
+        98:fe:f7:e5:92:3b:60:63:62:d8:41:65:4e:6a:9d:1f:e9:74:
+        27:99:ae:3f:31:a3:b5:67:2d:ce:80:d0:d5:62:12:11:7f:6e:
+        f6:05:0b:91:ab:f5:87:da:f3:ce:f8:51:1f:1d:79:d5:03:e4:
+        4c:b4:31:42:d8:9a:09:ab:63:57:e6:dd:a3:21:35:ed:2e:54:
+        85:cd:2a:85:db:7d:87:97:ed:56:69:85:dd:ac:a7:3d:f4:62:
+        0c:10:1b:3e:21:f1:13:78:28:0b:59:8d:52:64:d0:c7:20:f9:
+        9b:ad:09:10
