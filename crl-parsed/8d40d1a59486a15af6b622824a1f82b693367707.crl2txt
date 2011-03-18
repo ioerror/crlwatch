@@ -1,0 +1,46 @@
+issuer=/C=DE/O=Wissenschaftszentrum Berlin fuer Sozialforschung gGmbH/OU=DV/CN=WZB CA/emailAddress=certs@wzb.eu
+SHA1 Fingerprint=10:3E:2C:F6:20:98:FA:F0:62:0B:BE:A8:6F:67:93:68:0A:2C:D8:9B
+4d96ae68
+crlNumber=019D
+lastUpdate=Mar 14 09:47:29 2011 GMT
+nextUpdate=Apr 13 09:47:29 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Wissenschaftszentrum Berlin fuer Sozialforschung gGmbH/OU=DV/CN=WZB CA/emailAddress=certs@wzb.eu
+        Last Update: Mar 14 09:47:29 2011 GMT
+        Next Update: Apr 13 09:47:29 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                413
+Revoked Certificates:
+    Serial Number: 0A23776D
+        Revocation Date: Mar 28 13:11:15 2007 GMT
+    Serial Number: 0A237770
+        Revocation Date: Mar 28 13:11:16 2007 GMT
+    Serial Number: 0A974338
+        Revocation Date: Jun  5 11:10:39 2009 GMT
+    Serial Number: 0CA08C74
+        Revocation Date: Jun  5 11:10:46 2009 GMT
+    Serial Number: 0CA0A45E
+        Revocation Date: Jun  5 11:10:50 2009 GMT
+    Serial Number: 0CC23370
+        Revocation Date: Aug 13 12:57:08 2008 GMT
+    Serial Number: 0FBF1E48
+        Revocation Date: Mar 17 09:02:28 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        39:93:2d:be:dd:2a:25:b7:92:85:31:11:0a:08:80:64:a7:8b:
+        2f:a1:c6:bf:de:c1:71:eb:f1:a4:a4:d5:22:30:3f:59:20:83:
+        a1:52:d2:95:95:bb:64:fc:05:47:3c:6c:4e:6b:7f:45:64:5b:
+        0d:5d:0f:6d:30:8d:60:bc:3f:bd:12:0b:2b:ad:ea:0b:1d:17:
+        86:db:28:d1:f0:d5:cb:3a:42:46:f7:15:d2:c7:cb:49:ee:68:
+        2d:a5:d1:1a:0f:71:12:b3:36:13:1c:a5:46:b2:56:68:80:82:
+        63:38:a3:62:28:62:0c:ae:c8:e2:0d:0c:ab:db:6d:8d:10:0e:
+        78:f5:cc:9e:5a:ad:e6:ad:a6:7b:1c:71:01:b4:84:26:82:24:
+        82:e8:2e:85:2b:7f:2a:15:3d:a0:63:0d:0d:84:40:07:68:e4:
+        58:40:8b:48:3d:20:72:9b:97:29:40:eb:06:f4:5f:df:4c:59:
+        ae:a8:98:93:64:75:61:b2:58:77:78:79:64:d5:01:40:18:fc:
+        04:d6:bf:8a:0e:50:e0:c0:77:f8:bc:c2:0e:9d:dd:f1:d7:02:
+        e5:c3:ed:77:1d:c6:0f:b1:b4:38:7d:53:0b:24:9f:20:89:47:
+        04:e0:59:ce:07:60:00:60:f9:8f:2a:8c:e6:fe:bc:fd:b4:5b:
+        3d:bf:33:e7
