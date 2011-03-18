@@ -1,0 +1,74 @@
+issuer=/C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+SHA1 Fingerprint=78:E8:83:BC:61:2D:82:7C:4A:8F:0A:6C:B8:80:0C:AE:2F:F5:34:33
+4d654d1d
+crlNumber=0178
+lastUpdate=Jan 10 21:18:12 2011 GMT
+nextUpdate=Apr 10 21:23:12 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+        Last Update: Jan 10 21:18:12 2011 GMT
+        Next Update: Apr 10 21:23:12 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                376
+Revoked Certificates:
+    Serial Number: 07271678
+        Revocation Date: Jan 10 21:16:53 2011 GMT
+    Serial Number: 040003BA
+        Revocation Date: Jan 13 08:11:00 2005 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 0727163A
+        Revocation Date: Nov 21 15:45:28 2007 GMT
+    Serial Number: 07271661
+        Revocation Date: Feb  6 15:31:09 2008 GMT
+    Serial Number: 07271676
+        Revocation Date: Feb 19 18:33:46 2008 GMT
+    Serial Number: 0727169D
+        Revocation Date: May 14 14:25:15 2008 GMT
+    Serial Number: 072716A7
+        Revocation Date: May 15 17:03:49 2008 GMT
+    Serial Number: 07271FB7
+        Revocation Date: Sep 24 14:33:37 2008 GMT
+    Serial Number: 07272382
+        Revocation Date: Dec  3 14:43:36 2008 GMT
+    Serial Number: 0727276A
+        Revocation Date: Feb  9 17:43:51 2009 GMT
+    Serial Number: 07276201
+        Revocation Date: Apr 14 18:11:48 2010 GMT
+    Serial Number: 07271FAE
+        Revocation Date: Sep 17 15:04:32 2008 GMT
+    Serial Number: 07272384
+        Revocation Date: Dec  3 14:42:09 2008 GMT
+    Serial Number: 07272383
+        Revocation Date: Dec  3 14:42:41 2008 GMT
+    Serial Number: 07272381
+        Revocation Date: Dec  3 14:43:04 2008 GMT
+    Serial Number: 07272575
+        Revocation Date: Dec  3 14:44:09 2008 GMT
+    Serial Number: 07272F39
+        Revocation Date: Mar 18 13:09:30 2009 GMT
+    Serial Number: 0727351A
+        Revocation Date: Jun  3 13:53:40 2009 GMT
+    Serial Number: 072738FD
+        Revocation Date: Jul 15 18:18:53 2009 GMT
+    Serial Number: 07275455
+        Revocation Date: Jan 13 19:18:52 2010 GMT
+    Serial Number: 07276BC5
+        Revocation Date: Nov 30 16:37:24 2010 GMT
+    Serial Number: 07271FAF
+        Revocation Date: Sep 17 15:03:12 2008 GMT
+    Serial Number: 0727600D
+        Revocation Date: Apr 21 19:11:12 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        53:b7:89:16:0c:45:ee:1f:04:22:e9:a5:b4:82:7c:c0:1b:53:
+        c5:24:8c:fb:f8:28:b3:5c:32:45:92:da:c4:dc:26:96:ea:bb:
+        ef:b4:7f:80:4f:8d:e3:aa:0a:67:f0:e3:d5:cb:09:81:57:31:
+        29:4c:92:bf:ab:9f:61:48:43:0b:9a:4a:60:c6:9e:6c:ba:4e:
+        30:c5:b4:58:d7:5a:8e:b7:03:58:f4:f9:d9:b3:cc:f7:36:3b:
+        d2:e8:3e:c3:09:c0:55:f0:e6:cb:59:b5:04:aa:ca:68:3b:d7:
+        61:9b:d5:66:ec:36:29:35:fc:66:3f:ac:79:f3:f1:90:1a:ca:
+        cc:ba
