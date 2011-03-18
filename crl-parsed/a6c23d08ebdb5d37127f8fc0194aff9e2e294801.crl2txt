@@ -1,0 +1,99 @@
+issuer=/C=US/O=WoSign, Inc./CN=WoSign Server Authority
+SHA1 Fingerprint=A0:CB:C4:6F:ED:A0:26:26:54:C6:3D:C7:E1:DB:BB:2A:8F:77:3B:13
+3d36c36f
+crlNumber=0596
+lastUpdate=Mar 18 07:26:44 2011 GMT
+nextUpdate=Mar 22 07:26:44 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=WoSign, Inc./CN=WoSign Server Authority
+        Last Update: Mar 18 07:26:44 2011 GMT
+        Next Update: Mar 22 07:26:44 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:D0:4A:B5:27:93:1B:46:EB:AB:38:46:7C:90:55:E1:16:61:1F:6F:D5
+
+            X509v3 CRL Number: 
+                1430
+Revoked Certificates:
+    Serial Number: A2B2C65EF540B58EA31890D9DD4EFF30
+        Revocation Date: Jul  1 06:11:59 2008 GMT
+    Serial Number: A33CD1425D6F41019011D32949E8FC11
+        Revocation Date: Oct 14 06:12:52 2008 GMT
+    Serial Number: E418ABF0CA57613465B22C72BC63FA30
+        Revocation Date: Nov 13 05:41:31 2008 GMT
+    Serial Number: 24467585FD69F94426AE2B9CAE182022
+        Revocation Date: Dec 10 05:43:06 2008 GMT
+    Serial Number: 2D7773B399EC5B63AE8B5BF68C21B6FD
+        Revocation Date: Dec 24 07:25:50 2008 GMT
+    Serial Number: CB6E63BE8452C877E4C6354D70A98011
+        Revocation Date: May 15 09:45:04 2009 GMT
+    Serial Number: 8EADF4BEB2ADCF1EA7D8806179708FB4
+        Revocation Date: May 31 06:46:45 2009 GMT
+    Serial Number: 0256D455949A98AE2773FEA490B5DCA3
+        Revocation Date: Jul  2 05:54:28 2009 GMT
+    Serial Number: 4BA22185F19066A74F042C7405726CAA
+        Revocation Date: Jul  2 06:24:43 2009 GMT
+    Serial Number: 12037252CFDD43DC7D3F1BA2E64CB386
+        Revocation Date: Sep 21 07:44:38 2009 GMT
+    Serial Number: 18624FF1A5C82B1827AC3893AE697C4F
+        Revocation Date: Dec 18 08:28:54 2009 GMT
+    Serial Number: DEB67681D7D428A58B8D2C771BB4FE8C
+        Revocation Date: Jan  6 08:25:53 2010 GMT
+    Serial Number: 4A7FFEA6CA220F5C76010DA6068A9D9A
+        Revocation Date: Jan  6 08:32:37 2010 GMT
+    Serial Number: 5A1CA30082EDE5569BA5017225B175EC
+        Revocation Date: Feb  3 09:10:59 2010 GMT
+    Serial Number: 7048825BEA5BE46A8C2B0AE59E075595
+        Revocation Date: Mar 30 07:11:24 2010 GMT
+    Serial Number: DCD1DC07ADB7E215E6884A691E32D4D6
+        Revocation Date: May 31 02:56:42 2010 GMT
+    Serial Number: 82557AE0E4265D88A1229653C3254BBE
+        Revocation Date: May 31 08:08:23 2010 GMT
+    Serial Number: A31059382BC9FE479C1B5F88662C7221
+        Revocation Date: Jun  1 08:36:14 2010 GMT
+    Serial Number: 82B3E5494AEB6894D14E4F2417A8FABB
+        Revocation Date: Jun  1 17:36:26 2010 GMT
+    Serial Number: 114E498723E80AE0AB03533F3DF02B0D
+        Revocation Date: Jun  9 08:13:37 2010 GMT
+    Serial Number: 7C0D2E3FF68E234E090927C461A32B82
+        Revocation Date: Jun  9 08:13:54 2010 GMT
+    Serial Number: AAAE05266AA8C10B2C72CB7B1E985213
+        Revocation Date: Jun  9 08:14:10 2010 GMT
+    Serial Number: 74C35558AE124F21BF16BB7448CADBDD
+        Revocation Date: Jun 28 06:58:28 2010 GMT
+    Serial Number: 377A3D7C32E6793B399D11D8C4D7BA8A
+        Revocation Date: Sep 21 00:43:24 2010 GMT
+    Serial Number: 1CDE83120887B91B760B774AD93B80A3
+        Revocation Date: Oct 19 03:20:29 2010 GMT
+    Serial Number: 68F601397A9241A22918FBCE8D934F2D
+        Revocation Date: Oct 19 03:21:50 2010 GMT
+    Serial Number: 42C8766334AE7015B594B1D0F9CD5E9D
+        Revocation Date: Oct 21 00:48:51 2010 GMT
+    Serial Number: FCC4F137A1304FD5303CBD7CEEA88598
+        Revocation Date: Nov  4 02:44:26 2010 GMT
+    Serial Number: 0DF31717C05E633C27037BBED5ABC394
+        Revocation Date: Nov  4 18:37:08 2010 GMT
+    Serial Number: 7488774BC90F86CCB20527D759C22504
+        Revocation Date: Nov 17 03:39:12 2010 GMT
+    Serial Number: 775AE38A100A2D709E9383F3D881D99F
+        Revocation Date: Dec 23 09:50:38 2010 GMT
+    Serial Number: 63A7F35B3C8BCDE8A0E45664C47FCC86
+        Revocation Date: Jan 14 06:32:29 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        1a:0e:ff:84:6c:80:09:17:f6:3e:3d:e4:b4:28:a1:6e:64:ff:
+        67:36:2d:d0:f3:02:14:96:03:52:de:79:6d:b1:88:99:25:22:
+        66:69:0a:7e:26:0c:79:56:ca:ea:dc:fc:1f:a8:da:b5:2d:6e:
+        97:aa:a6:07:10:81:77:31:ff:d4:93:e4:bf:5c:f9:31:e7:f7:
+        82:10:67:97:43:f9:c6:c3:5c:ee:42:62:b9:e3:e5:0c:88:d8:
+        c0:07:27:83:28:88:53:86:73:8b:88:32:0f:63:46:46:db:bb:
+        25:c3:9e:de:62:ce:41:4a:48:b4:77:78:23:75:7e:73:7a:0a:
+        3b:ba:5b:76:e7:d4:5e:47:8e:ba:a0:d0:2b:6a:3d:5c:d7:c5:
+        b6:d7:0f:d8:72:0b:e8:db:c6:a8:6b:a0:16:10:e8:22:85:8e:
+        94:c2:fc:79:e7:23:61:56:87:3d:fa:ab:9c:67:08:3f:d8:7b:
+        2b:1e:41:42:33:4c:0c:25:d5:20:8b:9d:6e:1b:a8:86:df:7d:
+        ec:3d:5f:b8:ab:ef:58:a0:7f:9e:5d:22:06:23:d2:a2:7a:ef:
+        a6:2b:48:04:b3:fb:5a:29:56:e2:80:54:3c:18:38:fe:ec:0c:
+        19:04:0c:24:f1:0d:42:66:4a:1c:f1:25:2c:27:c4:ea:91:42:
+        8d:36:85:2f
