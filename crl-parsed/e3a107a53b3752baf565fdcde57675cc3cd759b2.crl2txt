@@ -1,0 +1,46 @@
+issuer=/C=DE/ST=Bayern/L=Hof/O=Hochschule fuer angewandte Wissenschaften Fachhochschule Hof/OU=Rechenzentrum/CN=Hochschule fuer angewandte Wissenschaften FH Hof CA - G01/emailAddress=pki@fh-hof.de
+SHA1 Fingerprint=74:00:F4:15:82:10:14:6B:A9:BF:DB:2A:B2:C7:6E:0F:63:DC:9A:A2
+f79bf8ea
+crlNumber=CF
+lastUpdate=Mar 14 07:41:13 2011 GMT
+nextUpdate=Apr 13 07:41:13 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Hof/O=Hochschule fuer angewandte Wissenschaften Fachhochschule Hof/OU=Rechenzentrum/CN=Hochschule fuer angewandte Wissenschaften FH Hof CA - G01/emailAddress=pki@fh-hof.de
+        Last Update: Mar 14 07:41:13 2011 GMT
+        Next Update: Apr 13 07:41:13 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                207
+Revoked Certificates:
+    Serial Number: 0D4A2D73
+        Revocation Date: Nov 28 11:37:06 2008 GMT
+    Serial Number: 10AD4EB9
+        Revocation Date: Sep 13 11:11:20 2010 GMT
+    Serial Number: 10AD4F32
+        Revocation Date: Sep 13 11:11:19 2010 GMT
+    Serial Number: 10AD83F1
+        Revocation Date: Sep 13 11:35:07 2010 GMT
+    Serial Number: 10AD83F2
+        Revocation Date: Sep 13 11:35:08 2010 GMT
+    Serial Number: 10DF4D34
+        Revocation Date: Oct 21 12:11:13 2010 GMT
+    Serial Number: 1109D89B
+        Revocation Date: Nov 25 07:39:22 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        d2:5f:06:c6:ae:6c:22:5a:e1:3d:85:04:89:ad:a2:59:29:15:
+        94:77:00:37:00:a5:fe:79:d7:a8:f4:b6:77:ab:1a:12:bf:b0:
+        f5:3b:29:a4:8c:34:df:62:4d:ad:7a:10:8d:0c:cf:a6:ae:43:
+        51:cd:9f:fb:c9:df:08:cd:9f:8e:d1:de:7c:1a:8d:ec:1c:32:
+        34:db:f7:2f:97:7b:25:2d:c1:97:9c:5d:a5:f8:ba:aa:c4:d5:
+        30:6f:16:ee:15:80:2b:d3:1f:c3:6f:24:e7:af:9f:96:48:1e:
+        2d:01:69:d3:6e:fb:ea:c4:96:a0:69:ca:1e:20:21:e7:0a:1b:
+        a7:b3:bf:46:83:4b:ab:46:e8:bc:7c:e6:3b:92:7f:8f:86:6f:
+        ca:c7:41:cf:d1:11:02:7d:1e:44:fc:45:56:7b:34:0d:78:a1:
+        7e:e2:aa:d4:dc:30:60:d8:2e:e9:6b:24:38:ba:df:03:03:29:
+        dc:a3:8c:02:a2:97:96:bd:93:88:ca:5f:09:d1:58:66:c2:25:
+        e7:bf:76:57:13:1d:f6:36:de:64:6a:ae:73:af:0e:1e:a4:8d:
+        b3:ee:e3:d1:57:e1:cd:8e:64:e8:65:3a:64:87:17:85:51:54:
+        a2:a8:83:c7:7f:61:52:5a:53:b0:63:d6:e3:13:b5:32:c1:f8:
+        8e:e0:06:d1
