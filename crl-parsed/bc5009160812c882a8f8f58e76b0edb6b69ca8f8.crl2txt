@@ -1,0 +1,86 @@
+issuer=/C=TW/O=TAIWAN-CA.COM Inc./OU=Certification Service Provider/CN=TaiCA Secure CA
+SHA1 Fingerprint=F8:FF:2D:10:91:B9:00:0B:4F:22:1D:CF:47:56:47:FB:37:DD:75:97
+cff10697
+crlNumber=4D831B7A
+lastUpdate=Mar 18 08:44:42 2011 GMT
+nextUpdate=Mar 19 08:44:42 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=TW/O=TAIWAN-CA.COM Inc./OU=Certification Service Provider/CN=TaiCA Secure CA
+        Last Update: Mar 18 08:44:42 2011 GMT
+        Next Update: Mar 19 08:44:42 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                1300437882
+            X509v3 Authority Key Identifier: 
+                keyid:13:FB:7D:45:07:35:D0:3E:41:C6:93:17:C1:91:0B:D3:10:9C:C1:F2
+
+            X509v3 Issuing Distrubution Point: critical
+                08.6.4.2http://sslserver.twca.com.tw/sslserver/revoke9.crl
+Revoked Certificates:
+    Serial Number: 4A2383A4
+        Revocation Date: Jun  2 08:12:26 2009 GMT
+    Serial Number: 4A6E6CD6
+        Revocation Date: Aug  3 01:47:39 2009 GMT
+    Serial Number: 4AD58784
+        Revocation Date: Apr  9 10:17:30 2010 GMT
+    Serial Number: 4A643548
+        Revocation Date: Jul 21 03:46:14 2009 GMT
+    Serial Number: 4A2E0860
+        Revocation Date: Jun 10 01:59:24 2009 GMT
+    Serial Number: 4A407BE4
+        Revocation Date: Jun 30 09:51:05 2009 GMT
+    Serial Number: 4A3B31E6
+        Revocation Date: Jun 19 08:04:08 2009 GMT
+    Serial Number: 49C34A6A
+        Revocation Date: Mar 25 09:40:12 2009 GMT
+    Serial Number: 4A605D08
+        Revocation Date: Aug 27 06:07:05 2009 GMT
+    Serial Number: 49C36590
+        Revocation Date: May 26 11:28:48 2009 GMT
+    Serial Number: 49D034D2
+        Revocation Date: Mar 31 10:43:57 2009 GMT
+    Serial Number: 49DC6DEC
+        Revocation Date: Apr 16 02:53:13 2009 GMT
+    Serial Number: 4A94A391
+        Revocation Date: Aug 27 01:50:57 2009 GMT
+    Serial Number: 4A8CF20B
+        Revocation Date: Aug 21 01:26:10 2009 GMT
+    Serial Number: 49C9FAFE
+        Revocation Date: May 15 09:23:32 2009 GMT
+    Serial Number: 49C34AB0
+        Revocation Date: Mar 25 09:38:11 2009 GMT
+    Serial Number: 4A3B33BC
+        Revocation Date: Jun 19 08:01:44 2009 GMT
+    Serial Number: 4A0162A4
+        Revocation Date: Apr  9 10:17:18 2010 GMT
+    Serial Number: 4A31F0F9
+        Revocation Date: Jun 16 09:41:17 2009 GMT
+    Serial Number: 4A3A1468
+        Revocation Date: Jun 18 10:24:21 2009 GMT
+    Serial Number: 4A9B9021
+        Revocation Date: Sep  2 03:12:51 2009 GMT
+    Serial Number: 4ABC8D49
+        Revocation Date: Sep 28 06:22:51 2009 GMT
+    Serial Number: 4AB74584
+        Revocation Date: Oct 16 08:44:36 2009 GMT
+    Serial Number: 4A6EC21C
+        Revocation Date: Jul 28 09:29:48 2009 GMT
+    Serial Number: 4A7161B6
+        Revocation Date: Sep 18 08:49:32 2009 GMT
+    Serial Number: 4A85005F
+        Revocation Date: Aug 14 08:43:48 2009 GMT
+    Serial Number: 4AB32DA0
+        Revocation Date: Sep 18 08:48:05 2009 GMT
+    Serial Number: 4ACF102B
+        Revocation Date: Jun  3 15:03:55 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        81:84:e3:d5:c8:d4:cc:40:3b:35:6c:19:23:1a:1d:f5:35:d6:
+        46:29:66:13:33:65:ca:be:3e:fd:b5:40:fd:2d:11:35:b3:cc:
+        d3:58:41:ab:51:b2:06:02:1c:e5:c3:cf:33:72:72:22:bf:7a:
+        a1:a3:5a:53:d5:dc:d2:fd:3d:2b:57:6e:72:15:f1:ac:c0:b7:
+        43:4e:3d:26:69:1f:cc:e5:92:25:05:1e:36:66:64:70:c9:6b:
+        e0:0e:ed:0c:2b:76:0c:f4:a8:19:ea:2e:e0:1f:d3:65:30:e6:
+        bd:5c:c7:00:bd:77:79:35:27:d6:dd:7e:a8:60:e5:1b:89:45:
+        a9:9b
