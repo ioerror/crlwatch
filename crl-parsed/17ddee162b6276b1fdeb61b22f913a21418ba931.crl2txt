@@ -1,0 +1,34 @@
+issuer=/C=DE/O=Universitaet Hildesheim/OU=Rechenzentrum/CN=Uni Hildesheim CA/emailAddress=unihica@uni-hildesheim.de
+SHA1 Fingerprint=2B:69:78:35:09:EF:1C:2A:13:FE:06:05:10:20:CC:28:73:01:0D:FB
+4394bfe5
+crlNumber=AD
+lastUpdate=Mar 14 09:31:15 2011 GMT
+nextUpdate=Apr 13 09:31:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Universitaet Hildesheim/OU=Rechenzentrum/CN=Uni Hildesheim CA/emailAddress=unihica@uni-hildesheim.de
+        Last Update: Mar 14 09:31:15 2011 GMT
+        Next Update: Apr 13 09:31:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                173
+Revoked Certificates:
+    Serial Number: 1077A634
+        Revocation Date: Aug  4 09:16:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        2a:24:92:f5:e5:ca:a4:ec:60:a4:2a:ff:1e:d1:f7:dd:69:87:
+        74:1d:d5:c4:a5:ac:ef:29:a5:0a:48:38:c5:9d:d9:a0:8c:16:
+        a6:ae:63:8f:54:7e:bb:a3:4c:ca:87:b3:97:65:9d:6c:e6:fc:
+        03:18:ab:21:83:ce:5f:44:e0:ee:55:cb:8e:cd:4c:91:05:f8:
+        0a:3a:87:f9:b8:70:67:89:22:fa:90:d5:d8:95:5d:a7:65:5d:
+        02:fb:79:cb:6e:bd:49:22:de:95:13:36:63:08:58:5c:79:a3:
+        9e:8e:a5:77:41:b2:61:8e:50:ec:91:26:98:6e:2c:15:d4:6e:
+        67:07:86:73:04:fe:33:a1:05:cd:18:5c:36:2c:ee:30:3c:20:
+        6a:21:d7:bd:08:bf:db:b9:81:67:e6:4f:5c:9b:3b:d8:b3:89:
+        85:b4:68:02:48:12:13:ab:43:6e:f3:05:08:8e:15:c2:ac:43:
+        01:9f:45:9f:8c:5a:58:1e:9e:ab:cb:0f:79:7a:58:bf:d8:49:
+        c9:7e:19:9d:5e:04:89:df:a3:58:54:8f:5e:39:d0:23:d6:99:
+        93:09:be:d5:aa:1a:17:8d:40:93:d6:96:1d:0f:71:99:ba:e5:
+        6e:a6:d9:4f:68:2c:0d:0e:d0:92:5c:9a:f6:60:40:bb:1b:21:
+        6e:58:c1:63
