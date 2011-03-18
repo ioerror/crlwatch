@@ -1,0 +1,51 @@
+issuer=/C=ES/O=DIRECCION GENERAL DE LA POLICIA/OU=DNIE/CN=AC RAIZ DNIE
+SHA1 Fingerprint=9E:C4:DF:3D:3C:26:0D:C1:5C:DC:26:72:80:20:4A:6A:C3:34:3F:54
+1c08bb9c
+crlNumber=1D
+lastUpdate=Dec 13 10:07:20 2010 GMT
+nextUpdate=May 13 10:07:20 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/O=DIRECCION GENERAL DE LA POLICIA/OU=DNIE/CN=AC RAIZ DNIE
+        Last Update: Dec 13 10:07:20 2010 GMT
+        Next Update: May 13 10:07:20 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                29
+            X509v3 Authority Key Identifier: 
+                keyid:8E:45:F4:9F:73:C5:FF:2F:1B:05:DB:01:47:60:1B:03:8A:81:B7:BA
+
+            X509v3 Issuing Distrubution Point: 
+                0......... http://crls.dnie.es/crls/ARL.crl...ldap://ldap.dnie.es/CN=CRL,CN=AC%20RAIZ%20DNIE,OU=DNIE,O=DIRECCION%20GENERAL%20DE%20LA%20POLICIA,C=ES?authorityRevocationList?base?objectclass=cRLDistributionPoint...
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        35:63:82:02:7d:73:8f:99:84:10:46:26:e0:90:32:d6:26:5e:
+        b3:60:31:96:76:6b:19:60:65:ca:ff:ce:dd:28:6f:b9:92:92:
+        01:6d:6f:c1:3b:bd:8f:11:96:aa:44:9e:df:1f:cc:5d:2b:0d:
+        21:a6:79:8c:0c:d0:4f:c1:7e:be:3b:e7:f2:25:71:70:89:f8:
+        c2:3b:8f:3e:35:f8:5e:cf:43:f9:17:94:2c:bc:43:2f:fc:cb:
+        ff:97:16:fc:a7:30:97:18:5c:c6:e7:e2:ec:b1:f5:23:d1:92:
+        24:3e:71:d6:74:01:1e:6c:32:8a:1f:8d:18:d9:cd:81:d5:e9:
+        53:c0:8b:98:ba:dc:70:b7:2b:9c:b3:28:41:78:a8:4a:1b:7c:
+        09:c7:1b:76:9f:ae:f9:b7:58:76:de:dc:80:65:46:b8:bf:9e:
+        a7:af:a1:d5:7d:ae:e9:2a:b4:0b:f5:2b:cc:ac:c3:72:97:6c:
+        df:4d:9f:0e:66:7d:1a:5e:36:46:86:93:78:24:57:99:9c:2d:
+        2a:ec:07:55:0f:63:0e:c0:df:90:ca:05:08:15:1e:30:36:1c:
+        de:92:45:a1:0e:ce:05:fc:73:16:6d:2d:6a:b5:3c:c6:f6:50:
+        1c:a1:cd:71:26:a3:17:c3:40:c0:86:63:42:f8:43:41:13:4f:
+        da:73:92:9a:93:50:c1:8a:db:55:38:c3:39:3b:b6:aa:8a:f8:
+        c9:65:b2:bc:00:6e:cb:23:34:46:05:26:79:78:d7:b7:10:2b:
+        51:32:3d:69:0d:57:34:16:8e:8e:0a:f6:91:50:62:e1:dd:09:
+        25:03:4e:ff:79:9a:97:1c:20:6f:20:48:1c:5c:82:ba:54:50:
+        b1:52:78:eb:df:b8:32:62:48:e4:e7:e9:78:a2:5e:52:ea:98:
+        7b:5a:4f:5d:1a:7b:5c:3d:26:d6:7c:ff:c7:e6:d1:28:8d:55:
+        39:0d:8a:d2:35:e8:fe:a6:45:54:08:10:9b:e4:a4:ae:0c:4d:
+        d5:ca:e2:d4:2d:3c:67:ce:19:fa:c6:2e:4e:b3:5f:de:96:c2:
+        97:74:1b:9e:a9:7e:c2:28:47:ca:5b:be:2a:68:90:74:b7:0b:
+        64:66:be:d3:10:18:d7:27:b7:d6:9b:da:dd:0c:f7:c2:e8:0f:
+        5e:ee:2a:d6:0f:7e:23:35:a7:d9:8d:28:06:eb:75:cd:b4:74:
+        45:25:78:c3:11:49:70:71:9c:9c:82:ab:f7:86:b9:12:6c:28:
+        eb:7c:4a:84:f3:d9:94:60:51:f9:66:76:04:9d:55:af:b0:b3:
+        be:db:65:8d:66:e1:20:04:36:d7:eb:c9:ee:7f:67:05:49:38:
+        bb:25:b6:ad:98:3a:d3:d7
