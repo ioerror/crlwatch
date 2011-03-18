@@ -1,0 +1,39 @@
+issuer=/C=US/ST=OH/L=Oxford/O=Miami University/OU=IT Services/CN=tarquin
+SHA1 Fingerprint=47:04:6B:C1:5A:DF:CF:7B:5A:B2:26:5D:AA:7D:27:0E:02:28:50:FF
+d706c80e
+crlNumber=13
+lastUpdate=Feb 28 22:44:30 2011 GMT
+nextUpdate=Aug  2 11:04:30 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/ST=OH/L=Oxford/O=Miami University/OU=IT Services/CN=tarquin
+        Last Update: Feb 28 22:44:30 2011 GMT
+        Next Update: Aug  2 11:04:30 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:40:AA:B1:86:B7:0E:7E:9D:2D:38:26:4F:3E:56:E8:5F:D6:2E:16:E3
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                19
+            1.3.6.1.4.1.311.21.4: 
+                .110801225430Z
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        39:c6:8f:03:fb:b9:4e:ff:75:cf:1d:b9:6a:fb:2c:de:57:23:
+        1c:68:39:99:f2:02:32:c9:ee:67:91:55:f7:ae:3d:a7:63:e0:
+        30:0d:99:36:e0:8c:2d:73:b2:c8:9e:8d:fe:63:67:5c:31:5e:
+        98:6e:db:40:b2:bc:2b:62:e4:d6:55:ba:e9:c9:6b:fb:0c:3f:
+        27:36:f6:5f:e2:42:ac:7d:27:4d:9a:f6:cb:8f:f2:29:29:3b:
+        00:27:69:5a:46:02:4a:12:44:4a:5c:a1:6e:3b:7c:52:18:07:
+        4c:a0:85:90:69:25:6d:ac:c8:7b:1b:29:b4:4f:f8:d4:be:1d:
+        59:a8:4f:d8:81:d4:b7:3e:48:13:4a:03:c0:01:bd:60:fd:1a:
+        8a:85:93:b4:1f:04:78:04:18:4e:9b:a0:86:19:00:bf:08:4d:
+        fc:c0:2f:a1:e3:91:1c:eb:d0:49:44:da:21:fe:47:99:9b:52:
+        2c:66:09:ff:a5:52:63:53:66:18:f4:04:79:20:46:1b:10:d2:
+        c2:f0:92:45:3c:67:aa:12:19:fa:e0:0f:ea:58:8e:9f:ed:6f:
+        1a:b4:2e:77:96:9f:6f:ca:5c:07:7b:33:60:76:22:61:c0:cc:
+        e5:76:b2:91:cf:3e:f8:c8:43:bf:92:fe:cd:16:3b:3d:3a:20:
+        75:6c:56:e2
