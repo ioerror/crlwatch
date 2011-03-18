@@ -1,0 +1,42 @@
+issuer=/C=DE/O=Fachhochschule Osnabrueck/OU=Fachdienst EDV/CN=FH Osnabrueck CA - G02/emailAddress=certificate@fh-osnabrueck.de
+SHA1 Fingerprint=69:F0:C3:D8:6C:22:A2:FA:F5:83:AD:E5:E9:BE:FD:29:81:3F:E4:D3
+a6a84d6e
+crlNumber=01B2
+lastUpdate=Mar 14 07:47:07 2011 GMT
+nextUpdate=Apr 13 07:47:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Fachhochschule Osnabrueck/OU=Fachdienst EDV/CN=FH Osnabrueck CA - G02/emailAddress=certificate@fh-osnabrueck.de
+        Last Update: Mar 14 07:47:07 2011 GMT
+        Next Update: Apr 13 07:47:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                434
+Revoked Certificates:
+    Serial Number: 0A7D0CD4
+        Revocation Date: Jun  1 12:50:49 2007 GMT
+    Serial Number: 0CE71D9B
+        Revocation Date: Mar 23 15:13:07 2009 GMT
+    Serial Number: 0D0D20D9
+        Revocation Date: Jun  5 11:07:46 2009 GMT
+    Serial Number: 1064D3F8
+        Revocation Date: Aug 30 12:20:10 2010 GMT
+    Serial Number: 106E6D57
+        Revocation Date: Jul 27 14:52:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        21:23:ab:99:53:7c:df:94:57:cc:0f:11:c1:b0:16:b8:1b:d5:
+        b7:69:ce:5d:5c:29:c3:30:09:70:6f:08:74:1d:1b:4c:40:3c:
+        49:df:81:4b:70:73:6b:32:21:e7:64:41:78:68:48:e2:fa:c0:
+        fd:c0:e9:ef:2e:bc:c1:39:19:64:17:3a:41:92:4b:2a:39:26:
+        42:00:e7:ef:d7:ed:82:cb:9e:3f:16:eb:26:bb:bc:a8:5b:25:
+        18:f6:6e:d1:b2:12:d3:3d:2c:d3:29:2f:4d:86:d7:fe:6a:64:
+        41:6a:f4:b1:5d:f9:a4:81:ad:f9:4b:df:ed:ee:f0:f4:55:33:
+        ae:90:79:0a:a7:08:a6:63:66:e7:67:39:1e:6e:a9:7c:31:bb:
+        7a:02:26:ca:61:5d:8f:d7:d3:f8:6f:6e:72:97:a9:9c:08:a7:
+        43:4c:c4:9f:1f:06:f9:16:e2:d2:08:65:a9:77:8f:5e:09:1e:
+        b9:a4:d5:87:83:ac:99:30:fa:67:ec:af:2b:ba:32:cb:0a:e9:
+        db:ab:aa:06:1a:da:16:05:ad:25:64:d8:49:77:dc:20:2e:1b:
+        d4:ec:11:03:aa:a8:c7:44:6f:bb:ce:15:63:a1:e5:fe:bf:47:
+        12:06:ba:99:cb:4a:ac:a1:f7:80:79:c8:91:5d:5d:cf:25:44:
+        7c:7b:de:02
