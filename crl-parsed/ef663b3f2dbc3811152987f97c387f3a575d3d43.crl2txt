@@ -1,0 +1,56 @@
+issuer=/C=DE/ST=Nordrhein-Westfalen/L=Krefeld/O=Hochschule Niederrhein/OU=Datenverarbeitungszentrale/CN=Hochschule Niederrhein CA - G01/emailAddress=pki@hs-niederrhein.de
+SHA1 Fingerprint=DE:35:3D:3E:05:F3:C4:C7:30:8B:2F:90:9E:0F:71:58:B6:42:2C:D9
+d9f8b18a
+crlNumber=FA
+lastUpdate=Mar 14 08:26:16 2011 GMT
+nextUpdate=Apr 13 08:26:16 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Nordrhein-Westfalen/L=Krefeld/O=Hochschule Niederrhein/OU=Datenverarbeitungszentrale/CN=Hochschule Niederrhein CA - G01/emailAddress=pki@hs-niederrhein.de
+        Last Update: Mar 14 08:26:16 2011 GMT
+        Next Update: Apr 13 08:26:16 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                250
+Revoked Certificates:
+    Serial Number: 0B37F50A
+        Revocation Date: Oct 24 15:14:12 2007 GMT
+    Serial Number: 0C1F0336
+        Revocation Date: Apr 15 13:26:23 2008 GMT
+    Serial Number: 0C1F03E7
+        Revocation Date: Apr 15 17:29:20 2008 GMT
+    Serial Number: 0C1F0987
+        Revocation Date: Apr 15 17:29:22 2008 GMT
+    Serial Number: 0C242DD4
+        Revocation Date: Apr 15 17:26:23 2008 GMT
+    Serial Number: 0C259DC0
+        Revocation Date: Apr 18 12:11:08 2008 GMT
+    Serial Number: 10A98126
+        Revocation Date: Sep 13 10:20:09 2010 GMT
+    Serial Number: 10CCFFF4
+        Revocation Date: Oct 13 14:03:08 2010 GMT
+    Serial Number: 10DF6BAC
+        Revocation Date: Oct 22 08:09:08 2010 GMT
+    Serial Number: 10E794E4
+        Revocation Date: Nov  2 15:35:29 2010 GMT
+    Serial Number: 10EFAF94
+        Revocation Date: Nov  3 08:35:11 2010 GMT
+    Serial Number: 1109B69F
+        Revocation Date: Dec  1 07:03:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        ab:f1:92:d5:ed:6d:f3:d5:39:62:22:f0:73:10:0b:34:d1:71:
+        ff:62:7f:ed:b6:23:9e:d0:58:4a:a8:67:ff:dc:37:0a:5c:31:
+        0b:40:7f:9f:45:44:b8:46:e4:9b:1e:eb:60:01:16:e3:99:7a:
+        95:07:2b:83:0b:d7:6a:47:b4:6d:c1:d5:06:03:cd:aa:3f:96:
+        2f:95:e0:f1:42:cb:bc:19:2b:22:be:62:db:c1:5f:d2:b9:fd:
+        b6:35:58:01:61:6b:66:7f:5f:f8:64:3c:52:2c:06:c1:ba:da:
+        ac:b1:9a:3e:33:e4:7c:6f:92:c1:37:ea:ec:31:38:0e:80:3d:
+        68:58:0a:3b:75:d1:b0:d6:dd:c1:2f:bd:fe:09:f9:a9:72:9d:
+        d4:2b:73:53:0c:c6:33:4a:b5:20:ee:59:df:61:8e:9c:52:88:
+        f8:53:13:8f:f7:42:75:40:ad:7c:52:e5:0e:1c:9c:69:58:4d:
+        27:dc:70:d0:d2:2e:54:af:f0:87:88:38:3e:17:0f:63:4a:55:
+        e0:bf:bc:25:34:72:95:55:5a:a2:90:86:e7:5d:31:f3:c7:6b:
+        d9:27:aa:b7:4a:5b:13:8c:91:3b:dd:de:38:c5:5d:73:74:df:
+        c4:6b:58:70:8b:1b:90:c7:08:d1:48:24:c9:ca:1c:95:30:89:
+        ed:0c:49:21
