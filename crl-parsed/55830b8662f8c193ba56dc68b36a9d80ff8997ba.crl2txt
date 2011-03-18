@@ -1,0 +1,44 @@
+issuer=/DC=com/DC=microsoft/DC=corp/DC=redmond/CN=Microsoft Secure Server Authority
+SHA1 Fingerprint=80:51:AC:E1:2C:17:A3:5B:6A:2B:72:3C:BF:A2:74:8D:6E:06:B0:28
+3ac0e112
+crlNumber=0186
+lastUpdate=Mar  7 18:37:38 2011 GMT
+nextUpdate=Apr 10 18:57:38 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=com/DC=microsoft/DC=corp/DC=redmond/CN=Microsoft Secure Server Authority
+        Last Update: Mar  7 18:37:38 2011 GMT
+        Next Update: Apr 10 18:57:38 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:08:42:E3:DB:4E:11:66:F3:B5:08:C5:40:DB:55:7C:33:46:11:83:38
+
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            X509v3 CRL Number: 
+                390
+            1.3.6.1.4.1.311.21.4: 
+                .110406184738Z
+Revoked Certificates:
+    Serial Number: 2D77F8E2000800018CB5
+        Revocation Date: Jun 11 16:41:10 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        51:cc:1f:9e:2c:cd:a6:82:b1:85:ec:b8:6b:37:00:5d:e6:af:
+        f1:60:e1:f0:17:f2:b0:1e:4a:2e:27:39:e0:95:96:b8:38:2d:
+        44:88:d3:79:e1:d0:2c:1f:61:3e:4c:66:b0:c9:87:fd:94:16:
+        8d:bc:9c:04:9d:3e:65:16:50:56:d2:2f:a5:75:d0:22:60:fa:
+        dd:4f:3a:ed:72:f9:ae:6d:65:8d:3c:ce:8d:5c:51:e7:55:f9:
+        ec:81:52:b2:00:c3:ae:cf:77:b9:d1:86:bf:cb:29:a0:7d:1f:
+        ed:19:9c:b1:2e:30:2c:93:bf:67:3f:45:5e:3a:43:68:75:96:
+        4f:d6:d0:de:6b:88:b3:ee:76:6d:30:42:0c:03:48:ff:6b:80:
+        d0:98:12:c2:e1:19:0f:d3:7a:17:95:09:0f:6e:3b:f8:3c:f0:
+        5c:0b:7e:15:83:4e:53:b8:d5:d0:f6:25:7c:00:5f:d7:32:51:
+        87:4c:21:3e:b1:97:bd:4e:74:ca:50:7b:d9:3b:2c:2c:7c:c6:
+        ff:74:5b:29:38:7b:2a:94:ed:3d:75:6a:c6:52:a0:a7:11:de:
+        80:9a:e0:41:33:fa:5f:4b:0f:c3:ad:3d:a9:4e:fa:46:66:71:
+        2a:b8:ed:03:fa:c5:c5:93:02:93:4d:20:57:16:3f:5a:d6:f9:
+        4e:b4:9e:fb
