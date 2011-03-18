@@ -1,0 +1,52 @@
+issuer=/C=DE/O=Bundesamt fuer Kartographie und Geodaesie/CN=Bundesamt fuer Kartographie und Geodaesie CA/emailAddress=pki@bkg.bund.de
+SHA1 Fingerprint=DD:90:7D:23:1F:F7:C7:70:53:C3:99:0D:70:BB:C4:E6:03:1A:15:1B
+a8f5c7d1
+crlNumber=AE
+lastUpdate=Mar 14 07:14:07 2011 GMT
+nextUpdate=Apr 13 07:14:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Bundesamt fuer Kartographie und Geodaesie/CN=Bundesamt fuer Kartographie und Geodaesie CA/emailAddress=pki@bkg.bund.de
+        Last Update: Mar 14 07:14:07 2011 GMT
+        Next Update: Apr 13 07:14:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                174
+Revoked Certificates:
+    Serial Number: 0BE4EBA2
+        Revocation Date: Jul  2 06:29:08 2009 GMT
+    Serial Number: 0BE758F7
+        Revocation Date: Mar  7 10:19:06 2008 GMT
+    Serial Number: 0BF093EF
+        Revocation Date: Sep 12 09:29:07 2008 GMT
+    Serial Number: 0CE980D9
+        Revocation Date: Sep 12 09:29:08 2008 GMT
+    Serial Number: 0CE9B595
+        Revocation Date: Apr  2 05:43:07 2009 GMT
+    Serial Number: 0CF3191A
+        Revocation Date: Feb 11 11:55:07 2011 GMT
+    Serial Number: 0D1532DD
+        Revocation Date: Jul  8 06:58:10 2010 GMT
+    Serial Number: 1035670F
+        Revocation Date: Jun 15 11:47:06 2010 GMT
+    Serial Number: 1036E0A2
+        Revocation Date: Jul  8 06:58:11 2010 GMT
+    Serial Number: 115C9EEB
+        Revocation Date: Jan 24 07:23:06 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        19:4b:a3:3a:21:88:ac:38:c4:53:49:0d:04:31:16:7e:d9:44:
+        79:22:67:55:e0:f7:7b:f0:0b:56:3d:23:8b:5c:04:95:66:0d:
+        b0:bb:63:2c:67:31:9e:34:d1:d0:66:c0:87:ca:32:17:ad:4f:
+        1f:60:cc:a2:6b:18:cc:33:31:9e:80:2d:e4:4f:08:51:b5:ec:
+        8b:8f:8d:0b:bb:52:ce:14:e3:16:56:26:2c:28:83:88:f8:e8:
+        98:8e:9e:e7:35:d2:2a:c5:e9:ab:00:13:ce:da:5a:0a:25:64:
+        c3:e1:e0:94:d0:1c:b0:87:e3:8a:60:f4:71:56:87:33:bc:8c:
+        d2:f0:5c:f9:19:e6:89:cb:59:8a:4c:dc:a9:81:c2:7b:02:90:
+        b2:e3:54:38:2e:06:a1:4c:66:87:9d:14:95:37:bb:b2:ec:c6:
+        d7:37:97:2a:d1:76:a3:6e:d5:45:58:d3:56:b4:d1:16:44:84:
+        fc:5f:dd:19:56:38:7a:7b:85:a5:4e:af:1d:31:de:76:7e:b1:
+        32:3a:b5:e0:01:5f:3c:d7:9a:6b:f1:c3:ef:11:94:b3:71:52:
+        31:9d:8d:90:c8:e4:c3:5b:b7:46:b0:83:53:05:6c:fb:a4:8e:
+        d5:6d:b9:59:89:a0:81:a7:dc:13:95:62:87:6d:01:bc:29:12:
+        86:78:28:4e
