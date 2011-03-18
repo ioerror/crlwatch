@@ -1,0 +1,83 @@
+issuer=/C=DE/O=EUNETIC GmbH/CN=EuropeanSSL Server CA
+SHA1 Fingerprint=51:DE:26:D4:A9:39:9F:C3:08:65:18:F9:17:D3:43:5B:64:A4:EE:16
+3a0498bb
+crlNumber=03BC
+lastUpdate=Mar 17 20:14:08 2011 GMT
+nextUpdate=Mar 21 20:14:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=EUNETIC GmbH/CN=EuropeanSSL Server CA
+        Last Update: Mar 17 20:14:08 2011 GMT
+        Next Update: Mar 21 20:14:08 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:33:ED:19:23:30:A8:D4:7F:CB:1A:69:36:79:EF:CF:5D:28:BD:31:4D
+
+            X509v3 CRL Number: 
+                956
+Revoked Certificates:
+    Serial Number: AA8525820F2D8266DCB2EADAF52C3712
+        Revocation Date: Oct  7 19:23:31 2009 GMT
+    Serial Number: 348EAA48D455D03F756376F8FB070713
+        Revocation Date: Oct 21 13:02:17 2009 GMT
+    Serial Number: F2F78A9292CD5E8368A4BED10829D22C
+        Revocation Date: Mar 26 09:37:16 2010 GMT
+    Serial Number: FA1358224DB711E0A0883C4F335CAFF6
+        Revocation Date: May  3 11:46:38 2010 GMT
+    Serial Number: 822E0C33DBDB248E6FEED8FCD59E5DAD
+        Revocation Date: May 19 13:57:50 2010 GMT
+    Serial Number: 0EE6310396958288F06DB280D9671DEE
+        Revocation Date: May 31 08:51:06 2010 GMT
+    Serial Number: 06260E38F1B9B6CBA86C0C6E6DE580A8
+        Revocation Date: Jul  1 12:23:45 2010 GMT
+    Serial Number: 209C53DE9645821D9987874B2362837D
+        Revocation Date: Jul 12 14:45:38 2010 GMT
+    Serial Number: 090675F8403EA81262027BD059A5457B
+        Revocation Date: Jul 23 13:05:03 2010 GMT
+    Serial Number: B20FCAE39A6F46A0E284418CF01F67F6
+        Revocation Date: Aug 12 14:53:52 2010 GMT
+    Serial Number: 4C3785880FCD60C368D28365719BE972
+        Revocation Date: Aug 13 16:17:46 2010 GMT
+    Serial Number: DBB6C8CD1ACCCE63A70E6E0F660F9560
+        Revocation Date: Aug 13 16:19:32 2010 GMT
+    Serial Number: 75878862E80C73C518E6CF0589BB2C84
+        Revocation Date: Aug 16 11:15:04 2010 GMT
+    Serial Number: 35624D873E336D84B904BD2519165C38
+        Revocation Date: Aug 18 15:47:43 2010 GMT
+    Serial Number: 0CB2CE463C76C4414CE1E9D1461FCBF8
+        Revocation Date: Aug 18 15:48:09 2010 GMT
+    Serial Number: 0E4863735497CB932AC1C376F234E5A0
+        Revocation Date: Sep 15 15:42:18 2010 GMT
+    Serial Number: B1431C5851288F6C7600ED80A56CEBA6
+        Revocation Date: Sep 20 10:45:41 2010 GMT
+    Serial Number: 09FCD107FC10970A6EBAD4E73D265BBD
+        Revocation Date: Nov 22 10:02:17 2010 GMT
+    Serial Number: 34B7A0E6A5154B9E666313ADE824F698
+        Revocation Date: Jan 10 15:37:39 2011 GMT
+    Serial Number: DD60F182CE53567AF3168A91EF62F7A9
+        Revocation Date: Feb  8 15:38:15 2011 GMT
+    Serial Number: 3A971C29CDDB94AAD4D8B7C9B3F7BADA
+        Revocation Date: Feb 10 12:20:47 2011 GMT
+    Serial Number: A3F5FDBA0F224B9296C2B5EC4BFBBC11
+        Revocation Date: Feb 18 22:00:02 2011 GMT
+    Serial Number: C6A811DFFCAE280276D6AA13387E45FD
+        Revocation Date: Mar  7 10:39:59 2011 GMT
+    Serial Number: D9580A645D478BB431480A969D4034E4
+        Revocation Date: Mar 15 08:46:14 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        03:22:c4:c8:f2:65:af:ae:20:1e:eb:c5:67:9c:ef:d5:b8:5d:
+        f7:8f:db:39:bf:e5:39:7d:5c:8d:a8:a3:a7:83:3a:dc:2c:df:
+        68:d8:3e:1f:41:7f:83:c3:e2:e9:02:16:0b:49:d2:cb:50:f0:
+        3b:63:8f:65:30:0c:e2:30:c7:16:a1:7c:49:98:66:cc:55:de:
+        d1:78:c9:b0:a9:4c:17:1a:7b:f4:64:25:0d:e1:a8:d4:36:50:
+        ea:5a:b6:d2:ed:fe:ae:53:da:6c:1a:64:82:a5:1f:fa:9c:bc:
+        19:0c:86:74:1d:9b:9c:e2:73:1b:26:b0:87:66:aa:58:c6:36:
+        7c:66:24:0b:ca:67:a1:fd:70:1c:bc:5c:be:fa:74:34:53:5f:
+        cd:c6:12:6c:53:59:f8:da:b3:d1:1c:4e:3f:2d:61:2f:2f:1c:
+        76:98:af:91:40:ea:df:cc:ec:a1:0c:e7:3d:c6:60:d5:b4:48:
+        39:fc:49:14:e1:10:11:53:ba:4b:01:5d:bd:77:52:3a:dd:14:
+        41:ac:a6:65:b9:30:88:3b:6f:eb:dc:98:ea:ec:26:ee:4f:16:
+        ee:44:9d:8c:a9:91:0d:8b:05:0f:ea:45:ca:51:64:ac:3b:64:
+        27:24:a1:30:44:2b:d0:66:81:66:6a:4e:c6:51:21:ca:fc:79:
+        29:20:88:40
