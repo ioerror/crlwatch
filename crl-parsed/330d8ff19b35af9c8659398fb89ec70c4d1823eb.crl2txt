@@ -1,0 +1,73 @@
+issuer=/O=Ministere de la Justice/CN=Autorite de Certification Serveurs
+SHA1 Fingerprint=63:D0:BF:CC:F8:5F:7D:61:A5:18:5F:26:7F:20:66:7E:9F:11:8C:BA
+e3fe2c92
+crlNumber=5F3E
+lastUpdate=Mar 18 00:00:00 2011 GMT
+nextUpdate=Mar 25 00:00:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: /O=Ministere de la Justice/CN=Autorite de Certification Serveurs
+        Last Update: Mar 18 00:00:00 2011 GMT
+        Next Update: Mar 25 00:00:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                24382
+            X509v3 Authority Key Identifier: 
+                keyid:68:4D:63:24:08:AE:D3:64:BF:0E:4F:54:9C:08:F9:06:D7:74:8B:FC
+
+Revoked Certificates:
+    Serial Number: 7FAF039427223725C63AA98CFB84957E
+        Revocation Date: May 13 11:57:30 2009 GMT
+    Serial Number: 7FAF039427223725C63AA98CFB848581
+        Revocation Date: May 13 12:05:12 2009 GMT
+    Serial Number: 7FAF039427223725C63AA98CFBACBDF5
+        Revocation Date: Jun  8 13:45:12 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 7FAF039427223725C63AA98D03889476
+        Revocation Date: Dec 18 14:20:27 2009 GMT
+    Serial Number: 7FAF039427223725C63AA98D038AC40D
+        Revocation Date: Dec 22 12:44:01 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 7FAF039427223725C63AA98D59923F9F
+        Revocation Date: Mar  1 13:40:10 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 7FAF039427223725C63AA98D5B905FE7
+        Revocation Date: Jun 18 09:31:36 2010 GMT
+    Serial Number: 7FAF039427223725C63AA98D61F71C6A
+        Revocation Date: Jul  1 11:18:21 2010 GMT
+    Serial Number: 7FAF039427223725C63AA98D620F87D5
+        Revocation Date: Aug 11 08:39:18 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 7FAF039427223725C63AA98D63F70C5B
+        Revocation Date: Nov  4 16:54:19 2010 GMT
+    Serial Number: 7FAF039427223725C63AA98D7974B40A
+        Revocation Date: Jan 10 16:00:50 2011 GMT
+    Serial Number: 7FAF039427223725C63AA98D79F30C55
+        Revocation Date: Mar 15 09:03:42 2011 GMT
+    Serial Number: 7FAF039427223725C63AA98D79F41C22
+        Revocation Date: Mar 15 09:04:38 2011 GMT
+    Signature Algorithm: md5WithRSAEncryption
+        68:05:be:1e:10:f1:2b:32:aa:21:cd:e0:21:75:d6:08:67:2d:
+        67:3c:d4:07:ba:a4:e0:59:58:b8:9c:9f:0d:63:f3:d8:46:4b:
+        bc:55:e4:6c:f2:06:61:71:67:dd:f7:80:2e:e5:2d:41:0a:87:
+        d9:8a:1b:1c:20:ab:9c:61:b5:30:d0:af:f5:f3:9a:6d:7e:3a:
+        93:78:59:c9:39:5a:3f:8a:4c:4e:63:40:9e:98:30:12:f5:7e:
+        1f:2c:8d:47:e9:b9:e0:1d:25:e9:00:ec:ff:93:22:b1:b8:b9:
+        68:f9:c4:93:40:87:43:c0:17:b8:2c:fc:d6:2a:75:1e:be:76:
+        1a:99:b7:a9:02:8b:eb:a0:3d:ab:14:6b:73:64:55:b6:63:09:
+        bb:bd:5a:10:fb:9d:b0:66:cf:94:78:87:5e:95:2f:01:75:7d:
+        d2:0a:62:6a:94:8b:8d:83:a2:4f:74:bd:44:7d:6c:3c:94:12:
+        9d:ce:5b:fd:07:c4:f5:f6:38:71:12:fa:47:2f:40:42:bb:54:
+        d4:b6:12:f2:47:e4:8e:0c:32:a6:31:83:50:33:ba:33:08:73:
+        f6:b9:76:de:d1:ab:bb:10:a2:b2:93:d1:2d:bb:f8:d4:dc:08:
+        bd:2d:e6:41:63:e8:53:63:83:73:9c:a0:8b:3c:0a:5d:45:f7:
+        2b:a9:b5:8c
