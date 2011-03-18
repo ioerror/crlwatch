@@ -1,0 +1,32 @@
+issuer=/C=HU/L=Debrecen/O=NetLock Kft./OU=Tan\xC3\xBAs\xC3\xADtv\xC3\xA1nykiad\xC3\xB3k (Certification Services)/CN=Online SSL Hiteles\xC3\xADt\xC5\x91 Alegys\xC3\xA9g (Online SSL CA)
+SHA1 Fingerprint=64:0F:70:B0:56:7A:D3:40:08:7B:41:AA:DE:30:79:E9:5B:47:FD:8B
+75c65ef7
+crlNumber=<NONE>
+lastUpdate=Mar 18 06:41:13 2011 GMT
+nextUpdate=Mar 28 16:41:13 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=HU/L=Debrecen/O=NetLock Kft./OU=Tan\xC3\xBAs\xC3\xADtv\xC3\xA1nykiad\xC3\xB3k (Certification Services)/CN=Online SSL Hiteles\xC3\xADt\xC5\x91 Alegys\xC3\xA9g (Online SSL CA)
+        Last Update: Mar 18 06:41:13 2011 GMT
+        Next Update: Mar 28 16:41:13 2011 GMT
+Revoked Certificates:
+    Serial Number: 4A4900900028
+        Revocation Date: Jul  6 08:23:34 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: critical
+                Unspecified
+    Serial Number: 4A4900900046
+        Revocation Date: Sep 30 07:47:12 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: critical
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        77:9e:0b:3a:50:35:63:88:dc:e0:33:45:05:ba:57:91:0c:18:
+        96:66:3d:58:78:38:b6:86:bf:21:34:8a:e0:a0:2c:59:08:49:
+        f7:a9:25:98:01:d0:ba:8d:4f:dc:78:b2:15:5d:66:cd:76:4b:
+        da:0c:c1:75:70:d0:36:67:d2:dd:d4:2f:1e:f2:b6:70:00:f3:
+        05:96:5c:95:87:68:10:45:f9:0c:4d:08:f3:2c:0b:31:9b:8a:
+        15:f3:d2:6a:bf:68:19:7b:2a:a0:29:64:63:c6:fb:35:a7:0b:
+        94:23:7c:ef:ad:49:51:7b:4d:e7:37:ac:0c:f5:97:b5:e4:ea:
+        94:a0
