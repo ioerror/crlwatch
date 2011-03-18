@@ -1,0 +1,43 @@
+issuer=/O=Dell Inc./CN=Dell Inc. Enterprise Utility CA1
+SHA1 Fingerprint=F1:F1:9D:25:12:30:1C:BC:AE:2E:F9:C4:D0:8A:CE:CC:D8:5A:F2:28
+65fc9fa8
+crlNumber=0113
+lastUpdate=Jan 17 14:01:52 2011 GMT
+nextUpdate=Apr 18 02:21:52 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=Dell Inc./CN=Dell Inc. Enterprise Utility CA1
+        Last Update: Jan 17 14:01:52 2011 GMT
+        Next Update: Apr 18 02:21:52 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:FA:44:FA:21:F6:68:B2:20:47:57:CE:FE:C7:02:F8:C7:E5:86:7D:D5
+
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            X509v3 CRL Number: 
+                275
+            1.3.6.1.4.1.311.21.4: 
+                .110417141152Z
+Revoked Certificates:
+    Serial Number: 4EDD16B9000200000196
+        Revocation Date: Nov  9 20:08:00 2010 GMT
+    Serial Number: 1A5AA58C000100000166
+        Revocation Date: Jul 28 15:07:34 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        0d:23:52:37:38:2c:20:48:78:b3:00:03:d3:92:4f:68:bd:31:
+        6e:51:15:78:f8:7a:f7:ce:e1:94:08:e7:e0:56:25:a6:f1:df:
+        d2:37:d3:bd:eb:f8:33:88:8f:c8:a9:00:4a:52:e0:f9:09:5e:
+        b9:3d:60:9e:c7:31:a8:e0:e5:de:76:c0:96:fe:a3:b3:87:75:
+        73:2a:87:cd:94:c0:05:ed:b3:f9:93:1e:1a:8d:9c:8d:c3:50:
+        8f:54:27:82:43:60:22:3d:82:ea:fe:14:7f:9b:7c:78:06:ca:
+        52:8e:52:54:39:86:90:4d:3b:eb:02:11:1d:90:e9:77:8f:3c:
+        59:f6:2a:01:8b:73:5b:52:3b:24:78:2d:ec:d4:de:68:4d:0d:
+        2c:64:2d:88:ac:e1:4c:4d:f7:ac:3e:bf:e0:68:d4:d0:cb:64:
+        ff:85:57:75:fa:91:a3:58:26:e7:24:29:ac:60:68:50:8b:68:
+        71:5d:81:e7:2e:29:14:2f:d5:60:f3:28:fa:28:cb:30:42:02:
+        aa:0a:c1:1f:e4:88:f7:7e:02:76:90:fb:ef:53:5e:8f:75:ce:
+        05:67:bd:81:e0:ae:01:eb:b8:e5:52:cb:d2:65:72:7d:f2:8a:
+        67:f1:43:60:fe:8e:ec:27:c5:3d:12:94:a2:47:65:7e:3c:61:
+        01:be:69:03
