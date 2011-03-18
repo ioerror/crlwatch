@@ -1,0 +1,36 @@
+issuer=/C=DE/O=Deutsches Institut fuer Internationale Paedagogische Forschung/CN=DIPF CA - G02/emailAddress=ca@dipf.de
+SHA1 Fingerprint=17:3F:19:80:4E:64:6B:66:A5:E1:22:7F:B5:5F:F4:FA:13:A4:63:FC
+1527459b
+crlNumber=AD
+lastUpdate=Mar 14 07:27:07 2011 GMT
+nextUpdate=Apr 13 07:27:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Deutsches Institut fuer Internationale Paedagogische Forschung/CN=DIPF CA - G02/emailAddress=ca@dipf.de
+        Last Update: Mar 14 07:27:07 2011 GMT
+        Next Update: Apr 13 07:27:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                173
+Revoked Certificates:
+    Serial Number: 0D9679CB
+        Revocation Date: Jan 21 11:02:08 2009 GMT
+    Serial Number: 10553450
+        Revocation Date: Jul  8 13:00:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        7d:82:39:cd:6a:01:f9:69:e9:be:66:fe:74:e8:74:a9:ce:af:
+        c6:b2:bb:ef:ce:8f:4a:60:09:52:d1:7a:fa:1f:55:56:d6:a0:
+        f8:4e:e0:83:bf:a1:21:8d:e8:e3:81:0f:9d:9d:c9:1c:18:0a:
+        e4:46:6e:e9:4a:79:af:36:a5:40:4a:69:ff:91:71:5a:91:a4:
+        ff:d4:77:bc:ea:74:a0:0d:ba:81:a0:f7:5a:3b:c0:e9:9a:6e:
+        aa:83:77:ed:ec:54:78:d3:e6:a2:46:0e:24:5a:78:9a:43:88:
+        b5:d1:31:1b:2a:34:d5:22:8a:f7:37:2c:14:0b:b8:38:70:4d:
+        45:c5:59:e8:67:13:43:7c:3a:34:cd:2f:2f:84:65:5c:67:fd:
+        3c:6c:7e:7d:f5:c1:86:98:ef:e8:ec:60:64:57:95:48:2d:72:
+        16:c4:4a:4b:b8:91:34:83:86:06:6b:d5:61:ab:6a:fa:1f:f0:
+        64:36:ac:dd:a3:1b:e6:6d:c0:49:d4:91:f1:f6:b2:8f:d2:46:
+        18:d9:57:85:b0:6a:cb:b4:89:b6:91:11:7f:78:31:4e:a2:c1:
+        95:c3:9d:92:b8:83:45:30:f5:16:8b:23:21:4a:60:af:7b:31:
+        ee:08:82:eb:0b:35:97:8e:ea:10:c6:f8:cc:62:59:7f:92:5b:
+        f5:22:35:64
