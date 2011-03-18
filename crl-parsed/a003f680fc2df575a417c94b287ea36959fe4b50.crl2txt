@@ -1,0 +1,40 @@
+issuer=/C=TW/O=TAIWAN-CA.COM Inc./OU=SSL Certification Service Provider-Evaluation Only/CN=TaiCA Secure CA -Evaluation Only
+SHA1 Fingerprint=A0:2C:DE:49:13:A9:F1:B7:FF:0D:25:A3:D7:1A:D6:99:86:D9:37:31
+1afc8506
+crlNumber=0821
+lastUpdate=Mar 18 08:30:00 2011 GMT
+nextUpdate=Mar 19 08:30:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=TW/O=TAIWAN-CA.COM Inc./OU=SSL Certification Service Provider-Evaluation Only/CN=TaiCA Secure CA -Evaluation Only
+        Last Update: Mar 18 08:30:00 2011 GMT
+        Next Update: Mar 19 08:30:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                2081
+            X509v3 Authority Key Identifier: 
+                keyid:FE:41:B9:39:A6:3A:C9:84:F6:82:3D:07:55:1A:83:2B:2A:F0:04:67
+
+            X509v3 Issuing Distrubution Point: critical
+                0C.A.?.=http://sslserver.twca.com.tw/sslserver-test/revoke10_test.crl
+Revoked Certificates:
+    Serial Number: 03
+        Revocation Date: Oct 15 11:08:55 2009 GMT
+    Serial Number: 6A
+        Revocation Date: Feb 25 02:10:53 2010 GMT
+    Serial Number: 0164
+        Revocation Date: Jun 29 08:15:13 2010 GMT
+    Serial Number: 0165
+        Revocation Date: Jun 29 08:17:26 2010 GMT
+    Serial Number: 0169
+        Revocation Date: Jul 10 17:05:56 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        91:19:43:5b:b6:e7:e1:42:ed:0f:51:eb:c2:b7:5e:b8:7d:30:
+        6e:1c:70:06:dd:90:9b:99:da:7e:c3:d4:93:63:12:85:de:6c:
+        3d:6c:ef:78:a9:d1:06:ee:91:e3:cf:ea:74:15:0a:82:e6:be:
+        04:50:b3:8f:e9:86:9c:fe:83:2c:33:4c:88:76:a7:d6:5d:97:
+        d1:bc:43:d0:d8:95:94:5d:f1:35:f0:13:39:4d:92:fe:e1:d4:
+        e2:54:a8:ec:68:57:ac:ce:88:35:82:85:ee:45:10:59:16:dd:
+        61:93:90:82:b1:5b:30:fc:f6:cd:f0:db:fd:f1:c3:0e:46:56:
+        44:65
