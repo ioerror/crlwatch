@@ -1,0 +1,40 @@
+issuer=/C=IT/L=Milano/O=Actalis S.p.A./03358520967/CN=Actalis Authentication CA G1
+SHA1 Fingerprint=73:40:23:41:4E:F6:C5:53:23:E1:C5:C4:07:F8:A6:DF:C6:1F:EA:AD
+e9f66ef3
+crlNumber=09DD
+lastUpdate=Mar 18 08:16:04 2011 GMT
+nextUpdate=Mar 19 14:16:04 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=IT/L=Milano/O=Actalis S.p.A./03358520967/CN=Actalis Authentication CA G1
+        Last Update: Mar 18 08:16:04 2011 GMT
+        Next Update: Mar 19 14:16:04 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                2525
+            X509v3 Authority Key Identifier: 
+                keyid:01:BB:D6:9B:56:B4:7E:E6:C5:58:DD:2C:98:F4:CA:72:F6:5F:33:86
+
+Revoked Certificates:
+    Serial Number: 06
+        Revocation Date: Jul 13 12:21:51 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Signature Algorithm: sha1WithRSAEncryption
+        6c:5f:7c:96:0a:a4:cf:de:10:25:be:e1:b7:90:b9:35:ad:84:
+        91:43:05:bb:20:7b:c3:c6:ca:62:77:5a:e6:6a:bf:87:42:ec:
+        ab:10:87:e7:56:04:91:a0:a0:25:ac:aa:c9:3b:b3:ab:95:47:
+        2d:73:fa:52:b7:be:d7:03:ce:46:e7:5d:8a:d2:b9:cc:7e:a6:
+        67:1b:ff:1d:e4:54:a8:52:d0:2a:b2:ce:1e:0b:a4:7a:91:21:
+        b9:d1:c9:6c:22:88:be:10:3c:f6:de:02:8e:a2:ef:62:ac:da:
+        71:37:f9:08:66:e9:ea:90:f6:79:2b:49:49:58:ae:2d:c2:08:
+        e1:60:47:b4:40:98:e1:f4:27:40:06:10:3f:43:1b:a8:8e:6c:
+        c7:fa:c8:2a:dd:76:86:b3:3f:0c:a9:97:85:98:21:30:15:eb:
+        bd:9c:a8:f5:06:9d:f9:ed:95:e6:25:21:ad:ae:6d:f8:3b:72:
+        c3:b6:5e:74:37:3d:b1:98:16:8b:ba:d8:12:cd:ec:10:dd:d5:
+        19:ac:7b:11:da:38:2f:de:cb:41:3a:48:90:a0:2d:9d:fa:d3:
+        eb:80:e0:16:75:25:c3:58:9a:29:f2:b5:80:e2:34:36:d8:d4:
+        56:68:83:7a:27:b8:dc:a5:1d:4a:98:04:d3:e2:29:55:a9:e7:
+        bf:b5:28:a9
