@@ -1,0 +1,48 @@
+issuer=/C=DE/O=Fachhochschule Neu-Ulm/OU=Rechenzentrum/CN=FH Neu-Ulm CA - G01/emailAddress=pki@fh-neu-ulm.de
+SHA1 Fingerprint=06:82:AC:97:3F:56:33:E1:06:93:81:58:2A:83:42:04:7E:9A:92:D6
+5667aff5
+crlNumber=E3
+lastUpdate=Mar 14 07:45:13 2011 GMT
+nextUpdate=Apr 13 07:45:13 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Fachhochschule Neu-Ulm/OU=Rechenzentrum/CN=FH Neu-Ulm CA - G01/emailAddress=pki@fh-neu-ulm.de
+        Last Update: Mar 14 07:45:13 2011 GMT
+        Next Update: Apr 13 07:45:13 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                227
+Revoked Certificates:
+    Serial Number: 0B3EB0A2
+        Revocation Date: Apr  2 13:55:14 2008 GMT
+    Serial Number: 0BF875E7
+        Revocation Date: Apr  2 13:52:16 2008 GMT
+    Serial Number: 0C11BEAC
+        Revocation Date: Apr  2 13:52:14 2008 GMT
+    Serial Number: 0C12F313
+        Revocation Date: Feb 27 07:19:06 2009 GMT
+    Serial Number: 0D952143
+        Revocation Date: Jan 22 10:57:06 2009 GMT
+    Serial Number: 0DC4B722
+        Revocation Date: Feb 27 07:19:07 2009 GMT
+    Serial Number: 0F222150
+        Revocation Date: Nov 18 10:31:08 2009 GMT
+    Serial Number: 10F88203
+        Revocation Date: Nov  9 08:49:11 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        77:a7:e8:a7:34:cd:20:91:b6:c1:a0:b6:7b:13:27:60:f0:c0:
+        ab:e3:56:db:23:aa:62:7a:68:b5:a9:e1:97:ba:d9:53:b3:5c:
+        6b:f2:d6:cf:dc:74:57:18:4b:96:b7:b1:4d:4f:47:cc:36:68:
+        0b:57:47:a4:ed:7e:21:9d:27:8e:23:a6:01:40:32:45:11:16:
+        4b:37:13:40:19:c7:7d:cf:63:f0:d8:f6:1d:8f:bc:b6:c5:70:
+        9e:6e:7d:9d:ac:b9:5c:68:3b:9f:e6:cd:be:25:f4:52:af:ec:
+        3e:9c:e7:d6:44:bc:11:96:bb:6a:30:e0:11:7b:db:cd:fb:89:
+        20:dd:8b:0e:49:a3:e2:46:6c:c5:de:9e:9e:10:3e:1d:18:4f:
+        71:62:72:60:2a:6a:01:33:62:88:b4:7b:67:be:0d:8f:c3:c2:
+        66:24:9e:7b:01:d2:a5:57:29:4f:7d:2c:b5:11:ca:2e:25:89:
+        59:3b:6c:39:26:f8:fb:a5:01:6c:00:28:3e:00:b1:8d:40:6e:
+        41:0e:f6:f9:24:9a:2a:8d:28:8a:4e:69:0e:4d:c1:b1:3e:10:
+        7d:b7:91:1a:33:04:79:fc:99:4a:ce:0d:0e:65:55:05:d6:ac:
+        a1:f4:ea:97:08:be:8b:53:da:c9:26:24:a4:e8:35:78:a2:15:
+        dd:d1:9f:a6
