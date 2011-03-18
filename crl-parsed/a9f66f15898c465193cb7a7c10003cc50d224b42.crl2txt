@@ -1,0 +1,37 @@
+issuer=/C=US/O=AffirmTrust/OU=http://www.affirmtrust.com/resources/CN=AffirmTrust Commercial Extended Validation CA
+SHA1 Fingerprint=53:D2:03:24:69:31:0B:9B:EB:A3:6B:AD:87:DF:9D:20:A8:5B:10:23
+fb7411e0
+crlNumber=012B
+lastUpdate=Mar 18 04:00:02 2011 GMT
+nextUpdate=Mar 25 04:00:02 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: /C=US/O=AffirmTrust/OU=http://www.affirmtrust.com/resources/CN=AffirmTrust Commercial Extended Validation CA
+        Last Update: Mar 18 04:00:02 2011 GMT
+        Next Update: Mar 25 04:00:02 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:A6:A1:17:B8:EC:06:BA:3E:21:5A:8E:B8:28:40:E1:51:2D:44:26:DC
+
+            X509v3 CRL Number: 
+                299
+Revoked Certificates:
+    Serial Number: 5D0167AB713C1BEA
+        Revocation Date: Dec  7 02:33:43 2010 GMT
+    Signature Algorithm: sha256WithRSAEncryption
+        86:96:d2:a7:1a:56:92:6e:81:c4:92:ca:a7:25:ce:16:2c:bc:
+        d6:80:40:38:1d:14:84:ea:eb:e6:12:89:f7:38:af:fc:bd:e2:
+        ac:17:0f:5a:31:10:d2:38:f3:cb:8d:05:3e:52:43:fe:aa:6b:
+        64:b5:fb:3e:88:03:d1:fd:08:58:8b:77:0c:d9:5c:96:5e:2e:
+        b2:08:27:32:64:60:93:f4:d4:96:9b:21:67:b0:03:3d:38:aa:
+        be:23:67:99:b8:63:29:eb:69:12:88:ec:86:7f:13:93:3e:cb:
+        ae:05:c9:a6:8f:05:8d:d7:af:c7:83:a7:92:78:5e:76:02:83:
+        fa:b3:bf:bc:74:08:90:be:29:5d:d4:40:de:16:89:fb:6c:a4:
+        2b:a1:12:81:49:4a:4f:01:32:3f:ca:ca:ee:ca:f1:22:ef:46:
+        60:78:f4:44:7e:66:51:41:d2:e3:b6:3c:31:26:ee:81:c1:ac:
+        c1:63:ab:4c:df:fe:0e:a3:26:59:1e:62:bf:09:dd:d6:1e:1f:
+        17:60:c5:02:ce:cf:bf:a8:14:aa:f4:e7:10:c8:84:34:88:2f:
+        05:ab:3f:91:30:13:e1:9c:89:99:e7:1d:b1:fb:18:d7:61:9e:
+        f8:76:2c:d6:52:85:12:79:5b:de:04:ad:97:7f:e0:9d:6a:72:
+        7f:41:5f:7b
