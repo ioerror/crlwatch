@@ -1,0 +1,41 @@
+issuer=/C=FR/O=Gouv/OU=Direction Information Legale Administrative/OU=0002 13000918600011/CN=AC DILA Publication
+SHA1 Fingerprint=D9:D1:9F:31:2E:EE:F8:8E:4C:91:2F:47:6B:91:83:A6:42:A8:62:45
+89e0628b
+crlNumber=0D93
+lastUpdate=Mar 17 09:18:00 2011 GMT
+nextUpdate=Apr 16 09:18:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=FR/O=Gouv/OU=Direction Information Legale Administrative/OU=0002 13000918600011/CN=AC DILA Publication
+        Last Update: Mar 17 09:18:00 2011 GMT
+        Next Update: Apr 16 09:18:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:61:73:0A:28:DC:9B:B7:6E:97:38:19:B8:A0:6F:BE:DD:A2:3E:22:D9
+
+            X509v3 CRL Number: 
+                3475
+Revoked Certificates:
+    Serial Number: 70
+        Revocation Date: May 26 08:16:24 2010 GMT
+    Serial Number: A2
+        Revocation Date: Dec  3 15:25:27 2010 GMT
+    Serial Number: A3
+        Revocation Date: Dec  3 15:25:41 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        0d:3c:71:ce:d7:9c:8b:50:80:c9:34:cb:e3:6b:2a:65:ce:6b:
+        06:5d:d6:5e:d8:a1:c9:2b:ed:76:99:73:a2:ea:2a:c4:7e:73:
+        38:9a:09:f4:f9:27:c0:1d:56:ac:0c:ce:2b:e0:ca:4b:9c:43:
+        e2:4c:64:2e:ce:e7:5d:91:84:64:52:3c:b1:5d:14:7d:9b:36:
+        95:89:16:16:47:e8:c1:ff:64:f8:d3:85:7a:d5:47:48:46:b0:
+        46:76:54:70:29:bc:1c:bc:5a:c4:91:dc:e1:eb:13:0e:cc:79:
+        b0:81:e5:21:05:e9:d4:d0:0f:5a:bb:7d:25:69:1d:44:c1:dd:
+        b4:dc:e9:5f:40:a0:47:b3:49:f9:0b:0f:8a:c0:ea:4d:40:e6:
+        6a:ed:33:e2:65:0a:33:bc:6f:69:d9:c7:f0:e8:a2:f3:93:c0:
+        02:d8:3c:7d:45:fb:14:cb:33:c5:57:71:4e:6a:0c:23:fb:c0:
+        42:c4:5b:a1:c1:be:4c:50:38:a2:c3:30:45:c9:92:ef:30:26:
+        c1:55:22:74:8d:7a:81:fe:21:2f:16:63:6a:2e:a3:02:9e:56:
+        40:c7:b5:38:53:42:20:65:b5:3a:f4:f6:11:06:10:fe:d6:4d:
+        16:97:fd:30:f4:2d:f1:58:72:dc:7e:c7:21:e5:10:4d:e7:77:
+        fe:43:a7:df
