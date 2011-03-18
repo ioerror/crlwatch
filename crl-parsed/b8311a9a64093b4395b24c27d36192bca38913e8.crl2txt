@@ -1,0 +1,36 @@
+issuer=/C=DE/O=Hochschulbibliothekszentrum NRW/OU=Rechenzentrum/CN=hbz NRW CA - G02/emailAddress=pki@hbz-nrw.de
+SHA1 Fingerprint=26:02:09:6E:A1:5B:07:9D:1E:1E:39:AE:18:D4:54:C1:9D:32:92:6A
+4c47292a
+crlNumber=F1
+lastUpdate=Mar 14 08:06:16 2011 GMT
+nextUpdate=Apr 13 08:06:16 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschulbibliothekszentrum NRW/OU=Rechenzentrum/CN=hbz NRW CA - G02/emailAddress=pki@hbz-nrw.de
+        Last Update: Mar 14 08:06:16 2011 GMT
+        Next Update: Apr 13 08:06:16 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                241
+Revoked Certificates:
+    Serial Number: 0C9EBC2F
+        Revocation Date: May  6 13:34:07 2009 GMT
+    Serial Number: 0FAC80BB
+        Revocation Date: Feb 15 08:53:09 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        ca:4f:95:36:0a:ba:e9:fa:82:0d:b5:16:14:42:a3:f3:c5:b0:
+        fb:7c:69:0f:bf:30:ea:a5:81:45:dd:41:c5:74:21:0c:51:37:
+        fa:9d:ac:f8:49:2e:d9:63:a5:4f:2f:74:e3:c8:4e:e7:35:7a:
+        06:57:5b:fc:d6:80:57:61:39:f7:65:a8:78:26:85:d3:80:39:
+        65:4b:e7:73:03:d6:eb:ee:3e:59:4a:09:ba:9b:65:0a:1f:72:
+        56:9b:c0:e7:6d:37:66:90:b9:41:e2:77:02:c1:27:08:7f:5b:
+        97:cc:b3:57:14:e0:c3:76:2d:8c:a3:ba:e5:a0:90:b1:1c:fa:
+        db:a2:f4:b9:f4:66:ee:c0:ab:5b:80:20:5f:79:9e:2c:7d:5b:
+        4d:d9:37:4f:34:10:99:80:9a:99:98:6a:cb:7c:41:a0:b4:f4:
+        8d:24:ba:b2:01:28:12:1c:a7:7d:7e:44:bd:5f:74:28:4c:df:
+        b0:18:7c:70:ae:0c:83:58:fd:3e:f4:ae:a2:09:fa:4a:8b:11:
+        f5:03:d1:77:ca:63:eb:0c:3d:ee:52:96:71:07:7e:b4:8a:32:
+        ec:f1:c6:80:48:5e:ad:80:af:95:0c:f9:4e:8f:2e:0e:4e:a2:
+        7b:92:65:77:c8:e5:a4:ba:41:32:a3:5b:99:c1:f2:19:2b:75:
+        e7:15:90:f7
