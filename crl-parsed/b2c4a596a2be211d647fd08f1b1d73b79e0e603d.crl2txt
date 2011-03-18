@@ -1,0 +1,84 @@
+issuer=/C=US/O=VISA/OU=Visa International Service Association/CN=Visa eCommerce Root
+SHA1 Fingerprint=90:A2:07:A4:31:F8:D0:EF:FA:B5:E6:B6:96:4C:7F:D4:F8:3A:17:70
+6fcc125d
+crlNumber=68
+lastUpdate=Jan 13 23:04:06 2011 GMT
+nextUpdate=Jan 20 22:35:00 2012 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=VISA/OU=Visa International Service Association/CN=Visa eCommerce Root
+        Last Update: Jan 13 23:04:06 2011 GMT
+        Next Update: Jan 20 22:35:00 2012 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:15:38:83:0F:3F:2C:3F:70:33:1E:CD:46:FE:07:8C:20:E0:D7:C3:B7
+
+            X509v3 CRL Number: 
+                104
+Revoked Certificates:
+    Serial Number: 1EE341E9A6A95E991BC0626BC9D414C6
+        Revocation Date: Jan 21 18:14:05 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Jan 21 18:13:52 2010 GMT
+    Serial Number: 402FB5BE9881B64CD6B14DA30EF10981
+        Revocation Date: Jan 21 18:15:27 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Jan 21 18:14:53 2010 GMT
+    Serial Number: 4115E396174FDE7BD9332AFB33E88182
+        Revocation Date: Jan 21 18:12:30 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Jan 21 18:12:10 2010 GMT
+    Serial Number: 852F3CB0C8A6C1F9AABA8DCBCF088158
+        Revocation Date: Jan 21 18:08:49 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Jan 21 18:08:28 2010 GMT
+    Serial Number: BD6F87ACAB63AB4728F781548C94B2BD
+        Revocation Date: Jan 13 23:01:05 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jan 13 23:01:02 2011 GMT
+    Serial Number: E474710F6D60F1A05DD9234FFA264350
+        Revocation Date: Jan 13 22:57:58 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jan 13 22:57:45 2011 GMT
+    Serial Number: E6455FA1A523B43BB3DB68009C51B5B2
+        Revocation Date: Jan 21 18:17:42 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Jan 21 18:17:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        8d:32:4d:f0:77:54:a6:d8:77:a6:1b:f1:08:66:fa:ed:c1:4c:
+        c3:21:5b:d5:df:45:ec:c9:f8:39:a4:e7:78:b1:8a:0b:d3:6f:
+        5c:ea:a9:ff:23:3d:f3:73:37:ec:3e:49:21:63:38:43:b3:ad:
+        1b:8a:13:53:b5:7a:8c:67:ad:ba:fe:68:5e:ea:60:37:3a:3d:
+        f3:82:46:ab:59:ae:a2:7b:6e:21:df:57:d4:ee:09:18:6d:60:
+        25:6f:f8:8e:e7:5c:7d:90:e6:1f:d6:c3:1d:29:4e:3d:64:de:
+        75:6a:cc:6e:3d:ef:7d:7e:78:82:81:65:3f:c0:23:34:44:66:
+        e5:78:29:f6:fa:59:47:ac:db:c2:bb:4e:82:6d:d4:3a:6f:ff:
+        d4:c4:44:f1:72:ae:dc:10:4e:c0:7a:a3:b5:f9:a9:f7:8f:cb:
+        34:66:06:ea:7e:af:7b:1c:59:16:55:77:2a:9f:21:f0:4b:f5:
+        de:bc:f7:02:b7:f5:e8:e1:7d:e9:42:2c:ff:c5:17:1d:d5:e8:
+        45:1b:fb:a1:18:a1:21:e6:5a:c2:37:12:10:12:f7:19:aa:ed:
+        1c:b6:10:dc:98:9b:0f:17:ca:41:95:4c:19:15:36:9a:0d:94:
+        59:ec:5e:95:02:d0:43:63:78:65:56:67:51:36:5f:4c:7e:91:
+        5b:3b:27:44
