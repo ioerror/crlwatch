@@ -1,0 +1,44 @@
+issuer=/C=DE/O=Gesellschaft fuer Schwerionenforschung mbH (GSI)/OU=GF/W/CN=GSI CA 02/emailAddress=pki@gsi.de
+SHA1 Fingerprint=9D:A7:6F:53:A8:A2:EB:02:42:D6:5D:74:83:16:33:1D:FD:86:DF:D5
+3702061f
+crlNumber=AD
+lastUpdate=Mar 14 08:02:18 2011 GMT
+nextUpdate=Apr 13 08:02:18 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Gesellschaft fuer Schwerionenforschung mbH (GSI)/OU=GF/W/CN=GSI CA 02/emailAddress=pki@gsi.de
+        Last Update: Mar 14 08:02:18 2011 GMT
+        Next Update: Apr 13 08:02:18 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                173
+Revoked Certificates:
+    Serial Number: 0CED8C8E
+        Revocation Date: Sep 16 07:02:08 2008 GMT
+    Serial Number: 0E7CF938
+        Revocation Date: Jul 16 12:47:07 2009 GMT
+    Serial Number: 0F8A4807
+        Revocation Date: Feb  4 15:00:08 2010 GMT
+    Serial Number: 0FFF976E
+        Revocation Date: May 19 08:23:08 2010 GMT
+    Serial Number: 10131CD3
+        Revocation Date: May 31 08:29:06 2010 GMT
+    Serial Number: 10DE7DA0
+        Revocation Date: Oct 22 07:23:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        5c:2e:f1:81:08:50:7b:31:03:26:3d:a6:e0:09:d2:79:3f:d6:
+        e2:b3:24:92:a0:7e:75:3a:56:47:ea:20:61:49:e3:e5:f9:f0:
+        05:dc:5f:82:86:ed:8a:2c:37:c5:0a:04:9e:05:2d:11:77:4a:
+        3b:f0:9a:20:43:1d:e2:56:32:46:d4:04:18:a3:18:dd:66:d4:
+        70:3e:b3:8c:ba:d7:51:92:e5:5c:11:c2:b8:a5:0f:69:7c:e5:
+        ff:67:73:f9:e4:b5:13:ca:85:d8:ff:d2:cd:da:e1:36:ea:fb:
+        ef:01:a6:80:31:65:89:4d:89:22:cc:08:ad:2a:04:cd:88:a4:
+        29:ad:65:ee:1f:5c:ad:1a:86:43:91:47:0d:b5:f6:fa:bf:5c:
+        b7:22:f4:1e:bb:4d:0e:01:02:8f:26:f9:6f:e5:a3:67:86:f8:
+        f7:3d:97:59:ff:b3:d9:c7:68:1f:5e:70:93:43:41:09:2d:d0:
+        9a:c3:f6:4d:29:39:27:c1:5b:77:f3:e2:dd:2f:70:bd:d4:04:
+        a8:4c:6d:25:8a:69:bc:0a:a5:e4:77:21:2c:69:bb:dd:94:21:
+        cd:b0:0d:aa:88:ca:f9:b7:60:49:b9:c3:25:33:6c:0d:0c:e4:
+        20:ec:b9:45:56:80:c8:e2:1d:b8:90:41:3a:32:1e:0a:88:6f:
+        54:25:9e:cf
