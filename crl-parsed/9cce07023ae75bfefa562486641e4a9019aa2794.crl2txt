@@ -1,0 +1,46 @@
+issuer=/C=DE/O=Fachhochschule Suedwestfalen/CN=FH-SWF CA/emailAddress=pki@fh-swf.de
+SHA1 Fingerprint=48:47:64:12:D0:C7:25:0F:9D:E2:72:1B:FF:0E:83:48:46:C9:3C:07
+e99625da
+crlNumber=0108
+lastUpdate=Mar 14 07:50:17 2011 GMT
+nextUpdate=Apr 13 07:50:17 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Fachhochschule Suedwestfalen/CN=FH-SWF CA/emailAddress=pki@fh-swf.de
+        Last Update: Mar 14 07:50:17 2011 GMT
+        Next Update: Apr 13 07:50:17 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                264
+Revoked Certificates:
+    Serial Number: 0A299E41
+        Revocation Date: Jun 29 10:10:49 2007 GMT
+    Serial Number: 0A29F9AC
+        Revocation Date: Jan 19 15:38:10 2009 GMT
+    Serial Number: 0AA2EA97
+        Revocation Date: Oct 21 09:35:06 2009 GMT
+    Serial Number: 0B075AC5
+        Revocation Date: Sep 21 08:22:07 2007 GMT
+    Serial Number: 0B29B576
+        Revocation Date: Nov  8 10:32:10 2007 GMT
+    Serial Number: 0D5C9FA2
+        Revocation Date: Dec  8 14:59:05 2008 GMT
+    Serial Number: 0F9B26DD
+        Revocation Date: Feb 17 08:45:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        35:18:d3:ec:5a:70:db:ad:6f:a3:d6:f0:95:c0:9f:8a:21:00:
+        03:1a:98:d4:42:4b:d1:86:ee:2e:48:81:b8:ce:99:56:ae:21:
+        7f:91:15:14:6f:43:97:cf:da:a2:1d:08:3a:7b:d1:ce:e4:b5:
+        63:98:6c:da:30:1a:2e:9d:db:44:cd:5b:cb:8a:2f:09:66:f3:
+        ae:ea:dc:77:8a:b3:2d:57:97:3b:dc:66:c0:62:d6:28:01:55:
+        07:bb:0a:e1:06:3d:17:cd:31:65:ee:ae:2f:dc:3f:8c:5c:39:
+        4e:ec:0f:86:e8:d3:6a:e4:29:68:3b:e9:db:9c:f7:56:33:81:
+        6b:3f:7f:9f:51:9f:2c:65:2f:99:ed:de:b0:39:fd:b3:c3:cb:
+        bc:ab:ce:82:fb:4e:c4:64:0b:ef:36:d8:b0:b9:70:e5:c1:c8:
+        b8:f2:e2:7a:eb:e4:37:3e:21:73:76:08:fa:4b:2a:4d:41:c5:
+        fa:14:c0:2b:74:f7:0c:88:4c:0d:74:58:86:d2:f1:cc:c1:ac:
+        3a:b8:9d:9f:d3:0a:72:3c:5a:15:cd:67:79:2d:ea:7c:54:50:
+        c0:92:13:73:69:f5:a8:e2:c6:50:44:7a:f0:c0:ff:c7:1e:4f:
+        9b:c6:38:22:5d:88:83:83:eb:95:9d:ff:23:d7:70:50:5d:ca:
+        04:39:6a:30
