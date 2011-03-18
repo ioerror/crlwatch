@@ -1,0 +1,40 @@
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV CA-1
+SHA1 Fingerprint=C5:4C:D1:D7:76:FC:20:2E:DE:E3:2F:63:93:79:97:A5:4C:15:0F:A6
+829a1002
+crlNumber=000353
+lastUpdate=Mar 18 06:20:21 2011 GMT
+nextUpdate=Mar 25 06:20:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV CA-1
+        Last Update: Mar 18 06:20:21 2011 GMT
+        Next Update: Mar 25 06:20:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:4C:58:CB:25:F0:41:4F:52:F4:28:C8:81:43:9B:A6:A8:A0:E6:92:E5
+
+            X509v3 CRL Number: 
+                851
+Revoked Certificates:
+    Serial Number: 01000000000000000000000000000001
+        Revocation Date: Mar 18 05:20:20 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        41:1e:8e:4d:b8:6c:95:9f:be:ce:d1:1b:af:aa:52:ad:cf:b6:
+        40:28:1e:f2:0b:4b:36:ba:99:bf:75:91:59:d4:66:c6:98:66:
+        4e:e6:2c:7e:10:5d:bc:5c:32:44:a1:3c:e6:68:d0:0c:b4:5f:
+        7a:24:3c:c4:18:5d:cf:f6:31:96:40:e9:91:45:88:43:5b:e7:
+        1d:32:c9:5c:58:82:97:bb:b3:d9:6a:a8:ce:6c:22:fc:7b:62:
+        c0:26:eb:1e:b0:4c:d6:8d:6b:1c:b0:81:8b:df:8f:78:f7:76:
+        25:fe:0a:b0:97:85:06:58:e6:e4:7a:1d:2c:96:38:8e:91:2f:
+        76:b7:59:4f:59:a4:27:7c:24:1a:bb:f7:c4:34:59:c0:b1:54:
+        71:b2:dd:4d:df:5f:87:3d:7f:c5:c3:a6:62:6c:04:8a:fc:d9:
+        fb:d2:23:ef:4f:26:13:2d:2b:e4:54:db:4c:be:ba:d8:c1:38:
+        7d:8e:d2:bd:63:41:b4:7c:ec:30:30:19:10:3a:bd:57:b7:f8:
+        6a:3a:c1:b7:f9:f0:ac:3e:6c:11:49:63:40:ea:15:6c:39:0c:
+        be:81:c2:51:c0:33:a7:0c:91:82:9a:a2:e9:78:30:c8:f1:8c:
+        1e:f4:3d:bb:ab:4e:01:5f:3f:d1:5b:6f:4a:3d:d7:61:65:79:
+        61:49:c0:92
