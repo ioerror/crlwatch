@@ -1,0 +1,114 @@
+issuer=/C=DE/ST=Nordrhein-Westfalen/L=Wuppertal/O=Bergische Universitaet Wuppertal/OU=ZIM/CN=Uni-Wuppertal CA/emailAddress=pki@uni-wuppertal.de
+SHA1 Fingerprint=EF:2C:1B:08:59:8E:C6:B7:31:7B:B1:5F:09:8C:41:7E:DD:33:39:66
+7b59cf5d
+crlNumber=D8
+lastUpdate=Mar 14 09:44:08 2011 GMT
+nextUpdate=Apr 13 09:44:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Nordrhein-Westfalen/L=Wuppertal/O=Bergische Universitaet Wuppertal/OU=ZIM/CN=Uni-Wuppertal CA/emailAddress=pki@uni-wuppertal.de
+        Last Update: Mar 14 09:44:08 2011 GMT
+        Next Update: Apr 13 09:44:08 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                216
+Revoked Certificates:
+    Serial Number: 0B46BF22
+        Revocation Date: Nov  2 12:16:09 2007 GMT
+    Serial Number: 0B47ED84
+        Revocation Date: Oct 31 12:24:07 2007 GMT
+    Serial Number: 0B47F22A
+        Revocation Date: May 16 14:51:54 2008 GMT
+    Serial Number: 0B4E55A3
+        Revocation Date: May 16 14:51:56 2008 GMT
+    Serial Number: 0B4E84FC
+        Revocation Date: May 16 15:17:19 2008 GMT
+    Serial Number: 0B4F9DC3
+        Revocation Date: Jul 28 13:52:17 2008 GMT
+    Serial Number: 0B4FB69E
+        Revocation Date: May 23 06:40:09 2008 GMT
+    Serial Number: 0B58DC04
+        Revocation Date: May 16 14:51:55 2008 GMT
+    Serial Number: 0BA1A09A
+        Revocation Date: May 23 06:40:10 2008 GMT
+    Serial Number: 0BCFC34F
+        Revocation Date: May 23 06:40:12 2008 GMT
+    Serial Number: 0BCFC351
+        Revocation Date: May 23 06:40:13 2008 GMT
+    Serial Number: 0BF464EC
+        Revocation Date: May 23 06:40:14 2008 GMT
+    Serial Number: 0BF464F1
+        Revocation Date: May 23 06:40:14 2008 GMT
+    Serial Number: 0BF464F3
+        Revocation Date: May 23 06:40:15 2008 GMT
+    Serial Number: 0BF464F5
+        Revocation Date: May 16 14:51:53 2008 GMT
+    Serial Number: 0BF5F778
+        Revocation Date: May 23 06:40:16 2008 GMT
+    Serial Number: 0C4BADE4
+        Revocation Date: Jul 25 12:50:08 2008 GMT
+    Serial Number: 0C4D2994
+        Revocation Date: Jul 28 13:47:18 2008 GMT
+    Serial Number: 0C50B204
+        Revocation Date: Aug 30 07:14:32 2010 GMT
+    Serial Number: 0CA90342
+        Revocation Date: Jul 28 13:47:20 2008 GMT
+    Serial Number: 0D38C603
+        Revocation Date: Nov 25 11:38:28 2008 GMT
+    Serial Number: 0E0BABBA
+        Revocation Date: Apr 20 08:35:08 2009 GMT
+    Serial Number: 0E0BABBB
+        Revocation Date: Apr 20 08:35:09 2009 GMT
+    Serial Number: 0E0BB23B
+        Revocation Date: Apr 20 09:01:18 2009 GMT
+    Serial Number: 0E1FA1FC
+        Revocation Date: May  8 06:45:08 2009 GMT
+    Serial Number: 0E226BE4
+        Revocation Date: May  8 06:45:09 2009 GMT
+    Serial Number: 0E28F248
+        Revocation Date: Oct 26 09:15:39 2009 GMT
+    Serial Number: 0EB30280
+        Revocation Date: Sep  3 08:45:10 2009 GMT
+    Serial Number: 0EED2FF5
+        Revocation Date: Oct 15 08:18:25 2009 GMT
+    Serial Number: 0EED2FF7
+        Revocation Date: Oct 15 08:18:25 2009 GMT
+    Serial Number: 10009940
+        Revocation Date: May 11 11:09:09 2010 GMT
+    Serial Number: 1092F77F
+        Revocation Date: Aug 30 08:46:09 2010 GMT
+    Serial Number: 1092F7CE
+        Revocation Date: Aug 30 08:46:10 2010 GMT
+    Serial Number: 1092FA1D
+        Revocation Date: Aug 30 08:46:11 2010 GMT
+    Serial Number: 1092FA89
+        Revocation Date: Aug 25 07:46:28 2010 GMT
+    Serial Number: 1092FA8A
+        Revocation Date: Aug 30 08:46:12 2010 GMT
+    Serial Number: 10CBA846
+        Revocation Date: Oct 12 07:37:08 2010 GMT
+    Serial Number: 1101B8C5
+        Revocation Date: Nov 16 10:08:16 2010 GMT
+    Serial Number: 11217457
+        Revocation Date: Dec 13 12:49:16 2010 GMT
+    Serial Number: 11468776
+        Revocation Date: Jan 10 09:51:09 2011 GMT
+    Serial Number: 117DB978
+        Revocation Date: Feb 22 08:29:19 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        5d:af:9a:66:31:ce:2d:6f:36:91:79:8b:7b:d7:e3:fa:7a:35:
+        60:46:e0:ec:d0:99:90:9f:a1:40:b2:b8:ac:6b:5e:24:57:19:
+        45:28:af:fe:b0:85:b0:9c:e4:7f:ee:58:56:98:22:27:58:02:
+        c7:4e:22:72:c1:30:10:7f:e3:8d:82:56:d9:53:55:97:c8:14:
+        6a:64:df:2f:e6:be:23:2a:7b:46:ae:2b:8c:c0:de:72:07:dd:
+        b9:37:ad:63:92:e0:55:e4:2a:c6:ac:93:34:5e:ad:87:5d:03:
+        f0:f3:e2:f3:59:5e:e0:01:e1:21:94:3a:98:52:81:a8:6a:7a:
+        70:46:50:d5:24:05:ff:89:9b:72:3a:6a:ca:69:92:ff:13:5d:
+        c3:be:84:87:1b:9d:1e:5c:eb:b5:fd:0a:da:38:4d:9d:8b:7b:
+        46:a1:e2:5b:36:e1:0b:fe:95:66:35:24:ef:99:60:3e:b9:07:
+        d9:eb:d6:f1:99:1a:61:4d:3b:a7:d2:fa:18:0e:f2:6b:9c:31:
+        bd:62:d1:0c:84:8e:31:9e:54:88:11:ef:c2:7c:44:e2:ae:59:
+        3a:75:83:1b:af:e8:bb:0a:c9:9d:7b:68:a4:8a:b6:a1:0f:a7:
+        d2:b1:23:78:ce:93:42:9e:dc:06:b1:2b:fb:4b:59:3a:16:18:
+        9f:1f:da:2d
