@@ -1,0 +1,100 @@
+issuer=/DC=com/DC=disney/OU=PKI/CN=The Walt Disney Company Enterprise CA
+SHA1 Fingerprint=31:F0:60:ED:B9:43:54:A6:CC:AF:75:1D:33:A1:EB:73:B1:00:11:2C
+986dc2f1
+crlNumber=0A9F
+lastUpdate=Mar 18 07:32:12 2011 GMT
+nextUpdate=Mar 21 07:32:12 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=com/DC=disney/OU=PKI/CN=The Walt Disney Company Enterprise CA
+        Last Update: Mar 18 07:32:12 2011 GMT
+        Next Update: Mar 21 07:32:12 2011 GMT
+        CRL extensions:
+            X509v3 Issuing Distrubution Point: critical
+                0.........~0|1.0..
+..&...,d....com1.0..
+..&...,d....disney1.0
+..U....PKI1.0,..U...%The Walt Disney Company Enterprise CA1.0..U....CRL113.,http://cdp.disney.pvt/CRL/Enterprisec113.crl.,http://cdp.disney.com/CRL/Enterprisec113.crl...
+            X509v3 CRL Number: 
+                2719
+            X509v3 Authority Key Identifier: 
+                keyid:78:2F:15:38:BA:3B:41:FD:A0:B9:CF:C6:90:51:41:AE:6E:C1:B0:4A
+
+Revoked Certificates:
+    Serial Number: 48F8107B
+        Revocation Date: Apr  3 22:38:29 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F8107C
+        Revocation Date: Apr  3 22:38:29 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F810EC
+        Revocation Date: Apr  6 11:10:21 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F810ED
+        Revocation Date: Apr  6 11:10:21 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F813DC
+        Revocation Date: Apr  9 18:46:32 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F813DD
+        Revocation Date: Apr  9 18:46:32 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F813E7
+        Revocation Date: Apr  9 18:49:30 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F813E8
+        Revocation Date: Apr  9 18:49:30 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F81502
+        Revocation Date: Apr 10 20:43:20 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F81503
+        Revocation Date: Apr 10 20:43:20 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F815C3
+        Revocation Date: Apr 13 19:35:30 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F815C4
+        Revocation Date: Apr 13 19:35:30 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        93:e4:c0:7c:4d:09:5f:b6:68:8e:84:1e:c8:82:58:3f:73:18:
+        b6:9f:8d:dd:ee:30:c1:7e:a1:1a:ce:68:a8:d2:d8:e7:44:c0:
+        fd:61:b4:92:f4:1f:fe:27:6a:f3:3c:55:d2:bc:94:dc:1a:61:
+        8c:ff:2a:ce:b3:02:d8:b2:f3:3b:f9:5d:a8:04:ea:e7:9f:a6:
+        69:99:7d:98:39:e4:f0:fd:a2:cc:29:95:44:c1:ea:fa:f7:e8:
+        76:df:ec:73:c0:48:dd:c5:f5:ae:96:89:55:25:11:7b:1e:99:
+        e2:e7:ce:10:e1:d8:19:0d:4d:c4:a4:51:c9:d4:7f:97:6f:17:
+        bc:83:0a:83:3d:1f:91:8f:e3:03:12:d3:34:30:29:97:5b:49:
+        c3:3f:a5:b7:3d:5b:0e:c4:e7:23:ae:34:e1:cf:89:96:c0:11:
+        1d:8e:e1:5f:12:41:c7:b9:81:f4:2c:e6:77:c4:01:c5:d8:6b:
+        7b:97:83:6f:2c:d4:f0:ee:59:f7:2b:54:62:05:aa:7d:df:70:
+        8e:bf:f0:51:40:da:49:58:6e:c6:5e:36:d0:55:ed:33:1f:eb:
+        5c:28:1f:e9:f8:9d:41:35:d7:1d:2f:f4:e7:c6:44:07:1e:b5:
+        ec:40:4c:4e:4b:69:44:0e:42:fd:39:ba:88:95:9b:d2:97:29:
+        65:6e:51:d4
