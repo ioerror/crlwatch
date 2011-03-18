@@ -1,0 +1,90 @@
+issuer=/C=DE/ST=Bayern/L=Erlangen/O=Universitaet Erlangen-Nuernberg/OU=RRZE/CN=FAU-CA/emailAddress=ca@rrze.uni-erlangen.de
+SHA1 Fingerprint=BF:1D:BD:73:2A:B4:0D:FF:3C:6C:47:F7:D0:94:19:59:1F:19:19:04
+431a69b9
+crlNumber=F2
+lastUpdate=Mar 17 10:57:29 2011 GMT
+nextUpdate=Apr 16 10:57:29 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Erlangen/O=Universitaet Erlangen-Nuernberg/OU=RRZE/CN=FAU-CA/emailAddress=ca@rrze.uni-erlangen.de
+        Last Update: Mar 17 10:57:29 2011 GMT
+        Next Update: Apr 16 10:57:29 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                242
+Revoked Certificates:
+    Serial Number: 0B5275FF
+        Revocation Date: Jan 19 08:41:55 2011 GMT
+    Serial Number: 0B529CA3
+        Revocation Date: Nov  9 15:12:09 2007 GMT
+    Serial Number: 0B529CA5
+        Revocation Date: Nov  9 15:12:11 2007 GMT
+    Serial Number: 0B529CA7
+        Revocation Date: Nov  9 15:12:13 2007 GMT
+    Serial Number: 0B529CA9
+        Revocation Date: Nov  9 15:13:08 2007 GMT
+    Serial Number: 0B529CB1
+        Revocation Date: Nov  9 15:13:10 2007 GMT
+    Serial Number: 0B529E0A
+        Revocation Date: Nov  8 14:59:32 2007 GMT
+    Serial Number: 0B6E1F9A
+        Revocation Date: Oct 20 12:39:08 2009 GMT
+    Serial Number: 0BC93C5F
+        Revocation Date: Mar  4 14:34:08 2008 GMT
+    Serial Number: 0BC9405A
+        Revocation Date: Mar 10 14:08:09 2010 GMT
+    Serial Number: 0BD12C3E
+        Revocation Date: May 16 13:22:00 2008 GMT
+    Serial Number: 0BF5F7B6
+        Revocation Date: May 10 12:48:07 2010 GMT
+    Serial Number: 0C0C539C
+        Revocation Date: Feb 10 09:25:09 2010 GMT
+    Serial Number: 0D40DDDB
+        Revocation Date: Apr  7 06:53:07 2009 GMT
+    Serial Number: 0DA2E644
+        Revocation Date: Feb  2 15:37:09 2009 GMT
+    Serial Number: 0DB21B3C
+        Revocation Date: Aug 18 07:31:11 2010 GMT
+    Serial Number: 0DE06185
+        Revocation Date: Mar 19 11:00:07 2009 GMT
+    Serial Number: 0E3B65A4
+        Revocation Date: Aug  3 14:21:07 2009 GMT
+    Serial Number: 0E7B9E94
+        Revocation Date: Jul 14 06:33:08 2009 GMT
+    Serial Number: 0E8F97BA
+        Revocation Date: Aug  3 14:20:08 2009 GMT
+    Serial Number: 0E966287
+        Revocation Date: Jan 19 08:41:54 2011 GMT
+    Serial Number: 0EB5AAE4
+        Revocation Date: Aug 18 07:31:11 2010 GMT
+    Serial Number: 0EB5AAE5
+        Revocation Date: Aug 18 07:31:10 2010 GMT
+    Serial Number: 0FF623FD
+        Revocation Date: Apr 28 10:27:09 2010 GMT
+    Serial Number: 10076900
+        Revocation Date: May 10 12:47:09 2010 GMT
+    Serial Number: 1039539C
+        Revocation Date: Jun 22 11:56:15 2010 GMT
+    Serial Number: 103FDA3D
+        Revocation Date: Jul 20 12:46:09 2010 GMT
+    Serial Number: 104BECB8
+        Revocation Date: Jul 14 15:24:08 2010 GMT
+    Serial Number: 11A06B57
+        Revocation Date: Mar 17 10:57:28 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        9a:cd:ad:0d:95:eb:2c:62:12:77:1d:6e:2b:7c:43:97:ef:aa:
+        2f:5d:70:af:b9:8b:a5:12:72:91:b6:02:76:3c:18:74:8a:33:
+        20:f4:6d:9c:bc:54:70:db:08:b5:83:b2:40:69:3f:ed:71:2e:
+        c8:57:27:c1:25:72:2c:f7:55:f2:a7:92:50:df:85:27:c6:ee:
+        fe:12:21:3e:91:65:25:8f:ab:09:ca:77:7e:d0:3f:18:a7:bd:
+        09:54:64:6e:42:f6:12:06:84:6e:1f:cd:9a:d3:36:59:0a:12:
+        96:0c:a9:3f:c5:c5:f3:10:15:8f:e9:5f:19:60:85:20:9d:5d:
+        f1:8a:6a:b6:5c:a4:06:fa:6c:91:6a:64:18:92:3d:e3:f2:ac:
+        77:2b:31:a2:09:a9:06:09:81:42:7e:df:80:f2:c1:8b:df:e6:
+        b7:7d:3f:ba:34:e4:de:7f:b5:7a:07:44:68:6c:b4:22:64:6f:
+        bb:b7:9b:aa:3e:db:34:81:a1:94:98:61:5b:27:a6:b4:a5:4a:
+        f5:0b:75:9f:71:eb:56:67:aa:f8:a0:2c:ec:0e:f6:86:07:10:
+        7e:63:98:9f:c8:df:fb:1d:ae:b3:f8:8c:98:c0:f4:c3:39:fa:
+        16:5a:1f:16:3b:97:1c:2f:55:44:f5:31:89:3b:6b:15:15:d8:
+        ea:f8:b6:5f
