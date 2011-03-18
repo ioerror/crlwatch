@@ -1,0 +1,50 @@
+issuer=/DC=com/DC=disney/OU=PKI/CN=The Walt Disney Company Enterprise CA
+SHA1 Fingerprint=00:5B:C5:5F:99:AB:94:96:BE:77:8F:9B:EF:49:B7:C6:FC:36:6E:84
+986dc2f1
+crlNumber=0C32
+lastUpdate=Mar 18 07:32:10 2011 GMT
+nextUpdate=Mar 21 07:32:10 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=com/DC=disney/OU=PKI/CN=The Walt Disney Company Enterprise CA
+        Last Update: Mar 18 07:32:10 2011 GMT
+        Next Update: Mar 21 07:32:10 2011 GMT
+        CRL extensions:
+            X509v3 Issuing Distrubution Point: critical
+                0.........}0{1.0..
+..&...,d....com1.0..
+..&...,d....disney1.0
+..U....PKI1.0,..U...%The Walt Disney Company Enterprise CA1.0...U....CRL95.+http://cdp.disney.pvt/CRL/Enterprisec95.crl.+http://cdp.disney.com/CRL/Enterprisec95.crl...
+            X509v3 CRL Number: 
+                3122
+            X509v3 Authority Key Identifier: 
+                keyid:78:2F:15:38:BA:3B:41:FD:A0:B9:CF:C6:90:51:41:AE:6E:C1:B0:4A
+
+Revoked Certificates:
+    Serial Number: 48F7A88F
+        Revocation Date: Oct 22 20:14:00 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48F7A890
+        Revocation Date: Oct 22 20:14:00 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        1d:9d:7a:4f:f9:e7:ea:a0:16:fd:13:08:fc:13:e3:6b:0d:b3:
+        27:3a:31:76:09:e4:bf:db:16:b8:be:09:5d:fc:89:d8:a7:87:
+        ad:d1:31:50:f6:26:2d:e0:8c:ec:74:3f:2c:69:18:ea:9d:1c:
+        f9:93:7c:26:fc:a2:90:d9:84:9b:87:3c:05:cb:7b:52:b5:b4:
+        3f:23:cb:33:9b:72:06:52:ef:33:7e:8d:c4:fb:f0:d9:96:cd:
+        8b:05:ee:c8:7e:d9:9e:4b:33:31:b0:38:32:ed:32:9f:37:4e:
+        2d:86:fb:ad:04:be:bf:04:c7:f5:bd:8a:8a:47:73:51:41:35:
+        25:77:35:48:99:3d:51:3a:b1:55:36:f8:66:99:a2:1c:74:e7:
+        62:86:fd:0c:c9:6f:61:c9:1c:d3:fb:ce:15:23:81:e9:80:2b:
+        ff:a4:73:37:0f:06:80:8d:5a:6c:c0:4d:78:33:9c:2d:49:1d:
+        0d:7f:30:99:55:80:8c:11:59:5c:fb:3b:71:04:0a:71:36:0b:
+        44:08:c5:d7:c6:a0:41:12:4b:75:67:61:d1:13:72:65:17:5b:
+        2f:ef:26:92:3e:8f:70:5f:ad:fd:21:18:65:8c:9b:db:8a:dd:
+        30:67:b8:79:1f:29:be:11:66:be:14:ef:66:3d:e1:79:b5:61:
+        40:0b:f8:8c
