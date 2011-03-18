@@ -1,0 +1,75 @@
+issuer=/O=Telstra Corporation Limited/CN=Telstra RSS Policy CA
+SHA1 Fingerprint=ED:28:7E:B3:76:93:53:AB:6D:FD:E7:D8:D3:29:B4:B3:C5:34:AC:3F
+91673677
+crlNumber=09
+lastUpdate=Nov 22 03:45:15 2010 GMT
+nextUpdate=Nov 22 16:05:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=Telstra Corporation Limited/CN=Telstra RSS Policy CA
+        Last Update: Nov 22 03:45:15 2010 GMT
+        Next Update: Nov 22 16:05:15 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:69:74:64:2A:E2:83:E0:02:B3:25:33:B5:49:88:1B:FB:5B:B5:5C:ED
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                9
+            1.3.6.1.4.1.311.21.4: 
+                .111122035515Z
+            1.3.6.1.4.1.311.21.14: 
+                0..0...........ldap:///CN=Telstra%20RSS%20Policy%20CA,CN=wsrssp0101,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=core,DC=dir,DC=telstra,DC=com?certificateRevocationList?base?objectClass=cRLDistributionPoint
+Revoked Certificates:
+    Serial Number: 2E31C13000000000000D
+        Revocation Date: Nov 29 08:22:55 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 298A7B5E00000000000C
+        Revocation Date: Nov 25 23:32:48 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 1AC16F4500000000000B
+        Revocation Date: Nov 25 01:53:12 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 1AA3811A00000000000A
+        Revocation Date: Nov 19 02:23:01 2009 GMT
+    Serial Number: 1544E070000000000009
+        Revocation Date: Nov 19 01:50:18 2009 GMT
+    Serial Number: 153C87F6000000000008
+        Revocation Date: Nov 18 00:48:30 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 614DD172000000000007
+        Revocation Date: Nov 18 00:48:30 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 614391AB000000000006
+        Revocation Date: Nov 18 00:48:30 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Signature Algorithm: sha1WithRSAEncryption
+        ad:ec:96:4a:c0:eb:2b:8f:4a:83:50:6e:ab:af:d8:28:46:10:
+        e4:25:8a:3f:e6:29:53:db:da:9e:2f:e4:d1:85:88:b9:50:d1:
+        f7:10:16:12:47:9e:e3:7a:f8:eb:19:3c:b1:00:cc:98:c4:1a:
+        ae:9b:e3:3f:8a:7a:cf:60:78:0a:e5:91:fc:05:b9:c8:38:1c:
+        4a:83:c4:8e:dd:0e:f8:fa:2a:92:c5:76:dd:64:2d:7a:7f:94:
+        dd:a1:4e:4d:a6:c1:3b:70:26:92:b6:f6:8b:f2:66:2e:90:bb:
+        5e:2a:d9:31:58:fc:9f:2a:ad:d7:d3:29:85:58:2f:57:4d:88:
+        04:0a:99:bf:5d:9e:9c:97:3b:5d:46:54:17:0b:15:9a:51:d1:
+        50:60:9d:0e:e8:c7:76:53:fd:b4:85:06:16:db:74:29:17:30:
+        e3:77:f6:2a:76:cb:94:67:a1:e2:4b:6d:ca:d9:8c:b9:b9:f0:
+        56:9a:8b:ba:00:64:61:47:76:c8:b1:2c:17:65:58:5a:16:dd:
+        c0:04:6d:bf:3a:69:d8:e2:c5:1e:46:8c:90:af:54:90:82:76:
+        c4:9f:34:85:28:98:b9:ab:a9:42:b1:17:72:9e:54:72:8f:c1:
+        5e:ac:48:21:dd:ed:91:24:a6:3e:14:1a:3e:3d:3f:66:2a:f6:
+        50:9d:61:73
