@@ -1,0 +1,34 @@
+issuer=/C=DE/O=Fachhochschule Emden/Leer/CN=FH-EL CA/emailAddress=pki@fh-el.de
+SHA1 Fingerprint=51:F2:AB:FB:80:4F:05:F0:C6:41:1A:B7:3D:31:DA:79:C3:30:DA:CA
+e3dfa12f
+crlNumber=39
+lastUpdate=Mar 14 07:38:14 2011 GMT
+nextUpdate=Apr 13 07:38:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Fachhochschule Emden/Leer/CN=FH-EL CA/emailAddress=pki@fh-el.de
+        Last Update: Mar 14 07:38:14 2011 GMT
+        Next Update: Apr 13 07:38:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                57
+Revoked Certificates:
+    Serial Number: 10FB81D3
+        Revocation Date: Nov 12 08:43:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        3b:83:9c:b4:ff:13:57:95:f0:9c:22:96:ad:b4:83:ff:0b:f8:
+        1c:39:3f:4f:6b:77:fa:80:d1:cf:44:1c:e0:a3:29:5b:f5:3d:
+        41:86:c9:a2:a7:25:db:d6:cb:19:d9:9e:ba:e3:ed:e3:57:df:
+        9a:e7:a8:a3:58:94:59:47:1f:ec:c4:c4:d5:44:a4:92:ec:fd:
+        a5:f4:17:5d:3a:4d:06:56:e0:ae:03:fc:c8:f1:8b:28:9d:3c:
+        d5:dc:e5:81:32:42:44:5c:7f:90:af:4c:3c:4a:be:9b:ce:45:
+        0a:63:43:96:db:2f:4a:de:8c:9a:50:83:03:bc:0c:79:3c:f8:
+        57:42:f0:fb:7d:e5:14:8c:ae:06:1f:62:e4:b9:00:39:73:11:
+        f9:93:ad:f4:55:4f:66:5b:f1:48:a9:f6:ec:95:b6:fc:66:f1:
+        2b:0b:5c:b0:5f:5a:e3:38:9d:1c:59:be:09:55:35:0a:67:14:
+        2d:13:a4:55:be:ae:b3:17:dc:95:e4:3a:0d:78:88:1e:47:2b:
+        79:b8:1f:f3:fd:ef:ee:53:ce:4e:26:11:1c:2b:00:a2:c9:e7:
+        b5:ae:7e:10:cc:ee:e6:3f:d6:43:f3:1b:17:19:6a:23:f7:33:
+        9b:e8:0d:ac:49:a7:2f:5e:34:aa:9d:34:59:27:a8:0d:44:b3:
+        fe:99:c7:a4
