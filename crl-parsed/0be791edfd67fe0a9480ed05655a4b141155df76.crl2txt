@@ -1,0 +1,604 @@
+issuer=/C=DE/O=T-Systems SfR/CN=T-Systems SfR CA/emailAddress=ca@t-systems-sfr.com
+SHA1 Fingerprint=DB:5C:5E:63:C7:65:38:27:12:B1:35:37:CD:A8:7D:E2:30:CF:DE:AC
+992c9094
+crlNumber=02AB
+lastUpdate=Mar 14 09:05:24 2011 GMT
+nextUpdate=Apr 13 09:05:24 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=T-Systems SfR/CN=T-Systems SfR CA/emailAddress=ca@t-systems-sfr.com
+        Last Update: Mar 14 09:05:24 2011 GMT
+        Next Update: Apr 13 09:05:24 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                683
+Revoked Certificates:
+    Serial Number: 084A0A6F
+        Revocation Date: Jan 10 11:38:56 2007 GMT
+    Serial Number: 085485C7
+        Revocation Date: Jan 15 18:00:54 2007 GMT
+    Serial Number: 0855E849
+        Revocation Date: Jan 18 08:11:02 2007 GMT
+    Serial Number: 085B382E
+        Revocation Date: Mar  6 10:01:17 2007 GMT
+    Serial Number: 0864681B
+        Revocation Date: Apr  3 06:11:06 2007 GMT
+    Serial Number: 0865BD47
+        Revocation Date: Jan 15 18:20:53 2007 GMT
+    Serial Number: 086C5880
+        Revocation Date: Jan 15 18:20:59 2007 GMT
+    Serial Number: 086F00B8
+        Revocation Date: Jan 15 18:21:00 2007 GMT
+    Serial Number: 087047B3
+        Revocation Date: Jan 15 18:20:57 2007 GMT
+    Serial Number: 08BA1D25
+        Revocation Date: Jul 11 13:57:10 2006 GMT
+    Serial Number: 08BF65F5
+        Revocation Date: Jan 15 18:20:51 2007 GMT
+    Serial Number: 08D1CFD4
+        Revocation Date: Nov  3 07:50:34 2006 GMT
+    Serial Number: 08D32BC1
+        Revocation Date: Jan 16 08:10:57 2007 GMT
+    Serial Number: 08D32BC3
+        Revocation Date: Jan 16 08:10:55 2007 GMT
+    Serial Number: 08DF007E
+        Revocation Date: Sep 25 10:30:37 2006 GMT
+    Serial Number: 08E45AFC
+        Revocation Date: Mar  6 10:01:19 2007 GMT
+    Serial Number: 08E45AFE
+        Revocation Date: Jul 25 14:35:37 2006 GMT
+    Serial Number: 09053C63
+        Revocation Date: Sep 25 10:30:38 2006 GMT
+    Serial Number: 09053C66
+        Revocation Date: Aug 29 12:48:51 2006 GMT
+    Serial Number: 09126E58
+        Revocation Date: Apr  3 06:11:13 2007 GMT
+    Serial Number: 094DE8DF
+        Revocation Date: Oct 12 16:40:33 2006 GMT
+    Serial Number: 094DED8E
+        Revocation Date: Jan 19 15:20:57 2007 GMT
+    Serial Number: 094DF6EE
+        Revocation Date: Oct 13 10:50:31 2006 GMT
+    Serial Number: 0965A18E
+        Revocation Date: Nov  1 09:10:34 2006 GMT
+    Serial Number: 096A8C1E
+        Revocation Date: Jan 15 18:20:55 2007 GMT
+    Serial Number: 096A8C20
+        Revocation Date: Nov  3 19:00:31 2006 GMT
+    Serial Number: 096ACB66
+        Revocation Date: Nov  3 19:00:32 2006 GMT
+    Serial Number: 096AF7EE
+        Revocation Date: Nov  3 19:00:34 2006 GMT
+    Serial Number: 096EE30F
+        Revocation Date: Nov  6 17:40:31 2006 GMT
+    Serial Number: 096FFEA8
+        Revocation Date: Nov  7 14:00:33 2006 GMT
+    Serial Number: 098E5125
+        Revocation Date: Nov 30 13:10:33 2006 GMT
+    Serial Number: 098E55D4
+        Revocation Date: Apr  3 06:11:09 2007 GMT
+    Serial Number: 0994CEDE
+        Revocation Date: Dec  7 15:00:33 2006 GMT
+    Serial Number: 099904FD
+        Revocation Date: Mar  6 10:01:21 2007 GMT
+    Serial Number: 09990C07
+        Revocation Date: Dec 10 12:50:32 2006 GMT
+    Serial Number: 099B827C
+        Revocation Date: Jan 26 12:40:54 2007 GMT
+    Serial Number: 09A23ACE
+        Revocation Date: Jan 18 08:11:00 2007 GMT
+    Serial Number: 09C31A22
+        Revocation Date: Jan  9 14:41:14 2007 GMT
+    Serial Number: 09C33512
+        Revocation Date: May  4 08:21:17 2007 GMT
+    Serial Number: 09CD8D83
+        Revocation Date: Jan 17 12:20:57 2007 GMT
+    Serial Number: 09CD9235
+        Revocation Date: Feb  1 09:00:50 2007 GMT
+    Serial Number: 09CDB0AD
+        Revocation Date: Mar  8 13:51:03 2007 GMT
+    Serial Number: 09CDB7B4
+        Revocation Date: Jan 19 08:31:23 2007 GMT
+    Serial Number: 09D00407
+        Revocation Date: Feb  8 08:20:50 2007 GMT
+    Serial Number: 09D01219
+        Revocation Date: Jan 19 11:20:55 2007 GMT
+    Serial Number: 09D0201D
+        Revocation Date: Jan 23 11:10:57 2007 GMT
+    Serial Number: 09D053BE
+        Revocation Date: Jan 19 14:40:59 2007 GMT
+    Serial Number: 09D44A86
+        Revocation Date: Jan 31 12:50:48 2007 GMT
+    Serial Number: 09D458A9
+        Revocation Date: Feb 12 15:30:47 2007 GMT
+    Serial Number: 09D54564
+        Revocation Date: Feb 19 09:00:52 2007 GMT
+    Serial Number: 09D555BF
+        Revocation Date: Mar  7 08:10:57 2007 GMT
+    Serial Number: 09D563D0
+        Revocation Date: Mar  8 08:50:57 2007 GMT
+    Serial Number: 09D5742F
+        Revocation Date: Feb  8 08:30:58 2007 GMT
+    Serial Number: 09D57D8E
+        Revocation Date: Feb 19 08:20:46 2007 GMT
+    Serial Number: 09D5823D
+        Revocation Date: Feb  8 08:30:47 2007 GMT
+    Serial Number: 09D592AF
+        Revocation Date: Feb  8 08:20:52 2007 GMT
+    Serial Number: 09D59507
+        Revocation Date: Jan 31 12:50:50 2007 GMT
+    Serial Number: 09D5A0B1
+        Revocation Date: Feb 23 08:01:30 2007 GMT
+    Serial Number: 09D68B11
+        Revocation Date: Feb  8 08:30:49 2007 GMT
+    Serial Number: 09D69219
+        Revocation Date: Feb  8 08:30:54 2007 GMT
+    Serial Number: 09D69921
+        Revocation Date: Feb  8 08:30:52 2007 GMT
+    Serial Number: 09D6A994
+        Revocation Date: Feb  8 08:30:51 2007 GMT
+    Serial Number: 09D866DC
+        Revocation Date: Mar  6 15:51:05 2007 GMT
+    Serial Number: 09D87291
+        Revocation Date: Mar  6 16:00:59 2007 GMT
+    Serial Number: 09D93774
+        Revocation Date: Mar  6 16:01:00 2007 GMT
+    Serial Number: 09D93E7C
+        Revocation Date: Feb 12 14:01:10 2007 GMT
+    Serial Number: 09D94A31
+        Revocation Date: Feb 12 14:01:11 2007 GMT
+    Serial Number: 09D9720A
+        Revocation Date: Mar  6 16:01:02 2007 GMT
+    Serial Number: 09DFF490
+        Revocation Date: May 11 15:51:10 2007 GMT
+    Serial Number: 09E01540
+        Revocation Date: Jan 22 13:18:10 2010 GMT
+    Serial Number: 09E03D1C
+        Revocation Date: Jan 22 08:06:10 2010 GMT
+    Serial Number: 09E13A38
+        Revocation Date: Mar  6 13:31:03 2007 GMT
+    Serial Number: 09E7CD04
+        Revocation Date: Mar 28 15:24:15 2008 GMT
+    Serial Number: 09EA89CE
+        Revocation Date: Feb  8 12:20:49 2007 GMT
+    Serial Number: 09EA8E80
+        Revocation Date: Mar  6 10:01:23 2007 GMT
+    Serial Number: 09EA932B
+        Revocation Date: Oct 19 08:57:11 2009 GMT
+    Serial Number: 09EA9A33
+        Revocation Date: Aug 26 12:27:11 2009 GMT
+    Serial Number: 09EB975A
+        Revocation Date: Jan 22 13:09:10 2010 GMT
+    Serial Number: 09EB975C
+        Revocation Date: Jan 22 14:00:11 2010 GMT
+    Serial Number: 09EB9C03
+        Revocation Date: Feb  9 07:20:49 2007 GMT
+    Serial Number: 09EB9E5C
+        Revocation Date: Jan 22 13:57:10 2010 GMT
+    Serial Number: 09EBA0B3
+        Revocation Date: Jan 22 13:31:17 2010 GMT
+    Serial Number: 09EBA0B5
+        Revocation Date: Jan 22 14:00:12 2010 GMT
+    Serial Number: 09EBA30B
+        Revocation Date: Jan 22 13:47:17 2010 GMT
+    Serial Number: 09EBA30D
+        Revocation Date: Jan 22 13:47:16 2010 GMT
+    Serial Number: 09EBCAE3
+        Revocation Date: Jan 22 14:00:13 2010 GMT
+    Serial Number: 09EFC8C3
+        Revocation Date: Jan 22 08:55:10 2010 GMT
+    Serial Number: 09EFF7A8
+        Revocation Date: Mar 21 12:21:02 2007 GMT
+    Serial Number: 09F12856
+        Revocation Date: Jan 22 14:01:10 2010 GMT
+    Serial Number: 09F248B2
+        Revocation Date: Jan 22 08:55:11 2010 GMT
+    Serial Number: 09F8E01A
+        Revocation Date: Jan 22 13:33:09 2010 GMT
+    Serial Number: 09F8E726
+        Revocation Date: Jan 22 13:33:10 2010 GMT
+    Serial Number: 09FA2394
+        Revocation Date: Feb 20 08:10:55 2007 GMT
+    Serial Number: 09FA2A9A
+        Revocation Date: Jan 22 13:33:11 2010 GMT
+    Serial Number: 09FA2F48
+        Revocation Date: Jan 22 13:47:15 2010 GMT
+    Serial Number: 09FA31B1
+        Revocation Date: Jul 17 13:23:10 2009 GMT
+    Serial Number: 09FE1CE2
+        Revocation Date: Jan 22 14:01:11 2010 GMT
+    Serial Number: 09FE1CE4
+        Revocation Date: Jan 22 08:25:09 2010 GMT
+    Serial Number: 09FE2624
+        Revocation Date: Jan 22 13:09:09 2010 GMT
+    Serial Number: 09FE2D32
+        Revocation Date: Jan 22 14:02:12 2010 GMT
+    Serial Number: 0A0267FC
+        Revocation Date: Feb 27 09:50:56 2007 GMT
+    Serial Number: 0A03606C
+        Revocation Date: Jan 22 14:02:12 2010 GMT
+    Serial Number: 0A036773
+        Revocation Date: Jan 22 14:03:12 2010 GMT
+    Serial Number: 0A0369CC
+        Revocation Date: Feb 10 12:10:12 2010 GMT
+    Serial Number: 0A036E82
+        Revocation Date: Jan 22 14:03:13 2010 GMT
+    Serial Number: 0A037EE7
+        Revocation Date: Jan 22 08:53:09 2010 GMT
+    Serial Number: 0A038144
+        Revocation Date: Jan 22 08:45:10 2010 GMT
+    Serial Number: 0A038395
+        Revocation Date: Jan 22 14:03:13 2010 GMT
+    Serial Number: 0A04F38E
+        Revocation Date: Jan 22 08:31:11 2010 GMT
+    Serial Number: 0A051207
+        Revocation Date: Jan 22 14:05:10 2010 GMT
+    Serial Number: 0A05190E
+        Revocation Date: Mar  7 10:11:02 2007 GMT
+    Serial Number: 0A051B6D
+        Revocation Date: Jan 22 14:05:11 2010 GMT
+    Serial Number: 0A051DBF
+        Revocation Date: Jan 22 08:52:12 2010 GMT
+    Serial Number: 0A05226F
+        Revocation Date: Jan 22 14:05:12 2010 GMT
+    Serial Number: 0A05271D
+        Revocation Date: Jan 22 14:05:12 2010 GMT
+    Serial Number: 0A062D9F
+        Revocation Date: Jan 22 08:45:10 2010 GMT
+    Serial Number: 0A06476A
+        Revocation Date: Jan 22 13:52:09 2010 GMT
+    Serial Number: 0A064E6F
+        Revocation Date: Jan 22 14:06:09 2010 GMT
+    Serial Number: 0A06532B
+        Revocation Date: Jan 22 14:06:10 2010 GMT
+    Serial Number: 0A06612D
+        Revocation Date: Jan 22 08:55:09 2010 GMT
+    Serial Number: 0A0673EE
+        Revocation Date: Mar 29 13:41:08 2007 GMT
+    Serial Number: 0A06789E
+        Revocation Date: Jan 22 13:05:09 2010 GMT
+    Serial Number: 0A0BD60D
+        Revocation Date: Dec 19 15:15:44 2007 GMT
+    Serial Number: 0A0CBBBE
+        Revocation Date: Jan 22 14:09:09 2010 GMT
+    Serial Number: 0A0CC9CC
+        Revocation Date: Jan 22 13:01:10 2010 GMT
+    Serial Number: 0A0CCE7B
+        Revocation Date: Jan 22 08:27:10 2010 GMT
+    Serial Number: 0A0CD7DB
+        Revocation Date: Feb 10 12:12:09 2010 GMT
+    Serial Number: 0A0DF5CC
+        Revocation Date: Mar  8 14:10:57 2007 GMT
+    Serial Number: 0A0F57B6
+        Revocation Date: Jan 22 08:52:11 2010 GMT
+    Serial Number: 0A0F6395
+        Revocation Date: Jan 22 14:12:08 2010 GMT
+    Serial Number: 0A0F6397
+        Revocation Date: Aug 26 12:27:11 2009 GMT
+    Serial Number: 0A0F65C7
+        Revocation Date: Jan 22 14:12:09 2010 GMT
+    Serial Number: 0A0F73D6
+        Revocation Date: Mar 21 12:31:04 2007 GMT
+    Serial Number: 0A0F81E7
+        Revocation Date: Jan 22 14:12:10 2010 GMT
+    Serial Number: 0A0F9251
+        Revocation Date: Apr  7 12:01:16 2009 GMT
+    Serial Number: 0A0F9954
+        Revocation Date: Mar  6 09:16:17 2008 GMT
+    Serial Number: 0A14ED67
+        Revocation Date: Jan 22 09:00:11 2010 GMT
+    Serial Number: 0A1DEFB1
+        Revocation Date: Jul 25 06:51:13 2008 GMT
+    Serial Number: 0A1F2E73
+        Revocation Date: Jan 22 14:12:11 2010 GMT
+    Serial Number: 0A1F3316
+        Revocation Date: Jan 22 14:14:09 2010 GMT
+    Serial Number: 0A1F3570
+        Revocation Date: Mar 21 12:51:00 2007 GMT
+    Serial Number: 0A1F37CD
+        Revocation Date: Jul 25 06:55:11 2008 GMT
+    Serial Number: 0A1F37CF
+        Revocation Date: Jan 22 12:57:11 2010 GMT
+    Serial Number: 0A206F80
+        Revocation Date: Mar 21 12:21:00 2007 GMT
+    Serial Number: 0A207FEE
+        Revocation Date: Mar 21 12:20:58 2007 GMT
+    Serial Number: 0A208BA2
+        Revocation Date: Jan 22 14:14:10 2010 GMT
+    Serial Number: 0A20B82C
+        Revocation Date: Jan 22 08:25:10 2010 GMT
+    Serial Number: 0A20BF3C
+        Revocation Date: Jan 22 12:59:10 2010 GMT
+    Serial Number: 0A20C1B4
+        Revocation Date: Jan 22 13:02:11 2010 GMT
+    Serial Number: 0A20C1B8
+        Revocation Date: Jan 22 08:35:09 2010 GMT
+    Serial Number: 0A20C640
+        Revocation Date: Jan 22 14:14:12 2010 GMT
+    Serial Number: 0A20C892
+        Revocation Date: Mar 21 15:41:00 2007 GMT
+    Serial Number: 0A20CAE7
+        Revocation Date: Jan 22 12:59:09 2010 GMT
+    Serial Number: 0A20D1F8
+        Revocation Date: Jan 22 14:17:10 2010 GMT
+    Serial Number: 0A2210B5
+        Revocation Date: Jan 22 08:53:10 2010 GMT
+    Serial Number: 0A2B1A03
+        Revocation Date: Jan 22 15:13:09 2010 GMT
+    Serial Number: 0A2B41D7
+        Revocation Date: Jan 22 08:40:11 2010 GMT
+    Serial Number: 0A342CAE
+        Revocation Date: Jan 22 08:35:09 2010 GMT
+    Serial Number: 0A343AED
+        Revocation Date: Apr  5 10:31:08 2007 GMT
+    Serial Number: 0A344FCC
+        Revocation Date: Apr 10 06:11:34 2007 GMT
+    Serial Number: 0A3AACDC
+        Revocation Date: Apr 10 07:02:54 2007 GMT
+    Serial Number: 0A3AB429
+        Revocation Date: Apr 10 08:11:34 2007 GMT
+    Serial Number: 0A3AC682
+        Revocation Date: Jun 15 10:41:12 2007 GMT
+    Serial Number: 0A3D6023
+        Revocation Date: Apr 12 09:21:11 2007 GMT
+    Serial Number: 0A3D627A
+        Revocation Date: Apr 12 09:21:12 2007 GMT
+    Serial Number: 0A3D79ED
+        Revocation Date: Jan 22 14:19:10 2010 GMT
+    Serial Number: 0A3D80F8
+        Revocation Date: Jan 22 14:19:11 2010 GMT
+    Serial Number: 0A3D8356
+        Revocation Date: Jan 22 14:19:12 2010 GMT
+    Serial Number: 0A459B28
+        Revocation Date: Jan 22 14:20:09 2010 GMT
+    Serial Number: 0A459B2A
+        Revocation Date: Jul 25 06:52:10 2008 GMT
+    Serial Number: 0A459D8A
+        Revocation Date: Jan 22 08:23:11 2010 GMT
+    Serial Number: 0A459FDA
+        Revocation Date: Jan 22 14:20:10 2010 GMT
+    Serial Number: 0A4FFCF7
+        Revocation Date: Apr 26 11:41:06 2007 GMT
+    Serial Number: 0A500B08
+        Revocation Date: Jan 22 14:20:10 2010 GMT
+    Serial Number: 0A500FB9
+        Revocation Date: Jan 22 14:22:08 2010 GMT
+    Serial Number: 0A5961CD
+        Revocation Date: Jan 22 14:22:09 2010 GMT
+    Serial Number: 0A5961CF
+        Revocation Date: Jan 22 14:22:10 2010 GMT
+    Serial Number: 0A5961D3
+        Revocation Date: Jan 22 14:23:09 2010 GMT
+    Serial Number: 0A5961D5
+        Revocation Date: May  3 14:01:19 2007 GMT
+    Serial Number: 0A5961D7
+        Revocation Date: Jan 22 14:23:10 2010 GMT
+    Serial Number: 0A5961DB
+        Revocation Date: May 11 13:01:25 2007 GMT
+    Serial Number: 0A5961DD
+        Revocation Date: Jan 22 12:57:10 2010 GMT
+    Serial Number: 0A596401
+        Revocation Date: Jan 22 14:23:10 2010 GMT
+    Serial Number: 0A596403
+        Revocation Date: Jan 22 14:45:09 2010 GMT
+    Serial Number: 0A5A6832
+        Revocation Date: Jan 22 14:45:09 2010 GMT
+    Serial Number: 0A5A6A88
+        Revocation Date: Jan 22 08:25:11 2010 GMT
+    Serial Number: 0A5A7189
+        Revocation Date: Jan 22 08:32:16 2010 GMT
+    Serial Number: 0A5A718B
+        Revocation Date: Jan 22 13:03:12 2010 GMT
+    Serial Number: 0A5A718D
+        Revocation Date: Jan 22 14:47:09 2010 GMT
+    Serial Number: 0A5A73F0
+        Revocation Date: Jan 22 14:47:10 2010 GMT
+    Serial Number: 0A5A86A2
+        Revocation Date: May 23 06:41:11 2007 GMT
+    Serial Number: 0A5A8DA7
+        Revocation Date: Dec 22 13:35:10 2008 GMT
+    Serial Number: 0A6A414D
+        Revocation Date: Jan 22 14:51:09 2010 GMT
+    Serial Number: 0A6A9A4A
+        Revocation Date: Jan 22 13:11:11 2010 GMT
+    Serial Number: 0A72313A
+        Revocation Date: Feb 10 12:17:09 2010 GMT
+    Serial Number: 0A7235EA
+        Revocation Date: Jan 22 08:23:10 2010 GMT
+    Serial Number: 0A723842
+        Revocation Date: Feb 10 12:15:10 2010 GMT
+    Serial Number: 0A727302
+        Revocation Date: Jan 22 14:47:11 2010 GMT
+    Serial Number: 0A727305
+        Revocation Date: Jan 22 14:49:09 2010 GMT
+    Serial Number: 0A727307
+        Revocation Date: Jan 22 13:18:09 2010 GMT
+    Serial Number: 0A7279E1
+        Revocation Date: Jan 22 14:49:10 2010 GMT
+    Serial Number: 0A727C40
+        Revocation Date: Jan 22 08:29:09 2010 GMT
+    Serial Number: 0A727C42
+        Revocation Date: Jan 22 14:49:11 2010 GMT
+    Serial Number: 0A7280F0
+        Revocation Date: May 22 15:01:17 2007 GMT
+    Serial Number: 0A736456
+        Revocation Date: Jan 22 13:02:12 2010 GMT
+    Serial Number: 0A76211D
+        Revocation Date: Jan 22 14:49:11 2010 GMT
+    Serial Number: 0A7625D4
+        Revocation Date: Jun 19 13:51:38 2007 GMT
+    Serial Number: 0A7625D6
+        Revocation Date: Jan 22 14:55:09 2010 GMT
+    Serial Number: 0A7B418E
+        Revocation Date: Jan 22 15:01:10 2010 GMT
+    Serial Number: 0A7B7531
+        Revocation Date: Feb 10 12:15:10 2010 GMT
+    Serial Number: 0A8F3DFD
+        Revocation Date: Jan 22 14:51:10 2010 GMT
+    Serial Number: 0A8F5567
+        Revocation Date: Jan 22 14:54:09 2010 GMT
+    Serial Number: 0A8F6F2D
+        Revocation Date: Jan 22 14:54:10 2010 GMT
+    Serial Number: 0A96F81B
+        Revocation Date: Jan 22 14:54:11 2010 GMT
+    Serial Number: 0A97618A
+        Revocation Date: Jan 22 14:55:10 2010 GMT
+    Serial Number: 0AA2E153
+        Revocation Date: Jun 28 08:01:20 2007 GMT
+    Serial Number: 0AB19312
+        Revocation Date: Jul 11 09:31:29 2007 GMT
+    Serial Number: 0AB2EDF0
+        Revocation Date: Jul 10 14:01:23 2007 GMT
+    Serial Number: 0AB30558
+        Revocation Date: Feb  1 12:19:11 2011 GMT
+    Serial Number: 0ABAB171
+        Revocation Date: Feb  1 12:19:12 2011 GMT
+    Serial Number: 0ACFF449
+        Revocation Date: Jan 22 13:11:10 2010 GMT
+    Serial Number: 0AE14F99
+        Revocation Date: Jan 22 15:04:09 2010 GMT
+    Serial Number: 0B04C6C7
+        Revocation Date: Jan 22 08:57:09 2010 GMT
+    Serial Number: 0B2561CE
+        Revocation Date: Jan 22 12:59:12 2010 GMT
+    Serial Number: 0B467BE9
+        Revocation Date: Oct 30 10:16:18 2007 GMT
+    Serial Number: 0B468582
+        Revocation Date: Jan 22 15:04:09 2010 GMT
+    Serial Number: 0B6F40D3
+        Revocation Date: Jan 22 13:14:10 2010 GMT
+    Serial Number: 0BB6A437
+        Revocation Date: Jan 22 08:52:10 2010 GMT
+    Serial Number: 0BD3852F
+        Revocation Date: Jan 22 13:11:09 2010 GMT
+    Serial Number: 0C09C410
+        Revocation Date: Jan 22 08:38:10 2010 GMT
+    Serial Number: 0C1166FB
+        Revocation Date: Jun 18 07:58:20 2009 GMT
+    Serial Number: 0C117367
+        Revocation Date: Jan 22 15:04:10 2010 GMT
+    Serial Number: 0C414193
+        Revocation Date: May  8 10:35:17 2008 GMT
+    Serial Number: 0C4B79E0
+        Revocation Date: Jan 22 15:04:11 2010 GMT
+    Serial Number: 0C82D24C
+        Revocation Date: Jun 26 09:03:11 2008 GMT
+    Serial Number: 0C82D863
+        Revocation Date: Jan 22 15:06:10 2010 GMT
+    Serial Number: 0C91A5C4
+        Revocation Date: Jan 22 12:59:11 2010 GMT
+    Serial Number: 0CA51FDD
+        Revocation Date: Jan 22 15:06:11 2010 GMT
+    Serial Number: 0CA9059A
+        Revocation Date: Jan 22 12:55:19 2010 GMT
+    Serial Number: 0CC3BA50
+        Revocation Date: Oct  8 14:07:20 2008 GMT
+    Serial Number: 0CDCDF6C
+        Revocation Date: Jan 22 15:06:11 2010 GMT
+    Serial Number: 0CE47E5C
+        Revocation Date: Jan 22 15:06:12 2010 GMT
+    Serial Number: 0D02FAD1
+        Revocation Date: Jan 22 08:46:19 2010 GMT
+    Serial Number: 0D04351C
+        Revocation Date: Oct 23 13:21:09 2008 GMT
+    Serial Number: 0D043646
+        Revocation Date: Oct 23 12:44:11 2008 GMT
+    Serial Number: 0D0C43D7
+        Revocation Date: Oct 23 12:44:12 2008 GMT
+    Serial Number: 0D1FF2AA
+        Revocation Date: Jan 22 13:01:10 2010 GMT
+    Serial Number: 0D1FF2AB
+        Revocation Date: Jan 22 15:06:13 2010 GMT
+    Serial Number: 0D2A7114
+        Revocation Date: Feb 10 15:42:12 2009 GMT
+    Serial Number: 0D4A0006
+        Revocation Date: Jan 22 08:33:09 2010 GMT
+    Serial Number: 0D65E77F
+        Revocation Date: Jan 22 08:23:09 2010 GMT
+    Serial Number: 0D96B3F1
+        Revocation Date: Jan 26 08:04:23 2009 GMT
+    Serial Number: 0D9D12F1
+        Revocation Date: Jan 22 15:06:14 2010 GMT
+    Serial Number: 0DB11E58
+        Revocation Date: Feb 10 16:27:09 2009 GMT
+    Serial Number: 0DB27A31
+        Revocation Date: Jan 22 08:33:10 2010 GMT
+    Serial Number: 0DCE0FA4
+        Revocation Date: Jan 22 15:07:08 2010 GMT
+    Serial Number: 0DE2D6C9
+        Revocation Date: Mar 23 09:18:12 2009 GMT
+    Serial Number: 0DE6CAD1
+        Revocation Date: Mar 23 10:32:10 2009 GMT
+    Serial Number: 0DFAABCC
+        Revocation Date: Jan 22 13:03:11 2010 GMT
+    Serial Number: 0E459E34
+        Revocation Date: Jan 22 15:07:09 2010 GMT
+    Serial Number: 0E45A500
+        Revocation Date: Jan 22 15:07:10 2010 GMT
+    Serial Number: 0E45A936
+        Revocation Date: Jan 22 13:03:10 2010 GMT
+    Serial Number: 0E461E2C
+        Revocation Date: Aug 28 10:55:12 2009 GMT
+    Serial Number: 0E596DED
+        Revocation Date: Jun 18 07:58:21 2009 GMT
+    Serial Number: 0E5971A2
+        Revocation Date: Jun 18 08:18:24 2009 GMT
+    Serial Number: 0E5975DC
+        Revocation Date: Jun 18 08:42:23 2009 GMT
+    Serial Number: 0E597B40
+        Revocation Date: Jun 18 08:43:34 2009 GMT
+    Serial Number: 0E597BF4
+        Revocation Date: Jan 22 08:31:10 2010 GMT
+    Serial Number: 0E7D5374
+        Revocation Date: Jan 22 12:57:09 2010 GMT
+    Serial Number: 0E7FF41C
+        Revocation Date: Jul 17 13:23:10 2009 GMT
+    Serial Number: 0E7FF88F
+        Revocation Date: Jan 22 15:09:09 2010 GMT
+    Serial Number: 0E857004
+        Revocation Date: Jul 21 17:53:12 2009 GMT
+    Serial Number: 0E85743B
+        Revocation Date: Jul 21 17:53:11 2009 GMT
+    Serial Number: 0E857A17
+        Revocation Date: Jul 21 17:53:10 2009 GMT
+    Serial Number: 0E857B43
+        Revocation Date: Jul 21 17:53:10 2009 GMT
+    Serial Number: 0E858377
+        Revocation Date: Feb 19 08:26:11 2010 GMT
+    Serial Number: 0E858467
+        Revocation Date: Aug 10 15:06:10 2009 GMT
+    Serial Number: 0E9FB389
+        Revocation Date: Mar  5 10:19:10 2010 GMT
+    Serial Number: 0EBB540E
+        Revocation Date: Feb 18 07:49:11 2010 GMT
+    Serial Number: 0EFCE986
+        Revocation Date: Jan 22 13:14:12 2010 GMT
+    Serial Number: 0F06505A
+        Revocation Date: Jan 22 13:14:11 2010 GMT
+    Serial Number: 0F13A888
+        Revocation Date: Nov  9 11:53:10 2009 GMT
+    Serial Number: 0F13A889
+        Revocation Date: Jan 22 15:09:10 2010 GMT
+    Serial Number: 0F8B90DB
+        Revocation Date: Feb  5 14:50:10 2010 GMT
+    Serial Number: 0F8B97E3
+        Revocation Date: Feb  5 14:50:10 2010 GMT
+    Serial Number: 0F9E0348
+        Revocation Date: Mar  5 10:19:11 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        69:1a:7f:8a:80:f2:83:ee:33:65:14:f8:09:37:ac:27:75:c3:
+        10:5a:67:78:e0:ee:2e:22:a7:d8:24:33:ec:3b:93:2f:39:12:
+        02:9c:67:3f:f1:f3:ee:af:ce:11:51:11:ba:80:23:3a:ef:9a:
+        9b:5c:1a:c8:79:8d:d2:44:86:a8:de:2e:6b:10:c9:60:29:53:
+        65:4d:b9:83:99:42:14:fb:85:22:24:8b:2a:87:e7:1c:08:92:
+        48:3e:76:14:f9:d6:5f:de:0a:68:3c:3f:2b:8d:95:1e:fc:7f:
+        42:9b:1d:9d:ee:c0:27:fe:b4:f1:74:e2:25:44:4f:ed:c1:38:
+        10:44:91:61:0a:6d:f6:1a:09:86:bb:cc:b1:54:10:0b:d6:47:
+        f5:1a:cc:46:c0:db:65:54:6b:5b:4f:d1:82:ef:94:01:91:bb:
+        86:91:99:4d:b7:5f:3d:ad:af:ab:1c:c1:5e:bb:0e:68:e7:26:
+        11:eb:87:5b:94:56:04:5a:7a:5f:f0:bc:27:9f:6f:55:f4:2e:
+        5f:13:75:ec:79:89:4a:05:9b:0a:77:d1:dc:35:e6:08:38:ad:
+        0c:d2:c6:c0:f1:c2:ce:49:ab:81:2f:9a:d3:4f:de:1f:25:b4:
+        ad:d4:19:2d:13:cc:8d:83:5d:41:ab:b7:04:ee:c6:e7:1d:b4:
+        05:a7:dc:c2
