@@ -1,0 +1,32 @@
+issuer=/O=Sempra Energy/CN=Sempra Energy Internet Authority
+SHA1 Fingerprint=17:D3:66:AC:5E:16:C5:0D:C0:73:0C:99:FF:C3:80:82:9F:3E:17:9F
+7f85fe2e
+crlNumber=07
+lastUpdate=Jun 21 22:12:24 2010 GMT
+nextUpdate=Jul 21 22:32:24 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=Sempra Energy/CN=Sempra Energy Internet Authority
+        Last Update: Jun 21 22:12:24 2010 GMT
+        Next Update: Jul 21 22:32:24 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:8D:EA:26:24:11:AC:93:87:82:02:9A:84:01:AB:95:15:46:71:63:C1
+
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            X509v3 CRL Number: 
+                7
+            1.3.6.1.4.1.311.21.4: 
+                .110621222224Z
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        58:ad:f5:e5:6f:b7:32:b4:0c:df:c6:83:2f:53:8e:be:a5:01:
+        61:12:a9:00:32:0d:ad:49:d4:a9:51:60:59:50:12:61:74:7d:
+        a6:4e:ad:f8:66:bb:0a:cd:86:81:82:94:e8:2f:62:3e:ac:c1:
+        60:e9:d2:e7:63:15:2b:ff:65:01:ef:0f:e9:30:c5:37:37:22:
+        d4:7f:ce:7a:77:e5:1d:21:19:a4:56:ce:90:d1:f4:76:b9:42:
+        a2:40:9e:68:a9:4b:df:62:ce:38:e8:3f:55:9a:0f:e0:28:d1:
+        b9:fc:da:47:bb:d1:09:28:0a:00:38:e2:5e:d9:d7:61:cc:35:
+        c6:07
