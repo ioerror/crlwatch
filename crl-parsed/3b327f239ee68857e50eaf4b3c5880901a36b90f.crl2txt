@@ -1,0 +1,42 @@
+issuer=/C=DE/ST=Bayern/L=Augsburg/O=Universitaet Augsburg/OU=Rechenzentrum/CN=UAUX-CA/emailAddress=ca-admin@rz.uni-augsburg.de
+SHA1 Fingerprint=3C:74:37:DC:00:29:08:AA:1C:D4:31:99:BF:D6:09:27:28:EE:6E:9C
+85cd4438
+crlNumber=A2
+lastUpdate=Mar 14 09:19:19 2011 GMT
+nextUpdate=Apr 13 09:19:19 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Augsburg/O=Universitaet Augsburg/OU=Rechenzentrum/CN=UAUX-CA/emailAddress=ca-admin@rz.uni-augsburg.de
+        Last Update: Mar 14 09:19:19 2011 GMT
+        Next Update: Apr 13 09:19:19 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                162
+Revoked Certificates:
+    Serial Number: 0C536264
+        Revocation Date: Jun  2 17:25:08 2008 GMT
+    Serial Number: 0DF3F610
+        Revocation Date: Apr  2 13:25:09 2009 GMT
+    Serial Number: 0E967201
+        Revocation Date: Aug  4 16:01:08 2009 GMT
+    Serial Number: 0F5832C9
+        Revocation Date: Feb 26 11:32:09 2010 GMT
+    Serial Number: 107F5BF3
+        Revocation Date: Aug 24 09:07:31 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        7d:9c:07:1d:8f:91:5c:89:ac:98:2a:5a:f4:82:83:ce:87:e1:
+        86:09:2a:9f:32:50:bc:64:a7:ef:1d:53:e0:b8:a9:7e:81:7f:
+        56:ca:49:59:76:08:aa:b0:20:04:e6:74:8e:34:d5:3b:0a:38:
+        69:2c:e7:2c:4e:bd:54:a1:10:2f:46:9e:b2:53:16:46:c1:f2:
+        52:3c:0f:3d:8f:ab:4b:8c:47:5d:a2:1c:27:f2:60:34:39:dd:
+        70:50:8f:25:75:0d:e3:21:06:4a:10:fa:75:0c:12:4c:73:b4:
+        2e:f4:32:cb:79:b6:cc:ff:17:20:9d:b8:b8:d5:88:a9:4a:a8:
+        9f:b9:85:a4:8c:5d:85:2a:76:e0:ad:89:a5:4e:ab:8f:9e:60:
+        2c:02:3a:01:3b:ee:d5:5f:52:55:22:50:a4:5a:0f:83:b9:b1:
+        32:c5:73:a5:c7:91:09:d9:c4:51:01:d6:19:1e:1d:03:29:78:
+        69:77:d0:be:d2:fb:64:97:44:95:d5:15:fc:67:cb:ee:d0:8a:
+        b0:a6:bc:2f:ac:f4:e0:06:67:41:93:87:90:0b:29:e3:90:7e:
+        32:8a:f9:90:70:96:2d:30:61:56:82:69:10:c6:d9:5d:a5:05:
+        ae:7e:52:25:6f:24:ba:6d:c3:67:87:73:25:e9:13:e1:88:3c:
+        fa:97:7a:f2
