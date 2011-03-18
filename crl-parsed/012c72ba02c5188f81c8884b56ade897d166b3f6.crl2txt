@@ -1,0 +1,52 @@
+issuer=/C=DE/O=Universitaet Erfurt/CN=Universitaet Erfurt CA - G01/emailAddress=pki@uni-erfurt.de
+SHA1 Fingerprint=7E:53:7D:B1:2D:05:7A:0F:E2:23:48:A8:B0:6B:1A:5D:A1:6F:97:A7
+30b14f08
+crlNumber=E1
+lastUpdate=Mar 14 09:24:19 2011 GMT
+nextUpdate=Apr 13 09:24:19 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Universitaet Erfurt/CN=Universitaet Erfurt CA - G01/emailAddress=pki@uni-erfurt.de
+        Last Update: Mar 14 09:24:19 2011 GMT
+        Next Update: Apr 13 09:24:19 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                225
+Revoked Certificates:
+    Serial Number: 0ACE7CCE
+        Revocation Date: Feb 21 12:07:11 2008 GMT
+    Serial Number: 0B5A9287
+        Revocation Date: Dec 18 09:02:08 2007 GMT
+    Serial Number: 0BDE2495
+        Revocation Date: Apr  4 13:39:10 2008 GMT
+    Serial Number: 0C15B2AB
+        Revocation Date: Jun 27 12:26:09 2008 GMT
+    Serial Number: 0D533C28
+        Revocation Date: May 18 08:19:09 2009 GMT
+    Serial Number: 0DD0A05C
+        Revocation Date: Mar 10 12:07:08 2009 GMT
+    Serial Number: 0E7EB5D4
+        Revocation Date: Sep 23 18:34:07 2009 GMT
+    Serial Number: 0E7EB5D5
+        Revocation Date: Sep 23 18:36:07 2009 GMT
+    Serial Number: 0F8A4D6C
+        Revocation Date: Feb 19 09:32:09 2010 GMT
+    Serial Number: 0F8A4D6D
+        Revocation Date: Mar 30 07:47:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        41:5e:2f:49:9f:28:82:a1:55:c9:f0:8a:15:3c:0e:83:03:94:
+        26:ce:2f:d7:cf:66:93:37:4a:46:38:27:80:c9:cf:f8:e3:5e:
+        d2:72:59:ef:64:4c:af:82:2a:fd:77:82:0f:18:41:a2:95:4f:
+        fd:8c:e6:56:68:39:ee:12:06:da:dc:04:c8:3d:29:92:3e:f6:
+        71:86:81:f6:59:22:85:d7:e2:35:9b:ee:97:66:89:ca:9b:3b:
+        f0:eb:37:4a:c2:24:62:e6:94:53:fc:72:bc:bd:b4:9b:a2:f4:
+        af:58:b4:a7:84:a9:ba:58:16:fa:98:a5:9d:2c:6b:b9:3e:15:
+        6a:3f:9e:cc:e1:be:0e:19:fc:32:6d:52:8c:dd:ea:14:55:49:
+        bf:2e:3b:d9:16:56:3d:cb:07:45:07:3e:77:5c:5c:f6:22:74:
+        97:46:fe:09:d6:f0:28:82:cf:54:83:23:6d:39:15:5a:b5:df:
+        4f:fc:31:7b:1a:28:63:e4:60:c0:c0:8f:48:d7:44:47:ec:3c:
+        0b:a4:91:18:0a:4a:c2:ed:e2:2c:a4:18:b7:55:5f:c2:18:f8:
+        6b:95:cb:8a:2b:ad:53:4b:c1:01:62:73:f2:f7:01:09:7b:71:
+        8f:93:fa:f0:b8:59:42:fd:a4:0d:d0:ed:33:b0:96:29:7c:70:
+        0b:09:a9:5d
