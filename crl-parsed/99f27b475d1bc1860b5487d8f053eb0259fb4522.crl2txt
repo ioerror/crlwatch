@@ -1,0 +1,96 @@
+issuer=/C=DE/O=Bibliotheksservice-Zentrum Baden-Wuerttemberg/CN=BSZ-BW CA - G02/emailAddress=pki@bsz-bw.de
+SHA1 Fingerprint=66:B9:DE:D7:5D:09:12:35:0D:E8:59:9A:87:9D:62:01:D7:77:4A:72
+03289c38
+crlNumber=0103
+lastUpdate=Mar 14 07:14:20 2011 GMT
+nextUpdate=Apr 13 07:14:20 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Bibliotheksservice-Zentrum Baden-Wuerttemberg/CN=BSZ-BW CA - G02/emailAddress=pki@bsz-bw.de
+        Last Update: Mar 14 07:14:20 2011 GMT
+        Next Update: Apr 13 07:14:20 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                259
+Revoked Certificates:
+    Serial Number: 0A0DFA69
+        Revocation Date: Oct  8 13:00:07 2007 GMT
+    Serial Number: 0A31898C
+        Revocation Date: Apr  3 11:50:31 2007 GMT
+    Serial Number: 0AA1B2D2
+        Revocation Date: Jun 27 10:40:33 2007 GMT
+    Serial Number: 0AB55624
+        Revocation Date: Jul 16 10:40:35 2007 GMT
+    Serial Number: 0ABAC8AF
+        Revocation Date: May 27 12:51:06 2008 GMT
+    Serial Number: 0AFB8794
+        Revocation Date: Jul  9 12:33:06 2009 GMT
+    Serial Number: 0B0751DD
+        Revocation Date: May 27 12:50:07 2008 GMT
+    Serial Number: 0B29A8CD
+        Revocation Date: May 27 11:38:06 2008 GMT
+    Serial Number: 0B36D2A6
+        Revocation Date: May 27 11:38:08 2008 GMT
+    Serial Number: 0B6BA449
+        Revocation Date: May 27 11:38:05 2008 GMT
+    Serial Number: 0B6CC0C1
+        Revocation Date: May 26 14:35:07 2008 GMT
+    Serial Number: 0BC26F6D
+        Revocation Date: May 26 14:35:06 2008 GMT
+    Serial Number: 0C007DD6
+        Revocation Date: Jul  9 12:29:06 2009 GMT
+    Serial Number: 0C01A656
+        Revocation Date: May 27 10:49:06 2008 GMT
+    Serial Number: 0C0C420B
+        Revocation Date: May 27 12:45:07 2008 GMT
+    Serial Number: 0C5A3404
+        Revocation Date: May 26 14:35:08 2008 GMT
+    Serial Number: 0C5B6D2A
+        Revocation Date: Jan  5 08:35:08 2010 GMT
+    Serial Number: 0C5B6DD6
+        Revocation Date: Jan  5 08:35:09 2010 GMT
+    Serial Number: 0C5C97BF
+        Revocation Date: May 28 11:33:12 2008 GMT
+    Serial Number: 0C5C9834
+        Revocation Date: Jan  5 08:35:10 2010 GMT
+    Serial Number: 0C5C9835
+        Revocation Date: Jan  5 08:35:07 2010 GMT
+    Serial Number: 0C896866
+        Revocation Date: Jul  1 09:40:08 2008 GMT
+    Serial Number: 0C8978CD
+        Revocation Date: Jul  7 08:16:08 2008 GMT
+    Serial Number: 0CC8FDBB
+        Revocation Date: Aug 19 10:18:07 2008 GMT
+    Serial Number: 0E7518E3
+        Revocation Date: Jul  9 12:29:07 2009 GMT
+    Serial Number: 0EA2452F
+        Revocation Date: Aug 12 15:03:07 2009 GMT
+    Serial Number: 0F10B77A
+        Revocation Date: Nov 18 13:24:07 2009 GMT
+    Serial Number: 0F34865B
+        Revocation Date: Oct 21 07:09:06 2010 GMT
+    Serial Number: 10BA8AD0
+        Revocation Date: Nov 25 15:35:05 2010 GMT
+    Serial Number: 10F3412C
+        Revocation Date: Nov  5 14:07:07 2010 GMT
+    Serial Number: 1109B4FA
+        Revocation Date: Nov 25 15:35:06 2010 GMT
+    Serial Number: 1109F8F2
+        Revocation Date: Nov 25 15:39:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        92:b9:be:28:66:cf:ef:d3:c8:0c:a4:98:72:f0:b2:ab:df:a2:
+        6d:ba:32:fd:4b:14:74:34:76:ba:42:4a:a0:ea:78:a0:91:16:
+        a1:00:dc:cd:1a:f1:8c:d2:a0:e9:17:11:b1:be:89:45:fa:14:
+        9c:ec:3d:62:8b:c2:5c:e4:ac:4e:94:57:57:ae:06:34:74:46:
+        7f:93:42:d2:73:6f:92:e9:ec:e0:0f:74:0a:9f:d5:ad:09:a9:
+        96:38:95:09:86:e7:e4:f7:67:3b:90:95:48:5a:cb:d6:fd:90:
+        d4:fb:f3:98:b2:ea:57:15:b7:50:95:dc:5f:92:23:76:2e:e8:
+        68:9a:df:e0:4b:2a:8e:82:2f:56:f6:bd:97:ee:68:f4:c6:ca:
+        62:7a:12:2b:3e:f2:a1:ee:55:08:c0:e7:31:01:d3:ef:76:14:
+        c6:77:9b:4c:7b:9d:06:0e:c7:56:56:8b:e4:f5:08:3f:56:25:
+        e1:03:e4:49:80:c8:ba:6b:97:ca:3a:79:fa:8d:b8:29:d0:0b:
+        74:7f:e2:1c:8f:dc:0c:fb:b4:85:de:3c:18:18:0d:cf:f9:e7:
+        34:f6:32:8e:36:64:0f:d9:e4:d2:aa:25:4e:55:d7:b5:1c:c9:
+        29:bd:14:20:db:6a:50:a7:6f:13:e8:e4:03:cb:58:9d:4b:f4:
+        32:a5:77:28
