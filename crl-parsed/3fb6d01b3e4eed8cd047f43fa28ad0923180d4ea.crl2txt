@@ -1,0 +1,54 @@
+issuer=/C=JP/O=INTEC INC./CN=EINS/PKI Public Certification Authority
+SHA1 Fingerprint=FE:27:08:10:01:AF:D5:9B:A9:31:29:23:09:1F:5D:B4:DF:8A:BF:5D
+93fdefaa
+crlNumber=94
+lastUpdate=Mar 18 00:00:00 2011 GMT
+nextUpdate=Mar 23 00:00:01 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=JP/O=INTEC INC./CN=EINS/PKI Public Certification Authority
+        Last Update: Mar 18 00:00:00 2011 GMT
+        Next Update: Mar 23 00:00:01 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:A1:AC:FA:67:1F:80:89:34:D7:AA:78:79:F6:E9:5D:4F:13:A9:23:E5
+
+            X509v3 CRL Number: 
+                148
+Revoked Certificates:
+    Serial Number: 24FCE6AF4ED3B550E7485AA864185A11
+        Revocation Date: Feb  9 08:58:46 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Feb  9 08:58:46 2011 GMT
+    Serial Number: 6504A7370D85C4416D36C160D7FE39E2
+        Revocation Date: Mar  3 08:17:02 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar  3 08:17:02 2011 GMT
+    Serial Number: D5CD2475DCF52132C49EA972FDA08216
+        Revocation Date: Oct 29 06:41:53 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 29 06:41:53 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        64:b4:3e:c2:3a:2c:08:16:c1:d8:2d:04:7b:b8:30:82:83:18:
+        1e:6b:75:a8:39:27:90:f3:8b:bc:c3:01:4c:e8:04:c3:8c:72:
+        94:6e:3a:ec:4d:3b:68:4a:58:ce:85:fb:bf:eb:2a:75:33:f2:
+        83:34:18:2f:0b:04:e9:c7:01:5d:94:4d:f1:c8:1e:f1:7a:8b:
+        f8:04:a6:c9:29:58:ad:84:23:d1:5f:8a:87:f8:06:d5:ca:4c:
+        f0:d0:e1:07:bd:25:d1:a4:ab:cf:29:5b:d7:a8:c1:52:35:42:
+        7b:5c:20:6b:1c:63:6e:48:b2:c9:fa:60:52:6c:67:a4:cc:10:
+        0c:6c:2a:59:80:a6:88:1b:27:cd:e2:9e:19:36:8d:fc:d3:d2:
+        fc:db:37:45:9c:56:ba:cc:b3:87:20:ee:8f:87:d6:08:f5:cf:
+        1a:38:1c:cd:c0:75:c2:d4:02:a1:c8:7a:c1:ee:99:77:ab:e1:
+        69:1b:43:0c:12:2e:f5:80:5e:c2:b1:2a:c5:b4:dc:27:24:c8:
+        76:68:34:65:41:0f:63:72:59:e6:04:e8:f8:b8:95:70:c3:7f:
+        95:8a:11:8c:e9:76:85:c7:74:33:63:34:10:72:ba:32:96:7c:
+        34:7f:ce:2e:14:e4:0f:c3:5f:3b:f6:6b:8f:0e:2d:e5:71:7c:
+        4b:03:5c:f5
