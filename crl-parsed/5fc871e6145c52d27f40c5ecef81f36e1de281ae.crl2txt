@@ -1,0 +1,45 @@
+issuer=/DC=rs/DC=posta/DC=ca/CN=Configuration/CN=Services/CN=Public Key Services/CN=AIA/CN=Posta CA Root
+SHA1 Fingerprint=C0:3C:B1:46:20:7D:0D:50:A9:49:17:93:97:6A:06:A9:47:6F:FD:63
+15be3690
+crlNumber=05
+lastUpdate=Jan  4 08:37:02 2011 GMT
+nextUpdate=Oct 20 00:00:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=rs/DC=posta/DC=ca/CN=Configuration/CN=Services/CN=Public Key Services/CN=AIA/CN=Posta CA Root
+        Last Update: Jan  4 08:37:02 2011 GMT
+        Next Update: Oct 20 00:00:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                5
+            X509v3 Authority Key Identifier: 
+                keyid:F2:CB:8D:E2:35:EF:10:43:C4:DA:7B:CA:FA:EB:89:03:A1:22:AF:B8
+
+Revoked Certificates:
+    Serial Number: 48FC7F19
+        Revocation Date: Dec  3 13:13:30 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 48FC83A6
+        Revocation Date: Jan  4 08:37:01 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        1e:25:df:d2:9f:cd:b6:9a:c1:af:02:4b:d6:12:7f:e7:e8:60:
+        c6:3d:0c:b0:74:60:15:5e:51:f3:37:c9:e6:84:13:ca:e0:52:
+        4b:c2:ad:e7:e8:3a:87:5f:37:1e:95:74:9a:ea:52:c2:11:0a:
+        d8:ff:ca:2d:10:ae:ac:d0:65:58:56:0b:b6:47:44:39:76:57:
+        13:65:51:d5:0a:0f:6a:8e:41:b7:c1:1f:41:fc:a3:3e:81:6e:
+        84:48:e9:e9:6d:95:52:7e:04:8a:a5:e2:37:b3:a7:b1:5a:bd:
+        79:e5:61:43:93:25:67:8a:18:b5:99:fd:58:1b:cc:f2:c8:37:
+        6e:07:d3:92:f8:ff:17:1f:36:d4:3f:fa:90:f8:ea:d1:cc:d0:
+        45:d5:4a:2d:49:e4:92:66:73:45:c2:b4:eb:42:83:0a:01:f5:
+        6a:24:3d:39:cb:96:0d:36:e5:9c:02:b1:b2:e7:62:8a:8d:9c:
+        9e:37:01:a9:6d:03:32:d0:23:d9:39:fb:bc:b3:56:2f:53:f1:
+        09:b6:c6:94:8c:06:2a:44:47:c9:b3:77:98:b2:89:42:0b:da:
+        65:3a:76:85:86:ff:42:bf:9c:ea:da:a8:cb:fa:2b:6c:99:59:
+        00:ac:e1:2e:b3:18:18:15:1c:ba:29:b1:44:4b:4f:40:50:d5:
+        2d:a1:16:01
