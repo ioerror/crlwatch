@@ -1,0 +1,56 @@
+issuer=/C=DE/ST=Bayern/L=Ingolstadt/O=Fachhochschule Ingolstadt/OU=Rechenzentrum/CN=FH Ingolstadt CA - G01/emailAddress=pki@fh-ingolstadt.de
+SHA1 Fingerprint=27:73:51:7E:36:0A:88:5F:05:64:1A:97:17:34:2C:E8:35:36:A7:B0
+33a04e68
+crlNumber=F9
+lastUpdate=Mar 14 07:42:07 2011 GMT
+nextUpdate=Apr 13 07:42:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Ingolstadt/O=Fachhochschule Ingolstadt/OU=Rechenzentrum/CN=FH Ingolstadt CA - G01/emailAddress=pki@fh-ingolstadt.de
+        Last Update: Mar 14 07:42:07 2011 GMT
+        Next Update: Apr 13 07:42:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                249
+Revoked Certificates:
+    Serial Number: 0AFCCEC8
+        Revocation Date: Oct 16 07:31:07 2007 GMT
+    Serial Number: 0B368640
+        Revocation Date: Oct 18 10:31:07 2007 GMT
+    Serial Number: 0B3687E0
+        Revocation Date: Oct 18 10:31:09 2007 GMT
+    Serial Number: 0B3C074D
+        Revocation Date: Oct 22 11:56:06 2007 GMT
+    Serial Number: 0B3C20D8
+        Revocation Date: Oct 22 17:22:06 2007 GMT
+    Serial Number: 0C71B7F0
+        Revocation Date: Aug 12 14:56:07 2009 GMT
+    Serial Number: 0EACDB06
+        Revocation Date: Aug 24 16:56:06 2009 GMT
+    Serial Number: 0EB1E97B
+        Revocation Date: Aug 24 15:34:05 2009 GMT
+    Serial Number: 0EB235E2
+        Revocation Date: Aug 24 16:41:06 2009 GMT
+    Serial Number: 0EB23F7E
+        Revocation Date: Jan  7 17:05:06 2010 GMT
+    Serial Number: 0F657C80
+        Revocation Date: Jan  7 17:05:07 2010 GMT
+    Serial Number: 0F6D288F
+        Revocation Date: Jan 13 13:10:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        2d:76:ae:2f:c1:4b:c3:bd:45:83:df:2d:cf:5a:13:89:35:5e:
+        ba:de:7f:24:1c:6b:f0:f5:ca:de:89:7b:31:00:5e:96:ca:43:
+        c1:ee:73:66:a6:d6:b0:2b:e4:34:bc:af:5b:1e:d5:11:e4:bd:
+        bc:56:5d:5b:b4:c8:90:5b:10:49:58:25:56:52:73:29:8d:b4:
+        4e:de:4d:1c:a1:37:99:50:69:75:bd:56:1f:7e:21:1a:e4:03:
+        a2:ae:11:d6:65:aa:9a:7f:f4:dc:68:b6:ac:3b:c1:d1:b5:af:
+        dd:63:9a:38:b3:ae:ac:e7:ee:b9:22:4b:83:eb:a0:b9:1e:3d:
+        2a:ac:bb:9d:e9:f6:54:6c:39:73:76:eb:a9:c7:43:57:05:42:
+        34:3a:98:a8:ad:8c:39:42:e5:52:fd:7f:d8:63:d6:b7:21:4a:
+        76:57:a0:b0:b6:46:90:ed:06:55:d8:75:c3:ad:01:2f:cc:cd:
+        6c:65:ef:09:7b:16:02:9f:fd:e7:d7:c5:45:de:76:a9:75:e8:
+        7d:66:58:55:5e:b5:bd:66:03:8e:4b:9f:91:5c:2f:bd:3d:66:
+        dc:da:6a:87:2e:f3:ea:26:30:e2:6b:cd:d8:b0:e9:5e:bf:31:
+        68:ea:5d:cf:5a:65:6e:f2:07:09:f9:a0:98:e4:e5:4c:a8:03:
+        8d:59:42:17
