@@ -1,0 +1,36 @@
+issuer=/C=DE/ST=Baden-Wuerttemberg/L=Ulm/O=Hochschule Ulm/CN=HS-Ulm-CA/emailAddress=pki@hs-ulm.de
+SHA1 Fingerprint=B7:F5:05:1D:84:7D:F0:31:92:52:EF:DB:10:71:F5:5C:1E:FE:40:B3
+1a09f23f
+crlNumber=AF
+lastUpdate=Mar 14 08:30:18 2011 GMT
+nextUpdate=Apr 13 08:30:18 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Baden-Wuerttemberg/L=Ulm/O=Hochschule Ulm/CN=HS-Ulm-CA/emailAddress=pki@hs-ulm.de
+        Last Update: Mar 14 08:30:18 2011 GMT
+        Next Update: Apr 13 08:30:18 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                175
+Revoked Certificates:
+    Serial Number: 0BEDE44A
+        Revocation Date: May 16 13:28:42 2008 GMT
+    Serial Number: 0EED2FDC
+        Revocation Date: Oct  8 09:49:07 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        a2:87:c4:84:6f:0e:ab:4d:cf:6b:6d:00:d7:61:14:81:d1:0e:
+        db:10:f5:02:66:03:58:52:1f:fd:13:0c:20:b6:92:c6:04:f1:
+        bc:83:40:6a:4d:7f:e8:8e:98:24:04:ec:9c:5e:0d:b1:4f:41:
+        6f:fa:21:2a:ce:65:c4:10:ec:6f:6d:fa:94:7a:1a:07:c8:51:
+        f5:89:3a:29:f6:6f:04:0a:8b:a8:84:72:8b:b1:23:d3:0e:fb:
+        09:76:a8:54:10:c8:2c:a5:0c:5e:6c:3f:17:fe:47:46:3a:37:
+        6b:4d:10:91:fc:82:33:3d:6d:c5:db:dc:5e:0f:29:fa:05:13:
+        60:5a:5e:34:d0:3c:12:58:1c:10:7a:18:ad:7c:2b:89:42:bd:
+        e6:36:0a:8b:7b:87:ca:ec:1c:4f:db:5f:50:bf:ef:6b:61:70:
+        c9:ec:a2:92:70:80:d7:77:05:7c:2c:ea:a8:23:07:6a:09:c0:
+        18:01:54:32:af:f7:20:fa:b8:55:de:b2:3e:bf:38:da:8a:ff:
+        7c:36:23:c4:09:20:8d:98:db:91:e5:a2:95:90:22:8d:51:c3:
+        cf:16:53:09:c0:1a:a3:e1:22:dc:82:59:c7:2e:00:7f:3c:18:
+        5c:39:ab:5d:3c:2a:6d:c3:d1:02:de:23:3e:bc:11:e9:b1:41:
+        cc:a4:a9:8c
