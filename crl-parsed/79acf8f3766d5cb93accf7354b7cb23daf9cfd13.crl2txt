@@ -1,0 +1,35 @@
+issuer=/C=DE/O=EON/OU=CA/CN=E.ON Group CA V2
+SHA1 Fingerprint=03:E6:CA:C4:49:2B:D4:80:56:82:C9:E3:AB:39:D4:ED:A5:C6:0D:04
+5fd1745e
+crlNumber=1147
+lastUpdate=Mar 18 04:23:25 2011 GMT
+nextUpdate=Mar 25 04:23:25 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=EON/OU=CA/CN=E.ON Group CA V2
+        Last Update: Mar 18 04:23:25 2011 GMT
+        Next Update: Mar 25 04:23:25 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:4B:C2:10:E5:FD:28:A0:13:C9:76:8C:AF:4E:20:96:B1:D1:31:FD:FE
+
+            X509v3 CRL Number: 
+                4423
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        6a:34:75:85:8c:7c:c5:c2:7f:91:94:fc:a9:8a:46:1e:4b:90:
+        38:99:79:17:d9:f0:e9:45:11:6a:a9:67:f5:5a:3c:19:47:a8:
+        f9:0c:f1:93:05:84:8f:90:40:55:59:6e:be:0a:ba:fe:0c:6c:
+        5a:b3:aa:e5:d9:68:d7:6e:b7:71:c4:95:de:d2:46:a2:ce:9b:
+        87:9f:e8:23:cf:63:11:81:89:80:ef:bc:3e:49:15:1f:e1:72:
+        5d:49:ac:03:5c:d7:30:7f:e4:76:e0:16:3f:11:f4:af:07:e4:
+        2c:17:c6:7d:66:f4:55:fc:bb:90:90:dc:46:f5:cb:e7:46:49:
+        53:a0:cb:60:05:bd:77:b0:e7:16:38:29:13:c0:57:3d:b8:49:
+        8f:ad:d0:d8:bf:5e:cd:b2:fe:48:ec:6c:3a:39:50:f4:75:bf:
+        a0:42:c7:3f:24:ce:24:08:7d:98:e9:b8:a5:03:a5:8a:cd:f9:
+        08:58:b7:63:5c:ea:53:da:40:b6:d3:1a:6c:ab:35:b2:ef:06:
+        49:ec:76:39:f3:68:4d:82:48:43:99:d1:fc:6f:ae:62:05:ac:
+        6c:6a:98:18:35:b5:80:eb:62:07:3a:b2:73:1a:b7:91:3a:2d:
+        aa:c4:23:de:f0:92:eb:de:f6:a5:7d:34:ea:35:0d:e3:92:a5:
+        86:f7:0c:97
