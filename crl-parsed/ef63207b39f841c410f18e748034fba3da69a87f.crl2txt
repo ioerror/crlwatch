@@ -1,0 +1,48 @@
+issuer=/C=DE/O=Campus Berlin-Buch/OU=Campus-IT/CN=Campus Berlin-Buch CA - G02/emailAddress=ca@bbb-berlin.de
+SHA1 Fingerprint=ED:34:7E:5D:C7:CD:5D:C9:4B:48:FF:80:56:20:D8:54:04:6D:79:5C
+09cd280e
+crlNumber=01B3
+lastUpdate=Mar 14 07:16:20 2011 GMT
+nextUpdate=Apr 13 07:16:20 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Campus Berlin-Buch/OU=Campus-IT/CN=Campus Berlin-Buch CA - G02/emailAddress=ca@bbb-berlin.de
+        Last Update: Mar 14 07:16:20 2011 GMT
+        Next Update: Apr 13 07:16:20 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                435
+Revoked Certificates:
+    Serial Number: 0A6A3C60
+        Revocation Date: Apr 15 05:44:07 2010 GMT
+    Serial Number: 0A710069
+        Revocation Date: May 21 11:50:34 2007 GMT
+    Serial Number: 0A7B9116
+        Revocation Date: Jun  5 11:04:52 2009 GMT
+    Serial Number: 0B4FF56F
+        Revocation Date: Nov 28 14:29:07 2007 GMT
+    Serial Number: 0B9D86D5
+        Revocation Date: Jan  4 11:51:06 2008 GMT
+    Serial Number: 0C50D4B7
+        Revocation Date: May 21 08:04:08 2008 GMT
+    Serial Number: 0CB684C4
+        Revocation Date: Aug  4 13:55:08 2008 GMT
+    Serial Number: 10F0A265
+        Revocation Date: Nov  5 09:37:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        c6:a2:fc:64:c3:06:bd:03:c9:38:8d:d9:db:fb:28:90:53:1d:
+        44:ff:2e:3f:c4:6b:68:75:61:1f:93:e3:0c:7d:ab:5e:8e:73:
+        4e:f1:3a:73:5e:d9:a1:71:73:93:53:83:b1:50:71:28:00:b1:
+        81:6a:49:b8:9f:d1:3e:6a:1e:bf:e8:61:82:d0:51:61:24:f5:
+        85:5b:6b:55:f3:4e:24:38:8b:44:7b:e7:ce:ef:69:ef:4a:34:
+        fe:21:e5:ff:4a:54:4c:38:c7:7b:bf:5e:54:da:d3:60:3c:63:
+        2c:27:46:1d:0c:7f:2d:65:d6:82:9a:e3:e9:10:0e:aa:59:ee:
+        d1:0f:18:83:52:17:65:4c:c0:05:b6:f9:34:1b:a7:b1:63:7a:
+        bd:f8:8d:d8:b0:4d:05:e6:bf:c0:5b:20:01:4f:7f:bf:84:f8:
+        ef:84:37:6e:62:7a:2d:18:7d:fe:3b:b8:2a:ef:cc:7d:65:27:
+        a4:83:de:61:ad:7b:ae:bc:bf:30:a5:37:ba:49:fa:9b:d6:26:
+        71:80:77:2f:46:64:ea:0d:db:52:df:84:90:b9:7d:3f:9c:d6:
+        2e:45:8c:19:8f:5b:2a:72:ca:c1:8d:68:10:a6:74:42:c4:5a:
+        93:06:05:be:a3:0f:ba:95:7e:79:d6:9b:3c:85:78:48:24:e8:
+        f3:46:b0:a9
