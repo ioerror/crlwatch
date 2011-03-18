@@ -1,0 +1,37 @@
+issuer=/O=RSA Security Inc./OU=KCA Services/CN=RSA Corporate/L=Bedford/ST=Massachusetts/C=US
+SHA1 Fingerprint=97:F4:DD:15:32:CB:BC:98:29:71:8A:EB:EB:73:57:FC:EF:18:F3:20
+e9739720
+crlNumber=02
+lastUpdate=Jan 28 16:00:59 2004 GMT
+nextUpdate=NONE
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=RSA Security Inc./OU=KCA Services/CN=RSA Corporate/L=Bedford/ST=Massachusetts/C=US
+        Last Update: Jan 28 16:00:59 2004 GMT
+        Next Update: NONE
+        CRL extensions:
+            X509v3 CRL Number: 
+                2
+            X509v3 Authority Key Identifier: 
+                keyid:ED:91:08:6B:74:B7:59:4A:92:F6:A1:1D:22:70:26:9F:0A:AF:16:92
+
+Revoked Certificates:
+    Serial Number: 1F12E3639A95E3A7E254CDFACE60AE7F
+        Revocation Date: Jan 28 16:00:59 2004 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: E6D0892671FC1843FF66B69CD8E2BF7C
+        Revocation Date: Sep 26 19:36:22 2002 GMT
+    Serial Number: EA4448C6865CC810E5761A1A6CFA62C0
+        Revocation Date: Aug 16 19:20:10 2002 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        9a:66:e3:7d:71:97:b5:39:ba:6e:cf:47:b9:b8:5e:6b:01:7e:
+        64:a5:fe:ec:10:e2:94:84:6d:1c:7f:88:ae:3c:89:2c:c8:b2:
+        42:07:41:74:75:a9:92:57:db:43:c6:3c:b1:da:2e:fa:06:89:
+        a3:73:3f:ca:28:fd:12:5f:67:42:57:05:a6:6a:4f:f4:87:1b:
+        fa:08:10:79:ff:5b:93:01:41:8a:94:3f:dd:c5:2e:cb:50:dc:
+        60:95:c2:f9:35:58:b9:02:36:1c:f2:fc:5e:33:23:8d:e3:86:
+        4d:2c:b6:4c:67:d1:47:d6:e4:41:89:e0:56:2c:ec:30:50:53:
+        4a:1c
