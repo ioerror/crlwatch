@@ -1,0 +1,39 @@
+issuer=/C=FR/O=Gouv/OU=Journaux officiels/OU=0002 16000102000017/CN=AC JO Infra
+SHA1 Fingerprint=F3:FA:29:CA:4E:7A:2E:50:DC:C0:DA:3D:29:80:47:DC:7D:4A:3C:06
+ed23e447
+crlNumber=0D81
+lastUpdate=Mar 17 09:17:01 2011 GMT
+nextUpdate=Apr 16 09:17:01 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=FR/O=Gouv/OU=Journaux officiels/OU=0002 16000102000017/CN=AC JO Infra
+        Last Update: Mar 17 09:17:01 2011 GMT
+        Next Update: Apr 16 09:17:01 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:B4:34:9A:82:A1:52:FE:71:52:9D:8B:C5:17:B8:31:F4:38:10:DD:86
+
+            X509v3 CRL Number: 
+                3457
+Revoked Certificates:
+    Serial Number: 6A
+        Revocation Date: Sep  9 15:41:38 2009 GMT
+    Serial Number: 6C
+        Revocation Date: Sep 11 12:05:53 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        34:a9:65:ac:ae:69:a2:69:80:0b:ba:d5:a3:e6:a1:17:98:60:
+        cb:df:fe:45:a2:19:cb:ad:5f:b9:23:8c:13:57:a5:5d:f3:d5:
+        97:35:4c:70:97:08:28:10:50:0a:09:41:3b:89:d7:e7:6e:ba:
+        53:a1:7f:a3:7e:fa:4d:60:7b:50:20:6c:21:56:5b:fb:96:02:
+        8c:fc:9e:af:57:39:2d:ed:b2:80:58:fb:2f:0c:41:bd:63:7a:
+        43:30:c9:d3:00:7d:a0:17:e9:eb:5a:b5:a9:bd:83:02:34:3f:
+        29:1b:54:15:5c:90:d9:23:ee:e3:84:56:a4:53:44:bd:3f:8d:
+        d5:e7:2a:f7:f9:f1:51:ab:25:5e:a5:d9:65:0d:36:c8:fb:78:
+        91:45:8f:f5:b3:fd:76:30:1e:02:a0:e4:5e:3c:75:47:30:b1:
+        7d:99:2c:06:e8:2e:53:f0:f0:37:78:b5:83:13:7e:47:fd:df:
+        9f:56:5d:62:04:5a:7e:41:04:94:bd:ae:97:bd:98:8e:2c:ab:
+        df:bd:a3:3b:87:35:81:b9:9e:cb:96:e4:f3:a3:57:59:d9:86:
+        e1:3b:31:39:b8:96:e3:10:61:4b:c9:9f:c7:2f:60:5a:47:ca:
+        7c:72:5b:83:3f:1d:93:1d:a6:39:9f:15:88:f6:32:dd:9e:81:
+        e1:ba:ad:56
