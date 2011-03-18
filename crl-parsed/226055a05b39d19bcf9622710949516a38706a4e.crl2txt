@@ -1,0 +1,44 @@
+issuer=/C=CN/O=CNNIC/CN=CNNIC ROOT
+SHA1 Fingerprint=66:57:E2:CF:EB:6A:92:36:E9:15:11:D2:21:1D:20:EF:C3:4D:BF:76
+895cad1a
+crlNumber=<NONE>
+lastUpdate=Dec 15 05:29:32 2010 GMT
+nextUpdate=Jun 15 05:29:32 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=CN/O=CNNIC/CN=CNNIC ROOT
+        Last Update: Dec 15 05:29:32 2010 GMT
+        Next Update: Jun 15 05:29:32 2011 GMT
+Revoked Certificates:
+    Serial Number: 49330015
+        Revocation Date: Jan 28 03:26:10 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 4933003D
+        Revocation Date: Sep  1 10:05:33 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                9
+    Serial Number: 49330051
+        Revocation Date: Sep  1 10:05:56 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                9
+    Signature Algorithm: sha1WithRSAEncryption
+        33:3a:2b:b2:6d:fd:8d:8f:75:d5:f4:e2:69:3e:4c:53:3c:50:
+        6c:3f:3a:a2:a8:e0:08:9c:0e:82:96:38:89:de:32:3a:03:fb:
+        59:b4:4a:67:bd:75:89:50:ba:d3:84:3e:34:cc:60:a6:ca:c3:
+        e2:db:0c:60:39:ca:17:e5:de:21:ec:d3:19:54:c7:07:c6:cd:
+        c2:25:68:c3:43:62:5c:2f:f0:af:86:a2:d8:57:8c:4e:22:f0:
+        cc:d1:50:17:a9:ce:f5:19:1e:e1:a4:cf:1c:89:8e:f5:21:5b:
+        ba:e6:20:81:76:d9:35:61:b4:4c:6a:61:39:d2:43:fb:4c:65:
+        1a:6e:86:b8:d3:18:58:07:72:5b:d4:08:c1:8a:86:db:1d:e2:
+        67:72:12:8e:4e:9b:c4:f1:cd:02:d0:39:39:2a:04:34:8c:6b:
+        73:ec:f1:c1:90:f1:77:e8:e2:9b:c9:dd:e9:02:62:49:7e:48:
+        ab:35:93:88:ec:0f:16:94:5d:a4:79:e3:6b:f4:35:88:fb:f2:
+        a7:d0:40:1d:b6:f1:e7:b6:e4:45:8f:01:99:72:9d:f9:f9:18:
+        82:37:2b:39:b7:d2:0a:c6:09:83:63:24:ab:3f:77:ee:05:f4:
+        1f:cd:63:f1:ee:d9:6f:6d:96:89:6c:4f:fa:eb:f1:8d:72:8f:
+        30:53:bb:28
