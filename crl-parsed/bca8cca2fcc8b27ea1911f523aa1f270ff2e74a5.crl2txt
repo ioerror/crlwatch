@@ -1,0 +1,40 @@
+issuer=/O=RSA Security Inc./CN=RSA Public Root CA v1/emailAddress=rsakeonrootsign@rsasecurity.com
+SHA1 Fingerprint=E0:3A:98:BC:BC:5B:0A:5A:CA:CA:A6:E5:9E:A8:2F:83:71:C9:E4:F9
+ff35b0b6
+crlNumber=84
+lastUpdate=Feb 23 19:28:30 2011 GMT
+nextUpdate=Aug 22 19:28:30 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=RSA Security Inc./CN=RSA Public Root CA v1/emailAddress=rsakeonrootsign@rsasecurity.com
+        Last Update: Feb 23 19:28:30 2011 GMT
+        Next Update: Aug 22 19:28:30 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:F5:4C:31:7A:51:03:3F:2C:D7:8B:97:99:6F:A8:71:90:AB:78:3D:9B
+
+            X509v3 CRL Number: 
+                132
+Revoked Certificates:
+    Serial Number: AC3AA887D1472475D3ECE3E0BAE9F8F8
+        Revocation Date: Nov  2 14:27:09 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                9
+            Invalidity Date: 
+                Nov  2 14:24:55 2009 GMT
+    Serial Number: B1B39D9D3DE4F07968038B3E0E7B7CC3
+        Revocation Date: Oct 23 14:50:14 2002 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 23 14:50:14 2002 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        15:4e:40:b3:a3:33:ab:93:d1:b2:27:da:a1:b4:0f:1a:1d:5a:
+        24:bc:82:f8:cb:39:02:07:34:6d:6c:80:dc:60:1d:c6:ea:f9:
+        4a:93:d9:79:15:82:06:38:8f:fc:c1:07:05:62:42:94:11:cf:
+        19:17:2a:e7:22:1d:dc:48:c3:91:a1:32:c5:16:be:8b:ae:cb:
+        ce:f8:48:e9:cd:bd:11:ee:8a:f6:94:98:c2:38:bf:ed:15:21:
+        9a:69:cf:ad:7b:53:c6:52:f4:96:b2:eb:99:04:09:eb:18:43:
+        45:ae:46:dd:00:38:0a:65:1d:b0:73:6f:6e:bc:e0:98:26:29:
+        bd:51
