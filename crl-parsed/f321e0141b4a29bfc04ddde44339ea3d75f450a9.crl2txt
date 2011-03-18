@@ -1,0 +1,49 @@
+issuer=/C=BR/O=Serasa S.A./OU=Serasa CA III/CN=Serasa Certificate Authority III
+SHA1 Fingerprint=BF:A1:08:5D:63:D9:39:28:52:47:FA:21:2F:3C:28:F6:C4:13:1C:ED
+9d6bfe10
+crlNumber=0152DF
+lastUpdate=Mar 18 09:07:10 2011 GMT
+nextUpdate=Mar 18 10:07:10 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=BR/O=Serasa S.A./OU=Serasa CA III/CN=Serasa Certificate Authority III
+        Last Update: Mar 18 09:07:10 2011 GMT
+        Next Update: Mar 18 10:07:10 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:46:C2:78:AB:54:E0:F8:68:27:39:DF:42:B3:F3:54:C3:06:7D:26:A1
+
+            X509v3 CRL Number: 
+                86751
+Revoked Certificates:
+    Serial Number: 0449E624ABE71044
+        Revocation Date: Nov  2 16:26:22 2005 GMT
+    Serial Number: 24E4620BCB25577A
+        Revocation Date: Oct  2 21:10:06 2007 GMT
+    Serial Number: 25BD11648887243B
+        Revocation Date: Oct  2 21:10:05 2007 GMT
+    Serial Number: 3E39D2EFEF90ACDD
+        Revocation Date: Oct  2 21:10:04 2007 GMT
+    Serial Number: 47198D35873952DF
+        Revocation Date: Aug  2 13:57:12 2009 GMT
+    Serial Number: 4E2D795F3FE7C363
+        Revocation Date: Aug  9 12:29:27 2009 GMT
+    Serial Number: 6C07C44522D82C65
+        Revocation Date: Aug  9 20:50:07 2007 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        df:03:a9:df:5e:66:94:20:d3:6e:ea:37:cd:d6:88:24:ce:4d:
+        5c:55:7a:bc:69:ee:89:1c:c4:0d:58:3d:e2:7f:d5:3d:1e:dc:
+        ca:1c:24:cf:e4:40:0d:36:cd:5c:c3:66:9c:88:b9:d1:a8:eb:
+        18:91:3a:00:13:01:71:51:5d:35:f3:e5:82:3a:b1:45:f4:60:
+        2b:d7:79:ba:41:42:d9:cb:7e:40:0f:14:68:c2:99:37:8f:40:
+        a6:8c:fc:3a:39:a7:7b:f2:1f:cd:bd:2c:1e:8b:63:de:65:25:
+        0a:f7:41:1e:a9:15:13:2c:80:36:90:83:91:e9:6e:18:3e:22:
+        25:a2:e4:ab:54:bf:cf:89:b4:82:79:95:8f:45:f8:65:28:69:
+        7c:cb:af:e6:b6:29:80:6f:aa:18:91:f1:b6:eb:39:39:33:e7:
+        24:d4:47:7a:20:3a:a4:bd:76:7f:5e:a1:ec:9e:0c:de:ce:76:
+        4a:bb:b3:17:f3:bb:ab:9b:9a:f4:2c:87:87:7a:b0:c0:95:84:
+        58:e0:0f:ad:cd:9f:04:9e:3c:4e:08:4b:75:87:a5:eb:05:54:
+        0f:72:75:6a:f0:5c:b4:7c:01:c4:54:44:b2:9f:1e:84:78:57:
+        66:9d:4c:e1:4d:00:8b:bf:2a:06:0f:25:52:df:cd:dc:34:9e:
+        fb:7a:89:14
