@@ -1,0 +1,56 @@
+issuer=/C=DE/ST=Sachsen/L=Dresden/O=Freistaat Sachsen/OU=Saechsisches Staatsministerium des Innern/CN=Sachsen Global CA/emailAddress=pki@smi.sachsen.de
+SHA1 Fingerprint=C0:CB:4E:F7:61:6F:1A:EB:4F:81:F3:CF:86:2A:F2:58:D8:64:B7:76
+11899e8b
+crlNumber=63
+lastUpdate=Mar 14 09:01:19 2011 GMT
+nextUpdate=Apr 13 09:01:19 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Sachsen/L=Dresden/O=Freistaat Sachsen/OU=Saechsisches Staatsministerium des Innern/CN=Sachsen Global CA/emailAddress=pki@smi.sachsen.de
+        Last Update: Mar 14 09:01:19 2011 GMT
+        Next Update: Apr 13 09:01:19 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                99
+Revoked Certificates:
+    Serial Number: 0E8E2D5C
+        Revocation Date: Mar  4 14:35:08 2011 GMT
+    Serial Number: 0EC9AA94
+        Revocation Date: Sep 24 09:09:08 2009 GMT
+    Serial Number: 0ECEE556
+        Revocation Date: May 25 13:52:09 2010 GMT
+    Serial Number: 0F177442
+        Revocation Date: Nov 16 13:02:15 2009 GMT
+    Serial Number: 0F73B50D
+        Revocation Date: Jan 19 14:37:10 2010 GMT
+    Serial Number: 0F75415F
+        Revocation Date: Jan 21 07:19:08 2010 GMT
+    Serial Number: 0FE7D99F
+        Revocation Date: Apr 16 13:01:14 2010 GMT
+    Serial Number: 10415BCD
+        Revocation Date: Sep  1 08:32:12 2010 GMT
+    Serial Number: 10415C00
+        Revocation Date: Sep  1 08:32:11 2010 GMT
+    Serial Number: 10415C3C
+        Revocation Date: Sep  1 08:32:10 2010 GMT
+    Serial Number: 10C519DF
+        Revocation Date: Oct  4 10:16:14 2010 GMT
+    Serial Number: 119437D2
+        Revocation Date: Mar  7 14:47:08 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        a5:70:22:4e:7c:89:bb:64:e5:a4:0f:7f:d3:cb:44:da:3c:3a:
+        25:7b:2a:10:cf:72:d0:cf:bf:3c:c9:79:48:8f:8b:64:43:6e:
+        9d:19:a4:af:1c:99:5f:b0:22:74:99:0d:07:57:86:39:ed:22:
+        2f:3e:54:73:47:e6:72:5d:9a:76:20:8f:bd:6c:e1:4d:92:f7:
+        75:57:d9:49:a4:6c:6f:d1:cd:cf:fc:eb:2c:8a:0e:96:8e:7c:
+        e1:af:ff:ec:60:a2:0d:48:0a:3d:6a:33:66:d5:36:9f:a5:8d:
+        67:2d:e4:22:71:20:df:ef:72:0d:ed:91:58:42:ac:3d:b9:c2:
+        24:c6:b4:d4:72:65:71:1c:65:18:c8:ad:cf:97:22:1f:4f:f4:
+        87:fd:16:3e:45:a9:e1:99:fc:eb:80:16:9b:42:7f:e0:6b:27:
+        0d:3c:2a:7b:75:df:9a:c4:e6:9e:e9:f0:f4:d1:39:e8:61:73:
+        c4:0b:d1:88:c7:f7:5f:b0:74:3b:2d:78:2e:51:e7:04:ac:3c:
+        e9:98:fe:c3:3b:b1:83:bd:70:57:d4:f4:3b:8e:a7:4e:a8:eb:
+        71:6c:aa:f7:57:c7:ce:db:b1:95:65:94:1d:df:7b:0b:b9:4a:
+        13:1e:b6:07:e3:1f:5e:fb:b9:68:35:e3:e7:78:08:8e:23:3b:
+        12:5b:fe:34
