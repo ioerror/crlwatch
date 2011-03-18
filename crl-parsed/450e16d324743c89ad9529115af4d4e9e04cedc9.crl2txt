@@ -1,0 +1,36 @@
+issuer=/C=DE/ST=Brandenburg/L=Frankfurt (Oder)/O=Europa-Universitaet Viadrina Frankfurt (Oder)/CN=Europa-Universitaet Viadrina CA/emailAddress=pki@europa-uni.de
+SHA1 Fingerprint=E4:4C:5E:BF:A7:6C:89:BD:75:05:DE:BF:52:D2:4A:82:D4:8B:01:C9
+b9698df4
+crlNumber=28
+lastUpdate=Mar 14 07:31:07 2011 GMT
+nextUpdate=Apr 13 07:31:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Brandenburg/L=Frankfurt (Oder)/O=Europa-Universitaet Viadrina Frankfurt (Oder)/CN=Europa-Universitaet Viadrina CA/emailAddress=pki@europa-uni.de
+        Last Update: Mar 14 07:31:07 2011 GMT
+        Next Update: Apr 13 07:31:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                40
+Revoked Certificates:
+    Serial Number: 1091F56F
+        Revocation Date: Aug 25 14:33:07 2010 GMT
+    Serial Number: 10949CE3
+        Revocation Date: Aug 25 14:33:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        45:2a:f5:82:bb:ff:e5:65:07:1e:67:33:6a:36:b1:de:09:88:
+        40:26:b2:9a:d8:b5:36:cd:33:8c:01:07:ea:de:4b:dd:ee:84:
+        9e:40:6b:56:e8:16:70:92:e9:45:60:48:df:5c:ff:d1:4d:5f:
+        b6:04:7d:4d:3c:b4:98:8b:d1:0d:67:08:f5:40:a5:78:50:2f:
+        bb:80:1d:04:23:2d:94:95:2c:29:1b:ef:2f:e1:62:66:c2:ea:
+        f3:e7:03:44:25:47:c1:67:1a:02:c6:b7:bf:20:31:37:5e:75:
+        07:ef:07:ce:40:af:ff:4c:93:92:43:3b:44:1d:f2:8f:db:91:
+        54:fc:0a:90:14:e9:27:a3:2b:12:8b:27:4b:fe:ea:c8:ff:3d:
+        32:61:41:70:34:e9:87:82:68:df:52:37:25:e2:c6:92:cd:45:
+        fd:2f:83:a3:69:d0:b1:05:0a:76:61:df:d3:a0:32:c6:c0:3e:
+        43:da:33:9e:8b:1d:cf:67:6a:18:3a:2a:36:bb:76:a1:a4:35:
+        81:a6:fc:70:d6:fa:b0:a5:30:4f:7c:77:4a:40:30:40:50:53:
+        be:d1:8b:a3:37:b2:24:b2:fd:33:94:f4:8d:56:4e:a4:c7:8c:
+        d9:87:6e:c6:94:cb:75:dc:a8:ab:e9:74:e3:56:42:34:4c:61:
+        5c:d1:6d:e7
