@@ -1,0 +1,54 @@
+issuer=/C=ES/L=C/ Muntaner 244 Barcelona/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068/emailAddress=ca@firmaprofesional.com
+SHA1 Fingerprint=C3:ED:8B:86:33:36:BD:57:EC:E0:00:53:7C:34:FB:A5:38:8F:80:CA
+1155c94b
+crlNumber=F2
+lastUpdate=May 17 11:21:57 2010 GMT
+nextUpdate=Mar 17 12:21:57 2013 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/L=C/ Muntaner 244 Barcelona/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068/emailAddress=ca@firmaprofesional.com
+        Last Update: May 17 11:21:57 2010 GMT
+        Next Update: Mar 17 12:21:57 2013 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                242
+            X509v3 Authority Key Identifier: 
+                keyid:33:0B:A0:66:D1:EA:DA:CE:DE:62:93:04:28:52:B5:14:7F:38:68:B7
+                DirName:/C=ES/L=C/ Muntaner 244 Barcelona/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068/emailAddress=ca@firmaprofesional.com
+                serial:01
+
+            X509v3 Issuing Distrubution Point: 
+                0:.8.6.4http://crl.firmaprofesional.com/firmaprofesional.crl
+Revoked Certificates:
+    Serial Number: 88
+        Revocation Date: Mar 10 09:58:00 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 79
+        Revocation Date: Mar 10 09:55:00 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 8A
+        Revocation Date: Jan 10 23:00:00 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        bc:3b:70:6d:2e:1a:14:01:f2:78:bc:f6:3c:1c:8f:9b:f5:f9:
+        c9:9d:56:f7:9e:14:81:b6:b3:02:e3:7e:05:74:32:70:5b:46:
+        32:db:77:ac:f3:1d:24:a4:58:34:eb:93:b6:13:f5:83:e6:e5:
+        a1:af:c1:ca:c1:de:8f:73:fb:55:7a:ff:4f:e8:61:3a:0c:7e:
+        03:8d:93:b9:09:d5:d0:d1:ee:ae:0c:6c:14:0b:67:6b:50:8e:
+        38:5d:24:de:a8:43:1e:1a:8b:4f:d6:b7:61:c1:cd:37:05:b0:
+        3b:42:ba:90:24:57:c1:89:39:ab:73:2e:a8:3e:de:7a:7c:5d:
+        63:9f:d6:51:81:d6:26:ef:4f:5f:28:14:2e:d7:68:80:79:13:
+        72:99:e1:ae:03:9e:5e:ed:65:3f:d4:44:6b:70:16:a1:d7:cf:
+        79:e3:41:24:bc:73:e5:69:13:f4:a3:bc:43:5d:89:3b:68:88:
+        ee:0d:22:96:c2:60:6d:0c:95:04:57:2a:8a:fe:4e:b6:5e:ac:
+        6d:b6:19:85:c5:60:9c:9b:0f:1a:f1:1d:ad:1e:15:38:08:63:
+        0c:04:38:b6:10:04:89:7c:a2:9c:02:89:fe:b2:f2:8a:cc:2d:
+        85:d8:6c:5d:5a:b9:0c:64:f8:ca:18:8b:18:f9:72:31:d0:1e:
+        12:cc:f5:c5
