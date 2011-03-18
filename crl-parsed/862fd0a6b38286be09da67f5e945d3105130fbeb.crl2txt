@@ -1,0 +1,30 @@
+issuer=/C=JP/O=Cybertrust Japan Co., Ltd./CN=Cybertrust Japan EV CA G1
+SHA1 Fingerprint=F1:52:4C:D5:9A:32:D8:F8:41:5D:A8:7E:F8:D3:94:43:67:93:5D:4E
+884bfe10
+crlNumber=042B
+lastUpdate=Jan 18 22:55:44 2011 GMT
+nextUpdate=Jan 23 22:55:44 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=JP/O=Cybertrust Japan Co., Ltd./CN=Cybertrust Japan EV CA G1
+        Last Update: Jan 18 22:55:44 2011 GMT
+        Next Update: Jan 23 22:55:44 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:A9:79:46:69:E5:E9:89:64:DE:9C:8E:5C:0B:8E:43:84:98:5A:7C:65
+
+            X509v3 CRL Number: 
+                1067
+            X509v3 Issuing Distrubution Point: 
+                0J.E.C.Ahttp://sureseries-crl.cybertrust.ne.jp/SureServer/2018_ev/cdp.crl...
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        8e:2f:f2:86:4a:9d:a9:9d:67:b2:6d:9d:22:ad:7f:8c:d4:16:
+        a4:af:34:b6:a5:b3:1d:d0:c8:02:6a:bf:e1:33:fe:b0:7d:69:
+        b2:c4:cd:22:b9:06:30:3b:eb:47:62:d4:4c:b4:b1:03:04:5d:
+        72:9a:dd:e5:e5:d6:88:49:55:dc:90:b3:ea:d7:0a:06:2e:8b:
+        3a:c4:66:60:f0:80:0c:cc:b9:c1:66:02:9e:7a:8b:b1:fc:85:
+        fd:f3:6e:36:e7:7d:7d:7c:78:57:94:00:a3:f2:d0:49:4c:1a:
+        c8:33:0c:f2:56:d2:f4:44:25:56:a0:d8:cc:6e:6f:9d:be:af:
+        be:96
