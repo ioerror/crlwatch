@@ -1,0 +1,54 @@
+issuer=/C=DE/O=DFN-Verein/OU=DFN-PKI/CN=DFN-Verein PCA Global - G01
+SHA1 Fingerprint=38:26:69:E5:C5:C9:32:AB:4A:78:64:73:C2:FC:8D:1E:C5:D6:03:FE
+aaa0e946
+crlNumber=5E
+lastUpdate=Mar  9 13:18:09 2011 GMT
+nextUpdate=Apr  8 13:18:09 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=DFN-Verein/OU=DFN-PKI/CN=DFN-Verein PCA Global - G01
+        Last Update: Mar  9 13:18:09 2011 GMT
+        Next Update: Apr  8 13:18:09 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                94
+Revoked Certificates:
+    Serial Number: 09BB2C77
+        Revocation Date: Jan  3 15:38:09 2007 GMT
+    Serial Number: 09C1C2D7
+        Revocation Date: Jan 17 13:40:57 2007 GMT
+    Serial Number: 09C1C2FE
+        Revocation Date: Jan 17 13:41:06 2007 GMT
+    Serial Number: 09C2FE10
+        Revocation Date: Jan 17 13:41:14 2007 GMT
+    Serial Number: 09E154DB
+        Revocation Date: May  2 11:36:15 2007 GMT
+    Serial Number: 09F93DA0
+        Revocation Date: Feb 19 15:52:07 2007 GMT
+    Serial Number: 0AA9DB15
+        Revocation Date: Jul 26 14:00:33 2007 GMT
+    Serial Number: 0AC92BB8
+        Revocation Date: Jul 31 13:09:03 2007 GMT
+    Serial Number: 0B2AF53C
+        Revocation Date: Oct  9 13:55:52 2007 GMT
+    Serial Number: 0C79A66B
+        Revocation Date: Jul  9 14:29:42 2008 GMT
+    Serial Number: 10076668
+        Revocation Date: May 10 13:52:04 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        dd:6b:60:da:61:78:e5:40:81:5e:7f:9d:b2:d7:27:3e:76:9f:
+        4f:08:19:78:d3:f2:1c:81:83:21:c0:76:e7:69:a8:5f:f3:0a:
+        c5:a7:48:ca:e7:08:a3:3a:95:5a:fd:af:d6:48:01:ad:ff:4c:
+        f8:f2:b8:23:9d:40:98:3c:0a:eb:e2:83:f1:7e:e9:1d:d0:63:
+        92:ab:fd:58:51:87:d2:85:c5:c8:ac:a0:09:28:72:8a:10:fa:
+        b7:a9:4f:eb:4b:44:05:89:00:ae:b6:7f:35:a2:0a:47:ed:16:
+        d6:95:1e:f9:d3:0b:f8:ee:6b:85:e0:1a:e5:5f:3a:30:88:1e:
+        93:d4:eb:22:ba:d3:09:97:fc:c2:e7:11:69:b3:19:da:42:0c:
+        81:fa:e8:bd:94:d2:ff:03:af:0f:c5:7b:fc:38:4f:70:53:1d:
+        80:00:2c:da:98:39:0b:44:ac:02:13:34:8f:8c:97:39:bb:56:
+        e2:88:a7:8c:87:56:ae:15:b1:aa:a1:c8:f2:b0:bc:15:4b:e2:
+        db:e8:b4:73:9b:76:9e:40:52:7c:de:9c:77:81:35:91:eb:55:
+        3e:2d:90:7f:3d:92:ce:cd:45:b7:e9:5a:d6:4d:3d:8c:6f:43:
+        6d:bc:70:a2:90:4a:b3:42:b7:9d:7f:ab:61:7a:12:e0:4a:d8:
+        f0:ad:7e:70
