@@ -1,0 +1,49 @@
+issuer=/C=ES/ST=MADRID/L=MADRID/O=ips Certification Authority/OU=Certificaciones/CN=ipsCA Level 1 CA/emailAddress=ipscalevel1@ipsca.com
+SHA1 Fingerprint=78:25:A6:B2:12:30:F4:5F:62:E1:CF:F9:90:EA:88:44:4F:A3:91:25
+31fc07cd
+crlNumber=<NONE>
+lastUpdate=Dec 24 09:30:48 2009 GMT
+nextUpdate=Jan 23 09:30:48 2010 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/ST=MADRID/L=MADRID/O=ips Certification Authority/OU=Certificaciones/CN=ipsCA Level 1 CA/emailAddress=ipscalevel1@ipsca.com
+        Last Update: Dec 24 09:30:48 2009 GMT
+        Next Update: Jan 23 09:30:48 2010 GMT
+Revoked Certificates:
+    Serial Number: 1014322333A8DA800F544988C94D84A5C7BBB5AD
+        Revocation Date: Dec 23 16:58:37 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 10575C5A40D5298207E3F688162CA832782F0C75
+        Revocation Date: Dec 23 16:59:24 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 1079543197BD389366885C0AE4AD4ED9C79ED8A0
+        Revocation Date: Dec 23 17:00:02 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 107A9FDA2F1941712D97F23472DF1E5B9019544B
+        Revocation Date: Dec 23 16:49:26 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        40:e8:78:c0:7b:d7:b7:ef:7f:20:ca:61:52:b9:03:3f:8d:65:
+        6e:15:21:f6:a4:d5:9e:be:7a:7c:28:f9:ae:a6:2b:66:95:ab:
+        63:30:09:58:58:ee:de:9c:ad:c6:20:ef:b7:1e:90:68:3b:87:
+        f2:4a:62:2a:2e:25:6d:ef:93:db:e3:69:76:7f:c0:8d:79:a7:
+        ad:92:ef:a2:b2:08:6b:04:b7:6b:98:8f:47:3f:0a:f9:1d:48:
+        b2:c8:a3:5f:61:05:e7:f2:2e:bf:62:a9:36:49:18:71:cc:3c:
+        dc:74:32:d8:fc:01:ab:df:f2:91:3a:d7:2a:2e:44:c6:ae:dd:
+        50:eb:1a:6a:0c:52:be:07:f6:1f:fd:2d:2f:65:7c:05:50:91:
+        12:54:ef:d2:83:01:35:40:fe:40:fc:83:63:db:42:11:34:61:
+        d8:a7:5b:06:b9:7d:f3:75:77:15:ae:85:82:66:63:66:99:38:
+        5a:a1:7a:66:d5:52:ec:77:8d:89:23:d0:31:f3:0a:34:1f:64:
+        28:af:26:ec:0c:2a:a0:b5:25:ba:d0:a9:dc:5e:3c:cd:1a:c0:
+        4a:4c:19:82:2a:b5:21:92:cb:15:ae:e8:f8:ee:63:3e:fa:ab:
+        b6:03:f5:9d:7e:cc:e6:11:d3:91:2c:10:a9:15:40:66:b5:76:
+        a3:7a:83:74
