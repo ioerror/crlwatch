@@ -1,0 +1,54 @@
+issuer=/C=DE/ST=Bayern/L=Deggendorf/O=Hochschule fuer angewandte Wissenschaften - FH Deggendorf/OU=Rechenzentrum/CN=Hochschule Deggendorf CA - G01/emailAddress=pki@fh-deggendorf.de
+SHA1 Fingerprint=AB:6E:25:C7:AD:95:A7:4F:74:BF:E1:54:DF:10:37:C7:AC:05:B7:96
+8ba0b27d
+crlNumber=AD
+lastUpdate=Mar 14 08:19:07 2011 GMT
+nextUpdate=Apr 13 08:19:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Deggendorf/O=Hochschule fuer angewandte Wissenschaften - FH Deggendorf/OU=Rechenzentrum/CN=Hochschule Deggendorf CA - G01/emailAddress=pki@fh-deggendorf.de
+        Last Update: Mar 14 08:19:07 2011 GMT
+        Next Update: Apr 13 08:19:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                173
+Revoked Certificates:
+    Serial Number: 0C106A36
+        Revocation Date: Apr  3 14:04:14 2008 GMT
+    Serial Number: 0C1417CF
+        Revocation Date: Apr  3 11:17:31 2008 GMT
+    Serial Number: 0C143ACF
+        Revocation Date: Apr  3 11:27:08 2008 GMT
+    Serial Number: 0C1C3E3B
+        Revocation Date: Apr 11 07:00:09 2008 GMT
+    Serial Number: 0C2C1D57
+        Revocation Date: May 23 06:13:07 2008 GMT
+    Serial Number: 0C636FB3
+        Revocation Date: Jun  2 14:05:07 2008 GMT
+    Serial Number: 0D40C8C3
+        Revocation Date: Sep 11 07:59:07 2009 GMT
+    Serial Number: 0EC988D3
+        Revocation Date: Sep 21 08:27:07 2009 GMT
+    Serial Number: 0F8A5DD4
+        Revocation Date: Feb  9 08:04:08 2010 GMT
+    Serial Number: 0FC1B3EC
+        Revocation Date: Mar 24 13:41:15 2010 GMT
+    Serial Number: 10E636BC
+        Revocation Date: Nov  2 06:23:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        2f:ae:be:df:5b:ae:9b:44:16:f0:f7:37:9c:3f:b3:52:9c:0e:
+        30:72:b6:7c:50:24:81:a7:c9:9b:72:5e:d6:a2:51:7c:7a:ac:
+        b7:88:bf:e4:4f:cc:e0:05:ef:b7:2e:8b:3d:bf:04:57:f9:f6:
+        70:38:e6:2a:81:4f:19:e6:01:dc:44:63:51:27:d4:ff:bd:07:
+        76:ae:67:e4:13:5e:9a:5e:51:8b:4d:9f:d3:0c:10:34:e0:2f:
+        27:82:eb:72:b8:05:19:23:85:19:85:71:9b:fb:52:45:bc:f9:
+        07:07:f4:87:b2:65:ca:a2:0c:5f:16:97:c1:71:bf:d3:9c:e9:
+        97:79:ea:49:3f:1b:d2:71:ff:9e:a5:22:3a:3f:c3:b4:bd:2b:
+        53:7f:d0:f3:f9:20:6a:69:d2:6d:12:f5:6a:a4:47:3a:61:bd:
+        fd:3b:13:97:d1:4d:5e:b5:a0:5c:5d:5f:2f:bf:8a:23:21:35:
+        e9:7d:a2:60:27:d7:e2:1f:13:27:52:68:b4:dd:1a:d4:dc:56:
+        13:57:b2:88:42:1d:91:09:5f:fa:6a:77:5e:9b:c0:23:37:58:
+        8b:9e:b6:a5:25:53:0e:38:01:a5:39:f9:b2:4a:61:4a:e4:20:
+        e1:79:dd:a1:e3:66:54:cf:b9:2b:aa:51:86:e9:1c:05:c3:2a:
+        33:96:d7:d7
