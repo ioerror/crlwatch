@@ -1,0 +1,36 @@
+issuer=/C=DE/O=Berufsakademie Sachsen Staatliche Studienakademie Bautzen/CN=BA Sachsen Staatliche Studienakademie Bautzen CA/emailAddress=ca@ba-bautzen.de
+SHA1 Fingerprint=6E:5E:33:84:A7:F8:00:0D:0B:17:8E:40:19:DA:DE:44:90:C5:24:CA
+a435c273
+crlNumber=3A
+lastUpdate=Mar 14 07:08:07 2011 GMT
+nextUpdate=Apr 13 07:08:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Berufsakademie Sachsen Staatliche Studienakademie Bautzen/CN=BA Sachsen Staatliche Studienakademie Bautzen CA/emailAddress=ca@ba-bautzen.de
+        Last Update: Mar 14 07:08:07 2011 GMT
+        Next Update: Apr 13 07:08:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                58
+Revoked Certificates:
+    Serial Number: 0FD2CB3A
+        Revocation Date: Apr  1 09:20:09 2010 GMT
+    Serial Number: 0FD3CD0C
+        Revocation Date: Apr  1 09:20:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        71:ca:91:33:cc:3e:c3:8d:6c:e7:f3:98:66:04:85:1b:66:de:
+        02:ee:00:86:7f:3a:2b:64:79:b4:16:8f:bd:4b:fc:05:a4:aa:
+        88:55:9c:77:2b:33:1b:6d:8b:a4:c7:8a:f3:80:34:49:b0:9f:
+        18:64:8e:75:16:57:7b:8d:82:cd:db:f9:90:14:00:70:25:76:
+        f7:a9:f3:ff:1f:7d:92:78:e2:ef:ca:ad:31:4b:c6:21:df:9c:
+        20:4d:1b:93:98:26:b2:cd:d8:ca:88:44:fc:20:fa:18:ea:1d:
+        1c:92:e3:28:e4:4a:dc:21:bb:e1:97:11:7d:af:58:76:61:e0:
+        4a:d2:38:26:88:27:9a:d3:17:65:83:a7:ef:ed:58:57:7d:e2:
+        33:d1:d5:48:9e:f4:8b:d8:38:b7:39:4e:f0:1d:18:64:8b:7c:
+        23:15:89:14:3b:e1:49:8e:26:1c:55:02:25:c8:a7:f6:69:4e:
+        23:00:c8:0b:5d:8d:39:6f:9e:34:8f:18:e6:6f:0b:da:c1:a4:
+        f9:24:c5:63:89:12:ef:e7:9a:66:ed:5b:23:b8:db:82:3c:5c:
+        35:e9:c0:4c:d5:ba:1e:36:8c:d0:c2:29:a5:88:e4:7d:bb:88:
+        43:20:c7:5c:fa:8c:39:d6:53:f7:f7:3b:f4:48:2c:c8:a3:c0:
+        30:81:0a:4a
