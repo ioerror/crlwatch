@@ -1,0 +1,44 @@
+issuer=/C=DE/ST=Brandenburg/L=Brandenburg an der Havel/O=Fachhochschule Brandenburg/OU=ZIMK/Rechenzentrum/CN=FHB-CA/emailAddress=fhb-ca@fh-brandenburg.de
+SHA1 Fingerprint=B7:11:1B:DB:2C:A7:89:6D:F6:73:C0:B9:03:17:D6:8D:E4:21:94:69
+14ded836
+crlNumber=93
+lastUpdate=Mar 14 07:35:14 2011 GMT
+nextUpdate=Apr 13 07:35:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Brandenburg/L=Brandenburg an der Havel/O=Fachhochschule Brandenburg/OU=ZIMK/Rechenzentrum/CN=FHB-CA/emailAddress=fhb-ca@fh-brandenburg.de
+        Last Update: Mar 14 07:35:14 2011 GMT
+        Next Update: Apr 13 07:35:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                147
+Revoked Certificates:
+    Serial Number: 0CC0D882
+        Revocation Date: Aug 13 10:22:07 2008 GMT
+    Serial Number: 0DD8A143
+        Revocation Date: Aug 27 12:17:08 2009 GMT
+    Serial Number: 0FB48744
+        Revocation Date: Mar  8 15:09:06 2010 GMT
+    Serial Number: 103EB9B3
+        Revocation Date: Sep 27 07:22:07 2010 GMT
+    Serial Number: 10C3CBDF
+        Revocation Date: Oct 22 06:17:08 2010 GMT
+    Serial Number: 10E0B173
+        Revocation Date: Oct 26 09:01:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        4b:47:e8:5c:33:ec:12:7f:20:8f:dc:04:c3:c9:ee:8d:39:f0:
+        a3:d7:ab:6c:9d:0b:33:4f:38:eb:04:c2:44:76:65:7b:be:dd:
+        39:ef:63:1a:11:47:99:6c:59:e5:5e:c6:dc:2f:4f:41:f2:37:
+        95:c5:78:8e:bf:d6:12:23:da:7a:fc:d3:ac:03:92:38:49:8a:
+        2a:b5:9e:3b:3f:98:67:a4:2b:0e:e5:65:36:e6:76:9e:8d:12:
+        70:ee:13:4d:0f:06:2b:88:97:4f:9a:8e:43:e5:bd:d0:bb:b9:
+        a0:09:05:43:61:e6:16:02:da:04:a0:c0:e7:2a:43:04:8c:c2:
+        a1:e3:47:9a:78:5e:0a:fe:cb:33:18:8c:f1:65:7b:a2:bc:0b:
+        a1:34:f7:9c:59:78:b4:88:de:2c:e1:52:c3:3a:fd:ee:d7:bc:
+        63:9d:96:4e:a4:c6:88:6c:51:e3:ec:32:6b:9c:11:52:ea:74:
+        5c:9c:26:fe:27:0e:30:fb:b2:77:52:9b:c9:92:c8:be:54:2d:
+        b3:12:8d:14:de:85:ed:79:b4:39:1e:b2:59:42:03:52:b3:e3:
+        95:50:39:37:cf:bb:a0:90:22:d9:ef:ab:38:5c:d5:2e:40:d7:
+        a5:40:d9:b3:75:68:b4:e1:4a:a8:6c:a0:dc:4a:a8:cb:e3:00:
+        a0:f2:34:fe
