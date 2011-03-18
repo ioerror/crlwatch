@@ -1,0 +1,50 @@
+issuer=/C=DE/O=Fachhochschule Regensburg/CN=FH Regensburg CA/emailAddress=pki@fh-regensburg.de
+SHA1 Fingerprint=1C:43:48:F7:80:2F:33:54:53:DB:4E:D9:DD:23:03:64:C3:D3:8B:5E
+d9c50070
+crlNumber=C1
+lastUpdate=Mar 17 15:13:09 2011 GMT
+nextUpdate=Apr 16 15:13:09 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Fachhochschule Regensburg/CN=FH Regensburg CA/emailAddress=pki@fh-regensburg.de
+        Last Update: Mar 17 15:13:09 2011 GMT
+        Next Update: Apr 16 15:13:09 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                193
+Revoked Certificates:
+    Serial Number: 0B6A5C15
+        Revocation Date: Nov 23 11:43:07 2010 GMT
+    Serial Number: 0BD27B2D
+        Revocation Date: Feb 13 15:15:26 2008 GMT
+    Serial Number: 0BD28885
+        Revocation Date: Aug 28 12:47:08 2008 GMT
+    Serial Number: 0C561427
+        Revocation Date: Aug 28 12:47:08 2008 GMT
+    Serial Number: 10414185
+        Revocation Date: Jun 23 11:02:07 2010 GMT
+    Serial Number: 10E923CB
+        Revocation Date: Oct 28 17:07:06 2010 GMT
+    Serial Number: 112EF2E3
+        Revocation Date: Dec 21 15:57:07 2010 GMT
+    Serial Number: 1130489B
+        Revocation Date: Dec 21 15:57:07 2010 GMT
+    Serial Number: 1199A403
+        Revocation Date: Mar 17 15:13:08 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        2e:14:3e:00:86:49:30:f5:b4:1d:f8:90:e0:ef:8e:eb:95:13:
+        82:be:e5:ad:d3:21:b4:b1:d5:59:64:c6:a6:01:25:23:00:be:
+        d2:17:41:bb:f8:5d:a5:a3:1b:c6:4f:99:b0:3e:66:d0:f0:66:
+        38:7b:f9:91:1d:0a:a2:b8:ed:94:6e:a4:1f:61:de:c4:97:64:
+        88:18:ad:ac:01:4d:d0:11:c9:52:b9:5b:e3:ef:fa:40:53:51:
+        9e:4e:cc:72:8b:87:ed:63:7b:55:b1:f8:fc:78:2f:f8:63:58:
+        79:d5:81:57:1e:d4:60:51:59:a7:a9:aa:c1:d8:15:7e:dc:27:
+        8f:f2:c6:12:9e:32:10:90:a9:53:d5:a8:dc:a7:3b:25:77:ab:
+        6b:66:15:fd:02:c2:51:c1:14:7e:23:21:05:87:d3:c8:cf:a9:
+        b7:1c:a9:ad:4c:d7:3f:65:29:55:99:e3:7f:78:91:1e:b4:de:
+        b4:56:c2:21:09:df:cf:6f:76:56:f0:17:0f:56:b0:f0:b1:d9:
+        49:9b:3b:e3:e0:9d:18:84:f9:16:d6:ee:33:ca:c3:e5:c3:5f:
+        84:96:b5:d0:8a:3b:f1:0e:c7:58:ad:84:a2:94:4e:fb:9e:f7:
+        88:63:d9:d0:b5:32:ba:6e:c1:c1:d4:bd:fc:e9:cf:5b:93:fc:
+        de:8a:92:86
