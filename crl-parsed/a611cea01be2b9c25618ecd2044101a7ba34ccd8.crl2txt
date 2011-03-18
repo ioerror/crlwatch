@@ -1,0 +1,50 @@
+issuer=/C=DE/O=Technische Universitaet Ilmenau/CN=TU Ilmenau CA/emailAddress=pki@tu-ilmenau.de
+SHA1 Fingerprint=F4:A9:26:7E:76:76:3B:4E:E7:38:4A:9A:53:03:9D:0C:B0:56:F7:BD
+d2af9e18
+crlNumber=77
+lastUpdate=Mar 14 09:15:26 2011 GMT
+nextUpdate=Apr 13 09:15:26 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Technische Universitaet Ilmenau/CN=TU Ilmenau CA/emailAddress=pki@tu-ilmenau.de
+        Last Update: Mar 14 09:15:26 2011 GMT
+        Next Update: Apr 13 09:15:26 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                119
+Revoked Certificates:
+    Serial Number: 0DC369A0
+        Revocation Date: Mar 24 16:54:07 2009 GMT
+    Serial Number: 0F0E0A73
+        Revocation Date: Nov 16 15:02:09 2009 GMT
+    Serial Number: 0F0E0AF0
+        Revocation Date: Nov 16 15:02:10 2009 GMT
+    Serial Number: 10A47C7B
+        Revocation Date: Jan 20 11:33:11 2011 GMT
+    Serial Number: 10CBDDCB
+        Revocation Date: Oct  6 14:18:11 2010 GMT
+    Serial Number: 10DCD07E
+        Revocation Date: Oct 28 10:57:18 2010 GMT
+    Serial Number: 10F0A31B
+        Revocation Date: Nov  3 09:21:10 2010 GMT
+    Serial Number: 1157B1C0
+        Revocation Date: Jan 20 13:29:07 2011 GMT
+    Serial Number: 118B20F2
+        Revocation Date: Feb 28 14:43:10 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        93:eb:2c:f1:94:bd:c1:ab:d1:2e:c9:07:68:a8:8a:d4:d4:ed:
+        8a:0d:b1:9d:c4:39:60:90:90:79:50:0b:ee:4e:33:6d:1c:c9:
+        15:56:b7:a1:9a:58:2d:cf:cd:a6:a3:5d:42:78:e8:98:67:19:
+        f4:92:64:fb:ac:5f:eb:73:6b:9b:d8:07:0a:bf:e9:6c:13:93:
+        33:01:9d:29:eb:53:e3:ca:0a:e0:36:44:ed:eb:f3:67:60:f4:
+        ac:fc:d4:94:b4:02:83:b7:4d:5f:c9:6a:1e:7d:01:18:dc:07:
+        a7:0e:54:9f:9d:cf:4a:87:bb:bd:04:26:f5:a6:d8:7b:4f:c5:
+        9d:9b:69:1b:d6:52:0e:13:c4:0c:6a:53:c7:dd:29:7d:91:73:
+        e2:14:e6:c4:53:59:fc:e9:6f:04:66:7c:52:a8:96:95:14:95:
+        bc:6d:ea:16:20:cf:cf:dc:67:cc:4c:71:4b:4e:e5:84:c4:5e:
+        5e:3d:3b:1e:78:ac:15:05:da:34:41:0b:28:ca:db:da:55:57:
+        c8:94:62:34:24:c4:d7:74:ae:b7:13:fe:0c:13:9b:a8:46:8b:
+        eb:99:ea:6c:3c:3d:1b:ba:ac:1b:17:4f:13:43:e2:c8:d3:ed:
+        58:f6:1d:7c:cc:24:2d:95:98:b2:b3:05:bf:98:b0:96:f5:c6:
+        40:d4:83:23
