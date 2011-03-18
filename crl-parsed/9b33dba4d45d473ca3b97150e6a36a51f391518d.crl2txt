@@ -1,0 +1,70 @@
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global CA
+SHA1 Fingerprint=CE:E8:9E:9D:68:36:F8:F0:BB:48:60:22:D9:EB:B8:43:09:4C:9E:35
+ab90c32b
+crlNumber=00035B
+lastUpdate=Mar 18 06:20:15 2011 GMT
+nextUpdate=Mar 25 06:20:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global CA
+        Last Update: Mar 18 06:20:15 2011 GMT
+        Next Update: Mar 25 06:20:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:A7:C7:13:A0:7A:01:3C:9D:EF:82:48:82:48:D5:73:51:B6:12:56:2A
+
+            X509v3 CRL Number: 
+                859
+Revoked Certificates:
+    Serial Number: 08E53DE3953D46168BF5393E262A5B12
+        Revocation Date: Nov 18 21:31:39 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 03333353F4E047EBB379A33AD3B0B5F6
+        Revocation Date: Nov 24 21:14:27 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 016E92CCFA4B40BCBE1F0A881DF348E2
+        Revocation Date: Dec 14 15:35:45 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 01873F7184A54E18B1BABA2CA594C085
+        Revocation Date: Jun  6 18:39:54 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 07C9A871C5DC4B40BF5468D77698D6C4
+        Revocation Date: Jun 20 11:18:12 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 0A9C7490E112493099F6BD3D7EFC7891
+        Revocation Date: Aug 20 17:20:57 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 0C8BBFDDBC95493BB9C8585DF2ACFEEE
+        Revocation Date: Nov 26 15:39:46 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: sha1WithRSAEncryption
+        82:f6:02:33:62:f4:65:ec:4b:b0:d0:1c:a4:c5:da:1f:27:06:
+        02:54:dc:aa:42:14:4e:c9:31:04:c2:53:b8:8a:a4:0d:83:30:
+        18:e2:bc:17:cc:0a:a6:ef:94:b8:69:17:d6:b8:54:f1:53:7f:
+        4b:da:35:79:06:0a:3f:4b:c1:16:2d:72:12:8f:d4:e7:45:70:
+        24:b7:10:ec:9d:12:6c:89:2e:73:b8:fb:41:e1:ef:2a:50:74:
+        f1:47:43:17:4a:9c:83:ca:08:0d:b3:0f:e7:81:d2:66:cd:4d:
+        8a:56:ce:64:fa:67:e3:3a:3a:13:e8:be:5a:6a:14:d1:b1:73:
+        4c:06:0f:26:87:f7:73:ba:aa:31:ef:7f:c6:0d:50:ab:5a:b6:
+        81:73:25:6f:e4:44:77:42:e0:dc:31:2d:55:63:42:e7:e3:7d:
+        f8:38:a3:3f:38:bc:59:12:56:e4:81:f6:5b:f3:0e:d9:e3:00:
+        5a:ab:35:37:f9:af:9e:37:f6:8f:d2:a4:53:2e:4f:5a:a4:1a:
+        7c:a9:87:d8:b2:46:3c:a5:97:ff:9c:41:fd:5d:2a:61:7e:e0:
+        11:34:19:2f:75:e1:f9:8e:7b:89:8f:0b:4a:a4:94:59:75:0b:
+        52:fb:aa:d9:a5:a2:91:04:d1:b3:89:a5:33:7b:ce:3c:e1:23:
+        82:a7:19:fc
