@@ -12,3 +12,11 @@ Fetch all of the listed CRL files:
 
   fetch-crls.sh master-crl-list.txt
 
+Parse and commit all CRL files:
+
+  git-commit-crl-data.sh master-crl-list.txt
+
+Parse a single CRL into text:
+
+ parse-raw-crl-to-text.sh foo.crl
+
