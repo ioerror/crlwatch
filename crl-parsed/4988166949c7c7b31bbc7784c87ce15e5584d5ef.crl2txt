@@ -1,0 +1,41 @@
+issuer=/emailAddress=its-mensa@nau.edu/ST=Arizona/OU=Information Technology Services/O=Northern Arizona University/L=Flagstaff/C=US/CN=NAU Offline Intermediate CA
+SHA1 Fingerprint=6F:9E:91:69:39:0F:AA:7A:FD:46:44:02:38:BF:B1:E2:3E:ED:AD:0A
+6ce8cd1c
+crlNumber=07
+lastUpdate=Oct 29 21:09:54 2010 GMT
+nextUpdate=May 13 21:29:54 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /emailAddress=its-mensa@nau.edu/ST=Arizona/OU=Information Technology Services/O=Northern Arizona University/L=Flagstaff/C=US/CN=NAU Offline Intermediate CA
+        Last Update: Oct 29 21:09:54 2010 GMT
+        Next Update: May 13 21:29:54 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:07:8F:0B:9B:2C:CE:70:EC:B9:C9:11:57:47:88:FA:7D:2E:17:CE:C4
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                7
+            1.3.6.1.4.1.311.21.4: 
+                .110429211954Z
+            1.3.6.1.4.1.311.21.14: 
+                0..0...........ldap://froot.nau.edu/CN=NAU%20Offline%20Intermediate%20CA,CN=Buckthorn,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=froot,DC=nau,DC=edu?certificateRevocationList?base?objectClass=cRLDistributionPoint
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        9e:b8:60:22:a2:f4:b2:06:a6:86:30:e5:4d:d7:67:58:5d:40:
+        13:96:f4:59:1a:3a:df:54:54:f3:8c:84:f3:fc:70:a3:69:97:
+        15:4a:22:ed:4f:b6:7d:7c:47:88:bf:56:13:3a:a3:3f:52:3e:
+        b3:43:f1:1b:f8:ed:18:b9:83:91:10:f0:bf:1e:b8:5b:4a:68:
+        59:05:ff:3e:56:aa:61:8e:47:f3:eb:9c:c1:e6:b7:d5:03:1c:
+        c5:b7:c3:9b:fb:e0:5f:3c:d0:e7:fc:2e:50:7e:46:51:b6:27:
+        08:3c:95:1d:76:07:d5:3a:c8:ee:65:6e:a2:1d:aa:57:b4:d1:
+        ee:8c:6d:c8:ea:f0:7a:46:ef:30:7d:80:b1:4b:f1:2b:7e:0b:
+        85:d4:0a:56:ae:bb:92:85:76:7b:51:17:17:82:7b:55:b4:cc:
+        96:79:59:96:e0:0d:bb:ce:61:33:58:a7:e7:8f:8e:fc:1e:99:
+        f1:8d:44:5b:a6:c1:b8:27:73:7a:26:9f:2f:28:00:c9:d5:87:
+        ec:3e:07:00:5e:f5:4c:cd:a3:5a:49:a7:ca:e3:07:88:47:ec:
+        5d:3c:d9:25:b4:01:09:11:a4:0e:06:93:04:4e:c4:fc:19:3b:
+        53:d3:0f:52:98:fe:8d:93:63:0d:58:bb:f2:f9:2f:83:fe:f4:
+        a6:35:62:0a
