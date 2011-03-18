@@ -1,0 +1,46 @@
+issuer=/C=DE/O=Hochschule fuer Angewandte Wissenschaften Hamburg/CN=HAW Hamburg CA - G02
+SHA1 Fingerprint=11:BF:38:07:38:F7:E3:60:BB:1A:2A:3D:CD:11:AB:07:08:62:D1:3B
+ec4efa79
+crlNumber=0100
+lastUpdate=Mar 14 08:04:07 2011 GMT
+nextUpdate=Apr 13 08:04:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschule fuer Angewandte Wissenschaften Hamburg/CN=HAW Hamburg CA - G02
+        Last Update: Mar 14 08:04:07 2011 GMT
+        Next Update: Apr 13 08:04:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                256
+Revoked Certificates:
+    Serial Number: 0A29BA6E
+        Revocation Date: Mar 29 05:40:55 2007 GMT
+    Serial Number: 0ADFC465
+        Revocation Date: Aug 28 07:52:22 2007 GMT
+    Serial Number: 0D0BE437
+        Revocation Date: Nov 28 11:55:08 2008 GMT
+    Serial Number: 0D0BECE1
+        Revocation Date: Oct 17 06:46:07 2008 GMT
+    Serial Number: 0D2132D3
+        Revocation Date: Nov 28 11:55:08 2008 GMT
+    Serial Number: 102704CB
+        Revocation Date: Jun  4 12:38:08 2010 GMT
+    Serial Number: 10EA0825
+        Revocation Date: Nov  3 11:57:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        20:71:28:ee:23:4f:9d:d4:f1:da:84:fd:3b:80:0e:e5:0e:75:
+        92:df:8f:da:48:c7:70:93:3d:97:74:7e:37:dd:cf:39:af:e3:
+        31:7d:57:ac:68:c2:1f:48:8e:73:8d:99:91:3c:fc:38:83:ff:
+        cb:72:d4:a4:c8:5b:a6:6f:44:2d:a8:fa:1d:91:3c:dc:e2:ee:
+        23:75:16:ab:0c:be:21:59:40:04:79:f2:3f:88:e1:c1:94:32:
+        6c:4b:77:bd:b9:a1:5e:4b:05:e8:64:34:bd:9c:14:ab:c6:67:
+        8e:c5:24:21:87:f4:d0:aa:5f:de:d0:b2:59:38:de:1f:51:39:
+        c7:f2:d1:47:43:76:89:c0:ec:96:47:48:b6:b7:79:46:5c:fc:
+        a0:e6:d4:ee:0e:bb:9d:80:1a:d6:b5:12:3f:97:8e:cf:58:82:
+        cc:dc:ba:c2:49:c0:c7:64:e4:58:97:74:a6:ff:c6:f6:0b:96:
+        1c:68:18:b7:72:c0:ba:25:bc:a7:32:b6:3e:cb:1d:df:eb:27:
+        7a:2b:71:2e:9a:67:6c:b8:d7:38:9c:47:f5:69:35:9c:c1:7d:
+        d0:12:23:7e:81:0b:12:73:f1:7d:69:f9:f1:18:eb:19:d3:b5:
+        f0:b6:c7:e3:7b:1e:5d:b7:ff:35:e4:37:be:42:87:1f:fc:f7:
+        fc:15:47:f5
