@@ -1,0 +1,44 @@
+issuer=/C=DE/L=Greifswald/O=Leibniz-Institut fuer Plasmaforschung und Technologie e.V./CN=INP-Greifswald CA/emailAddress=ca@inp-greifswald.de
+SHA1 Fingerprint=A9:78:EC:C5:90:1B:44:BB:73:BC:1B:75:0D:0C:72:06:59:7F:38:B4
+3d154919
+crlNumber=BA
+lastUpdate=Mar 14 08:40:15 2011 GMT
+nextUpdate=Apr 13 08:40:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/L=Greifswald/O=Leibniz-Institut fuer Plasmaforschung und Technologie e.V./CN=INP-Greifswald CA/emailAddress=ca@inp-greifswald.de
+        Last Update: Mar 14 08:40:15 2011 GMT
+        Next Update: Apr 13 08:40:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                186
+Revoked Certificates:
+    Serial Number: 0BD2848C
+        Revocation Date: Feb 14 12:08:28 2008 GMT
+    Serial Number: 0BFF2A7A
+        Revocation Date: Oct 28 09:03:08 2009 GMT
+    Serial Number: 0C01DD6F
+        Revocation Date: Oct 28 09:05:08 2009 GMT
+    Serial Number: 0C01DD71
+        Revocation Date: Oct 28 09:08:08 2009 GMT
+    Serial Number: 0C01DDA4
+        Revocation Date: Oct 28 09:08:09 2009 GMT
+    Serial Number: 0EE2C3BE
+        Revocation Date: Oct 28 09:10:09 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        59:76:ec:c2:3b:07:74:7e:2b:72:4a:71:38:3a:dc:58:ef:be:
+        fb:d7:cc:5c:24:d8:47:5f:5a:cf:40:95:1d:63:de:1d:89:5f:
+        c0:56:fb:1a:7d:3c:79:fc:e8:9c:cc:fd:06:fd:9a:70:94:0e:
+        3d:00:25:26:8b:8b:3e:e1:78:14:f3:02:4f:84:04:d2:2f:ac:
+        c7:ce:4a:ad:c4:52:66:fa:bf:83:2b:d3:94:3d:d4:73:4e:75:
+        ca:16:d7:0d:99:34:bd:22:12:19:4a:75:1c:a3:f4:fd:57:e8:
+        b7:4c:08:3c:6d:1d:3b:15:ae:52:69:a3:7f:2f:95:9e:f6:98:
+        21:d4:48:c7:f4:cc:d2:c1:d8:f9:6d:90:bb:af:57:89:b1:ac:
+        fe:95:65:62:d2:3b:18:2c:f4:c3:36:d8:8e:f5:8b:78:d8:0c:
+        a7:c2:5f:1a:4c:58:0e:b0:a1:c0:0a:0d:8f:0e:d2:6c:cc:0c:
+        0e:cf:ff:65:9a:0f:a9:61:9a:59:4e:79:22:09:13:42:ae:38:
+        57:c8:62:fc:40:6e:a4:7c:d4:66:d4:77:27:24:ec:c7:63:ad:
+        0a:9b:0b:99:e1:57:7f:f9:7f:52:32:9d:d2:6b:e4:8e:43:01:
+        f3:9d:f3:4b:9d:64:28:84:13:9c:a4:31:4d:75:68:d2:c6:f4:
+        7f:cf:c3:c4
