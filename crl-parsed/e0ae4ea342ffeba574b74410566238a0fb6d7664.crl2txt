@@ -1,0 +1,44 @@
+issuer=/C=DE/O=Deutsche Telekom AG/OU=T-TeleSec Trust Center/CN=Deutsche Telekom Root CA 1
+SHA1 Fingerprint=AD:8F:E3:EF:7A:81:54:B4:84:0C:05:D9:1F:DB:6C:D3:1E:22:2A:1B
+4151ce3c
+crlNumber=32
+lastUpdate=Nov  9 10:54:41 2010 GMT
+nextUpdate=May  9 10:54:41 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: /C=DE/O=Deutsche Telekom AG/OU=T-TeleSec Trust Center/CN=Deutsche Telekom Root CA 1
+        Last Update: Nov  9 10:54:41 2010 GMT
+        Next Update: May  9 10:54:41 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                DirName:/C=DE/O=Deutsche Telekom AG/OU=T-TeleSec Trust Center/CN=Deutsche Telekom Root CA 1
+                serial:24
+
+            X509v3 CRL Number: 
+                50
+Revoked Certificates:
+    Serial Number: 9C
+        Revocation Date: Jun 24 05:24:00 2004 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 38
+        Revocation Date: Oct 16 08:42:00 2001 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: B9
+        Revocation Date: Jun 30 10:35:00 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: md5WithRSAEncryption
+        7a:23:53:6e:57:fb:bf:0c:e9:05:f1:b2:09:55:17:b4:94:98:
+        e0:e2:22:43:33:6d:59:0c:db:0c:c5:5f:94:bf:db:a7:d8:c2:
+        d8:bf:49:46:71:19:f1:90:07:00:ba:83:6b:2f:20:4a:36:da:
+        e8:e6:33:aa:96:7f:3b:82:29:f2:99:3e:95:95:f9:2c:dd:01:
+        79:2f:5c:a4:61:82:b1:4a:cb:64:56:f0:15:e6:db:28:84:16:
+        b3:62:14:c7:3b:b8:55:e8:6a:11:d2:d3:18:27:b6:39:65:ad:
+        27:df:15:ac:1e:78:86:cb:af:b2:4c:3a:40:47:f0:6a:42:56:
+        61:2e
