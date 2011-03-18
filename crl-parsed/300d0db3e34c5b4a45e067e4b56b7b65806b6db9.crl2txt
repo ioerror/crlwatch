@@ -1,0 +1,39 @@
+issuer=/C=ES/O=Agencia Catalana de Certificacio (NIF Q-0801176-I)/OU=Serveis Publics de Certificacio ECV-1/OU=Vegeu https://www.catcert.net/verCIC-1  (c)03/OU=Generalitat de Catalunya/CN=EC-GENCAT
+SHA1 Fingerprint=AD:9F:CE:53:FD:06:62:19:B0:0A:63:74:22:48:74:03:0B:F2:44:91
+73966ff5
+crlNumber=08
+lastUpdate=Jan 19 12:29:04 2011 GMT
+nextUpdate=Jan 19 12:29:04 2013 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/O=Agencia Catalana de Certificacio (NIF Q-0801176-I)/OU=Serveis Publics de Certificacio ECV-1/OU=Vegeu https://www.catcert.net/verCIC-1  (c)03/OU=Generalitat de Catalunya/CN=EC-GENCAT
+        Last Update: Jan 19 12:29:04 2011 GMT
+        Next Update: Jan 19 12:29:04 2013 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                8
+            X509v3 Authority Key Identifier: 
+                keyid:31:6A:5C:0A:46:4E:37:AF:42:E3:B0:60:2B:0C:0F:2D:2F:93:DF:14
+                DirName:/C=ES/O=Agencia Catalana de Certificacio (NIF Q-0801176-I)/OU=Serveis Publics de Certificacio/OU=Vegeu https://www.catcert.net/verarrel (c)03/OU=Jerarquia Entitats de Certificacio Catalanes/CN=EC-ACC
+                serial:20:BD:3D:E0:69:04:3D:25:3E:1C:0B:9C:82:52:F4:22
+
+            X509v3 Issuing Distrubution Point: 
+                0].[.Y.*http://epscd.catcert.net/crl/ec-gencat.crl.+http://epscd2.catcert.net/crl/ec-gencat.crl
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        4d:de:a2:af:c7:22:af:95:c3:90:be:c3:44:6d:42:b7:75:cb:
+        e1:c4:a9:90:a8:42:22:a6:1d:22:be:1c:01:4e:68:29:76:0e:
+        dd:2f:57:d8:a7:b5:94:dd:43:03:f8:35:b5:ea:ec:1a:d7:b4:
+        40:13:2e:ed:64:2d:a7:bf:5c:47:0d:c7:30:35:d6:39:53:9b:
+        be:f2:26:d9:e8:24:ae:f4:84:5f:b3:db:d8:4b:9a:05:d0:21:
+        86:47:c6:3d:40:53:21:38:6b:42:b9:f3:71:a9:fe:c7:5c:43:
+        2c:87:76:e7:ba:eb:28:1f:41:d3:15:54:e6:f4:d4:50:f3:c5:
+        6e:f0:4d:74:aa:d1:f1:cf:f5:9c:1b:70:63:2c:af:69:b5:a3:
+        e5:1c:27:22:8b:2e:e4:20:a1:a1:74:c2:39:0a:63:63:7a:d4:
+        5d:bf:ba:1e:55:a8:4d:cf:e2:17:6d:5e:33:be:e3:fa:2f:ac:
+        f8:be:4b:6f:c9:f7:93:bf:9c:0d:c8:9c:a7:f7:c2:e8:b9:21:
+        d6:fc:af:69:15:92:de:a3:74:4d:06:f7:f6:aa:a1:ca:70:52:
+        cb:b8:49:85:92:7e:41:db:1d:a6:82:1e:b3:06:a1:31:79:d7:
+        d0:75:29:0b:f0:fa:bb:f3:28:5a:87:fe:04:18:61:6d:d2:02:
+        3d:15:39:d2
