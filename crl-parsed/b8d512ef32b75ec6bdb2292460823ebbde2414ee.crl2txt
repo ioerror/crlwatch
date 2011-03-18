@@ -1,0 +1,82 @@
+issuer=/C=NL/O=DigiNotar/CN=DigiNotar Root CA/emailAddress=info@diginotar.nl
+SHA1 Fingerprint=81:33:93:A2:A9:69:E9:1E:63:4B:10:0E:71:24:2E:3C:CF:92:52:10
+c0cafbd2
+crlNumber=30
+lastUpdate=Feb  3 08:52:17 2011 GMT
+nextUpdate=Feb  3 08:52:17 2012 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=NL/O=DigiNotar/CN=DigiNotar Root CA/emailAddress=info@diginotar.nl
+        Last Update: Feb  3 08:52:17 2011 GMT
+        Next Update: Feb  3 08:52:17 2012 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:88:68:BF:E0:8E:35:C4:3B:38:6B:62:F7:28:3B:84:81:C8:0C:D7:4D
+
+            X509v3 CRL Number: 
+                48
+Revoked Certificates:
+    Serial Number: 0ED516338E5CA89AA2958E9972F8E887
+        Revocation Date: Mar 10 10:13:57 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar 10 10:13:46 2010 GMT
+    Serial Number: 2885AF30246115B629CCD5687A92196C
+        Revocation Date: Oct 28 08:52:10 2005 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 28 08:51:29 2005 GMT
+    Serial Number: 96E0994F48D10FABAD27AF6A4D35951D
+        Revocation Date: Mar 10 10:12:42 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar 10 10:12:31 2010 GMT
+    Serial Number: A7E775C806DACD15A8A09888F82F58C6
+        Revocation Date: Mar 10 10:13:27 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar 10 10:13:18 2010 GMT
+    Serial Number: DDD97BF8B996B91F732EEB9607844879
+        Revocation Date: Mar 10 10:12:06 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar 10 10:11:47 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        8a:7a:28:b6:92:2a:ab:c1:12:3c:9d:3d:ba:6b:a8:6e:6b:60:
+        2b:cc:21:82:8a:01:40:2b:51:02:a0:91:5b:61:52:8e:f8:9a:
+        44:e9:39:e9:dd:bf:6b:fd:34:b5:8f:b9:ff:c7:7e:b1:37:2c:
+        28:fb:a6:82:72:db:9c:67:08:26:aa:93:d7:41:1b:f3:61:19:
+        c6:94:a1:d0:a7:48:38:e9:04:f9:be:e2:45:a2:84:fe:23:24:
+        e6:5f:9b:6e:f0:0d:66:7a:05:3d:86:16:28:47:1d:be:da:ea:
+        46:40:ab:e3:c0:5c:3b:42:fc:dc:f6:a2:3a:18:e6:5d:4a:90:
+        e8:c4:96:e0:b5:75:75:cc:54:ce:f6:cb:3d:75:dc:b9:cf:e0:
+        9a:b8:a6:4c:f6:31:cb:ba:91:65:57:b5:bc:1f:31:4a:f5:c4:
+        07:47:96:0a:ca:97:9e:68:6e:f1:8c:66:9e:f4:ab:60:d5:ee:
+        c9:29:dc:82:f0:ef:54:53:35:a4:f7:b8:da:12:28:cc:19:6d:
+        62:42:2b:4c:ac:5a:0b:f9:2c:1e:b7:95:ba:03:c6:bd:6e:e3:
+        7a:d2:22:25:6f:71:71:ce:9d:6e:7d:14:cf:45:4a:fb:5f:1f:
+        6b:25:71:61:7f:b4:20:b2:e5:57:90:71:8f:4e:1f:6a:38:fb:
+        da:e0:e7:51:13:03:c3:19:93:a6:22:15:39:b7:07:9b:cc:69:
+        d5:e2:1d:26:39:fe:c1:87:07:de:2b:39:5f:11:04:d9:80:c5:
+        1d:e6:3f:d1:05:db:af:37:4f:f7:00:9a:21:94:23:71:ae:59:
+        5d:66:d0:c2:7d:c3:d9:e4:3f:11:3d:f3:19:b6:43:73:2a:08:
+        0b:2d:51:59:6c:8c:b0:18:3f:e0:03:01:33:89:71:48:06:83:
+        d4:17:d1:7c:fd:09:c2:86:89:4f:94:38:76:16:d6:2e:03:17:
+        d3:55:97:5c:56:1c:3d:1e:b7:30:fd:a3:f6:38:2a:1b:59:79:
+        31:e6:53:24:88:f2:e0:0a:f9:53:d3:3c:f8:39:3d:0d:14:08:
+        63:42:80:3b:ac:d8:47:a0:3e:da:a4:3b:2c:fc:3b:46:5a:28:
+        28:4f:ea:53:23:2a:5a:0c:94:7d:73:2c:96:3a:d4:7b:50:0b:
+        02:e7:4c:72:a7:8b:88:c4:9f:6f:ef:f1:20:22:f5:c8:35:f2:
+        82:ef:cc:fb:23:ca:5c:bd:57:e0:6e:cf:5d:78:ac:82:52:b7:
+        90:7b:8a:6f:46:23:44:e9:95:36:12:6f:61:a7:82:d1:21:3d:
+        51:79:33:ec:71:14:3d:61:51:37:00:08:33:ce:52:e7:f0:2e:
+        ab:12:ae:c4:50:bd:a9:e1
