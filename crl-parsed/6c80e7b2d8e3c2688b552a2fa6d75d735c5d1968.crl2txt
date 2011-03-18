@@ -1,0 +1,34 @@
+issuer=/C=DE/O=GESIS/OU=IT/CN=GESIS-CA/emailAddress=gesis-ca@gesis.org
+SHA1 Fingerprint=52:C5:97:8A:87:67:FA:8E:6A:B9:4C:27:30:22:B9:24:36:CF:D4:82
+5fd923a3
+crlNumber=91
+lastUpdate=Mar 14 07:59:15 2011 GMT
+nextUpdate=Apr 13 07:59:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=GESIS/OU=IT/CN=GESIS-CA/emailAddress=gesis-ca@gesis.org
+        Last Update: Mar 14 07:59:15 2011 GMT
+        Next Update: Apr 13 07:59:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                145
+Revoked Certificates:
+    Serial Number: 0E28E59F
+        Revocation Date: May 15 09:51:08 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        4b:b0:e2:26:ec:28:5d:01:15:e6:bc:58:bb:68:f6:fb:df:b5:
+        0d:19:e9:b2:cf:7f:04:c2:82:d1:ca:df:8d:f6:f0:fe:6d:0f:
+        f8:a4:82:4f:6e:16:27:16:82:23:34:0a:6f:08:a7:58:59:85:
+        8c:c7:94:df:69:03:be:be:54:44:62:78:11:c9:bb:bc:cc:84:
+        fd:76:e9:22:91:f3:97:22:a3:5b:86:43:e6:fc:72:94:6a:c7:
+        bb:fd:ac:c6:43:d1:52:68:34:cb:99:8e:ee:98:f4:e6:3f:7a:
+        a7:f7:69:ab:08:9a:9b:87:85:4c:bb:c3:30:cf:68:54:ad:15:
+        89:fa:29:c3:35:1b:fd:e6:2b:b7:07:16:45:f9:10:8a:81:4b:
+        e1:76:67:09:42:90:d7:32:18:81:96:3f:36:53:41:c3:52:28:
+        40:3e:51:60:72:1a:b3:ef:ae:a3:78:a3:49:cb:75:a6:82:fd:
+        fa:e3:0a:66:cd:d9:71:f7:fe:31:53:43:08:36:b2:97:bd:3e:
+        38:a4:2d:7d:75:57:15:31:cc:07:ab:6b:f8:a0:09:29:da:6a:
+        0a:cd:ac:ed:d1:ac:b2:b9:77:1f:68:cb:e7:14:27:3a:21:b2:
+        da:42:18:bc:49:89:27:a0:f7:ca:47:bb:df:52:57:a4:3a:1f:
+        18:4c:3d:15
