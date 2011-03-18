@@ -1,0 +1,60 @@
+issuer=/C=CL/ST=Region Metropolitana/L=Santiago/O=E-CERTCHILE/OU=Autoridad Certificadora/emailAddress=sclientes@ccs.cl/CN=E-CERT ROOT CA
+SHA1 Fingerprint=E8:E2:0D:CE:C9:61:1E:2E:BF:D0:12:B1:D7:F8:BA:CB:8D:E4:BF:97
+e40d7ed0
+crlNumber=03
+lastUpdate=Sep 12 15:00:44 2008 GMT
+nextUpdate=Mar 12 03:20:44 2009 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=CL/ST=Region Metropolitana/L=Santiago/O=E-CERTCHILE/OU=Autoridad Certificadora/emailAddress=sclientes@ccs.cl/CN=E-CERT ROOT CA
+        Last Update: Sep 12 15:00:44 2008 GMT
+        Next Update: Mar 12 03:20:44 2009 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:50:DD:82:D1:88:92:2D:8F:3C:E9:BA:5D:C7:62:66:E2:6F:7B:AB:20
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                3
+            1.3.6.1.4.1.311.21.4: 
+                .090311151044Z
+            1.3.6.1.4.1.311.21.14: 
+                0..0...........ldap:///CN=E-CERT%20ROOT%20CA,CN=pki-root,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=ecertpki,DC=cl?certificateRevocationList?base?objectClass=cRLDistributionPoint
+Revoked Certificates:
+    Serial Number: 16518498000000000002
+        Revocation Date: Sep  5 19:59:19 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        40:18:21:e9:7a:41:5b:8c:8c:0a:1f:c6:26:4c:33:2c:6d:91:
+        a0:7e:59:a6:ef:a4:91:01:16:ae:fc:cc:91:c2:3d:23:9f:1e:
+        6e:de:74:82:dc:1b:59:97:00:e4:55:17:43:a2:21:00:04:e3:
+        ae:8a:7d:e2:17:99:e4:49:e9:6d:a5:0e:ca:cf:ed:2c:03:64:
+        97:c0:68:07:7b:fe:84:70:0c:2a:68:3a:d4:e6:0d:54:d4:41:
+        6a:84:f9:cc:25:4b:a3:36:e7:b5:f7:72:2b:86:5c:eb:9a:af:
+        24:92:5e:60:db:77:64:b2:cb:96:39:bb:6b:49:c6:dd:17:ee:
+        5e:68:48:86:44:d2:26:a0:f4:8f:70:88:4f:b4:e6:88:29:53:
+        73:4e:ce:14:8f:25:90:07:8e:7d:eb:c1:ec:f9:f7:66:4b:a4:
+        b6:6b:d0:98:cd:31:af:eb:2f:af:7b:61:21:9b:72:4b:24:33:
+        47:db:99:99:9c:5d:44:d6:08:76:26:7e:de:92:e7:97:d6:0b:
+        7a:0c:1f:c0:a0:94:d0:79:20:00:ee:ac:f9:b6:c9:f1:8b:f4:
+        ef:01:ca:89:05:e7:0d:bf:7e:2f:70:be:e3:fa:5e:11:18:1e:
+        d8:bd:8a:83:f6:77:5f:de:df:29:ac:2e:47:e3:f5:01:36:af:
+        08:33:81:a9:0c:06:2a:d8:2b:9a:3a:75:8e:0a:9e:08:2d:e3:
+        75:4a:b0:c0:28:37:c9:e8:dd:28:74:ab:59:c5:3a:06:af:a1:
+        f8:12:f9:d4:0c:6e:9e:86:df:cf:e1:4d:f3:71:cc:cc:9f:35:
+        89:0a:bf:96:f1:9b:fa:e0:37:80:51:d1:bb:57:45:ab:65:71:
+        7d:14:b2:92:1b:4d:5d:a8:cc:1d:4b:0c:8a:54:62:26:72:81:
+        e7:02:9f:e7:8a:38:b9:32:e4:89:a6:e4:05:79:5f:22:f5:d4:
+        92:40:6f:6a:eb:6b:ad:ec:1b:15:bb:41:45:70:1f:60:c5:98:
+        6f:cd:55:21:10:01:57:54:41:05:9b:e1:7b:bf:5a:6b:18:db:
+        68:72:5b:da:b0:08:fc:60:cb:40:bd:4b:71:46:c4:04:d1:02:
+        d4:d1:29:5a:5e:c2:bc:8a:a7:16:9e:41:f9:7f:60:7f:6c:56:
+        44:b9:1f:34:03:d4:f1:6a:c9:5e:29:52:b5:8d:e7:9a:fc:ad:
+        68:87:ba:04:70:1d:21:20:12:99:db:e3:68:28:42:8b:92:bf:
+        f9:5a:73:07:96:66:13:23:2d:1a:18:8f:ef:a4:9c:62:68:d8:
+        05:cb:29:bd:a0:28:0f:99:17:16:6c:57:71:f3:8f:20:6f:da:
+        b2:fa:81:6d:09:5b:4b:c2
