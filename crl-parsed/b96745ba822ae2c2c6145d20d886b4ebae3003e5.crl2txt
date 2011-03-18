@@ -1,0 +1,36 @@
+issuer=/C=DE/O=NEC Europe Ltd./OU=NEC Laboratories Europe/CN=NECLAB-CA/emailAddress=zertifizierungsstelle@nw.neclab.eu
+SHA1 Fingerprint=0F:CC:C7:B0:01:D8:0F:3C:12:7C:3F:83:61:EE:55:0B:72:A5:05:1B
+0ce402a3
+crlNumber=82
+lastUpdate=Mar 14 08:53:07 2011 GMT
+nextUpdate=Apr 13 08:53:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=NEC Europe Ltd./OU=NEC Laboratories Europe/CN=NECLAB-CA/emailAddress=zertifizierungsstelle@nw.neclab.eu
+        Last Update: Mar 14 08:53:07 2011 GMT
+        Next Update: Apr 13 08:53:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                130
+Revoked Certificates:
+    Serial Number: 0D69F45F
+        Revocation Date: Nov 26 14:48:09 2009 GMT
+    Serial Number: 0FF8D587
+        Revocation Date: Apr 29 11:26:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        82:1e:b5:35:4f:6e:58:a4:68:10:2c:e4:a7:bc:27:e5:86:2f:
+        59:9d:c5:6e:02:d8:00:c1:5c:17:24:52:13:e8:ff:d6:c6:63:
+        60:59:42:90:8f:a3:9d:b4:87:ae:f9:ce:2a:4b:ca:29:da:a7:
+        43:07:6e:7b:0b:49:9b:18:b8:f8:5d:69:75:61:6f:ca:b6:2c:
+        e9:47:72:9d:1d:ed:aa:22:7d:14:f8:f2:00:24:7a:cd:d6:9a:
+        12:18:05:79:d3:55:72:f7:52:3d:dd:e4:ae:4c:81:b1:53:b3:
+        21:04:fe:b8:fc:0d:75:bb:12:c9:fc:71:b0:5a:c3:e7:63:6b:
+        f6:ac:2a:73:63:f7:c6:e3:86:df:f6:72:77:cb:8a:ab:3a:2b:
+        13:b3:fb:9e:de:d4:24:95:47:0f:6c:7c:fd:9a:7e:c2:86:52:
+        93:b9:72:1e:02:99:7b:02:c9:37:b3:85:7b:df:3d:51:06:a0:
+        f0:20:0a:41:a2:b8:b3:07:55:41:2c:ac:a0:6a:22:a7:be:f5:
+        d2:d2:5d:31:07:3d:f1:1e:99:f1:95:de:25:d5:00:5b:8d:69:
+        cf:1a:b1:7c:a4:34:36:d4:0b:a5:91:5a:b9:4f:58:d7:24:2d:
+        eb:3e:52:d9:33:bb:41:ad:ef:36:e9:3d:ed:7b:f6:49:e2:29:
+        66:ac:47:8c
