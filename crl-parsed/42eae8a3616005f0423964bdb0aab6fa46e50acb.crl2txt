@@ -1,0 +1,49 @@
+issuer=/C=US/O=Network Solutions L.L.C./CN=Network Solutions EV Server CA
+SHA1 Fingerprint=83:9C:7F:AA:19:B4:63:5A:48:6A:C1:5B:73:50:B3:14:0A:FF:5F:69
+85cc88eb
+crlNumber=67
+lastUpdate=Mar 17 23:24:54 2011 GMT
+nextUpdate=Mar 21 23:24:54 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=Network Solutions L.L.C./CN=Network Solutions EV Server CA
+        Last Update: Mar 17 23:24:54 2011 GMT
+        Next Update: Mar 21 23:24:54 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:8A:35:E4:35:3A:BC:11:A1:9E:FB:F5:4F:34:66:D5:4B:AC:4C:62:68
+
+            X509v3 CRL Number: 
+                103
+Revoked Certificates:
+    Serial Number: 0396C1EADD06C38F5BD8533C8EB0C24A
+        Revocation Date: Dec 21 21:59:23 2010 GMT
+    Serial Number: 03E22D57F6D36A1AFC2F72A71254EA77
+        Revocation Date: Dec 21 21:59:24 2010 GMT
+    Serial Number: 7792F1832098E0BF280BFD133AC6F9CC
+        Revocation Date: Jan 13 11:34:22 2011 GMT
+    Serial Number: E721CF004C170E367E68425C8185AA40
+        Revocation Date: Feb 23 08:00:10 2011 GMT
+    Serial Number: D0847A869DB22797763C951EA2975116
+        Revocation Date: Feb 23 11:18:57 2011 GMT
+    Serial Number: 27E57F28AC872D681D25BDB442AB5630
+        Revocation Date: Mar  3 11:35:11 2011 GMT
+    Serial Number: 7287D6603355DA36E34989E0F82D1484
+        Revocation Date: Mar  3 11:35:11 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        73:f6:42:26:19:32:9a:48:d5:2e:82:76:06:cf:2e:51:0d:3a:
+        b9:50:23:22:7f:cc:74:a9:20:b7:c8:b4:a4:de:12:e2:09:5a:
+        d8:d5:f8:f5:db:88:99:35:03:64:35:95:cf:27:a2:cd:06:6f:
+        e1:75:14:85:82:04:93:98:e0:89:83:80:57:89:ae:b5:08:14:
+        4b:66:f2:da:5a:2a:13:e2:24:64:5a:7a:bc:ac:82:e7:4a:e7:
+        32:ee:a2:8a:10:06:8a:43:af:f2:cd:97:eb:b8:ff:93:b4:b6:
+        8f:aa:15:3c:20:6f:e2:c1:34:c5:c4:db:77:2a:4e:71:1f:b0:
+        85:33:5f:7d:12:04:e1:17:40:5a:bd:39:53:05:29:85:49:6e:
+        a7:9d:91:d3:ac:35:4e:b2:93:7c:7f:12:1c:7c:ee:85:49:5c:
+        4b:14:11:30:c9:83:6e:30:d5:cb:32:d7:c6:91:9b:e4:5e:8f:
+        5a:2b:2c:92:2e:b3:54:0e:1f:a8:96:fe:14:fb:15:ad:a3:a0:
+        d0:db:60:ee:3c:19:18:95:60:27:12:91:10:54:58:74:8b:5f:
+        6b:5b:27:d8:4b:c0:9a:f5:5a:2a:5f:bd:e3:dc:59:ed:c4:4d:
+        56:9d:ed:22:2f:2d:25:51:64:de:ea:6f:55:bd:9c:6b:dc:0c:
+        8e:4a:f4:55
