@@ -1,0 +1,56 @@
+issuer=/C=DE/ST=Hamburg/L=Hamburg/O=HafenCity Universitaet Hamburg/CN=HafenCity Universitaet Hamburg CA - G01/emailAddress=pki@hcu-hamburg.de
+SHA1 Fingerprint=0E:E7:24:66:29:23:62:75:A2:B6:E9:6F:03:63:1A:CF:EA:7B:0C:AA
+55f43ee0
+crlNumber=C1
+lastUpdate=Mar 14 08:03:15 2011 GMT
+nextUpdate=Apr 13 08:03:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Hamburg/L=Hamburg/O=HafenCity Universitaet Hamburg/CN=HafenCity Universitaet Hamburg CA - G01/emailAddress=pki@hcu-hamburg.de
+        Last Update: Mar 14 08:03:15 2011 GMT
+        Next Update: Apr 13 08:03:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                193
+Revoked Certificates:
+    Serial Number: 0BB6E305
+        Revocation Date: May 16 15:09:23 2008 GMT
+    Serial Number: 0BB6E308
+        Revocation Date: May 16 15:13:08 2008 GMT
+    Serial Number: 0BB6E30A
+        Revocation Date: May 16 15:12:11 2008 GMT
+    Serial Number: 0BB6E30C
+        Revocation Date: May 16 15:12:12 2008 GMT
+    Serial Number: 0BCF9C51
+        Revocation Date: May 16 15:18:07 2008 GMT
+    Serial Number: 0BF7937F
+        Revocation Date: May 16 15:13:09 2008 GMT
+    Serial Number: 0BFA0C4F
+        Revocation Date: May 16 15:18:09 2008 GMT
+    Serial Number: 0C01EACA
+        Revocation Date: May 16 15:14:17 2008 GMT
+    Serial Number: 0C284DA3
+        Revocation Date: May 16 15:18:06 2008 GMT
+    Serial Number: 0C284DA6
+        Revocation Date: May 16 15:15:13 2008 GMT
+    Serial Number: 109C84F3
+        Revocation Date: Aug 31 15:36:07 2010 GMT
+    Serial Number: 109C9FE8
+        Revocation Date: Oct 14 12:11:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        bf:fd:1c:de:81:3f:09:16:d2:bc:d6:2f:16:87:87:71:d9:a6:
+        ae:85:a6:d3:cc:a1:9e:f3:f3:4e:7a:ae:1c:64:e9:9f:21:de:
+        d8:78:a7:e6:a7:14:5c:6d:e2:a3:d9:03:c1:fc:95:1c:93:4d:
+        5a:f7:d9:1a:c7:07:7e:68:d0:7b:9a:66:84:9a:c0:43:dd:0c:
+        ef:d2:d1:4f:a2:d1:c6:7a:21:41:b9:98:3b:40:5d:b6:e1:d0:
+        0e:a7:97:43:8e:d7:e8:3a:07:2a:67:29:02:9e:bd:da:a6:e9:
+        58:7f:ef:ac:83:42:d6:62:75:3f:2c:cb:d5:ec:fa:4b:63:d6:
+        cd:6b:e1:8c:a3:d4:03:db:da:5c:08:5b:5c:2b:58:5a:a8:7c:
+        69:0b:ed:b9:5f:1f:e2:0c:cc:a9:6c:a9:91:a4:b7:41:d0:d8:
+        f5:df:42:6b:3e:94:53:e4:7d:b1:3a:cc:70:be:20:4b:3e:5b:
+        41:e1:ad:91:33:5c:4e:8a:b9:8f:cc:d1:c5:c3:f3:55:26:37:
+        a9:00:73:6b:9b:b4:97:f8:95:0a:7d:de:54:65:e1:99:4b:1f:
+        f7:99:a6:08:33:c9:1f:2f:07:a5:36:92:b2:f8:8a:3b:56:8b:
+        4c:bf:b1:15:64:ef:1b:10:89:62:48:e3:18:40:3d:f4:c7:cf:
+        6e:84:ea:7a
