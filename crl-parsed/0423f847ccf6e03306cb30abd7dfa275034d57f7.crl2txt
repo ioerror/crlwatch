@@ -1,0 +1,143 @@
+issuer=/emailAddress=pki_admin@sungard.com/O=SunGard Availability Services/CN=SAS Public CA v1
+SHA1 Fingerprint=6C:5C:FC:A8:D3:D9:FD:C1:30:77:A5:AE:A3:0E:19:3A:F4:D7:B5:41
+c0ae1ab2
+crlNumber=034C
+lastUpdate=Jan 28 16:58:51 2011 GMT
+nextUpdate=Apr  1 16:57:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /emailAddress=pki_admin@sungard.com/O=SunGard Availability Services/CN=SAS Public CA v1
+        Last Update: Jan 28 16:58:51 2011 GMT
+        Next Update: Apr  1 16:57:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:38:41:C6:F2:85:81:83:FD:EB:E2:1A:36:92:3B:26:61:16:81:11:12
+
+            X509v3 CRL Number: 
+                844
+Revoked Certificates:
+    Serial Number: 08D9B5D60EA1E326BE444C0F8F73B383
+        Revocation Date: Apr 26 18:03:02 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Apr 26 17:59:50 2010 GMT
+    Serial Number: 1B0A0ABB19F8DD2B9EAFE727D0D56535
+        Revocation Date: Mar 10 22:30:56 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar 10 22:27:10 2010 GMT
+    Serial Number: 1E2D48E48B4C2C1584EC20C1B4FEB9F8
+        Revocation Date: Jan 18 19:02:33 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 18 19:00:29 2010 GMT
+    Serial Number: 430D566A9DEF0C06A649A23DAA8F0777
+        Revocation Date: Jan 12 16:36:00 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 12 16:34:00 2010 GMT
+    Serial Number: 50A58F6A25ACEEB96CADC911B15B7B35
+        Revocation Date: Jan 18 19:03:26 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 18 19:01:21 2010 GMT
+    Serial Number: 5386B327A1DC34F97A0768EE93FD4478
+        Revocation Date: Dec  2 18:38:34 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Dec  2 18:38:34 2010 GMT
+    Serial Number: 5717970BF6481A6CAC34FD44CA005AA4
+        Revocation Date: Dec  2 18:38:21 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Dec  2 18:38:21 2010 GMT
+    Serial Number: 5ADEA6C975CBAF74CB03284A688B9D2C
+        Revocation Date: May 19 20:38:06 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+            Invalidity Date: 
+                May 19 20:34:37 2010 GMT
+    Serial Number: 5BF8EDB2EB040ED7363C9A002E6B89F5
+        Revocation Date: Oct 18 18:40:05 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 18 18:34:52 2010 GMT
+    Serial Number: 6540395ED08D6FCAF14B7123F9184848
+        Revocation Date: Dec  2 18:38:07 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Dec  2 18:38:07 2010 GMT
+    Serial Number: 6B7A2CA8A1A7B5A576AA5EEEB0F85C91
+        Revocation Date: Jan 18 19:24:26 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 18 19:24:25 2011 GMT
+    Serial Number: 92B3C3410702C149EF0D432A557E7673
+        Revocation Date: Aug 19 14:26:53 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Aug 19 14:22:18 2010 GMT
+    Serial Number: B43CCCC179BF0E7300563992F53ED35D
+        Revocation Date: Aug 11 13:55:30 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Aug 11 13:51:02 2010 GMT
+    Serial Number: BA4C77211D61FC53888D9EB4A722B0D0
+        Revocation Date: May 19 21:08:47 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+            Invalidity Date: 
+                May 19 21:05:16 2010 GMT
+    Serial Number: C15776F82B93BF367C33BC1ACED60157
+        Revocation Date: Sep  9 19:44:42 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Sep  9 19:44:31 2010 GMT
+    Serial Number: D2476E10FDFBE0B801B1BF87CACE7D4A
+        Revocation Date: Jan 18 19:03:44 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 18 19:01:39 2010 GMT
+    Serial Number: D277AEC482C87661D29EDCE9E5E66896
+        Revocation Date: May 20 13:34:30 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+            Invalidity Date: 
+                May 20 13:31:00 2010 GMT
+    Serial Number: DDCC2F3225234A03EEB756E54E8ACCCC
+        Revocation Date: Mar 10 22:30:39 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar 10 22:26:52 2010 GMT
+    Serial Number: EBD99BE8F859C3B2E776CC12B728F79C
+        Revocation Date: Jan 20 15:53:29 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 20 15:53:29 2010 GMT
+    Serial Number: ED2DB5B7B8BE81AD2E3C15A9E62B17C4
+        Revocation Date: Aug 10 18:12:33 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Aug 10 18:08:04 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        58:32:3a:2a:7b:30:5d:49:03:ab:0c:4c:a6:33:72:37:d2:c2:
+        e5:eb:ee:7b:4d:49:75:c8:c8:42:59:65:d3:e1:2d:f5:84:3d:
+        a9:53:e7:ea:74:19:ea:62:9d:cd:7f:96:d9:f1:94:7e:4e:ae:
+        15:96:7d:7a:4c:84:7e:94:54:31:14:c4:17:77:ab:bd:d1:d6:
+        97:8d:bc:a5:3b:01:0f:ce:ad:0a:64:f3:de:f5:ea:c5:b1:e2:
+        1e:14:19:0b:f6:68:ca:23:39:1d:03:5a:b4:3d:56:41:30:41:
+        3c:30:65:ff:b4:52:0b:15:19:51:f4:01:e8:18:ea:98:bc:17:
+        a0:7e:84:7b:05:c9:d1:8c:16:20:04:1a:b4:38:7b:11:44:62:
+        4c:73:29:9a:d0:fd:5a:c2:39:48:18:f3:c2:4d:80:b9:c4:74:
+        6b:b5:82:8e:0e:cf:06:6e:c8:b2:f2:a1:35:50:1a:93:dd:3c:
+        d2:65:31:30:b1:5e:0a:de:86:2a:c0:49:4c:56:64:27:e0:97:
+        03:e1:3c:6b:ed:e3:6b:99:40:85:b0:1e:4d:a1:e8:fc:ce:e9:
+        9b:86:23:90:f8:97:63:6c:24:23:34:fc:47:99:cb:2f:6e:41:
+        87:3e:20:0d:70:d9:ea:9e:39:1b:4f:0f:cf:67:36:2f:95:bb:
+        74:74:a9:88
