@@ -1,0 +1,70 @@
+issuer=/C=DE/O=Hochschule Furtwangen/OU=Rechenzentrum/CN=HFU CA - G01/emailAddress=pki-ca@hs-furtwangen.de
+SHA1 Fingerprint=DE:23:2D:EB:60:3B:45:1B:82:6D:B5:49:88:CB:8B:CE:81:DA:89:74
+87de12dc
+crlNumber=90
+lastUpdate=Mar 16 08:55:17 2011 GMT
+nextUpdate=Apr 15 08:55:17 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschule Furtwangen/OU=Rechenzentrum/CN=HFU CA - G01/emailAddress=pki-ca@hs-furtwangen.de
+        Last Update: Mar 16 08:55:17 2011 GMT
+        Next Update: Apr 15 08:55:17 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                144
+Revoked Certificates:
+    Serial Number: 0DC7274B
+        Revocation Date: Mar  3 15:41:07 2010 GMT
+    Serial Number: 0DC7274C
+        Revocation Date: Mar 16 08:55:16 2011 GMT
+    Serial Number: 0DCDD7DF
+        Revocation Date: Feb 10 13:01:07 2011 GMT
+    Serial Number: 0E7D3A5F
+        Revocation Date: Feb 19 09:10:08 2010 GMT
+    Serial Number: 0F24DE51
+        Revocation Date: Sep 22 07:24:08 2010 GMT
+    Serial Number: 0F24DE52
+        Revocation Date: Sep 22 07:24:09 2010 GMT
+    Serial Number: 0F3C87B3
+        Revocation Date: Feb  1 09:17:08 2010 GMT
+    Serial Number: 0F41AAD0
+        Revocation Date: Feb 19 13:35:08 2010 GMT
+    Serial Number: 0F6FDED1
+        Revocation Date: Feb  8 16:25:10 2010 GMT
+    Serial Number: 0FACA514
+        Revocation Date: Mar  3 13:54:06 2010 GMT
+    Serial Number: 0FC15E24
+        Revocation Date: Mar 19 10:18:08 2010 GMT
+    Serial Number: 0FD27809
+        Revocation Date: Oct 19 08:19:08 2010 GMT
+    Serial Number: 1010D081
+        Revocation Date: Oct 19 13:21:09 2010 GMT
+    Serial Number: 10B92D30
+        Revocation Date: Sep 22 07:37:19 2010 GMT
+    Serial Number: 10B949B9
+        Revocation Date: Sep 23 14:20:17 2010 GMT
+    Serial Number: 10DCD285
+        Revocation Date: Oct 19 09:13:07 2010 GMT
+    Serial Number: 1105B104
+        Revocation Date: Dec 15 08:33:27 2010 GMT
+    Serial Number: 116B91CA
+        Revocation Date: Feb  7 16:11:08 2011 GMT
+    Serial Number: 116F97AA
+        Revocation Date: Feb  8 09:15:09 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        1e:f6:bc:b1:ec:76:bf:2b:fd:97:8d:87:2d:9b:2e:40:6d:c1:
+        17:c4:93:77:05:54:e1:f4:13:a7:a3:8d:e4:d1:a1:f3:a4:db:
+        45:1f:9b:49:03:c5:03:b3:1d:58:03:09:07:14:16:b8:f8:b3:
+        3d:f7:e2:d9:79:42:f5:2b:7c:8e:ec:8d:67:3f:7d:ca:93:f2:
+        90:01:e8:49:24:a9:b5:1e:d7:1e:28:38:49:b3:53:68:4c:08:
+        5c:c3:24:7e:de:3e:ba:fb:e0:d5:f6:31:ee:15:d5:ab:9f:c2:
+        77:f1:50:fe:9b:98:eb:52:90:01:d1:1e:a3:69:4d:38:52:f8:
+        ab:30:98:6b:f0:51:df:54:85:27:42:cd:2d:8b:ed:ce:ec:60:
+        bb:7f:9c:8a:16:e7:b1:86:b2:25:41:38:d0:b9:eb:68:30:52:
+        f9:84:71:31:2e:da:7a:aa:be:44:87:4c:a7:74:44:70:4d:69:
+        4c:16:6b:4e:70:7e:2b:8e:9a:ab:96:97:19:77:71:f0:06:2c:
+        ba:b2:c5:f4:91:db:42:66:1a:6c:c0:33:42:d5:50:86:3a:78:
+        7e:a2:a9:2a:cb:af:36:fc:ea:81:29:37:c5:2c:5b:ef:99:25:
+        12:b8:a5:c6:f7:bc:b2:7b:9f:dc:b2:ae:ec:84:b4:3c:0e:0d:
+        46:da:a2:ba
