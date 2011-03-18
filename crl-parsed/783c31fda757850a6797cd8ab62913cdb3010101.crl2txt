@@ -1,0 +1,46 @@
+issuer=/C=DE/ST=Niedersachsen/L=Wolfenbuettel/O=Fachhochschule Braunschweig/Wolfenbuettel/OU=Rechenzentrum/CN=FHWF-CA/emailAddress=pki@fh-wolfenbuettel.de
+SHA1 Fingerprint=6C:4D:88:02:44:7D:A7:21:89:59:58:53:1C:E9:7F:7D:24:45:D9:D0
+56d0815a
+crlNumber=BF
+lastUpdate=Mar 14 07:36:07 2011 GMT
+nextUpdate=Apr 13 07:36:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Niedersachsen/L=Wolfenbuettel/O=Fachhochschule Braunschweig/Wolfenbuettel/OU=Rechenzentrum/CN=FHWF-CA/emailAddress=pki@fh-wolfenbuettel.de
+        Last Update: Mar 14 07:36:07 2011 GMT
+        Next Update: Apr 13 07:36:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                191
+Revoked Certificates:
+    Serial Number: 0B3D2325
+        Revocation Date: Nov  9 08:45:08 2007 GMT
+    Serial Number: 0B3D2411
+        Revocation Date: Nov  9 09:15:07 2007 GMT
+    Serial Number: 0BCA404B
+        Revocation Date: Feb  7 09:19:06 2008 GMT
+    Serial Number: 0EAB647E
+        Revocation Date: Aug 19 12:36:07 2009 GMT
+    Serial Number: 0EAB6480
+        Revocation Date: Aug 19 12:36:06 2009 GMT
+    Serial Number: 0EFAD448
+        Revocation Date: Oct 19 20:06:09 2009 GMT
+    Serial Number: 10677C8C
+        Revocation Date: Jul 28 11:55:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        66:13:c8:34:c9:f0:2d:0e:5f:c0:1f:56:19:93:54:cc:24:bc:
+        06:8a:16:7a:bb:9d:9c:b8:5b:71:5d:ef:c1:18:6b:72:10:5a:
+        4e:bc:cc:7f:4e:59:6e:75:34:c3:cd:1a:61:4f:cc:67:8a:9d:
+        a7:77:f6:f3:1a:6d:17:2f:37:d3:ea:5d:04:23:aa:92:09:c3:
+        4e:37:e5:4b:80:4e:d1:9d:79:15:b0:f6:da:ef:f1:77:1b:ea:
+        0c:b0:e3:6e:ed:ac:a8:a2:db:cb:a1:a6:5d:a8:9e:85:f3:49:
+        a3:dc:8b:91:59:99:d7:23:1e:37:5f:9f:2e:ea:25:d0:68:d7:
+        8e:33:0f:eb:2e:d2:f6:75:a3:11:91:3a:ca:af:f3:3d:e9:96:
+        a4:36:07:b3:45:52:a6:c7:4f:35:f5:ee:6e:42:2a:3d:77:95:
+        f4:84:30:df:1c:09:ef:d0:fd:82:85:c4:d7:7a:13:ec:fb:87:
+        36:ce:22:56:05:61:6e:6e:44:af:ca:03:a9:6c:b7:de:df:a8:
+        de:47:00:c9:2d:1a:0a:8c:2d:8a:ac:17:c1:a6:ae:dd:be:c3:
+        21:ad:48:35:cb:4c:f5:33:eb:8c:64:92:52:2c:09:a3:b2:fd:
+        8a:9b:52:06:a1:76:d7:a8:14:44:91:f0:d2:22:d1:29:23:64:
+        c4:ce:43:2d
