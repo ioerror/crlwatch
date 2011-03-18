@@ -1,0 +1,47 @@
+issuer=/C=US/O=MasterCard Worldwide/OU=Key Management Services/CN=MasterCard Public Root CA Gen 3
+SHA1 Fingerprint=DC:7A:3E:34:BA:D8:64:A4:C8:91:FA:13:86:42:B8:68:08:1C:CA:B9
+69942738
+crlNumber=02
+lastUpdate=Jul 28 08:52:46 2009 GMT
+nextUpdate=NONE
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=MasterCard Worldwide/OU=Key Management Services/CN=MasterCard Public Root CA Gen 3
+        Last Update: Jul 28 08:52:46 2009 GMT
+        Next Update: NONE
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:E2:CB:44:B7:81:71:1C:8B:F5:AB:CB:AF:22:E8:08:3A:AE:AF:81:C4
+
+            X509v3 CRL Number: 
+                2
+Revoked Certificates:
+    Serial Number: 410CD2E62B0C799856512F2D48DA7754
+        Revocation Date: Jul 10 08:47:28 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul 10 08:47:18 2009 GMT
+    Serial Number: BD7C39BB1ACC5940EE3A6DB346CE25C7
+        Revocation Date: Jun 30 08:31:24 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jun 30 08:31:16 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        97:25:64:c3:4c:41:20:f0:8f:b0:ac:29:46:43:6f:ba:39:63:
+        44:e2:8e:c6:8c:60:56:22:69:aa:29:63:af:75:a3:65:60:80:
+        d5:3d:0d:91:02:93:18:a5:3b:26:10:ca:0c:7e:d9:41:a7:4d:
+        fd:25:5d:9d:45:73:30:c6:38:cb:3a:e5:61:a6:61:f5:63:89:
+        48:d9:06:56:68:9b:cd:03:c0:63:96:a4:d0:2e:e0:58:b4:aa:
+        27:e4:6a:d4:2c:67:47:65:e3:01:67:a8:7b:8e:94:09:f8:bc:
+        a7:86:ce:fd:73:7f:2b:ca:a9:8c:b8:86:75:b6:e9:45:9e:61:
+        05:b6:08:6c:0b:56:d2:a5:0e:b9:4c:fc:f8:8f:2a:7b:3e:54:
+        89:28:46:89:e6:a3:b9:16:b0:57:f6:bd:a3:df:ee:e0:98:58:
+        38:4b:20:c7:8b:eb:c4:6a:b5:67:ea:bc:b6:d9:d5:3b:4a:52:
+        7b:d1:53:2a:1f:37:76:be:a6:12:02:bb:4a:22:8d:dc:79:52:
+        7d:19:49:bb:a4:96:af:ab:c4:b9:85:4e:0d:a0:dd:e0:6f:84:
+        69:37:39:0e:db:e2:4b:d2:e6:d2:f4:6a:ee:f2:3d:d3:0b:23:
+        56:b5:74:49:36:ba:17:3b:40:d6:5f:8a:e7:e5:7b:94:2c:01:
+        d3:65:c9:ee
