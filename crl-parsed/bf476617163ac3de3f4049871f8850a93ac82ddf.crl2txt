@@ -1,0 +1,77 @@
+issuer=/C=TW/O=Chunghwa Telecom Co., Ltd./OU=Public Certification Authority
+SHA1 Fingerprint=9A:F8:1D:9A:FB:2E:6A:62:7E:28:9B:5C:70:4A:9C:F0:69:65:30:4A
+afcd2d1e
+crlNumber=77DDE904
+lastUpdate=Mar 18 04:00:42 2011 GMT
+nextUpdate=Mar 19 16:00:38 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=TW/O=Chunghwa Telecom Co., Ltd./OU=Public Certification Authority
+        Last Update: Mar 18 04:00:42 2011 GMT
+        Next Update: Mar 19 16:00:38 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:71:B3:50:31:A0:1B:5B:7B:B2:A6:59:7C:FD:10:8C:3C:AD:3A:3D:7A
+
+            X509v3 CRL Number: 
+                2011031812
+            X509v3 Issuing Distrubution Point: critical
+                0A.?.=.;http://repository.publicca.hinet.net/crl/100-1/complete.crl
+Revoked Certificates:
+    Serial Number: 2BBFDFDA3D33921328C84AC5EF754C9E
+        Revocation Date: Jul 30 05:51:02 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 2C11957591042FA95B4D1B4205E92374
+        Revocation Date: Jun 15 03:41:43 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45A59BF5C5389245CEDFB258D9046346
+        Revocation Date: Feb 17 05:54:58 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 489EA5EB4E5EF45AFE3C5B9DCBEA000A
+        Revocation Date: Aug  6 02:35:32 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 56936A1355E7C33260094500C23F1218
+        Revocation Date: Jan 19 02:57:35 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 6C895CD1BA0E4CD5B93E2A0079C902C2
+        Revocation Date: Feb 14 02:50:11 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 6F8C513C28BE3D94B2DBE6FF32F392D1
+        Revocation Date: Aug  4 02:34:36 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 7DFD68AC23B825B05B61E9D98C41F5A3
+        Revocation Date: Oct 25 06:10:58 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Signature Algorithm: sha1WithRSAEncryption
+        0d:e5:ea:ff:ed:2b:e7:3d:02:2e:db:a2:a9:b5:7f:df:cc:97:
+        c3:87:f1:8f:77:6f:0a:fd:98:13:2c:24:2b:71:d6:3e:88:e5:
+        b6:e9:6f:01:03:0e:e9:70:c6:dd:80:98:8f:a7:66:98:0d:a1:
+        d6:ad:49:3a:24:f5:37:12:ff:46:a8:f2:6c:35:7a:b1:8d:e1:
+        ed:4f:79:ef:b9:b7:d5:5d:96:e7:2e:d4:e3:db:9b:84:c1:02:
+        d6:8d:64:d7:65:35:51:3a:68:e4:60:aa:2d:3d:ed:2c:30:3a:
+        41:f9:7b:0e:14:4d:ed:42:3a:30:03:b2:c7:6c:7e:85:df:f4:
+        40:91:9b:c8:5d:b6:e9:37:78:78:21:7f:04:e3:60:45:3f:7c:
+        9d:08:8e:16:41:f9:fc:b9:58:79:56:44:9d:62:b5:dc:b0:c6:
+        57:d5:65:c4:6e:26:0b:d7:36:d5:4f:db:d6:28:df:3e:2d:96:
+        b3:3e:41:39:20:12:c7:d7:7c:80:19:90:aa:ab:5e:3d:02:89:
+        51:54:e9:07:44:25:01:71:f9:59:29:07:5e:b6:cd:db:ac:c2:
+        c0:fb:c1:58:0a:e7:f5:89:fe:a1:7c:d7:0d:7f:63:68:02:7b:
+        dd:97:e3:f8:48:94:ea:a0:32:71:28:a8:b1:fc:83:33:c6:51:
+        12:70:35:05
