@@ -1,0 +1,62 @@
+issuer=/C=US/O=Wells Fargo/OU=Wells Fargo Certification Authority/CN=Wells Fargo Root Certificate Authority
+SHA1 Fingerprint=6F:E2:05:1C:19:58:22:E2:C8:AC:73:9B:62:92:F7:4D:4A:55:66:08
+6adf0799
+crlNumber=3F
+lastUpdate=Oct 22 20:08:17 2010 GMT
+nextUpdate=Apr 22 20:08:17 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=Wells Fargo/OU=Wells Fargo Certification Authority/CN=Wells Fargo Root Certificate Authority
+        Last Update: Oct 22 20:08:17 2010 GMT
+        Next Update: Apr 22 20:08:17 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                63
+            X509v3 Authority Key Identifier: 
+                keyid:14:AF:18:F7:BD:E6:E7:6B:E3:5A:FA:EA:51:EF:FE:D4:5A:71:39:C0
+                DirName:/C=US/O=Wells Fargo/OU=Wells Fargo Certification Authority/CN=Wells Fargo Root Certificate Authority
+                serial:39:E4:97:9E
+
+Revoked Certificates:
+    Serial Number: 40B24061
+        Revocation Date: May 24 20:35:44 2004 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 40B261EF
+        Revocation Date: Dec  8 00:11:50 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 40B261F0
+        Revocation Date: Dec  8 00:30:47 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 40B261F1
+        Revocation Date: Dec 14 22:19:50 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 40B269FB
+        Revocation Date: May 28 18:27:49 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: sha1WithRSAEncryption
+        22:cc:63:de:f8:a4:28:18:4d:7f:54:9c:a6:98:73:dc:a5:d7:
+        0d:be:2e:5a:c0:00:f9:7d:ce:eb:44:13:1d:3a:5f:b1:5a:18:
+        ab:e5:64:c8:97:ef:48:14:f0:e4:af:18:06:6e:15:24:26:08:
+        63:09:4d:b3:69:f5:48:b3:e7:1b:8b:51:cb:89:5b:93:be:10:
+        0b:05:65:f6:9a:7e:72:c2:6d:d0:f9:49:d4:d2:b7:f1:d0:8b:
+        4d:89:49:c9:c6:5e:92:c8:47:e3:2b:2b:33:7c:24:32:8e:77:
+        33:fe:a3:c1:35:cd:47:70:c8:ba:46:dd:c6:f6:e0:08:09:15:
+        15:2f:1d:3f:58:0b:53:2d:9a:0a:e8:cf:0d:86:fc:bb:bd:29:
+        e0:d5:e4:61:25:f5:c0:d0:d3:f2:69:61:fe:3e:80:da:62:3c:
+        d3:5f:b1:7a:58:14:77:5a:ad:4d:b7:ad:97:64:ff:09:09:1e:
+        47:6b:99:10:11:ef:02:13:b0:b5:fa:32:a0:fb:14:55:5b:02:
+        01:d0:ca:41:03:98:16:ae:a2:e3:48:ff:cf:ac:fa:9c:68:06:
+        e8:27:c7:04:9b:ab:ab:87:f1:64:99:04:8d:a2:d4:70:9a:09:
+        41:c9:79:04:57:45:8c:80:4d:7a:fc:90:0d:2f:7e:47:57:64:
+        1b:79:85:b6
