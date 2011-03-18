@@ -1,0 +1,42 @@
+issuer=/C=DE/ST=Berlin/L=Berlin/O=Fritz-Haber-Institut der Max-Planck-Gesellschaft/OU=PPB/CN=Fritz-Haber-Institut CA/emailAddress=pki@fhi-berlin.mpg.de
+SHA1 Fingerprint=32:5A:E7:93:E8:9D:B5:56:0E:92:D3:8C:AD:04:53:14:9E:5D:1B:54
+fedb9da1
+crlNumber=7E
+lastUpdate=Mar 14 15:33:06 2011 GMT
+nextUpdate=Apr 13 15:33:06 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Berlin/L=Berlin/O=Fritz-Haber-Institut der Max-Planck-Gesellschaft/OU=PPB/CN=Fritz-Haber-Institut CA/emailAddress=pki@fhi-berlin.mpg.de
+        Last Update: Mar 14 15:33:06 2011 GMT
+        Next Update: Apr 13 15:33:06 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                126
+Revoked Certificates:
+    Serial Number: 0DA79463
+        Revocation Date: Mar  4 10:19:06 2009 GMT
+    Serial Number: 114159D4
+        Revocation Date: Jan  3 14:43:08 2011 GMT
+    Serial Number: 1174C01B
+        Revocation Date: Mar  9 14:03:08 2011 GMT
+    Serial Number: 11787B6C
+        Revocation Date: Mar 14 15:32:43 2011 GMT
+    Serial Number: 119706A3
+        Revocation Date: Mar  9 15:47:06 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        88:26:da:44:8c:62:99:8e:68:50:21:97:a1:a9:51:bf:1d:d7:
+        15:1c:5a:6e:8c:41:5d:48:f1:1f:54:26:d0:2a:13:62:86:2f:
+        9e:ad:97:53:00:41:24:7c:41:c1:07:e1:a4:ee:a2:e2:09:64:
+        13:48:ae:31:db:f8:2f:24:45:ae:47:db:f1:1d:58:a9:1c:e9:
+        db:35:d7:a5:5c:f8:97:39:63:a5:66:5f:ab:61:ad:38:45:b7:
+        5b:0f:a5:af:bc:4f:72:1a:c8:bb:9c:9f:78:d1:d2:e1:b4:65:
+        1e:4c:49:86:2b:58:4c:a6:f1:3a:82:37:1f:5f:93:68:99:51:
+        1c:61:10:0d:7e:03:9d:27:52:91:fd:d1:dd:94:b2:be:c7:eb:
+        67:d9:33:59:ef:2e:39:d1:7a:68:2c:32:af:91:4a:35:bd:bd:
+        cb:15:3e:85:c8:3c:34:03:d3:8f:83:e5:82:e9:b5:2c:3c:61:
+        7d:c8:3f:e4:73:5d:22:98:0e:35:e5:43:42:a2:7c:7f:c8:f3:
+        a8:9a:d2:6b:7b:e7:c1:f6:12:1a:df:e9:a4:c6:90:60:7b:7d:
+        d6:8f:d1:e3:98:94:24:28:ce:e4:5a:07:49:a9:fe:06:59:bd:
+        92:7a:e7:1a:51:10:64:0c:4d:db:d7:3c:f6:53:a0:0e:22:c7:
+        24:cc:53:89
