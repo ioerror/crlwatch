@@ -1,0 +1,37 @@
+issuer=/C=FR/ST=France/L=Paris/O=PM/SGDN/OU=DCSSI/CN=IGC/A/emailAddress=igca@sgdn.pm.gouv.fr
+SHA1 Fingerprint=AF:B9:32:AC:B5:B4:6D:CB:C6:B8:53:37:7E:7D:E9:23:7C:EA:05:F1
+58a44af1
+crlNumber=21
+lastUpdate=Dec  1 01:00:00 2010 GMT
+nextUpdate=Jan  8 01:00:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=FR/ST=France/L=Paris/O=PM/SGDN/OU=DCSSI/CN=IGC/A/emailAddress=igca@sgdn.pm.gouv.fr
+        Last Update: Dec  1 01:00:00 2010 GMT
+        Next Update: Jan  8 01:00:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                33
+            X509v3 Authority Key Identifier: 
+                keyid:A3:05:2F:18:60:50:C2:89:0A:DD:2B:21:4F:FF:8E:4E:A8:30:31:36
+
+Revoked Certificates:
+    Serial Number: 37D7BC5B
+        Revocation Date: Apr 11 00:00:00 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        50:8a:cf:98:86:12:7b:31:ba:d2:ed:16:cf:9d:88:e5:37:eb:
+        37:29:25:82:71:5c:3c:ff:0f:88:d9:fc:da:ba:c7:8c:7d:1c:
+        0f:e2:7d:a7:84:24:90:f5:a1:23:63:53:4c:64:f7:83:28:7e:
+        4c:6d:4b:c5:df:35:36:48:84:b6:db:01:59:62:6f:5d:c8:99:
+        bd:3b:5d:5f:f5:dc:92:75:4f:20:84:c8:72:82:3a:c3:be:be:
+        c0:70:fc:96:56:11:cb:0d:00:58:8f:de:ff:39:78:6f:64:fe:
+        50:5c:23:9b:6c:b6:58:12:42:4e:7f:a4:2a:f9:71:79:2f:5c:
+        48:0f:84:72:e9:54:bc:41:ca:67:27:85:d5:2d:cf:57:57:4f:
+        46:98:8d:5d:30:56:3c:11:b3:5e:81:05:86:3b:d1:b7:d4:df:
+        64:91:16:20:cd:8f:50:de:5c:8a:ac:81:ef:7b:86:8b:00:ee:
+        0b:8b:4f:7e:c4:3e:07:eb:c4:8f:64:45:f2:3b:7c:69:bf:64:
+        c2:9b:8b:08:ca:42:48:28:e2:21:1c:cc:84:bc:64:4e:e0:c0:
+        a6:f9:3d:3f:eb:04:77:53:1a:79:74:e7:3b:fb:ea:fb:da:4d:
+        f0:8f:78:f8:07:e2:f8:dc:c7:78:d1:31:44:c0:ff:76:b4:70:
+        aa:f6:59:01
