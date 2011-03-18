@@ -1,0 +1,51 @@
+issuer=/C=ES/O=Colegio de Registradores de la Propiedad y Mercantiles de Espa\xC3\xB1a/OU=Certificado Propio/CN=Registradores de Espa\xC3\xB1a - CA Ra\xC3\xADz
+SHA1 Fingerprint=9B:A8:A1:2A:7F:CB:AA:40:D8:27:FA:60:1D:A3:39:2D:8D:C6:0A:55
+8a7fbcc5
+crlNumber=08
+lastUpdate=Jan 31 11:54:12 2011 GMT
+nextUpdate=Jan 31 11:54:12 2012 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/O=Colegio de Registradores de la Propiedad y Mercantiles de Espa\xC3\xB1a/OU=Certificado Propio/CN=Registradores de Espa\xC3\xB1a - CA Ra\xC3\xADz
+        Last Update: Jan 31 11:54:12 2011 GMT
+        Next Update: Jan 31 11:54:12 2012 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                8
+            X509v3 Issuing Distrubution Point: 
+                0.........-http://pki.registradores.org/crls/arl_scr.crl...ldap://ldap.registradores.org/CN=CA%20RAIZ,OU=CERTIFICADO%20PROPIO,O=COLEGIO%20DE%20REGISTRADORES,C=ES?authorityRevocationList?base?objectclass=cRLDistributionPoint...
+            X509v3 Authority Key Identifier: 
+                keyid:1B:8D:59:1C:B3:B7:58:62:64:66:AC:E2:E4:A4:F6:A2:19:12:F6:E5
+
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        78:3e:26:30:6e:21:c0:55:93:96:4d:65:ff:1e:36:67:d8:e1:
+        57:8c:fb:9a:0f:e2:d3:f3:d5:d0:37:fc:49:a6:d3:d9:71:9e:
+        7e:c8:2d:fe:3b:97:86:31:c2:8f:ab:d8:f9:51:7e:b7:3d:f9:
+        25:45:cf:9f:ba:ab:4b:4c:b1:b1:04:a7:8d:c9:1d:26:af:f1:
+        ac:dc:db:03:73:4d:ff:12:9a:30:06:b7:92:29:53:75:dd:15:
+        24:d1:31:40:75:53:20:30:75:9d:13:98:e5:7e:b7:5b:bd:1e:
+        64:d1:31:63:98:b8:b0:76:d5:42:41:92:ee:4e:79:ac:c9:c6:
+        2c:8e:0e:4d:b5:21:a6:e8:00:ee:80:61:54:a6:be:15:f4:34:
+        97:88:a0:c0:bf:11:99:b1:ae:8e:ad:ef:12:8d:08:bb:10:f2:
+        9c:79:3c:9d:b9:ff:7b:00:61:e8:91:82:98:ab:4e:8b:fe:f0:
+        a9:b6:18:dd:8c:92:72:d3:ce:74:ee:46:fd:2b:c6:97:c2:45:
+        0c:9b:90:d2:f9:d5:35:9d:d1:cb:ab:e8:86:77:92:09:6e:ee:
+        25:24:33:26:33:29:63:3f:21:25:41:6f:80:df:c6:c2:48:5e:
+        55:10:cc:62:7d:f0:bd:ef:8c:0d:29:25:c3:ad:cf:b4:e5:8c:
+        15:a5:f5:eb:68:88:a8:95:42:66:68:09:12:8b:81:96:d0:13:
+        a1:4c:9e:32:83:24:fc:1c:be:f2:91:f9:27:b9:e9:55:12:18:
+        46:24:59:62:60:68:a3:33:28:be:eb:74:01:19:cb:55:1e:61:
+        4b:58:25:3d:21:1f:15:bd:9e:d5:7c:64:59:33:ac:e7:ff:4c:
+        6b:03:a0:29:cf:53:b8:df:b5:4a:ab:63:3a:c6:46:69:06:f7:
+        65:af:89:53:b6:45:ba:0c:11:24:4c:ab:01:55:65:32:89:36:
+        24:65:59:73:bc:1a:2e:0a:48:99:8e:6c:07:9c:73:60:68:a8:
+        27:4b:6c:93:76:2a:6b:b9:45:e7:08:5a:69:8f:84:ce:b4:9a:
+        fd:20:c7:90:b9:51:fa:83:21:35:85:94:e9:ad:72:80:01:33:
+        f3:28:11:1d:f6:f6:8f:9d:9d:3f:3f:2b:31:05:0b:11:5a:cd:
+        c6:8f:f6:ba:24:70:24:fe:22:0e:13:ad:79:67:5a:7c:07:ad:
+        fd:a7:75:c9:30:4d:e4:a4:14:b5:53:ae:5c:6e:75:84:3f:14:
+        b6:3b:4e:d0:09:c1:4c:6a:0b:e4:53:57:44:77:23:e6:cf:7e:
+        03:4d:59:57:c7:f7:cd:6c:12:f4:69:a9:03:d9:68:08:ff:83:
+        5b:ae:0d:da:32:36:19:ff
