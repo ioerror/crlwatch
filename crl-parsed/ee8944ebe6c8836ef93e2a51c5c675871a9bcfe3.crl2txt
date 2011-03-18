@@ -1,0 +1,41 @@
+issuer=/C=NL/O=KAS BANK N.V./CN=Kas_Pol_Acc_CA
+SHA1 Fingerprint=CA:1A:77:7D:68:E9:13:8E:BD:DF:F5:18:32:E3:75:B3:8C:14:3B:3F
+ac75e7d1
+crlNumber=057F
+lastUpdate=Mar 17 08:22:01 2011 GMT
+nextUpdate=Jul 17 20:42:01 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=NL/O=KAS BANK N.V./CN=Kas_Pol_Acc_CA
+        Last Update: Mar 17 08:22:01 2011 GMT
+        Next Update: Jul 17 20:42:01 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:36:AF:A3:DC:22:CA:8E:49:F3:6E:B6:86:18:78:C9:B0:A4:11:50:E1
+
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            X509v3 CRL Number: 
+                1407
+            1.3.6.1.4.1.311.21.4: 
+                .110717083201Z
+            X509v3 Freshest CRL: 
+                0L0J.H.F.Dhttp://pki.kasbank.com/client_info/sec2kas/ca/Kas_Pol_Acc_CA(4)+.crl
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        6c:e7:f2:01:7c:72:cc:0b:c5:75:84:fe:93:8c:ed:3d:d3:53:
+        fd:b0:65:d9:3e:e0:8a:47:85:2f:12:13:0f:0d:35:01:08:2e:
+        82:cb:41:b7:aa:35:58:1e:3a:f6:c2:ed:31:b9:9f:ab:92:97:
+        58:1a:56:07:3b:39:6f:8c:66:2b:b3:c3:a6:8c:0f:08:50:d7:
+        8b:67:89:f4:e3:f5:2f:d8:ed:ab:e6:17:d9:e8:6e:42:34:be:
+        5b:3e:76:f3:20:e1:35:56:74:eb:77:75:ab:ea:5f:40:1a:92:
+        63:db:72:0a:ac:0b:b0:f1:d8:d5:f7:7d:65:a2:09:f4:61:01:
+        18:2d:d9:15:e6:e2:83:dd:43:b1:1a:c8:93:d7:87:db:ae:2c:
+        b5:96:6a:ad:a7:42:0a:11:e4:4c:89:2f:f2:ea:fa:bd:99:eb:
+        db:37:a5:82:a3:ed:c0:03:04:7d:0c:86:b2:ef:0d:22:10:47:
+        fb:22:40:51:b4:9c:94:25:40:92:98:3a:f3:0f:5c:f0:dd:4e:
+        84:b4:4f:b0:5c:54:27:08:25:44:d9:d8:56:9a:a2:1c:97:de:
+        09:5c:b6:96:6d:b8:a7:eb:ac:ba:e8:fd:22:80:01:80:3a:38:
+        b0:a3:f1:b6:5c:da:0d:c4:a7:e8:74:17:02:ca:90:9f:30:bc:
+        7d:55:29:69
