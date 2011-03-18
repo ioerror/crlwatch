@@ -1,0 +1,39 @@
+issuer=/C=JP/O=SECOM Trust.net/OU=Security Communication RootCA1
+SHA1 Fingerprint=70:41:8C:EE:8E:58:1B:0E:57:79:95:AC:D4:29:DE:12:6B:52:A4:BF
+a3896b44
+crlNumber=<NONE>
+lastUpdate=Mar 11 03:11:24 2011 GMT
+nextUpdate=Apr  9 03:11:24 2012 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=JP/O=SECOM Trust.net/OU=Security Communication RootCA1
+        Last Update: Mar 11 03:11:24 2011 GMT
+        Next Update: Apr  9 03:11:24 2012 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:A0:73:49:99:68:DC:85:5B:65:E3:9B:28:2F:57:9F:BD:33:BC:07:48
+
+Revoked Certificates:
+    Serial Number: 12B9B0A2
+        Revocation Date: May 11 09:57:48 2004 GMT
+    Serial Number: 12B9B0B3
+        Revocation Date: Apr  6 08:37:19 2007 GMT
+    Serial Number: 12B9B0B6
+        Revocation Date: Nov 11 07:50:32 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        6c:e3:b1:a7:94:d8:a2:a1:78:6d:9e:5b:d0:f6:10:0b:70:9a:
+        96:91:90:96:49:2f:4b:17:c1:72:27:52:89:4e:c4:9d:6c:cf:
+        c6:9b:ab:20:df:b2:be:ba:07:56:65:c7:36:ad:63:c7:2d:58:
+        ad:ba:f2:f5:40:ef:71:d5:fc:28:56:5b:5d:6d:41:9c:0c:57:
+        38:32:68:b1:71:c1:e8:6d:d6:3a:0e:70:ed:ca:5e:6e:75:8d:
+        eb:c7:c2:3c:04:e5:02:9d:e1:46:85:a8:1c:a0:d6:60:d5:66:
+        35:08:d6:d8:52:22:19:9a:dc:f8:a3:c8:8e:4b:ce:ff:d4:1f:
+        54:9e:e8:14:19:06:1f:6a:32:8e:90:01:82:f4:48:e4:55:7e:
+        5d:8a:fa:05:f7:e0:3a:82:de:1a:c8:ba:eb:ff:67:f4:69:3f:
+        64:09:1c:cc:69:ad:cc:5a:4b:9a:6e:5f:ef:c2:9f:f0:9e:87:
+        a2:1f:31:16:dd:c8:04:09:33:ee:7b:bd:28:84:94:cb:76:f6:
+        f9:cc:c2:02:cc:8c:b7:f0:90:d3:1b:a6:89:5a:74:79:09:d2:
+        d2:42:e7:dc:82:56:6c:93:3b:67:eb:47:fc:4b:37:0c:8a:d2:
+        dd:cb:66:9c:88:6e:75:b7:2c:96:29:79:a4:c0:14:0c:67:75:
+        39:83:3c:5c
