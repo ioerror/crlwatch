@@ -1,0 +1,51 @@
+issuer=/C=US/O=Secure Business Services, Inc./CN=Secure Business Services CA
+SHA1 Fingerprint=C5:9B:18:F2:4E:47:A9:D0:3C:59:D2:02:06:82:3A:EF:C3:CE:CF:4E
+6e7edbdc
+crlNumber=06DD
+lastUpdate=Mar 18 05:36:18 2011 GMT
+nextUpdate=Mar 22 05:36:18 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=Secure Business Services, Inc./CN=Secure Business Services CA
+        Last Update: Mar 18 05:36:18 2011 GMT
+        Next Update: Mar 22 05:36:18 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:93:64:8A:13:3F:56:E9:60:96:DE:AB:F3:7B:B1:1B:1E:7B:D6:5E:4B
+
+            X509v3 CRL Number: 
+                1757
+Revoked Certificates:
+    Serial Number: 2F3AB72C4AED5F64CB7D1A5B0AFAAAF5
+        Revocation Date: Apr  3 14:59:03 2008 GMT
+    Serial Number: D3FF719993153F1364255ACFA6749EF8
+        Revocation Date: May 27 15:24:19 2008 GMT
+    Serial Number: 272579FDFAA3CA9DEC7AA879309BAB5A
+        Revocation Date: Jul  8 20:44:47 2009 GMT
+    Serial Number: 4C7E55C6118C7B5FC832A7E764F8A6B7
+        Revocation Date: Jul  8 20:45:28 2009 GMT
+    Serial Number: 9A9DACB5800B3D6D1F5CE5F5428268B2
+        Revocation Date: Apr 23 21:02:51 2010 GMT
+    Serial Number: 8FEB7EAB79E2928892E65B35609505A0
+        Revocation Date: May  4 06:28:11 2010 GMT
+    Serial Number: 35A2D13CD1B8E3C7223B0A1A0BE79C76
+        Revocation Date: Jun 16 18:57:48 2010 GMT
+    Serial Number: 84EAD9BF4E43B7DE43E37B472109B66B
+        Revocation Date: Sep 29 19:36:32 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        53:a8:8e:42:d5:9b:5b:55:e4:1d:ee:93:f6:57:cb:c5:7b:45:
+        4b:cf:59:f2:a7:e3:8f:e5:66:21:5e:b2:c4:ca:43:7b:c3:ed:
+        01:79:da:31:63:bf:89:fd:37:2c:8b:7f:dc:6c:d6:84:1e:fe:
+        ab:09:d8:32:62:e8:20:0e:fa:69:d9:21:34:f5:99:72:12:bc:
+        53:da:74:d8:ed:d0:4c:10:28:18:62:d1:06:1e:16:0f:45:aa:
+        9d:55:24:b3:7f:12:80:95:c4:c8:39:f9:aa:10:49:90:94:1e:
+        22:b2:68:39:8f:2d:c1:8e:98:28:de:d1:7c:27:d1:de:a0:51:
+        c4:36:2f:ac:02:71:10:f5:14:c5:2e:4e:5a:42:09:90:14:b6:
+        ae:47:32:20:d8:3c:0c:72:b4:be:bc:2e:5e:aa:d1:8b:08:48:
+        a8:b9:a7:bc:2c:a8:34:f4:e8:17:2b:5d:f3:95:4d:79:45:73:
+        8f:32:32:0b:7a:c7:d3:23:55:94:c0:17:83:13:f9:5f:a1:68:
+        b2:da:20:3f:52:53:b1:88:1b:da:dc:5a:ab:18:f8:a1:01:32:
+        ee:20:54:e3:12:70:3e:98:11:1a:8d:de:29:e4:65:25:ed:d4:
+        35:08:0a:5d:e8:f5:27:45:19:ae:0c:55:23:90:f8:9b:b0:f1:
+        de:5d:fa:93
