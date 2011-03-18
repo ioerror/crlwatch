@@ -1,0 +1,56 @@
+issuer=/C=DE/O=IFM-GEOMAR/OU=Rechenzentrum/CN=IFM-GEOMAR CA - G02/emailAddress=pki@ifm-geomar.de
+SHA1 Fingerprint=66:85:7B:66:05:EB:97:A7:9A:6E:FF:44:8A:BD:0B:0A:AC:06:0A:96
+c72a9377
+crlNumber=FA
+lastUpdate=Mar 14 08:38:15 2011 GMT
+nextUpdate=Apr 13 08:38:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=IFM-GEOMAR/OU=Rechenzentrum/CN=IFM-GEOMAR CA - G02/emailAddress=pki@ifm-geomar.de
+        Last Update: Mar 14 08:38:15 2011 GMT
+        Next Update: Apr 13 08:38:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                250
+Revoked Certificates:
+    Serial Number: 0A5955EB
+        Revocation Date: Aug 20 13:56:09 2007 GMT
+    Serial Number: 0C15B417
+        Revocation Date: Jan 31 13:35:08 2011 GMT
+    Serial Number: 0CAE56A1
+        Revocation Date: Dec 19 09:25:08 2008 GMT
+    Serial Number: 0D8A8733
+        Revocation Date: Sep 25 12:13:08 2009 GMT
+    Serial Number: 0D8A8734
+        Revocation Date: Sep 25 12:13:09 2009 GMT
+    Serial Number: 0D8AA4BB
+        Revocation Date: Nov  3 11:18:14 2009 GMT
+    Serial Number: 0E86823B
+        Revocation Date: Jan 31 13:35:09 2011 GMT
+    Serial Number: 0F88CC35
+        Revocation Date: Feb  4 14:11:07 2010 GMT
+    Serial Number: 0F89032F
+        Revocation Date: Mar  4 11:25:09 2011 GMT
+    Serial Number: 0FFF43C5
+        Revocation Date: May  5 09:19:10 2010 GMT
+    Serial Number: 1052BACC
+        Revocation Date: Jul 14 10:59:15 2010 GMT
+    Serial Number: 1052BACD
+        Revocation Date: Jul  7 07:46:18 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        4c:09:2c:ed:7d:50:fa:a6:6f:37:a5:91:43:d2:18:de:3f:66:
+        dc:14:9f:d7:c4:7e:19:42:67:33:90:c9:6b:85:a9:55:97:06:
+        96:40:fd:af:d0:90:68:ad:74:47:a2:75:6c:64:94:1f:7f:40:
+        5d:7e:4a:ff:29:47:af:96:ed:8c:44:c3:8f:50:1d:86:db:88:
+        d9:bd:c6:27:07:05:f8:d9:4f:45:a7:c3:f1:cd:7a:5b:ea:61:
+        88:82:ac:41:13:1a:cd:4b:06:e9:6e:e0:b7:51:9f:f0:75:75:
+        01:01:b3:e8:63:c6:4a:7e:c7:ac:d8:de:d7:13:25:9b:b9:12:
+        ab:20:b2:b3:a8:5d:8e:51:8b:32:c4:45:6f:36:6f:31:76:21:
+        20:d7:f5:68:a9:e5:7a:bf:af:0e:fa:15:63:eb:af:7a:76:4e:
+        b2:26:69:b9:bf:c5:55:42:8c:71:b1:1f:b4:d2:6e:29:90:fd:
+        52:6f:37:c9:c2:99:36:83:a2:e7:73:69:ab:e7:03:e6:68:9d:
+        8b:a6:3d:a9:1f:6d:1c:bd:22:82:ba:ec:85:73:f7:6c:11:02:
+        69:69:84:0d:d6:d7:e2:1c:ea:9b:3c:04:90:8b:f3:48:ac:7f:
+        e5:3f:11:d2:6a:cb:8a:80:b7:58:7e:f7:42:24:4c:d1:f1:37:
+        57:9b:bc:ea
