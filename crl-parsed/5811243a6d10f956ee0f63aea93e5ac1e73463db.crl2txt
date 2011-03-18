@@ -1,0 +1,39 @@
+issuer=/emailAddress=pki@microsoft.com/C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Product Secure Communications PCA
+SHA1 Fingerprint=94:E0:A4:E6:03:CA:0A:C9:1C:4F:64:C9:2E:D3:71:A4:1D:CE:CC:71
+64b735cd
+crlNumber=14
+lastUpdate=Dec 22 00:37:06 2010 GMT
+nextUpdate=May 11 12:57:06 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /emailAddress=pki@microsoft.com/C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Product Secure Communications PCA
+        Last Update: Dec 22 00:37:06 2010 GMT
+        Next Update: May 11 12:57:06 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:23:0C:05:5F:C9:A7:3F:25:B0:F1:0E:53:74:85:67:80:E4:8F:97:B3
+
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            X509v3 CRL Number: 
+                20
+            1.3.6.1.4.1.311.21.4: 
+                .110511004706Z
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        53:bc:11:61:9e:09:5c:5b:6d:f2:61:ab:54:cd:cd:24:bf:2d:
+        bf:59:ef:df:5b:8f:50:2a:eb:c8:4b:4f:27:d2:71:b0:d9:6b:
+        6f:94:5e:40:29:5f:23:90:1b:90:1b:3d:a5:fc:1c:ec:39:14:
+        20:c3:1c:2f:02:a0:4b:ef:3d:7f:20:14:37:79:05:2b:f1:8f:
+        f5:61:63:97:a2:1a:0b:bc:c1:c0:b6:13:a2:ad:31:96:d1:bd:
+        7f:64:fa:ee:19:a6:8e:70:b8:83:0e:34:3c:d2:7e:d4:8a:ba:
+        ce:67:fc:a5:17:ad:4f:21:7e:bc:7b:b0:f1:9b:83:b3:ba:5c:
+        c7:e1:11:14:8e:dd:ad:b8:28:97:6b:20:25:41:67:d5:17:d1:
+        17:46:7c:39:9a:80:1c:f7:c2:f4:d7:20:52:19:58:b4:8a:de:
+        0e:a1:47:a7:3c:cc:7a:d9:e2:65:5b:20:42:f5:52:2d:56:c5:
+        47:dc:af:b0:40:47:a4:3d:64:ba:af:f0:63:2f:61:7e:47:6f:
+        ba:bb:c8:0e:9d:27:01:b0:a1:3d:b4:99:f9:17:df:5c:cc:ef:
+        c4:4e:d9:9d:19:66:15:81:b4:b5:32:2c:cc:3c:72:8f:ac:58:
+        49:42:d3:17:b6:29:51:eb:9c:cb:89:b3:18:45:b2:24:42:e3:
+        8b:d2:78:d7
