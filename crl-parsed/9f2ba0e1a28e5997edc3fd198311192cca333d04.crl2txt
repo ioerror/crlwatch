@@ -1,0 +1,36 @@
+issuer=/C=DE/O=Medizinische Hochschule Hannover/CN=MHH CA/emailAddress=pki@mh-hannover.de
+SHA1 Fingerprint=91:32:80:C6:88:5E:81:66:19:D6:71:20:C7:BC:C0:8E:AD:50:BB:4C
+ce91eefc
+crlNumber=DC
+lastUpdate=Mar 14 08:47:15 2011 GMT
+nextUpdate=Apr 13 08:47:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Medizinische Hochschule Hannover/CN=MHH CA/emailAddress=pki@mh-hannover.de
+        Last Update: Mar 14 08:47:15 2011 GMT
+        Next Update: Apr 13 08:47:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                220
+Revoked Certificates:
+    Serial Number: 0E8531E8
+        Revocation Date: Jul 27 10:15:07 2009 GMT
+    Serial Number: 10D65F1C
+        Revocation Date: Oct 26 11:45:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        8e:c9:4f:af:e9:1c:df:4b:83:1e:2a:4f:5a:1f:75:02:a0:1e:
+        94:5f:eb:60:74:c5:c6:f2:f6:61:6d:79:19:3f:e5:98:99:71:
+        bc:12:2e:88:9c:66:02:09:80:01:08:d4:7b:52:43:fa:d0:64:
+        d7:9c:04:ef:48:c9:e8:30:6b:d5:2b:08:f4:0e:68:1b:a6:40:
+        a3:f8:c5:83:5d:6e:84:92:03:d9:fa:39:c0:34:81:bc:95:c2:
+        48:66:f0:b6:41:57:88:7e:d0:01:cc:73:fb:73:51:16:57:e7:
+        ed:d2:1b:75:15:d4:fb:9c:20:da:7f:d0:77:2a:86:33:95:f5:
+        cb:34:0f:68:3c:14:40:7d:a1:7e:26:47:6b:cd:ad:c9:2e:41:
+        70:dd:ea:da:16:8c:8f:d1:cd:af:38:ec:a3:03:b1:fa:32:11:
+        5b:3a:35:78:d9:b0:60:ca:2b:be:81:2c:5e:9f:15:c3:cf:0f:
+        94:78:f3:ee:88:96:70:2a:65:1e:28:08:ec:07:c4:0a:ac:67:
+        72:bb:fe:a3:3f:81:d9:67:c0:5f:78:32:1b:2a:9a:a1:b5:be:
+        b9:7e:86:35:9f:5f:10:28:b6:9d:55:d1:54:e2:ae:23:54:8d:
+        45:a5:e6:24:20:b1:0b:cc:bc:de:29:97:e8:1e:59:7e:59:5e:
+        fc:10:7a:ce
