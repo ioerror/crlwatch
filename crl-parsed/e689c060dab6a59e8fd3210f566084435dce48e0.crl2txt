@@ -1,0 +1,42 @@
+issuer=/C=DE/ST=Brandenburg/L=Muencheberg/O=Leibniz-Zentrum fuer Agrarlandschaftsforschung (ZALF) e. V./CN=ZALF CA/emailAddress=pki@zalf.de
+SHA1 Fingerprint=28:02:73:3C:F6:DF:24:C9:27:D3:7C:25:E7:84:36:2F:52:1E:11:F5
+86f45ec3
+crlNumber=8D
+lastUpdate=Mar 14 09:47:37 2011 GMT
+nextUpdate=Apr 13 09:47:37 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Brandenburg/L=Muencheberg/O=Leibniz-Zentrum fuer Agrarlandschaftsforschung (ZALF) e. V./CN=ZALF CA/emailAddress=pki@zalf.de
+        Last Update: Mar 14 09:47:37 2011 GMT
+        Next Update: Apr 13 09:47:37 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                141
+Revoked Certificates:
+    Serial Number: 0D211116
+        Revocation Date: Oct 24 11:58:07 2008 GMT
+    Serial Number: 0D212A63
+        Revocation Date: Oct 24 12:01:14 2008 GMT
+    Serial Number: 0DF2E817
+        Revocation Date: Apr 20 10:51:08 2009 GMT
+    Serial Number: 1088BBE1
+        Revocation Date: Aug 17 08:40:20 2010 GMT
+    Serial Number: 1088BC58
+        Revocation Date: Aug 17 08:40:19 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        c3:e7:56:9b:23:ee:de:b9:ab:04:a3:77:68:5c:41:94:3a:8a:
+        14:af:bc:1a:97:39:e6:b9:89:2d:70:dd:59:9e:2e:46:3b:51:
+        db:18:f0:34:65:60:ea:35:57:b2:3d:bc:86:a7:1f:27:0b:c1:
+        34:e2:3a:2e:ac:62:30:4d:47:c2:72:cb:d8:66:0a:9c:e8:7f:
+        b8:ae:2b:3a:52:36:1a:20:bd:08:d5:09:cf:1f:13:ef:8d:5b:
+        ee:a2:75:07:fe:36:d9:20:e3:fc:73:bc:fe:78:a5:ee:d6:d0:
+        60:0d:96:b3:4b:38:c0:51:32:1f:53:2b:be:51:4f:e4:75:46:
+        1a:ce:5c:35:a8:b6:c2:de:c1:45:d3:ac:ea:90:bc:b8:e9:81:
+        6f:47:0f:72:12:99:11:62:a8:86:81:4b:30:f8:50:ec:1d:1a:
+        cc:85:a9:58:27:54:89:2a:5b:1a:bc:81:06:24:02:9a:72:74:
+        19:6a:67:2e:c9:f9:c3:81:d7:f7:62:e5:e0:d5:92:a0:41:ea:
+        13:0f:98:a7:e5:b6:26:bf:92:05:ad:af:cc:c3:2f:9b:e0:c5:
+        6c:10:14:79:b1:49:43:00:f1:39:a6:a3:ca:b9:34:c4:69:2b:
+        95:c9:05:c7:17:59:46:56:35:a4:82:dc:6d:c8:a4:6c:90:11:
+        0e:33:11:fa
