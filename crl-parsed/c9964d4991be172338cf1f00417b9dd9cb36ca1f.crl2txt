@@ -1,0 +1,58 @@
+issuer=/C=DE/ST=Sachsen/L=Dresden/O=IFW Dresden e.V./CN=IFW Dresden CA/emailAddress=ca@ifw-dresden.de
+SHA1 Fingerprint=4A:3B:85:F7:4E:81:CC:14:53:20:5A:A7:64:9C:BF:98:39:E6:38:38
+bce2a9fe
+crlNumber=AC
+lastUpdate=Mar 14 08:39:14 2011 GMT
+nextUpdate=Apr 13 08:39:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Sachsen/L=Dresden/O=IFW Dresden e.V./CN=IFW Dresden CA/emailAddress=ca@ifw-dresden.de
+        Last Update: Mar 14 08:39:14 2011 GMT
+        Next Update: Apr 13 08:39:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                172
+Revoked Certificates:
+    Serial Number: 0C1D3E28
+        Revocation Date: Apr 10 09:20:16 2008 GMT
+    Serial Number: 0C1D5656
+        Revocation Date: Apr 10 09:20:14 2008 GMT
+    Serial Number: 0C1D5CDB
+        Revocation Date: May 19 08:24:16 2008 GMT
+    Serial Number: 0C1D9B70
+        Revocation Date: Apr 10 14:21:09 2008 GMT
+    Serial Number: 0C1DA01F
+        Revocation Date: Apr 10 15:00:08 2008 GMT
+    Serial Number: 0C1E8D1E
+        Revocation Date: Apr 11 09:15:09 2008 GMT
+    Serial Number: 0C2293DE
+        Revocation Date: Apr 14 08:45:10 2008 GMT
+    Serial Number: 0C2BD1A4
+        Revocation Date: Apr 22 14:11:11 2008 GMT
+    Serial Number: 0CB0F1E0
+        Revocation Date: Jul 31 12:13:07 2008 GMT
+    Serial Number: 104BE007
+        Revocation Date: Jul  1 10:34:07 2010 GMT
+    Serial Number: 106FA45C
+        Revocation Date: Aug 17 11:09:22 2010 GMT
+    Serial Number: 10D3D134
+        Revocation Date: Oct 12 12:41:07 2010 GMT
+    Serial Number: 10D79DDD
+        Revocation Date: Oct 18 10:17:10 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        00:ba:72:61:ba:bb:46:4b:ee:c0:02:51:2b:f9:38:7b:91:df:
+        f8:03:df:8e:66:06:21:3b:38:f4:6a:7e:94:c7:4c:28:b0:c7:
+        6a:a1:74:6b:15:bd:aa:63:c3:cf:91:6a:a0:5f:b6:95:61:ff:
+        a7:ac:8f:e3:5c:8b:4d:d9:68:d2:a4:9b:8d:73:17:3d:e0:9a:
+        21:49:da:2e:60:26:22:c7:33:a0:6d:20:0c:8c:4a:57:21:0f:
+        d2:30:ec:8c:70:1b:12:a6:c1:d9:36:f0:ae:89:d1:c4:2a:95:
+        b3:50:f4:55:44:67:b1:6c:74:02:9e:34:d1:c8:4e:30:5e:a2:
+        bc:be:e0:a0:7d:4b:bb:82:70:02:ce:94:a9:a0:bb:1a:82:c8:
+        52:71:6a:31:e1:1d:5c:03:f0:fc:8c:12:39:e4:f7:9a:5d:21:
+        cb:87:37:75:ff:77:89:5b:db:6d:df:a2:09:0b:fb:9b:27:c7:
+        84:01:d4:90:44:43:01:ac:78:14:0b:18:49:b6:f9:d3:ef:24:
+        a0:f2:af:54:3a:9e:05:96:65:a5:15:18:b4:3d:9e:f8:14:60:
+        12:be:fb:c9:a5:2e:88:09:04:67:b6:a1:fd:38:56:48:9c:63:
+        40:68:03:86:39:31:07:69:3b:61:c9:fc:86:8b:13:a7:60:dd:
+        92:ec:c9:2d
