@@ -1,0 +1,106 @@
+issuer=/C=JP/O=INTEC Communications Inc./CN=EINS/PKI Public Certification Authority
+SHA1 Fingerprint=AD:13:F8:4C:68:D8:59:94:78:00:88:47:45:2D:46:42:42:1A:38:0D
+3c9b3160
+crlNumber=095E
+lastUpdate=Mar 18 00:00:01 2011 GMT
+nextUpdate=Mar 23 00:00:02 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=JP/O=INTEC Communications Inc./CN=EINS/PKI Public Certification Authority
+        Last Update: Mar 18 00:00:01 2011 GMT
+        Next Update: Mar 23 00:00:02 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:19:FC:4A:6F:C2:D7:28:D1:1F:76:25:1F:E6:AE:59:D5:F9:8D:96:CA
+
+            X509v3 CRL Number: 
+                2398
+Revoked Certificates:
+    Serial Number: 2D7035CB59B3575F6A3B8E4A10B9C8FE
+        Revocation Date: Sep 14 06:47:58 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Sep 14 06:47:58 2010 GMT
+    Serial Number: 337707AF4B7D3E6797A530D85B72F19D
+        Revocation Date: Sep 16 06:26:11 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Sep 16 06:26:11 2010 GMT
+    Serial Number: 5B225CEBED13DE472CD12E9A03A9DC5F
+        Revocation Date: Mar 30 02:00:07 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar 30 02:00:07 2010 GMT
+    Serial Number: 61B8A108A4CFAB133F9C7DD16F0E42AE
+        Revocation Date: Sep 28 05:31:42 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Sep 28 05:31:42 2010 GMT
+    Serial Number: 63CB9972E44C3B3DA78566F68D78EFAF
+        Revocation Date: Nov  1 07:15:05 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov  1 07:15:05 2010 GMT
+    Serial Number: 754E59F72253D990A261BCB44DDEA616
+        Revocation Date: Oct 15 05:53:00 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 15 05:53:00 2010 GMT
+    Serial Number: 8AE3A9326922C8D0D09757B4F8E2B7C0
+        Revocation Date: Apr 28 08:13:11 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Apr 28 08:13:11 2010 GMT
+    Serial Number: 8B71C64496F15953342DBA13D23B7CFD
+        Revocation Date: Aug 30 06:39:47 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Aug 30 06:39:47 2010 GMT
+    Serial Number: 9A89A56688CD2C4A04BC2B3A13F550BE
+        Revocation Date: Oct 29 05:45:58 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Oct 29 05:45:58 2010 GMT
+    Serial Number: BC7CF9698FAAAE80549A6D1F22AB0A3F
+        Revocation Date: Oct  6 07:36:17 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct  6 07:36:17 2010 GMT
+    Serial Number: C59D74A79FEDE2122E1DBAB397B0C99D
+        Revocation Date: Aug  4 06:56:03 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Aug  4 06:56:03 2010 GMT
+    Serial Number: D3B280D2E2E4B055564F57106F765487
+        Revocation Date: Sep 16 06:22:05 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Sep 16 06:22:05 2010 GMT
+    Serial Number: DA95F385599B4125FADBAC7E69E32E15
+        Revocation Date: Oct 29 05:57:56 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 29 05:57:56 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        7e:43:09:41:7e:07:c9:4a:53:b9:12:4a:b4:22:a3:a7:58:ad:
+        8a:d0:07:85:d8:0e:74:69:c5:12:6e:2a:ea:cc:a1:ec:22:f9:
+        d3:e7:4f:e0:cf:0a:4b:cb:f6:56:59:7b:3f:a4:03:49:25:74:
+        a4:58:e7:73:e3:05:40:f0:d3:a1:53:f5:75:b3:15:1f:1b:fd:
+        47:92:4f:ab:9e:b6:ad:74:eb:5d:5c:22:a1:c1:89:a9:76:1f:
+        87:4d:c0:b9:05:58:35:fa:3c:af:0a:bb:37:cf:59:68:4c:93:
+        f9:89:ee:42:d8:9b:2e:d0:82:bc:92:ff:06:a0:b5:7b:b9:ab:
+        1d:31:db:b8:fb:5d:5d:a2:30:17:41:33:a0:19:bd:48:cc:d8:
+        cf:7a:a6:be:44:9f:2c:55:58:de:bd:ba:74:bd:e9:b9:20:e2:
+        09:ff:30:f6:01:ae:fc:be:09:1a:9c:2a:73:73:bb:6e:a2:80:
+        e5:fc:c2:d1:cb:e9:82:c5:6b:47:53:f2:c2:f0:06:b8:71:fe:
+        4d:3e:ca:b8:dc:54:c2:a8:d5:9d:14:f9:17:18:15:eb:22:10:
+        a9:ba:f7:0b:ae:d2:0d:88:42:77:75:ed:36:d2:56:88:34:9c:
+        a0:e0:21:41:8a:84:77:e6:e3:0f:3e:76:dd:98:cb:3d:86:ff:
+        f6:40:35:46
