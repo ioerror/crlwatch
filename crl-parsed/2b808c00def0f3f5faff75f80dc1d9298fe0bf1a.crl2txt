@@ -1,0 +1,62 @@
+issuer=/C=BE/O=KBC Group/CN=KBC Group Server CA
+SHA1 Fingerprint=24:B4:26:69:CE:D8:81:27:61:78:AD:D0:B7:00:9B:D9:2D:CE:4F:04
+87fc3939
+crlNumber=09F5
+lastUpdate=Mar 18 05:11:20 2011 GMT
+nextUpdate=Mar 18 23:11:20 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=BE/O=KBC Group/CN=KBC Group Server CA
+        Last Update: Mar 18 05:11:20 2011 GMT
+        Next Update: Mar 18 23:11:20 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                2549
+Revoked Certificates:
+    Serial Number: 0937
+        Revocation Date: Jun 29 15:37:30 2009 GMT
+    Serial Number: 0B57
+        Revocation Date: May  7 10:43:00 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                May  7 10:42:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 0E1A
+        Revocation Date: Jun 15 16:01:49 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 15 16:01:00 2010 GMT
+    Serial Number: 0E1B
+        Revocation Date: Jun 15 16:01:49 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 15 16:01:00 2010 GMT
+    Serial Number: 1107
+        Revocation Date: Oct  8 21:29:03 2010 GMT
+    Serial Number: 1108
+        Revocation Date: Oct  8 21:29:14 2010 GMT
+    Serial Number: 1109
+        Revocation Date: Oct  8 21:29:24 2010 GMT
+    Serial Number: 11AF
+        Revocation Date: Nov 15 10:38:09 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov 15 10:37:00 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        49:b6:7b:cc:26:bb:5c:0b:2f:cc:76:60:b0:ed:31:47:4b:b1:
+        b9:fb:21:7c:36:3f:e9:7d:41:4e:ec:59:19:78:0c:e1:2f:57:
+        6a:be:54:a2:d2:65:13:e0:1a:c0:3b:01:5b:94:13:f2:60:41:
+        f8:ae:39:79:bd:ba:9f:73:ac:17:de:1f:70:a5:ed:bc:98:a5:
+        9b:ba:e0:c9:8f:65:66:42:68:76:84:34:e7:28:6b:11:4d:a2:
+        ce:19:9d:27:1d:3f:ad:8a:95:f3:be:26:18:1e:41:8b:2b:90:
+        1c:98:84:05:e8:9a:89:4a:b5:d0:59:11:11:53:a2:f2:d8:11:
+        c8:10:6b:a4:b8:4e:14:2d:4b:8b:e7:37:aa:79:a9:3f:fe:97:
+        c1:d5:cc:ca:c1:0b:71:f2:c0:29:4e:1b:fc:9c:4d:1a:36:8f:
+        c0:d6:2f:59:00:5f:77:bc:47:5a:50:51:3d:b6:9a:7d:7a:5d:
+        0a:01:38:0b:f4:87:13:9e:df:2c:08:82:9d:b3:47:9d:d8:85:
+        43:b1:40:b5:59:9b:c9:7b:5b:5c:4e:bd:63:e0:da:c4:38:fb:
+        50:e0:1d:75:14:d5:d8:58:2b:7f:db:f9:b4:60:f1:33:6b:c3:
+        e4:93:3f:55:7d:36:9d:be:61:bb:59:e4:28:db:8b:e8:41:55:
+        c6:3d:5b:a0
