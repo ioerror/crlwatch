@@ -1,0 +1,36 @@
+issuer=/C=DE/ST=Sachsen/L=Dresden/O=Leibniz-Institut fuer Polymerforschung Dresden e.V./CN=IPF CA - G01/emailAddress=pki@ipfdd.de
+SHA1 Fingerprint=A2:F9:E2:19:3E:A8:FA:E7:DA:EF:E8:3A:3F:B1:F8:D5:76:05:3A:E4
+55d45f59
+crlNumber=EC
+lastUpdate=Mar 14 08:41:07 2011 GMT
+nextUpdate=Apr 13 08:41:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Sachsen/L=Dresden/O=Leibniz-Institut fuer Polymerforschung Dresden e.V./CN=IPF CA - G01/emailAddress=pki@ipfdd.de
+        Last Update: Mar 14 08:41:07 2011 GMT
+        Next Update: Apr 13 08:41:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                236
+Revoked Certificates:
+    Serial Number: 0A4C7DA2
+        Revocation Date: Apr 24 12:51:01 2007 GMT
+    Serial Number: 0B34323B
+        Revocation Date: Aug 15 13:06:08 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        28:61:5f:51:c6:93:ab:50:a5:10:79:61:14:c4:b3:5a:f1:a8:
+        cc:e7:ea:89:02:9a:fb:34:6c:d1:ed:dd:f3:80:80:06:83:a6:
+        05:52:bf:85:d9:10:fd:3f:20:f5:24:0a:da:d7:f8:ac:23:ef:
+        bd:de:4f:6f:3a:63:ab:06:f1:3c:69:71:d7:60:e5:72:ec:af:
+        a9:36:c0:40:3a:1d:d5:e8:c1:a2:ce:2a:98:8d:6e:29:7b:5d:
+        ab:12:ea:0e:43:5d:aa:3d:78:8d:82:6a:f4:6c:ce:00:db:16:
+        10:0b:08:31:76:b9:7d:26:7c:b3:4a:84:94:cb:2c:44:1f:c3:
+        36:e0:e1:7a:b3:d3:49:56:a8:d4:ae:a9:3f:f4:0e:64:92:ce:
+        96:92:22:79:81:ee:1e:99:29:94:3d:2a:a3:27:fc:2f:6f:67:
+        0e:63:66:50:44:45:93:ed:c2:4c:10:f6:5e:58:72:f1:42:14:
+        1e:a7:2d:02:cf:07:ae:b8:ac:42:8e:63:a0:48:8c:1f:1f:9a:
+        2c:6c:f2:d7:b7:e4:23:51:4d:d7:9b:88:b6:8e:de:0a:e1:f8:
+        a2:84:30:0d:7a:12:2d:6f:4e:5a:2a:d6:c3:2e:e2:5c:b2:30:
+        4d:a1:13:01:8a:56:63:8a:ad:91:33:4f:ce:98:76:33:00:01:
+        14:bf:d1:81
