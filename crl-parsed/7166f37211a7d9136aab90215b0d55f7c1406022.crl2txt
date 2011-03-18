@@ -1,0 +1,39 @@
+issuer=/C=JP/O=CENTRAL SECURITY PATROLS CO., LTD./CN=CSP SSL Service CA
+SHA1 Fingerprint=57:3D:7A:7C:E3:3D:F2:78:FC:02:D0:01:5F:E4:72:9D:59:C7:99:F9
+8481f726
+crlNumber=063E
+lastUpdate=Mar 18 05:37:50 2011 GMT
+nextUpdate=Mar 22 05:37:50 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=JP/O=CENTRAL SECURITY PATROLS CO., LTD./CN=CSP SSL Service CA
+        Last Update: Mar 18 05:37:50 2011 GMT
+        Next Update: Mar 22 05:37:50 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:49:36:4C:AF:E8:1B:72:BF:2B:FB:7C:7C:68:01:E7:32:9B:73:EB:F2
+
+            X509v3 CRL Number: 
+                1598
+Revoked Certificates:
+    Serial Number: 4D56E9300BB154A47D1B5D2759B0E7AA
+        Revocation Date: Nov 22 01:49:04 2010 GMT
+    Serial Number: 26F0545830D99B64DA5EE739C19BE149
+        Revocation Date: Dec 28 17:38:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        64:8d:62:1b:f7:ab:73:34:60:db:a8:ca:27:69:c5:3f:db:64:
+        33:95:d9:b5:f5:81:63:31:39:b0:8c:6f:5d:a1:54:b9:b8:d3:
+        a5:73:e2:b6:db:08:33:6d:3b:b0:1d:5a:b7:89:72:55:ff:07:
+        d9:c8:35:83:45:85:f6:cb:ac:80:ea:91:55:c6:92:0a:6c:e3:
+        bc:1d:f1:9a:38:0a:16:0f:90:60:44:0d:6b:09:89:f1:3b:1a:
+        b1:47:f1:d3:5d:f7:dd:56:40:9f:26:cb:a1:51:96:cb:5a:75:
+        65:5e:b5:9d:f0:00:f2:56:9d:1d:d3:cb:f4:15:24:3c:5c:d5:
+        af:c8:0f:91:63:f3:9c:e2:f5:a4:d2:18:e8:db:13:ce:ca:c3:
+        6e:d4:ef:eb:78:d7:fa:b7:55:68:1f:5a:83:af:66:c0:86:26:
+        bc:0e:34:62:76:61:74:75:f7:98:bd:0b:0f:54:7b:89:28:c7:
+        50:fc:cb:1b:42:d4:b2:e4:fa:93:07:d0:c0:22:20:c7:b0:fe:
+        16:b0:7a:d7:62:cb:fe:ec:b8:a1:a7:af:8e:4d:60:75:9e:ba:
+        56:31:c3:69:d7:84:35:88:79:cb:f7:33:31:14:78:db:45:bb:
+        71:e6:f1:95:d9:da:b1:9b:21:c0:f8:7b:c4:d0:9c:39:ce:e6:
+        fb:88:71:a9
