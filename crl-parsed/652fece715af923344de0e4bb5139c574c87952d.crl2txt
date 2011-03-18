@@ -1,0 +1,46 @@
+issuer=/C=DE/ST=Berlin/L=Berlin/O=Beuth Hochschule fuer Technik Berlin/OU=Hochschulrechenzentrum/CN=Beuth Hochschule Berlin CA/emailAddress=pki@beuth-hochschule.de
+SHA1 Fingerprint=3D:A5:71:CA:04:2A:B6:DF:E8:A5:54:9F:48:ED:7D:47:53:AB:CC:D7
+74de6756
+crlNumber=55
+lastUpdate=Mar 14 07:12:20 2011 GMT
+nextUpdate=Apr 13 07:12:20 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Berlin/L=Berlin/O=Beuth Hochschule fuer Technik Berlin/OU=Hochschulrechenzentrum/CN=Beuth Hochschule Berlin CA/emailAddress=pki@beuth-hochschule.de
+        Last Update: Mar 14 07:12:20 2011 GMT
+        Next Update: Apr 13 07:12:20 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                85
+Revoked Certificates:
+    Serial Number: 0F8B8252
+        Revocation Date: Feb  5 13:52:05 2010 GMT
+    Serial Number: 0F8B8CDE
+        Revocation Date: Feb  5 13:52:06 2010 GMT
+    Serial Number: 10245129
+        Revocation Date: Jun 29 14:46:07 2010 GMT
+    Serial Number: 10270B96
+        Revocation Date: Jun 29 14:46:06 2010 GMT
+    Serial Number: 10271E96
+        Revocation Date: Jun 29 14:46:08 2010 GMT
+    Serial Number: 1049808D
+        Revocation Date: Jun 29 14:41:06 2010 GMT
+    Serial Number: 114BEEBB
+        Revocation Date: Jan 12 18:33:06 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        3f:0b:08:77:0a:09:32:6c:a3:ab:82:0a:02:ca:64:5e:f4:7c:
+        4a:00:6c:45:49:25:1f:26:cb:57:c2:3b:1b:49:e6:2f:5a:5b:
+        25:6d:c6:3b:0e:09:db:09:4c:ee:b6:34:b2:7a:67:4c:77:ca:
+        44:e1:7c:10:af:38:08:8d:f1:ac:5c:30:8e:75:0f:ca:77:ed:
+        ad:8b:ad:d6:9f:e6:e8:f9:79:90:e0:0d:bb:eb:8f:21:42:74:
+        8a:e2:43:fe:2f:1b:3b:9c:12:fe:54:c2:85:10:b9:86:c1:55:
+        c1:10:88:62:84:4e:34:85:b3:2d:2d:69:05:bb:46:96:fb:9a:
+        af:6d:87:0f:3a:99:2a:cf:e7:b3:18:9a:1d:fe:da:a9:e4:4c:
+        eb:5e:61:a8:d7:02:c0:55:05:73:70:83:42:4d:c2:3d:cc:33:
+        95:6b:24:ea:99:33:8b:dc:9b:64:20:42:42:c9:0f:82:77:3d:
+        31:a2:38:3a:57:e4:36:78:fb:22:4f:a8:66:03:2d:ed:67:ca:
+        29:46:fd:70:66:90:5e:41:04:b3:6d:e0:11:f1:d2:07:47:4f:
+        7b:e6:3e:99:c7:4d:26:81:42:d9:97:43:7a:c0:b6:5d:b2:51:
+        9a:03:97:a3:71:f0:12:56:19:3a:e0:31:0e:e8:63:7b:e9:72:
+        a9:b0:e0:01
