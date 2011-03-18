@@ -1,0 +1,63 @@
+issuer=/C=FR/O=Dhimyotis/CN=Certigna
+SHA1 Fingerprint=C3:80:65:79:15:22:51:61:DD:EB:AF:4D:B9:65:94:46:D4:8B:7A:4C
+fde84897
+crlNumber=06
+lastUpdate=Jun 16 11:56:32 2010 GMT
+nextUpdate=Jun 16 11:56:32 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: /C=FR/O=Dhimyotis/CN=Certigna
+        Last Update: Jun 16 11:56:32 2010 GMT
+        Next Update: Jun 16 11:56:32 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:1A:ED:FE:41:39:90:B4:24:59:BE:01:F2:52:D5:45:F6:5A:39:DC:11
+                DirName:/C=FR/O=Dhimyotis/CN=Certigna
+                serial:FE:DC:E3:01:0F:C9:48:FF
+
+            X509v3 CRL Number: 
+                6
+Revoked Certificates:
+    Serial Number: 01
+        Revocation Date: Jun 20 17:14:54 2008 GMT
+    Serial Number: 07
+        Revocation Date: Sep  5 13:50:54 2008 GMT
+    Serial Number: 08
+        Revocation Date: Sep  5 13:50:48 2008 GMT
+    Serial Number: 09
+        Revocation Date: Jun 20 17:14:36 2008 GMT
+    Serial Number: 0A
+        Revocation Date: Jun 20 17:14:41 2008 GMT
+    Serial Number: 0B
+        Revocation Date: Jun 20 17:14:44 2008 GMT
+    Serial Number: 0C
+        Revocation Date: Jun 20 17:14:49 2008 GMT
+    Serial Number: 0D
+        Revocation Date: Jun 20 17:14:52 2008 GMT
+    Serial Number: 0E
+        Revocation Date: Sep  5 13:50:40 2008 GMT
+    Serial Number: 0F
+        Revocation Date: Sep  5 13:54:46 2008 GMT
+    Serial Number: 10
+        Revocation Date: Sep  5 13:54:38 2008 GMT
+    Serial Number: 11
+        Revocation Date: Sep  5 13:54:52 2008 GMT
+    Serial Number: 12
+        Revocation Date: Sep  5 13:54:31 2008 GMT
+    Signature Algorithm: sha256WithRSAEncryption
+        4a:e8:5e:64:a1:ac:6c:71:eb:a7:b0:87:c6:a1:8a:8e:74:db:
+        d8:d9:8c:93:9b:26:f0:99:c2:9c:8e:a2:5f:98:34:f0:f4:b3:
+        97:44:23:9d:47:5b:cc:78:98:87:bf:b7:23:50:a1:11:f0:6a:
+        3a:ee:06:e7:fb:f4:f9:28:b7:00:9b:ec:6e:4a:21:e4:e1:b8:
+        4b:4f:b1:60:a9:be:58:e7:16:e8:a7:e3:31:89:c3:0d:59:7e:
+        32:a1:5f:05:ed:47:9f:d3:d3:1e:d5:e9:56:f6:19:7c:e0:ec:
+        71:36:7f:f5:10:6e:56:03:17:f4:e1:01:2b:14:fa:28:f0:d6:
+        95:af:cc:28:10:c9:0b:26:71:74:d5:5a:45:e5:10:6d:d4:00:
+        84:da:95:d3:fe:54:c9:6a:a9:c9:9b:0d:ca:9d:63:f2:87:d0:
+        e4:5e:d8:af:b4:3a:af:ba:89:3a:77:2c:34:68:32:f8:60:c1:
+        5c:fd:a7:ff:0d:aa:1b:bb:05:93:8a:27:52:53:51:35:fd:6a:
+        22:2f:2d:78:cd:e2:50:c8:ba:cb:18:44:8b:76:f1:3c:86:0e:
+        2f:3d:4a:70:0c:35:de:26:f1:cd:0c:1a:f2:b3:e1:81:63:83:
+        34:ac:60:1c:2c:95:3b:db:6b:a6:68:df:35:24:0d:e0:e1:90:
+        f5:72:05:ad
