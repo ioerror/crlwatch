@@ -1,0 +1,50 @@
+issuer=/C=DE/ST=Bayern/L=Muenchen/O=Bayerische Staatsbibliothek/OU=Bayerische Staatsbibliothek/CN=BSB-CA/emailAddress=pki@bsb-muenchen.de
+SHA1 Fingerprint=41:07:C7:E3:9F:73:96:8A:89:4E:0F:BF:A7:30:25:C3:BE:E7:53:40
+da6b2faa
+crlNumber=E9
+lastUpdate=Mar 14 07:10:14 2011 GMT
+nextUpdate=Apr 13 07:10:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Muenchen/O=Bayerische Staatsbibliothek/OU=Bayerische Staatsbibliothek/CN=BSB-CA/emailAddress=pki@bsb-muenchen.de
+        Last Update: Mar 14 07:10:14 2011 GMT
+        Next Update: Apr 13 07:10:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                233
+Revoked Certificates:
+    Serial Number: 0CB7B881
+        Revocation Date: Nov 27 13:21:31 2009 GMT
+    Serial Number: 0CB7BB11
+        Revocation Date: Nov 27 13:21:34 2009 GMT
+    Serial Number: 0CDF1ED4
+        Revocation Date: Nov 27 13:21:37 2009 GMT
+    Serial Number: 0E90CA41
+        Revocation Date: Aug  7 08:48:06 2009 GMT
+    Serial Number: 0E9B7262
+        Revocation Date: Nov 27 13:21:40 2009 GMT
+    Serial Number: 0E9B7263
+        Revocation Date: Nov 27 13:21:42 2009 GMT
+    Serial Number: 0E9B88A6
+        Revocation Date: Nov 27 13:21:45 2009 GMT
+    Serial Number: 0F0621A3
+        Revocation Date: Nov 27 13:21:47 2009 GMT
+    Serial Number: 106606F4
+        Revocation Date: Jul 28 14:07:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        7c:54:81:13:05:b4:86:b2:ff:cd:63:70:e3:11:e4:75:b4:3a:
+        55:83:3a:00:dd:60:77:f4:5a:2c:62:3f:08:73:2a:82:aa:74:
+        8b:c6:f9:01:d4:15:54:fd:34:e2:9f:c1:b1:0c:65:73:7f:bc:
+        2f:b8:92:92:10:a2:07:84:1e:7d:d9:ba:5a:5b:94:b2:30:da:
+        ef:f0:fa:3f:f5:f3:51:7d:7b:03:c0:c5:90:1d:d1:a5:d0:0d:
+        18:75:6d:54:32:e1:eb:27:8f:af:32:85:7b:14:4d:4d:ab:3b:
+        75:61:b9:b2:31:26:c1:b9:a0:ae:80:0f:cb:0b:a0:7d:28:02:
+        13:25:1f:34:eb:7b:c7:ae:92:b6:ff:b2:6d:f8:8a:5f:a9:2e:
+        3d:c6:21:f9:05:af:3f:73:5f:ef:14:53:ec:77:9e:d6:f8:2c:
+        b0:5f:dc:e2:3d:f6:6a:e9:0c:21:77:79:4c:61:a0:a2:02:b7:
+        5b:c8:b8:97:78:25:2b:29:ab:66:f6:ed:c1:69:b3:6f:53:42:
+        4a:bd:66:f5:bf:83:76:d0:ea:1b:95:83:a2:56:47:b3:fa:78:
+        41:b6:fd:55:81:4b:99:bf:e4:62:84:12:8e:d4:9b:bf:f3:4e:
+        c4:f1:64:b9:25:d8:07:30:55:9a:06:fc:53:f9:55:bd:9e:2b:
+        3a:fa:1c:c5
