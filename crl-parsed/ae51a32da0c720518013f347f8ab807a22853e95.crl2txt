@@ -1,0 +1,50 @@
+issuer=/C=GB/O=Trustis Limited/OU=Trustis FPS/CN=Trustis FPS Enterprise Issuing Authority
+SHA1 Fingerprint=35:5E:99:51:D1:13:DE:95:30:91:7C:A1:BB:AC:6E:5C:1C:A0:9D:28
+c0f6ee84
+crlNumber=B083
+lastUpdate=Mar 18 09:00:00 2011 GMT
+nextUpdate=Mar 19 09:00:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=GB/O=Trustis Limited/OU=Trustis FPS/CN=Trustis FPS Enterprise Issuing Authority
+        Last Update: Mar 18 09:00:00 2011 GMT
+        Next Update: Mar 19 09:00:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:07:D3:44:AB:FF:30:C2:F3:DD:B7:C1:A1:3A:6E:82:C6:EE:3A:E5:73
+
+            X509v3 CRL Number: 
+                45187
+Revoked Certificates:
+    Serial Number: 7B9354D455E112C43FD3253BE6388614
+        Revocation Date: Jan  5 16:40:02 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan  5 16:40:02 2011 GMT
+    Serial Number: 8F6E99DF8C245D50FDC6B31A60BAC31B
+        Revocation Date: Apr 23 10:26:52 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Apr 23 10:26:52 2009 GMT
+    Serial Number: D1657C1D1B7EE83F6AF619976035682E
+        Revocation Date: Mar 10 10:11:08 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar 10 10:11:07 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        27:24:dc:31:6f:d9:0d:91:6c:b9:d7:36:e3:3e:26:41:e9:84:
+        36:cf:b8:92:7c:8e:75:10:29:6c:31:5f:fe:cd:2d:d3:39:09:
+        78:00:0d:f4:cb:2c:41:7c:b9:41:c4:bb:03:84:75:3d:b8:c8:
+        13:8c:4a:c3:80:15:63:e3:b2:3d:67:c5:ef:af:b1:9a:fc:12:
+        c1:19:7f:75:6d:3f:57:95:e7:b0:64:df:40:29:97:56:66:8b:
+        78:d4:51:0b:93:79:dc:27:a8:ed:f9:4e:86:8f:6d:b1:65:53:
+        69:a5:69:87:fb:ef:4e:3b:27:2e:0e:d3:2d:9f:e7:9c:6a:dd:
+        2f:0c:59:66:e0:89:6d:f7:c7:42:d2:da:95:37:04:25:e7:fc:
+        63:ec:ec:9d:aa:d8:27:94:30:aa:eb:7c:70:9e:9d:19:52:80:
+        20:f9:82:d7:ea:cb:90:aa:1d:72:d4:c9:fd:84:1e:0d:4a:93:
+        dc:79:20:71:d0:ee:0d:5b:e4:97:84:31:25:07:df:02:22:1c:
+        c7:8b:9c:01:88:d5:75:bc:25:f1:7a:ad:65:df:9c:46:59:d5:
+        ac:c0:10:83:28:47:83:c9:18:39:e0:65:1b:45:0b:85:ec:9e:
+        bf:c6:ab:be:f4:cf:c5:db:d7:80:3b:9c:bc:02:f5:c2:cf:ea:
+        66:d7:45:d0
