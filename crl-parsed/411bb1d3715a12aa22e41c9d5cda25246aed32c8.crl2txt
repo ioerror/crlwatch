@@ -1,0 +1,69 @@
+issuer=/O=Dell Inc./CN=Dell Inc. Enterprise CA
+SHA1 Fingerprint=6A:91:53:5F:DC:43:24:04:C2:05:4D:48:5B:8A:C6:66:5F:12:38:C4
+d5f7236e
+crlNumber=17
+lastUpdate=Feb  9 16:59:49 2011 GMT
+nextUpdate=Aug 10 05:19:49 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=Dell Inc./CN=Dell Inc. Enterprise CA
+        Last Update: Feb  9 16:59:49 2011 GMT
+        Next Update: Aug 10 05:19:49 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:A4:66:21:0E:01:41:B8:F5:E9:F1:71:C6:D0:38:D2:05:35:69:AA:13
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                23
+            1.3.6.1.4.1.311.21.4: 
+                .110809170949Z
+Revoked Certificates:
+    Serial Number: 7B6BA5AA00000000000E
+        Revocation Date: Jun 21 16:59:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 7B6BA57B00000000000D
+        Revocation Date: Jun 21 16:59:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 7B6B6ABD00000000000C
+        Revocation Date: Jun 21 16:59:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4329AAA2000000000009
+        Revocation Date: Jun 21 16:32:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4329AA73000000000008
+        Revocation Date: Jun 21 16:32:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4329AA44000000000006
+        Revocation Date: Jun 21 16:32:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        2a:d3:43:19:06:db:03:dd:ae:54:84:d8:fb:ae:48:65:02:af:
+        fe:a7:fb:0d:5a:6e:a1:92:20:58:fd:f7:c4:b3:4a:0e:57:f0:
+        76:04:89:23:39:d8:93:f7:91:91:65:9d:a1:06:f3:2c:79:fc:
+        16:ee:12:6c:4a:b1:20:19:51:00:e2:10:32:72:1e:68:87:3a:
+        bb:ed:49:10:66:3c:48:f4:17:6b:33:ab:d4:fc:60:8b:63:61:
+        20:56:33:0b:3f:a3:49:13:d2:87:b4:58:49:1b:a4:83:ca:6c:
+        cb:2d:22:c2:86:a6:84:80:d1:74:90:a0:06:e6:79:ed:be:7c:
+        8e:5f:17:4b:81:c0:02:9e:1a:1e:36:85:e6:44:3b:9a:25:f2:
+        c9:05:c1:fd:a3:2d:aa:da:fc:8b:5d:6a:ad:22:14:2f:f5:86:
+        5a:0f:5b:ba:0c:d5:b8:fd:63:9d:0f:43:b6:24:1b:55:e4:a7:
+        5e:3b:d2:6f:fc:8f:1f:64:34:1e:3c:b5:44:60:f0:87:bc:1b:
+        25:6b:8f:91:11:51:f4:bd:92:54:0d:de:d9:4e:2f:f9:7e:49:
+        5e:24:27:48:e7:a8:26:9c:1d:50:fd:ef:ae:89:bf:5a:40:3f:
+        99:59:2c:8a:9c:b8:3c:85:3d:dc:e9:42:21:58:1f:91:4c:1e:
+        e3:2e:61:fa
