@@ -1,0 +1,36 @@
+issuer=/C=DE/ST=Bayern/L=Ingolstadt/O=Hochschule fuer angewandte Wissenschaften FH Ingolstadt/OU=Rechenzentrum/CN=HAW Ingolstadt CA - G01/emailAddress=pki@haw-ingolstadt.de
+SHA1 Fingerprint=68:B2:F8:A6:7E:71:82:0D:28:26:8E:43:2A:5F:3F:6A:4E:0E:FD:DC
+1e963f88
+crlNumber=3F
+lastUpdate=Mar 14 08:04:16 2011 GMT
+nextUpdate=Apr 13 08:04:16 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Ingolstadt/O=Hochschule fuer angewandte Wissenschaften FH Ingolstadt/OU=Rechenzentrum/CN=HAW Ingolstadt CA - G01/emailAddress=pki@haw-ingolstadt.de
+        Last Update: Mar 14 08:04:16 2011 GMT
+        Next Update: Apr 13 08:04:16 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                63
+Revoked Certificates:
+    Serial Number: 0F8BB0BB
+        Revocation Date: Oct 14 16:43:08 2010 GMT
+    Serial Number: 10A4632B
+        Revocation Date: Sep  7 09:13:21 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        3e:27:de:ae:ae:e4:22:24:37:f0:0f:93:2b:f7:37:56:e8:a0:
+        ad:55:16:a3:d7:cd:25:88:bc:f5:70:04:f5:4d:51:fc:b0:b8:
+        c3:25:06:88:63:eb:4a:b3:35:e2:c1:11:d6:62:37:f1:06:4f:
+        63:cb:58:83:26:68:4b:c4:54:eb:5b:08:1f:0b:ed:af:1e:fd:
+        7f:77:b0:5b:48:cf:71:38:12:0d:4b:77:62:64:18:67:b8:2e:
+        c9:1e:f3:5e:e1:99:3e:1c:73:88:66:bd:66:3a:97:48:53:73:
+        99:18:ef:1c:97:bc:94:4e:ab:ea:28:ed:1f:68:a0:00:70:05:
+        4f:cf:07:ea:a9:f3:bd:cc:0c:fd:a4:f2:41:5d:fb:e4:b9:e0:
+        63:3a:c3:b9:8a:68:3a:51:15:cc:48:59:d3:0d:fa:1f:da:d5:
+        2a:7a:51:31:b3:56:35:4d:5b:3f:2c:c5:9a:d2:64:7a:43:c4:
+        73:6a:73:6a:5b:ce:9a:02:bf:e4:ea:bd:f3:ea:dc:ed:68:ba:
+        79:55:b5:e7:12:41:ce:52:a0:ac:9b:1c:ca:89:aa:78:36:ac:
+        7a:35:04:c2:f5:47:1a:53:9c:79:bf:db:0c:b0:8c:1e:52:c0:
+        0b:7f:12:92:69:e6:5d:59:16:eb:20:74:e9:e9:cd:01:b2:22:
+        4a:5d:97:4c
