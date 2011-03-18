@@ -1,0 +1,46 @@
+issuer=/C=DE/O=Bauhaus-Universitaet Weimar/OU=SCC/CN=BU Weimar CA - G02/emailAddress=pki@uni-weimar.de
+SHA1 Fingerprint=4D:57:43:7A:9E:7C:64:E6:3E:10:D6:37:B4:12:2E:5C:EA:59:3D:3E
+c952266f
+crlNumber=010B
+lastUpdate=Mar 14 09:43:34 2011 GMT
+nextUpdate=Apr 13 09:43:34 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Bauhaus-Universitaet Weimar/OU=SCC/CN=BU Weimar CA - G02/emailAddress=pki@uni-weimar.de
+        Last Update: Mar 14 09:43:34 2011 GMT
+        Next Update: Apr 13 09:43:34 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                267
+Revoked Certificates:
+    Serial Number: 0C54BD43
+        Revocation Date: Oct  8 05:11:10 2008 GMT
+    Serial Number: 0C5DDCD0
+        Revocation Date: Jul 24 05:42:10 2008 GMT
+    Serial Number: 0CA6A0F1
+        Revocation Date: Jul 25 07:56:09 2008 GMT
+    Serial Number: 0F7F748D
+        Revocation Date: Jan 27 12:44:20 2010 GMT
+    Serial Number: 0FF8E5ED
+        Revocation Date: Dec 21 10:01:17 2010 GMT
+    Serial Number: 112FF797
+        Revocation Date: Dec 22 10:53:19 2010 GMT
+    Serial Number: 1170C32D
+        Revocation Date: Mar  2 10:41:09 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        36:ee:fa:a7:32:16:7e:93:93:a3:bb:12:33:38:b1:1f:0b:c2:
+        3c:d9:53:25:1d:cf:ee:75:ea:f2:6a:76:07:ce:29:9a:45:aa:
+        ab:cc:25:2a:13:c9:a5:55:5f:42:ac:f7:cd:87:b7:fe:71:38:
+        3b:90:0d:be:b4:a2:a6:f9:f9:8c:ea:8e:ad:1d:97:c8:f9:18:
+        60:fa:41:0d:2d:1e:80:70:1e:d0:44:cb:4c:74:06:1e:b9:89:
+        ad:f9:84:19:c3:4d:d4:3b:de:3c:2a:cf:76:9a:0c:99:60:e5:
+        61:20:29:54:20:e1:be:6e:ef:26:cb:5e:8f:cd:20:66:6b:b0:
+        54:29:72:4d:27:52:1b:79:11:06:d6:a6:0c:50:e7:d4:2e:38:
+        bd:17:ee:ff:bc:8e:6c:ed:96:ff:d6:2f:6f:8f:01:64:4a:fd:
+        b2:ab:b7:4b:3a:76:0b:c3:6c:2b:69:33:da:52:61:0d:a6:36:
+        f8:d0:6c:1a:30:b7:83:06:10:43:07:d5:12:1e:16:ad:1d:c7:
+        9d:14:8a:5e:1b:95:06:64:24:32:e8:1c:27:22:97:6a:55:23:
+        4c:92:ea:53:f1:f1:51:3d:13:40:d1:63:07:f2:88:56:a3:e0:
+        6e:be:c4:59:4b:b7:dd:f6:c1:08:dc:f5:fd:f1:b5:53:0a:1d:
+        a2:1b:15:50
