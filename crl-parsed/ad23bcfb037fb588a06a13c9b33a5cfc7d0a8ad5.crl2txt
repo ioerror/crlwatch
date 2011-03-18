@@ -1,0 +1,38 @@
+issuer=/C=DE/ST=Brandenburg/L=Nuthetal/O=Deutsches Institut fuer Ernaehrungsforschung (DIfE)/OU=IT/CN=DIfE CA/emailAddress=ra@dife.de
+SHA1 Fingerprint=11:E7:2B:9C:5D:94:4B:2F:95:B7:AF:44:4E:F1:0E:9A:FF:EE:85:67
+e54ad912
+crlNumber=FC
+lastUpdate=Mar 14 07:26:07 2011 GMT
+nextUpdate=Apr 13 07:26:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Brandenburg/L=Nuthetal/O=Deutsches Institut fuer Ernaehrungsforschung (DIfE)/OU=IT/CN=DIfE CA/emailAddress=ra@dife.de
+        Last Update: Mar 14 07:26:07 2011 GMT
+        Next Update: Apr 13 07:26:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                252
+Revoked Certificates:
+    Serial Number: 0AEF6D27
+        Revocation Date: Jul 28 20:20:06 2009 GMT
+    Serial Number: 0C241E8B
+        Revocation Date: May 30 13:12:07 2008 GMT
+    Serial Number: 0C67655B
+        Revocation Date: Jul  8 11:48:47 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        91:f8:e3:7e:16:ba:8d:d7:91:00:34:0a:4d:f5:bd:45:31:f2:
+        c0:7f:4e:fe:4c:eb:02:2e:0e:24:d8:b2:0e:fc:42:e5:1a:35:
+        d3:12:6e:f0:cb:48:12:19:78:2d:ce:c8:28:b7:cb:94:01:39:
+        2c:f8:24:26:13:17:2d:98:f7:73:17:ef:23:6c:b3:ee:f9:e4:
+        1f:6b:a2:9c:8a:48:11:3a:b4:67:9c:75:0a:90:e7:41:d5:76:
+        a7:0a:b3:94:9d:f2:8a:e1:ad:f5:d8:17:92:7a:2a:ac:10:f3:
+        e4:48:05:ba:78:c7:e2:3c:65:9c:de:6a:b1:ef:49:35:66:92:
+        56:89:f8:12:90:e4:4b:41:f0:d4:fb:d3:b9:79:10:a8:3f:33:
+        f5:e9:2a:9f:72:d9:77:b4:20:c4:5d:e2:fa:35:3a:dc:e0:a1:
+        4c:64:87:ed:72:26:5e:87:3d:d3:8d:60:6b:99:b7:79:00:2e:
+        c4:44:c3:ed:72:7f:ba:f9:2c:d3:a2:81:f1:fc:8c:d3:de:b0:
+        36:f2:16:4c:15:7b:5b:dd:c8:75:52:05:fe:91:e8:d3:68:d5:
+        5b:de:da:8a:2a:b0:39:d6:a4:af:07:1d:3c:12:3a:21:b0:ca:
+        ff:a8:8b:96:0a:59:14:c3:c2:c6:99:fc:3e:de:b3:f1:d9:27:
+        a3:bf:08:ea
