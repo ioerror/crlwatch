@@ -1,0 +1,45 @@
+issuer=/C=FR/O=Dhimyotis/OU=0002 481463081/CN=Certigna SSL PRIS/serialNumber=25
+SHA1 Fingerprint=A0:38:7A:DF:8A:F7:79:18:3E:0A:D1:7C:E9:F6:B8:41:22:07:56:77
+ae8ac3f4
+crlNumber=06A7
+lastUpdate=Mar 17 23:00:29 2011 GMT
+nextUpdate=Mar 18 23:00:29 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: /C=FR/O=Dhimyotis/OU=0002 481463081/CN=Certigna SSL PRIS/serialNumber=25
+        Last Update: Mar 17 23:00:29 2011 GMT
+        Next Update: Mar 18 23:00:29 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:93:CD:26:DC:DA:AB:25:8F:06:20:A7:D7:F1:D2:03:AB:FF:AE:40:6B
+                DirName:/C=FR/O=Dhimyotis/CN=Certigna
+                serial:19
+
+            X509v3 CRL Number: 
+                1703
+Revoked Certificates:
+    Serial Number: 06
+        Revocation Date: Mar 27 09:50:55 2009 GMT
+    Serial Number: 07
+        Revocation Date: Dec  8 14:21:02 2009 GMT
+    Serial Number: 0A
+        Revocation Date: Jul 16 09:47:10 2010 GMT
+    Serial Number: 0B
+        Revocation Date: Nov 15 11:31:07 2010 GMT
+    Signature Algorithm: sha256WithRSAEncryption
+        ba:2b:f7:09:3f:9e:8d:f2:54:3c:e4:19:ad:9e:26:65:1e:71:
+        29:88:a8:a6:44:dd:5b:2a:16:1a:8a:61:c5:31:83:13:10:7a:
+        c8:a2:e7:19:8e:fb:61:86:42:1f:e0:4d:72:b8:cc:99:b1:f6:
+        c4:b5:d4:02:ba:1b:98:42:0b:06:5f:e4:1a:df:1a:67:58:1c:
+        eb:41:a7:a6:20:f2:53:ce:ef:af:32:4f:4c:31:bc:91:4e:8b:
+        98:d0:bd:cb:5e:8d:09:bf:22:3d:17:e7:43:db:20:aa:6e:36:
+        06:3d:1c:ac:a7:c6:05:68:96:92:a0:6a:77:1a:74:b8:73:f6:
+        21:77:53:fd:18:23:e6:3a:35:67:85:36:f7:f4:83:02:87:60:
+        21:d4:94:39:fa:98:8a:ae:bd:4b:b4:fc:8c:a5:49:7e:59:42:
+        2d:88:e2:45:6d:c6:fb:0d:d7:71:49:28:e7:6e:b4:99:45:8b:
+        dd:34:55:c7:8c:4b:06:26:1c:21:3c:e9:15:59:19:1e:df:6e:
+        2c:4c:2f:8e:06:95:93:7b:bb:84:ab:43:92:4c:3f:ce:06:be:
+        fb:f3:1b:d0:e6:b6:cd:13:e8:4f:96:7b:8e:dc:c7:18:69:a3:
+        1a:76:ef:74:04:7d:27:d3:db:c4:b0:4a:7d:36:48:92:0b:85:
+        75:87:6d:f7
