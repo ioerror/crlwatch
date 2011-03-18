@@ -1,0 +1,53 @@
+issuer=/C=AU/O=AusCERT/OU=Certificate Services/CN=AusCERT SGC Server CA
+SHA1 Fingerprint=3C:A5:F3:A3:10:B0:54:10:3A:12:A3:3E:51:3B:50:55:97:84:38:5C
+e41337e9
+crlNumber=01FC
+lastUpdate=Mar 17 22:54:29 2011 GMT
+nextUpdate=Mar 21 22:54:29 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=AU/O=AusCERT/OU=Certificate Services/CN=AusCERT SGC Server CA
+        Last Update: Mar 17 22:54:29 2011 GMT
+        Next Update: Mar 21 22:54:29 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:16:0F:1C:9D:4F:6E:49:22:DE:33:CD:32:8B:34:0A:76:DB:AD:06:35
+
+            X509v3 CRL Number: 
+                508
+Revoked Certificates:
+    Serial Number: 410DEBA88F75EFA9216150E43BD66B52
+        Revocation Date: Feb  9 00:32:14 2010 GMT
+    Serial Number: 5D4A7EA75109061735061D55B9EDF047
+        Revocation Date: Feb  9 00:35:29 2010 GMT
+    Serial Number: 4CC395D686BB9576421669F6B17CA629
+        Revocation Date: May 21 00:49:59 2010 GMT
+    Serial Number: 82DDF36866354A67D693C8A87F647C14
+        Revocation Date: Jul 19 05:27:51 2010 GMT
+    Serial Number: 931C9DA54DE77482C3A2DB0D8990D5DA
+        Revocation Date: Aug 26 04:23:37 2010 GMT
+    Serial Number: ED7776F4C9C0251618165AFA2F1D0B98
+        Revocation Date: Oct  5 05:29:42 2010 GMT
+    Serial Number: 4080B0959FDE434CAABA9471F5EE4D3A
+        Revocation Date: Oct  5 05:33:05 2010 GMT
+    Serial Number: 8B88CB5E96882A4A8E649BA3B46D814F
+        Revocation Date: Dec 16 05:24:17 2010 GMT
+    Serial Number: 619F144D9A39C5832C1232ED4C35BE12
+        Revocation Date: Jan 13 03:35:30 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        ad:c5:6e:a5:48:df:c5:b4:4f:19:69:1a:38:41:24:9a:ca:a0:
+        1a:44:38:46:fc:e5:5c:48:3c:a1:b2:90:28:30:e8:f7:50:21:
+        4c:25:ca:5d:18:30:7a:07:ea:d1:20:f6:ce:b6:8b:85:b1:4e:
+        15:cf:73:6d:7e:cd:ca:97:25:a8:fc:64:6c:f4:32:f5:92:60:
+        6a:62:17:10:cf:e6:27:87:8f:8e:46:21:d2:42:e5:5c:90:31:
+        e2:9d:17:f9:84:e4:9c:2a:ce:47:2c:23:7f:28:b4:3c:c5:a6:
+        e9:44:e8:40:e9:3b:d8:b7:26:63:71:42:e4:1f:c9:ab:4e:99:
+        e9:3a:93:2e:d3:b9:38:ca:f1:bb:e4:ef:70:d6:8d:af:f7:c3:
+        5c:11:c0:9d:65:76:14:00:8e:70:88:da:2c:11:ae:f0:91:33:
+        58:03:51:5a:59:f3:3d:2e:4f:57:b7:90:51:f6:bd:c5:3b:81:
+        5b:d7:a2:7e:f6:21:dc:64:a9:3f:50:cd:28:58:2c:44:d5:c6:
+        75:ad:fb:ed:40:63:c6:45:d8:3d:0a:c4:d0:03:1a:fa:2d:1e:
+        e5:0b:3f:ce:a4:6b:0f:ea:d9:4a:08:8b:6d:7d:e9:99:d9:97:
+        1d:f1:ba:ea:95:7e:79:c1:44:cb:1c:0e:40:97:9b:73:c1:b0:
+        b7:3c:0b:1a
