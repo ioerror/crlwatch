@@ -1,0 +1,61 @@
+issuer=/C=UY/O=ADMINISTRACION NACIONAL DE CORREOS/OU=SERVICIOS ELECTRONICOS/CN=Correo Uruguayo - CA
+SHA1 Fingerprint=5D:5C:FA:60:06:D6:AC:4C:BC:AF:74:F3:56:49:08:51:93:F5:AD:D1
+1493bf3c
+crlNumber=0382
+lastUpdate=Mar 17 14:51:14 2011 GMT
+nextUpdate=Mar 20 14:51:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=UY/O=ADMINISTRACION NACIONAL DE CORREOS/OU=SERVICIOS ELECTRONICOS/CN=Correo Uruguayo - CA
+        Last Update: Mar 17 14:51:14 2011 GMT
+        Next Update: Mar 20 14:51:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                898
+            X509v3 Authority Key Identifier: 
+                keyid:25:8F:DF:43:2F:8E:6A:BA:0B:BE:46:5C:57:50:93:B7:51:BE:FC:D9
+
+            X509v3 Issuing Distrubution Point: critical
+                01./.-.+http://www.correo.com.uy/CorreoCert/anc.crl
+Revoked Certificates:
+    Serial Number: 137F1F107A3ABEFD4BA27D13761AAA58
+        Revocation Date: Aug 13 15:15:36 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 27371951C062FE754C8A869C8FB1D1DC
+        Revocation Date: Jan 20 14:51:09 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Signature Algorithm: sha1WithRSAEncryption
+        07:8b:16:4a:63:21:c2:f7:d9:9f:55:f2:2d:35:74:25:90:ec:
+        ca:01:13:0e:81:9f:66:d2:3a:69:a4:23:0f:2b:b6:43:6a:ff:
+        5c:69:47:01:5b:ae:01:3a:76:02:4f:99:27:30:ae:3a:4e:e2:
+        60:06:f2:13:8c:6d:3d:0a:dc:c8:dd:5a:10:10:89:50:99:fe:
+        b1:0a:93:2d:2f:c5:3c:5c:e6:74:00:68:4e:df:20:a9:59:f4:
+        10:47:75:5e:24:bd:7e:c1:84:d6:27:48:f2:6f:4f:14:20:24:
+        26:d3:79:b1:be:77:47:11:2c:08:cc:12:c8:e6:e9:17:ca:e6:
+        5e:aa:f2:5f:1b:ac:f7:92:a6:65:09:ce:a6:26:bb:af:46:f7:
+        11:23:46:85:53:99:62:69:24:79:d1:d8:bf:0e:90:94:0c:6e:
+        be:25:fe:b6:7a:c3:cf:a5:da:52:29:a5:49:01:16:27:af:01:
+        54:59:14:3c:70:ba:ef:52:d2:50:e8:56:41:dd:95:5d:92:83:
+        af:eb:69:0d:62:7c:51:53:d7:54:d1:3f:f7:1b:4b:30:c4:64:
+        15:bd:30:67:84:15:d0:6b:90:2d:b2:62:df:a6:aa:67:41:99:
+        04:11:b1:1c:6a:f4:64:7a:f5:3f:c3:ff:ce:7f:6c:ea:cb:66:
+        79:07:b2:0c:d8:10:a2:1d:2a:97:b2:94:92:4c:55:18:04:c9:
+        9f:19:58:78:2e:86:3f:0c:49:fb:87:88:06:7d:27:1c:5d:e3:
+        dd:90:94:61:a8:48:50:2a:1f:d3:70:e2:23:bf:de:32:ba:5e:
+        a8:89:7f:77:5f:1a:01:47:3e:eb:61:1d:df:6b:f4:47:17:3c:
+        23:e9:59:ed:e3:d2:6b:ff:66:ab:7a:ff:66:69:e3:d2:10:a4:
+        20:37:ab:a8:94:4a:0f:98:ef:e5:98:3c:12:75:a8:52:e9:ad:
+        14:9a:9d:54:12:2f:cf:c6:d6:0b:21:65:40:60:2a:01:b1:17:
+        a7:7a:a3:4f:ce:e8:0b:8a:c3:ca:72:d1:a6:73:e8:8f:c0:41:
+        e4:dd:3c:d4:e7:c8:4f:95:6e:a7:04:32:34:a7:b3:65:80:6c:
+        10:a5:cd:c6:07:a1:89:b6:b5:ec:b4:66:b3:05:3c:d4:04:2b:
+        1f:ec:f9:9a:53:fb:1d:86:c6:d5:ce:c5:dc:75:d8:be:00:67:
+        84:06:75:d1:3e:cf:08:da:02:a3:77:aa:67:01:e9:a8:d6:85:
+        eb:7a:72:92:af:18:af:49:05:a6:d1:60:8e:d9:41:d8:4d:02:
+        f3:de:0b:1b:7a:e3:00:d0:25:88:d7:8c:dd:7f:98:bf:ac:6d:
+        1c:1a:69:04:43:09:26:7f
