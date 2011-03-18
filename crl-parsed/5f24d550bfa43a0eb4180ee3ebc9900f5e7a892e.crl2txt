@@ -1,0 +1,58 @@
+issuer=/CN=ACEDICOM Servidores/OU=PKI/O=EDICOM/C=ES
+SHA1 Fingerprint=FF:10:7E:4E:E8:4D:5A:71:49:65:DC:B5:2D:F7:00:48:0B:05:BF:7D
+b656e908
+crlNumber=0432
+lastUpdate=Mar 17 07:50:47 2011 GMT
+nextUpdate=Mar 18 07:50:47 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /CN=ACEDICOM Servidores/OU=PKI/O=EDICOM/C=ES
+        Last Update: Mar 17 07:50:47 2011 GMT
+        Next Update: Mar 18 07:50:47 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:AD:C1:E8:40:30:96:01:16:52:02:41:38:3D:B6:51:F3:9E:82:46:4B
+
+            X509v3 CRL Number: 
+                1074
+            X509v3 Issuing Distrubution Point: 
+                06.4.2.0http://acedicom.edicomgroup.com/servidoresca.crl
+Revoked Certificates:
+    Serial Number: 6BA3DD8D81B22100
+        Revocation Date: Oct 20 14:52:35 2010 GMT
+    Serial Number: 4B2B0D1E5E97B05D
+        Revocation Date: Nov 18 22:29:58 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: sha1WithRSAEncryption
+        a9:f7:37:f3:e1:65:9a:8c:b7:10:ec:82:36:c8:68:e2:85:de:
+        25:38:0c:69:c1:e6:dd:94:88:b3:87:03:4e:34:b4:e9:23:76:
+        c1:0c:f5:32:f6:0f:6c:63:bd:fa:6b:e3:3e:a6:c3:82:4f:69:
+        e5:03:8b:00:10:c8:1e:29:e7:67:fe:fe:37:98:84:9c:20:b5:
+        30:3c:c9:97:04:51:2c:38:09:da:54:3d:37:c3:c2:4b:7b:0b:
+        4e:7b:db:c6:3f:13:38:74:a7:68:f0:af:15:ff:71:90:b9:c2:
+        e6:57:cc:78:ff:d5:3f:58:57:28:59:58:f6:eb:24:09:2c:b4:
+        d5:10:f0:86:1b:89:02:6a:e0:97:24:95:07:3f:f6:83:8b:7a:
+        ea:a5:4d:d7:57:52:40:66:d6:fb:0d:0c:06:f3:a7:c0:84:38:
+        41:06:e4:61:1d:22:a1:6a:bd:5d:8b:2b:e0:f2:aa:46:cc:a1:
+        14:4b:08:04:6a:41:16:47:1e:9b:94:50:ab:e6:e5:6e:f2:e5:
+        a2:cf:47:60:7c:a0:82:29:af:b4:16:20:ce:62:da:1c:9f:1f:
+        1c:19:25:cb:94:3a:d1:84:2f:8c:8b:ee:b7:15:84:57:f8:8f:
+        f5:7e:a0:b0:e7:7d:16:c7:0e:e2:ce:48:fd:ea:12:55:ff:13:
+        30:bb:e0:3b:c9:c7:8c:6d:38:53:d5:95:c7:db:1d:23:46:e7:
+        77:f2:e7:30:e2:16:70:d3:b0:e7:52:7b:67:65:1e:5b:bc:b8:
+        fe:e2:ad:71:80:89:cf:aa:87:13:dd:0b:cc:b6:bb:dd:84:97:
+        46:a6:56:23:5d:d4:6d:72:3f:4d:4a:98:d6:36:d1:65:8a:d6:
+        c0:09:fa:2a:72:b7:16:f2:2e:e5:42:96:1b:c9:51:1f:d2:8a:
+        68:bb:8d:8f:53:f4:52:ad:a3:3c:19:f8:f2:89:ba:59:5f:57:
+        f3:df:47:af:61:9b:2c:34:d5:9e:73:3f:c5:98:b3:46:8d:ce:
+        2e:5b:eb:1f:50:a6:42:7b:a4:f1:47:15:b7:fd:32:b2:31:83:
+        46:c1:ff:bd:9e:75:9e:2d:18:85:72:cf:3f:42:1c:03:38:d2:
+        d9:53:96:e9:43:b8:2f:b2:2d:34:55:12:25:4a:ac:94:08:55:
+        6a:0c:70:bb:1d:79:16:e2:d8:22:97:a8:61:1a:f4:f9:e7:07:
+        c3:37:0f:51:bd:66:d5:56:2c:bf:5e:dc:05:6a:de:10:26:78:
+        b0:0b:4a:2f:1b:c0:ab:83:a8:f0:cf:fd:8f:b5:df:44:fc:c2:
+        46:81:cf:88:a4:1e:4b:00:5d:3a:b5:6c:a9:4d:66:da:4b:c4:
+        40:21:af:b3:3e:ae:a1:5b
