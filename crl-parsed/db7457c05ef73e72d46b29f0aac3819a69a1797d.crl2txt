@@ -1,0 +1,114 @@
+issuer=/C=CH/O=WISeKey/OU=Copyright (c) 2005 WISeKey SA/OU=International/CN=WISeKey CertifyID Standard G1 CA
+SHA1 Fingerprint=67:74:4B:2A:0B:B3:B8:29:62:7D:1E:DD:31:5C:BD:3A:22:03:25:AC
+119ba4d9
+crlNumber=0736
+lastUpdate=Feb 24 16:20:10 2011 GMT
+nextUpdate=Mar 25 04:40:10 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=CH/O=WISeKey/OU=Copyright (c) 2005 WISeKey SA/OU=International/CN=WISeKey CertifyID Standard G1 CA
+        Last Update: Feb 24 16:20:10 2011 GMT
+        Next Update: Mar 25 04:40:10 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:FA:D8:71:32:3C:DC:EA:D2:35:7E:5F:D8:64:E2:F1:FF:1C:66:AB:6D
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                1846
+            1.3.6.1.4.1.311.21.4: 
+                .110324163010Z
+Revoked Certificates:
+    Serial Number: 5706506A000000000017
+        Revocation Date: Aug 22 15:10:34 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 723767E2000000000007
+        Revocation Date: Nov 24 16:20:04 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 1F726B73000000000013
+        Revocation Date: Nov 24 16:19:15 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 18DB4C7E000000000012
+        Revocation Date: Nov 24 16:19:02 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 11CC2DE1000000000009
+        Revocation Date: Jun  4 10:05:15 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 1DC2E01C000000000003
+        Revocation Date: Jun  4 10:04:51 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1FA8C925000000000011
+        Revocation Date: Feb 26 11:44:27 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 611D3B1A000000000010
+        Revocation Date: Feb 26 11:44:19 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 61083B5D00000000000F
+        Revocation Date: Feb 23 11:19:11 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 11F456C500000000000E
+        Revocation Date: Feb 23 11:19:00 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 11EC8D8300000000000D
+        Revocation Date: Feb 23 11:18:50 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 11E33E5200000000000C
+        Revocation Date: Feb 23 11:18:40 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 11E2543C00000000000B
+        Revocation Date: Feb 23 11:18:25 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3F467305000000000008
+        Revocation Date: Jul 25 07:13:55 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4CFD4795000000000006
+        Revocation Date: Mar  3 14:52:47 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        10:31:3a:62:09:90:d5:ae:3c:ed:80:ad:7f:e2:ce:47:ad:98:
+        f0:b2:e6:a5:25:b5:74:46:2f:15:dd:3d:87:49:21:ad:ff:69:
+        fb:a9:74:69:0e:31:93:43:2e:6d:bb:54:e1:e1:53:3c:d0:bd:
+        ff:c9:59:ec:53:bb:7e:9f:30:6d:a1:9e:d8:94:21:6d:20:d4:
+        50:55:ee:46:71:94:20:ac:0c:98:0a:e6:71:98:67:9c:a3:76:
+        0b:ef:1c:ec:50:7d:4a:f9:e8:f6:88:80:1c:11:a0:d2:38:8b:
+        24:84:6e:46:18:39:aa:55:fc:2b:c9:0f:f3:e1:64:e3:cb:b4:
+        fa:92:57:40:e9:bc:54:dd:09:c4:be:24:60:ab:fa:52:b3:77:
+        b2:4a:ea:89:e3:84:f3:82:ab:c0:55:2a:21:9d:fa:0e:1b:49:
+        29:6e:05:d6:22:d2:c6:ce:14:1c:8c:94:6b:de:f9:3c:ac:a7:
+        c5:d1:7c:26:11:6b:4b:c9:08:3d:05:86:63:c8:8d:4b:e6:2a:
+        e1:60:11:e5:66:eb:e2:71:7c:c6:0e:d9:21:d0:17:0d:5c:9b:
+        23:00:76:d7:39:75:a5:bc:43:a6:00:02:d7:e2:f3:11:a1:f6:
+        01:62:8a:5b:6e:95:7d:0b:26:f7:db:6f:87:38:8e:b1:74:7f:
+        fc:76:a7:89
