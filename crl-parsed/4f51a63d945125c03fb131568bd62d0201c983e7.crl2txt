@@ -1,0 +1,39 @@
+issuer=/C=CH/O=RUAG Holding Ltd/CN=RUAG Root CA 2
+SHA1 Fingerprint=A4:02:42:28:9B:2A:B4:F1:11:CA:56:6E:27:26:21:99:35:3D:4C:74
+ac2d0431
+crlNumber=05
+lastUpdate=Sep 16 14:28:08 2010 GMT
+nextUpdate=Sep 14 14:48:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=CH/O=RUAG Holding Ltd/CN=RUAG Root CA 2
+        Last Update: Sep 16 14:28:08 2010 GMT
+        Next Update: Sep 14 14:48:08 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:9C:BC:A1:29:10:AD:D7:A1:2C:B4:B4:9E:32:DA:C6:5D:8A:4F:CE:61
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                5
+            1.3.6.1.4.1.311.21.4: 
+                .110616143808Z
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        00:68:a9:4a:a4:5a:e3:af:9d:ee:8b:45:00:01:20:44:4a:70:
+        c5:5d:54:c8:84:58:4f:92:37:d4:41:84:dc:fd:c0:e6:3f:42:
+        8e:ee:f0:b6:c4:8e:88:4f:02:78:f8:64:c8:8e:c2:19:53:9f:
+        40:11:de:1c:ad:a3:66:73:eb:10:78:5e:0d:2f:7d:3c:3b:12:
+        90:d9:50:d9:15:c2:18:13:28:7e:5f:65:fa:14:df:8f:c3:5d:
+        56:50:a7:f5:76:cf:ba:b9:a0:c1:c4:17:c1:59:cd:94:a0:7e:
+        77:82:76:ef:48:53:4d:c1:ac:c8:68:4e:6f:7f:49:f5:c2:41:
+        2f:e2:de:7e:dc:2e:48:02:a8:ae:fe:a7:42:c8:7e:2d:0e:91:
+        3b:a6:b5:f7:41:7c:e5:ab:28:88:f1:3e:fd:ed:7c:15:fd:f3:
+        5c:48:bb:78:a7:c1:4f:9b:a3:89:c6:fa:5e:b1:b4:03:88:94:
+        c6:3d:f4:36:28:df:f5:2a:2e:b5:5b:f2:fc:95:6d:8f:e9:53:
+        96:c6:f5:53:dc:58:91:39:a7:de:df:c2:fa:78:aa:5d:3c:92:
+        ec:e1:5b:99:26:a1:2a:be:21:d7:5a:8e:10:75:de:61:a4:bd:
+        d5:a4:1d:b5:88:7c:56:3e:b6:f7:88:1e:a0:f5:d2:6d:a6:53:
+        4d:38:6f:2c
