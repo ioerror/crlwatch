@@ -1,0 +1,60 @@
+issuer=/C=DE/O=Hochschule Mannheim/CN=HS Mannheim CA/emailAddress=pki@hs-mannheim.de
+SHA1 Fingerprint=72:71:F8:EC:6A:07:13:14:22:E7:37:4F:93:F8:06:40:D0:68:22:B9
+e8042ee2
+crlNumber=B1
+lastUpdate=Mar 14 08:24:07 2011 GMT
+nextUpdate=Apr 13 08:24:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschule Mannheim/CN=HS Mannheim CA/emailAddress=pki@hs-mannheim.de
+        Last Update: Mar 14 08:24:07 2011 GMT
+        Next Update: Apr 13 08:24:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                177
+Revoked Certificates:
+    Serial Number: 0C1D5EBE
+        Revocation Date: Apr 21 08:16:07 2008 GMT
+    Serial Number: 0C1D93EF
+        Revocation Date: Apr 14 08:36:14 2008 GMT
+    Serial Number: 0C23D5A7
+        Revocation Date: Apr 17 14:03:08 2008 GMT
+    Serial Number: 0C23E19B
+        Revocation Date: Apr 15 14:24:20 2008 GMT
+    Serial Number: 0C23E4E2
+        Revocation Date: Apr 17 08:25:07 2008 GMT
+    Serial Number: 0C243CD4
+        Revocation Date: Apr 16 10:38:08 2008 GMT
+    Serial Number: 0C6CA7D9
+        Revocation Date: Mar 24 07:10:09 2009 GMT
+    Serial Number: 0DAF7350
+        Revocation Date: Mar 24 07:10:09 2009 GMT
+    Serial Number: 0DD73547
+        Revocation Date: Mar 24 13:37:07 2009 GMT
+    Serial Number: 0E4F2828
+        Revocation Date: Jul 28 12:36:06 2009 GMT
+    Serial Number: 0E694FC8
+        Revocation Date: Jun 30 09:00:10 2009 GMT
+    Serial Number: 0E6951E3
+        Revocation Date: Jul  8 12:27:06 2009 GMT
+    Serial Number: 0E6951E5
+        Revocation Date: Jul  8 12:27:07 2009 GMT
+    Serial Number: 0E7D38BB
+        Revocation Date: Jul 29 09:28:09 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        17:6e:54:46:e2:9f:20:64:32:7b:4b:3d:6c:ff:c8:42:bb:80:
+        dc:7a:d9:9f:59:b5:0b:e4:3a:ad:bc:00:8e:63:ad:08:02:66:
+        b4:fa:f7:73:35:76:42:1c:e3:4b:5a:7a:e6:88:61:c5:f0:80:
+        82:80:80:1c:39:19:85:75:aa:6d:c9:c2:6c:fa:8d:57:ed:93:
+        45:6e:53:4b:f2:8e:c3:b8:da:85:f3:3c:af:4f:8b:f6:07:01:
+        5d:82:bf:17:6b:8f:1d:4b:59:f4:7b:06:41:52:18:69:b0:81:
+        be:02:0d:7e:56:46:0a:39:f8:55:3f:fb:bd:6e:a0:f8:46:84:
+        b4:2a:e8:29:bd:32:87:35:17:0d:b0:f8:f1:bd:9f:13:55:36:
+        3e:10:92:20:6d:cd:3c:27:1e:14:9a:ce:88:79:40:b7:e0:5b:
+        42:67:39:c7:90:32:22:19:b5:0a:4d:01:51:fe:00:60:4a:05:
+        b8:8d:06:a6:1b:f6:e4:69:85:de:b9:4a:67:79:da:f8:47:97:
+        6d:d3:aa:85:18:b6:37:51:e6:a5:92:dd:1b:c4:bf:5d:8d:8e:
+        e0:d1:60:25:c0:6d:9e:5b:2b:5f:bf:ca:47:f5:76:c2:a6:10:
+        ee:44:6c:b8:5a:3f:28:47:c9:26:4f:6a:e8:c5:8b:d2:cb:8c:
+        17:c8:38:fb
