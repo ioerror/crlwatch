@@ -1,0 +1,49 @@
+issuer=/C=ES/O=IZENPE S.A. - CIF A-01337260-RMerc.Vitoria-Gasteiz T1055 F62 S8/L=Avda del Mediterraneo Etorbidea 3 - 01010 Vitoria-Gasteiz/CN=Izenpe.com/emailAddress=Info@izenpe.com
+SHA1 Fingerprint=D6:0E:AC:B4:9C:63:B4:18:A2:33:6E:F8:F1:12:CE:65:F6:AB:2C:DF
+3f90247a
+crlNumber=0D
+lastUpdate=Jul 30 10:47:55 2010 GMT
+nextUpdate=Jul 30 10:47:55 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/O=IZENPE S.A. - CIF A-01337260-RMerc.Vitoria-Gasteiz T1055 F62 S8/L=Avda del Mediterraneo Etorbidea 3 - 01010 Vitoria-Gasteiz/CN=Izenpe.com/emailAddress=Info@izenpe.com
+        Last Update: Jul 30 10:47:55 2010 GMT
+        Next Update: Jul 30 10:47:55 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                13
+            X509v3 Authority Key Identifier: 
+                keyid:EA:56:4F:EC:3C:83:A1:14:88:78:81:B2:2B:05:22:C0:07:41:5B:42
+                DirName:/C=ES/O=IZENPE S.A. - CIF A-01337260-RMerc.Vitoria-Gasteiz T1055 F62 S8/L=Avda del Mediterraneo Etorbidea 3 - 01010 Vitoria-Gasteiz/CN=Izenpe.com/emailAddress=Info@izenpe.com
+                serial:01
+
+            X509v3 Issuing Distrubution Point: critical
+                0'.%.#.!http://www.izenpe.com/cgi-bin/arl
+Revoked Certificates:
+    Serial Number: 16
+        Revocation Date: Jun 13 22:00:00 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 17
+        Revocation Date: Jun 13 22:00:00 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        90:72:d8:c6:b6:e7:8a:99:23:d8:3c:5f:3a:42:31:5d:44:8f:
+        f7:cf:b2:53:9a:72:b0:c0:86:02:06:1d:34:ab:9f:de:67:c6:
+        36:b6:b0:a7:b5:0e:65:f6:b9:af:8e:e4:47:23:a5:96:3b:55:
+        91:f1:a5:17:94:7d:49:d8:6a:61:46:a5:07:0d:ba:fd:de:7c:
+        49:63:14:3c:08:a4:f2:90:dc:03:d3:64:de:85:ed:b3:2d:b6:
+        93:53:27:b6:ee:ea:89:e4:f3:d4:1e:57:fc:ce:a3:f4:1f:d7:
+        24:67:a1:f4:f5:ce:d1:a0:d2:30:19:4c:89:42:fd:4c:c3:c6:
+        36:64:56:bc:78:de:fd:1b:a1:4d:60:04:eb:e8:2f:25:86:3c:
+        c2:7b:71:40:8c:be:39:92:a1:24:69:19:60:36:cb:5f:05:00:
+        7e:9a:ce:f6:1e:37:1f:83:7c:9a:a0:8a:b2:af:da:13:75:f9:
+        12:fc:c7:fa:ed:00:7e:28:96:61:aa:bb:17:96:5d:91:62:22:
+        00:52:6b:06:c2:26:06:c1:f1:35:b5:2e:9e:bc:1f:8b:7c:88:
+        f5:04:8b:07:df:3a:23:83:18:97:51:bb:e0:a6:df:ef:c6:04:
+        63:60:df:36:17:1d:d3:36:3f:fb:04:89:1f:2f:9b:00:c3:f2:
+        65:3f:1b:a2
