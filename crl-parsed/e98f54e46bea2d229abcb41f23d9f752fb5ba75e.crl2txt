@@ -1,0 +1,53 @@
+issuer=/C=LV/OU=Sertifikacijas pakalpojumu dala/CN=E-ME PSI (PCA)
+SHA1 Fingerprint=EE:33:3B:15:C8:AD:7F:A4:BE:6C:6D:B0:90:08:07:DB:12:F0:EC:7D
+0bcb1aca
+crlNumber=0B
+lastUpdate=Jan 31 08:02:58 2011 GMT
+nextUpdate=May  7 08:02:58 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=LV/OU=Sertifikacijas pakalpojumu dala/CN=E-ME PSI (PCA)
+        Last Update: Jan 31 08:02:58 2011 GMT
+        Next Update: May  7 08:02:58 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:CE:0E:D9:97:07:9D:F5:75:F7:AF:C6:11:DF:9C:73:4E:10:1D:41:0B
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                11
+            1.3.6.1.4.1.311.21.4: 
+                .110430080258Z
+Revoked Certificates:
+    Serial Number: 11F0B36AE208117400000000000A
+        Revocation Date: Oct 28 22:57:32 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 11F0B36AE2081174000000000007
+        Revocation Date: Jun  1 13:22:23 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 11F0B36AE2081174000000000006
+        Revocation Date: May 29 08:53:13 2009 GMT
+    Serial Number: 11F0B36AE2081174000000000005
+        Revocation Date: May 28 09:59:46 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        51:19:f1:fc:74:f8:24:0c:c8:ee:a6:e7:60:53:a3:24:77:a2:
+        c7:51:e0:94:22:75:e4:36:1a:bb:6f:16:1c:e6:db:61:da:4f:
+        a4:60:b0:17:72:99:2a:69:00:c4:dd:46:2f:ce:8c:a2:0b:7b:
+        c5:20:36:93:93:f6:92:e2:81:72:76:81:7f:fb:39:3c:95:c6:
+        54:c0:51:03:9e:f6:a9:74:ce:7e:db:72:5b:fa:d9:1c:9f:83:
+        55:4e:1e:ab:03:a3:fa:e8:28:80:7f:ec:e8:21:20:5f:37:b9:
+        cf:35:a3:5f:3c:11:f1:2a:97:19:5d:08:58:12:64:a0:1c:4d:
+        1f:a7:55:28:80:74:b2:7c:1f:9c:e9:c8:9b:0f:52:53:23:1b:
+        66:83:70:87:fd:5a:1d:b2:ec:95:29:c1:5a:7e:d5:51:4d:67:
+        a2:5a:04:c2:1f:14:f7:e9:a8:a8:91:be:f3:d8:6d:46:6b:fb:
+        36:a3:30:dc:5b:8a:6d:29:15:fc:3d:7e:c1:05:a1:c9:ca:3c:
+        60:56:8c:68:91:a4:ae:10:bd:24:d3:33:f3:a7:e4:bd:19:51:
+        8f:c9:75:ef:af:d1:17:1f:55:49:ab:b9:c1:0c:1e:7b:a8:12:
+        14:87:2d:78:bb:1b:9e:e2:24:87:a4:7a:2a:91:5f:b6:6d:b4:
+        da:65:6a:58
