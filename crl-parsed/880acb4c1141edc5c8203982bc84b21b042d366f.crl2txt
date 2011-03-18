@@ -1,0 +1,69 @@
+issuer=/C=CH/O=WISeKey/OU=Copyright (c) 2005 WISeKey SA/OU=International/CN=WISeKey CertifyID Advanced G1 CA
+SHA1 Fingerprint=2C:B7:F6:FB:D1:96:37:98:14:20:14:D7:7C:A4:A6:54:4B:BD:7F:C9
+ed5ece55
+crlNumber=0743
+lastUpdate=Feb 24 08:38:04 2011 GMT
+nextUpdate=Mar 24 20:58:04 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=CH/O=WISeKey/OU=Copyright (c) 2005 WISeKey SA/OU=International/CN=WISeKey CertifyID Advanced G1 CA
+        Last Update: Feb 24 08:38:04 2011 GMT
+        Next Update: Mar 24 20:58:04 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:50:1F:30:C0:93:92:8D:71:23:38:34:5C:B9:0A:F6:D3:2B:EB:81:45
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                1859
+            1.3.6.1.4.1.311.21.4: 
+                .110324084804Z
+Revoked Certificates:
+    Serial Number: 63FC29CA000000000012
+        Revocation Date: Nov 24 08:45:01 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 1C7E7E7600000000000E
+        Revocation Date: Apr 13 13:36:03 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1C7B7D3100000000000D
+        Revocation Date: Apr 13 13:35:54 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 59E6040F00000000000A
+        Revocation Date: Mar  9 09:50:46 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 31CC965F000000000009
+        Revocation Date: Mar  1 16:46:05 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 59C32BA8000000000007
+        Revocation Date: Mar  7 13:39:25 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        bc:d5:47:65:1c:c8:8b:d0:35:ee:87:b4:fe:d8:1c:b8:4a:1f:
+        8b:0b:61:7b:4e:77:fb:83:75:87:07:c8:77:b1:50:70:df:61:
+        98:c2:db:ca:19:a6:a3:70:34:fb:d8:a0:2b:7b:14:87:56:20:
+        43:85:23:c1:e0:7f:3f:fb:80:8d:bb:12:d1:b8:07:8a:27:e1:
+        e7:cf:49:83:83:54:e2:4d:f1:15:25:1e:b2:df:d5:39:bd:bf:
+        92:d1:08:95:36:66:70:43:f3:39:eb:83:13:c0:d3:cf:da:79:
+        28:17:57:fd:0f:f7:af:12:6d:f9:43:aa:fd:87:73:77:97:9c:
+        16:00:c3:56:fe:f6:1b:c7:94:21:9d:14:3e:05:ba:9e:78:ad:
+        c8:94:4d:4b:72:68:38:a1:45:db:85:2d:62:d9:fc:4e:06:62:
+        6f:38:d0:a3:42:94:65:9d:8d:23:ca:01:1b:94:c4:ad:80:93:
+        ca:50:dd:2e:38:9f:d9:b7:31:c8:2d:9f:26:22:31:82:06:99:
+        11:aa:df:a5:73:7a:1e:ad:fc:13:17:c2:f6:ad:41:5c:c4:50:
+        ad:15:52:3f:03:84:32:59:25:2d:03:6f:69:5c:5b:3d:be:9d:
+        95:84:5d:fa:43:5f:80:b4:51:05:51:29:0e:9c:f8:6a:65:46:
+        8e:4c:ce:19
