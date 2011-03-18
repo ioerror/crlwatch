@@ -1,0 +1,46 @@
+issuer=/C=IT/O=SIA S.p.A./L=Milano/CN=SIA Secure Server CA
+SHA1 Fingerprint=22:DB:55:F3:07:7F:A2:76:94:39:53:FE:33:56:19:D8:FB:1C:34:6A
+85fe6149
+crlNumber=03
+lastUpdate=Sep  6 06:13:19 2006 GMT
+nextUpdate=Nov  6 02:13:19 2006 GMT
+Certificate Revocation List (CRL):
+        Version 1 (0x0)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=IT/O=SIA S.p.A./L=Milano/CN=SIA Secure Server CA
+        Last Update: Sep  6 06:13:19 2006 GMT
+        Next Update: Nov  6 02:13:19 2006 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                DirName:/C=IT/O=SIA S.p.A./L=Milano/CN=SIA Secure Server CA
+                serial:31
+
+            X509v3 CRL Number: 
+                3
+Revoked Certificates:
+    Serial Number: 28
+        Revocation Date: Jul  8 13:11:00 1999 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 5A
+        Revocation Date: Nov  4 08:32:00 2003 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: sha1WithRSAEncryption
+        31:ea:79:52:c5:3f:30:e9:cd:03:4a:03:d3:93:97:21:31:d3:
+        25:73:0e:75:3f:5a:a0:9f:2e:a5:ea:d7:0c:70:37:0d:2e:c6:
+        0a:0e:a2:c7:62:b9:7c:18:87:11:aa:f7:fb:9f:24:50:40:dc:
+        bc:01:19:63:78:a5:6f:42:c2:a0:73:7f:b4:23:39:7f:52:53:
+        dd:8d:31:9a:5b:ad:e6:cf:89:2a:a0:0d:94:3e:eb:db:20:f7:
+        10:58:07:35:7f:5f:2c:c8:88:04:f0:6a:1e:e9:12:5d:55:5f:
+        70:cb:29:42:9d:7b:63:2e:ad:4f:f4:bb:c6:9a:09:8c:c9:fb:
+        ee:07:4e:8d:4e:dd:43:b8:9f:6c:64:1c:65:b3:e1:a3:21:f2:
+        e9:0f:d6:f1:0c:03:10:bd:d1:f8:f0:67:81:50:dc:5b:89:a3:
+        21:12:1f:bc:d6:42:cc:6a:ae:32:b3:c0:ad:50:87:85:42:f7:
+        f4:b8:69:39:bc:48:ae:df:bb:63:f6:9d:e3:e8:1d:4a:8f:da:
+        11:c3:3f:1e:b4:97:d8:27:2c:b1:c6:89:86:df:18:ba:1c:37:
+        f1:3f:3a:ca:2f:ed:6b:35:53:2e:56:0e:e2:f0:8d:43:b2:7f:
+        5d:95:64:6a:49:19:8c:21:ed:96:fa:18:1b:ce:17:42:fd:f4:
+        0c:7e:8f:c9
