@@ -1,0 +1,72 @@
+issuer=/C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 3-II L1 CA/CN=TC TrustCenter Class 3-II L1 CA IV
+SHA1 Fingerprint=B6:21:51:CF:E9:31:07:60:9D:B9:FB:F2:D9:7C:6A:68:1C:D5:C7:F1
+7aa30988
+crlNumber=0C9B
+lastUpdate=Mar 18 05:09:14 2011 GMT
+nextUpdate=Mar 25 05:09:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 3-II L1 CA/CN=TC TrustCenter Class 3-II L1 CA IV
+        Last Update: Mar 18 05:09:14 2011 GMT
+        Next Update: Mar 25 05:09:14 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:F6:14:1B:C6:21:88:2A:4E:8E:A9:B6:92:E0:3E:99:5C:EE:AB:35:C9
+
+            X509v3 CRL Number: 
+                3227
+Revoked Certificates:
+    Serial Number: 09830001000234D423BE4A8FFDCF
+        Revocation Date: Sep 18 11:31:41 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 408C0001000232D81E2013A411C6
+        Revocation Date: Jul  5 09:58:19 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: A8AD000100026CEBD423ACB4D9B8
+        Revocation Date: Jul  1 13:39:17 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 53F8000100028FBA43E1E0CD7AD6
+        Revocation Date: Mar 16 10:24:45 2010 GMT
+    Serial Number: 548500010002387F85949039F6DE
+        Revocation Date: Mar  8 19:04:52 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: D852000100027547E5BD098A7405
+        Revocation Date: Nov 15 14:02:58 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 539600010002A65417D5F8C15843
+        Revocation Date: Jun 18 08:31:22 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: EF09000100020A3E5D7B08C88377
+        Revocation Date: Sep 28 09:10:13 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        55:f2:a8:8e:85:22:8f:a7:9e:66:c2:8c:ad:eb:a4:37:2e:74:
+        f5:51:89:9f:4d:48:a9:6d:c6:be:24:84:ef:17:38:ff:8c:e6:
+        2c:97:ac:9d:d4:26:00:31:d5:4c:81:b8:1d:ab:a3:5b:0e:5c:
+        ab:3e:f0:78:86:cf:ec:7c:36:26:f7:1b:c0:45:43:dd:3f:05:
+        24:f3:ea:42:b0:12:6a:83:4a:0f:7d:06:d3:bd:55:2d:fd:11:
+        ad:2e:93:78:2b:b7:26:bb:54:e2:76:41:e6:14:16:32:67:46:
+        63:d5:3d:80:e2:cc:07:94:62:61:26:4d:10:97:a2:81:5f:5e:
+        f0:2c:97:69:fa:7f:42:4a:0b:40:ca:6a:06:89:1c:8d:c0:1c:
+        17:86:e4:f5:21:2c:a7:f9:d5:61:8a:a0:1e:2d:0d:70:0f:62:
+        8c:3c:80:a4:0e:94:ed:83:45:ba:58:66:d9:ed:ed:c2:51:7d:
+        a6:6a:55:0d:11:fb:b1:73:cb:65:18:eb:19:84:e7:9f:66:3e:
+        f4:b7:3e:c9:1f:bc:57:dd:ed:c1:3e:23:ab:77:36:9e:d4:19:
+        62:f1:75:59:2a:2c:be:6a:53:e8:10:c3:73:fa:d6:92:d6:71:
+        62:64:aa:b5:94:85:09:a1:44:b0:a8:0d:38:de:15:d0:24:76:
+        43:f2:3c:b9
