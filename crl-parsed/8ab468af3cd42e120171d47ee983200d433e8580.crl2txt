@@ -1,0 +1,42 @@
+issuer=/C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Extended Validation CA
+SHA1 Fingerprint=84:D1:63:FC:93:78:AB:87:02:6B:11:DD:A2:7B:50:9F:63:56:9B:AD
+22c75432
+crlNumber=1D186ADD18FBD540A6AD50F1FBDD1B0C
+lastUpdate=Mar 14 09:33:53 2011 GMT
+nextUpdate=Mar 24 09:33:53 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Extended Validation CA
+        Last Update: Mar 14 09:33:53 2011 GMT
+        Next Update: Mar 24 09:33:53 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:C0:3B:0A:FA:0F:D9:FE:0F:4E:02:98:65:14:0C:8A:1E:2E:00:8C:03
+
+            X509v3 CRL Number: 
+                38674394454941386579877053547478326028
+Revoked Certificates:
+    Serial Number: 58225EB9C4127A3C74996FCD7A42A051
+        Revocation Date: Dec 21 07:17:52 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 0C34B0F375A8A48CC19A24F27E01F3DB
+        Revocation Date: Oct 26 11:50:58 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        44:84:47:a6:c2:37:f0:6d:b0:f2:06:ee:a4:11:0c:89:be:19:
+        9d:19:c5:47:9f:61:fb:b5:f9:12:01:59:8d:e1:c5:a1:23:f8:
+        cd:0b:2e:87:5b:72:b3:02:89:56:d2:71:39:f6:c1:3b:5b:e1:
+        31:fa:74:54:f9:93:d1:67:a3:99:7e:5e:c0:ac:3d:a7:9c:08:
+        28:f3:1d:52:80:cc:eb:70:c2:28:31:68:ed:58:d5:b8:6b:71:
+        43:63:b6:c5:ec:7f:12:46:9c:3c:1f:10:db:2c:3a:dc:ec:4e:
+        d1:a0:c9:5a:99:ad:8b:50:a1:60:91:b8:a0:01:ee:fe:56:19:
+        aa:9d:5a:d9:7b:80:aa:13:60:1a:e0:bb:1a:9e:76:82:03:e7:
+        c6:e1:e3:94:e0:20:00:4c:4c:4e:64:a9:f8:2e:67:a5:10:c1:
+        00:8a:07:14:31:1a:78:c8:29:61:69:49:4f:85:28:27:75:8b:
+        53:ce:4c:19:bc:2a:73:7d:4a:fd:14:6c:8d:1d:8b:3b:ba:fe:
+        da:9b:d9:6e:52:40:2f:17:b7:c6:5c:9d:d8:75:88:70:2f:97:
+        24:43:b1:2a:85:ba:62:a1:fa:46:68:25:c2:d7:71:aa:91:98:
+        ad:e9:d4:79:58:1f:66:e2:bf:4b:b8:b0:21:0a:71:a4:0c:06:
+        c7:17:28:ca
