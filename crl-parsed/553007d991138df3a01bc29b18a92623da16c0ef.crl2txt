@@ -1,0 +1,69 @@
+issuer=/C=US/O=VISA/OU=Visa International Service Associations/CN=e-Visa
+SHA1 Fingerprint=5D:0F:DA:B2:EA:B0:CC:E2:E7:C6:8A:CC:80:1B:E0:AB:1C:82:CE:07
+9dafdf74
+crlNumber=043B
+lastUpdate=Mar  1 18:50:14 2011 GMT
+nextUpdate=Apr 22 19:32:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=VISA/OU=Visa International Service Associations/CN=e-Visa
+        Last Update: Mar  1 18:50:14 2011 GMT
+        Next Update: Apr 22 19:32:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:E5:2C:42:6B:17:28:77:43:51:4F:CF:92:B5:48:7D:24:E7:D4:CC:6E
+
+            X509v3 CRL Number: 
+                1083
+Revoked Certificates:
+    Serial Number: 0C510E858119FDA205BB4EA6A4E561B0
+        Revocation Date: Sep 29 18:00:58 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Sep 29 18:00:09 2009 GMT
+    Serial Number: 3951B344CE5CC6AC9F6A0ACD7DC05A5E
+        Revocation Date: May  4 21:53:43 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                May  4 21:53:20 2009 GMT
+    Serial Number: 5D87205F99145484A74314EC11A622DC
+        Revocation Date: Jan 20 18:44:40 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 20 18:44:20 2011 GMT
+    Serial Number: 61973835CED5890B213F52EB74288679
+        Revocation Date: Feb  2 18:33:24 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Feb  2 18:33:07 2010 GMT
+    Serial Number: 6785C96C2281B229E60EBA70C06D929A
+        Revocation Date: Jan 20 18:39:53 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 20 18:39:23 2011 GMT
+    Serial Number: 7D7701C97BC6D96509DBEC0B6C5B8049
+        Revocation Date: Sep 29 18:02:06 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Sep 29 18:02:02 2009 GMT
+    Serial Number: 98915CD2C5D936F40923B9DCBA30BFE9
+        Revocation Date: Nov 19 20:14:53 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov 19 20:14:32 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        c7:2d:f8:36:52:df:63:38:b5:2f:10:65:87:43:24:e2:d9:58:
+        54:72:84:f7:76:eb:ff:09:65:ab:ef:16:89:b3:31:94:5d:88:
+        0f:82:b0:92:5b:18:62:16:fe:4f:e2:b7:ad:3c:0f:25:2c:84:
+        90:5e:29:69:0b:1e:5a:8c:17:c8:08:a2:ee:d1:a2:5e:12:e4:
+        ed:7e:70:55:54:89:4f:9d:36:88:57:03:03:39:9a:3a:9f:ea:
+        6e:c4:8e:45:ef:00:db:f8:17:87:95:6d:a3:e9:18:e5:01:7a:
+        dd:bc:79:7e:a5:5b:73:ab:6c:f3:95:29:97:a8:34:dd:43:29:
+        2b:e7
