@@ -1,0 +1,38 @@
+issuer=/C=DE/O=HAWK Fachhochschule Hildesheim/Holzminden/Goettingen/OU=Rechenzentrum/CN=HAWK-HHG-CA - G02/emailAddress=rechenzentrum@hawk-hhg.de
+SHA1 Fingerprint=DA:F7:6C:50:17:22:02:F1:1E:C7:A0:54:63:90:87:44:00:C3:E0:50
+54677432
+crlNumber=0191
+lastUpdate=Mar 14 08:05:08 2011 GMT
+nextUpdate=Apr 13 08:05:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=HAWK Fachhochschule Hildesheim/Holzminden/Goettingen/OU=Rechenzentrum/CN=HAWK-HHG-CA - G02/emailAddress=rechenzentrum@hawk-hhg.de
+        Last Update: Mar 14 08:05:08 2011 GMT
+        Next Update: Apr 13 08:05:08 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                401
+Revoked Certificates:
+    Serial Number: 09F8EE36
+        Revocation Date: Jul  3 13:01:14 2007 GMT
+    Serial Number: 0C886006
+        Revocation Date: Jun  5 11:08:29 2009 GMT
+    Serial Number: 0FBF1A4B
+        Revocation Date: Mar 18 07:12:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        38:13:a7:c7:cb:17:d4:f4:18:0c:3a:78:0d:b3:cc:e6:cc:b4:
+        c5:4b:d1:ef:e9:55:7d:7a:2e:36:2c:1d:a9:1f:eb:2c:75:7f:
+        c8:81:d4:df:69:a1:56:2e:e2:6e:7d:aa:76:e3:d1:e5:f0:2b:
+        28:cc:8a:45:5d:e1:10:95:03:2a:2a:cc:88:54:b9:f7:14:9b:
+        5b:42:5d:e0:25:d6:24:8c:22:f1:20:64:87:7f:7f:c0:3e:9b:
+        ab:2c:8d:88:f1:1b:cf:bc:1f:4e:35:f3:66:1c:40:e4:84:56:
+        59:75:ac:76:ad:c4:88:f4:ab:18:63:4b:9d:4c:79:a0:03:f4:
+        7e:8f:72:6f:b4:70:e0:36:1a:fe:f2:fd:be:a6:89:e1:b2:7b:
+        b8:59:d9:9e:a5:cc:d1:1c:e2:cf:e1:ff:dd:62:86:6c:cb:09:
+        48:e0:a1:1e:13:02:c1:d5:bb:71:35:bc:ee:36:b3:a3:48:b8:
+        d4:56:f7:c2:1f:68:51:5d:ff:36:60:b1:28:e6:74:53:83:46:
+        39:4f:bd:93:c1:3a:2e:4b:72:db:77:c9:ce:12:2d:f0:3a:c3:
+        a5:2a:84:8f:a7:e3:f0:95:a8:3b:c4:b0:ef:b5:5b:b5:b1:99:
+        57:5b:b3:9b:0e:5e:57:b6:04:12:ae:8a:c5:bb:5f:c5:e6:f0:
+        5e:13:f8:db
