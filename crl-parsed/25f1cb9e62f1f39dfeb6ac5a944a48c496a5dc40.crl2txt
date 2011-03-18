@@ -1,0 +1,43 @@
+issuer=/emailAddress=jotca@jotankers.com/C=NO/ST=Hordaland/L=Bergen/O=Jo Tankers/CN=Jo Tankers CA
+SHA1 Fingerprint=24:98:0B:D6:77:11:0B:A0:7C:62:60:4A:BB:78:CF:78:74:1E:9B:FF
+ab6a4d9a
+crlNumber=07F4
+lastUpdate=Mar 11 09:52:03 2011 GMT
+nextUpdate=Mar 18 22:12:03 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /emailAddress=jotca@jotankers.com/C=NO/ST=Hordaland/L=Bergen/O=Jo Tankers/CN=Jo Tankers CA
+        Last Update: Mar 11 09:52:03 2011 GMT
+        Next Update: Mar 18 22:12:03 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:EE:AB:86:53:94:A7:AF:36:2E:A0:EF:5C:78:69:CD:BB:B1:49:E4:AA
+
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            X509v3 CRL Number: 
+                2036
+            1.3.6.1.4.1.311.21.4: 
+                .110318100203Z
+            X509v3 Freshest CRL: 
+                0..0...........ldap:///CN=Jo%20Tankers%20CA(1),CN=jobca,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=jotankers,DC=com?deltaRevocationList?base?objectClass=cRLDistributionPoint.<http://ca.jotankers.com/Repository/Jo%20Tankers%20CA(1)+.crl
+            1.3.6.1.4.1.311.21.14: 
+                0..0...........ldap:///CN=Jo%20Tankers%20CA(1),CN=jobca,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=jotankers,DC=com?certificateRevocationList?base?objectClass=cRLDistributionPoint
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        0e:de:63:43:8d:e9:77:b1:51:08:98:0a:f8:44:e8:b6:d4:a1:
+        a0:d9:e5:5c:2a:87:be:56:a5:f9:11:36:1c:9a:88:9e:24:cd:
+        ba:69:32:4f:7a:30:64:c4:12:26:19:66:16:49:2a:fa:6a:93:
+        37:d8:75:8d:9d:56:04:1b:5a:d7:dd:8e:b6:44:ce:d6:66:8a:
+        94:d0:32:0f:db:e5:f8:ec:92:7b:c3:1a:86:3e:bb:4c:8f:4f:
+        9e:0b:cd:37:f4:90:9a:7d:ea:12:d3:2d:a5:36:d4:7a:fc:a5:
+        4b:f0:36:10:b9:ce:e3:40:f9:ff:25:03:fe:ef:23:2c:22:2c:
+        91:92:00:9e:4e:3a:09:f7:04:e8:04:31:39:bc:af:84:71:82:
+        4b:d3:fb:06:e4:63:82:b9:75:c5:e8:3c:c4:62:98:32:06:90:
+        43:f6:7b:01:44:2a:62:c3:ac:b9:92:dc:c6:d1:26:76:b3:de:
+        5a:6b:e6:de:7e:a6:04:09:28:a1:f2:1a:4c:7e:84:19:07:f6:
+        e7:94:e1:03:24:c8:7d:c7:68:17:2d:50:b2:e5:d5:12:c9:a8:
+        22:4a:86:c6:9e:d4:d6:a2:fb:99:3c:88:cf:72:fc:5d:1a:e5:
+        7a:e6:b9:7a:42:e0:f5:4d:db:c8:25:f4:10:a1:e7:0b:f6:20:
+        50:94:16:87
