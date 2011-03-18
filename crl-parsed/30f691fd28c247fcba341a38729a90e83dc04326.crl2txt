@@ -1,0 +1,45 @@
+issuer=/C=US/ST=New Jersey/L=Jersey City/O=Positive Software Corporation/CN=LiteSSL CA
+SHA1 Fingerprint=2F:52:D2:F2:1B:EE:6A:25:AA:D9:0B:2A:BD:12:65:67:57:AD:B5:31
+4d04b3b0
+crlNumber=0856
+lastUpdate=Mar 18 01:55:24 2011 GMT
+nextUpdate=Mar 22 01:55:24 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/ST=New Jersey/L=Jersey City/O=Positive Software Corporation/CN=LiteSSL CA
+        Last Update: Mar 18 01:55:24 2011 GMT
+        Next Update: Mar 22 01:55:24 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:B8:CA:11:E9:06:31:79:DB:C3:94:C6:E8:19:2A:BC:BB:35:16:31:A4
+
+            X509v3 CRL Number: 
+                2134
+Revoked Certificates:
+    Serial Number: 0F8F6BC4C6C2D1A8C09B05BC00CB49EF
+        Revocation Date: Apr 26 17:46:05 2006 GMT
+    Serial Number: 6A28ADF9765739E7EA48A0069EE719F1
+        Revocation Date: May 20 17:41:03 2006 GMT
+    Serial Number: 204F18A70EF60318C004EFB5685F66CA
+        Revocation Date: Jun  8 20:44:29 2006 GMT
+    Serial Number: 36EFEE9CC09016BE8C985960E5F0F7BF
+        Revocation Date: Jun 30 10:24:54 2006 GMT
+    Serial Number: 1857D6E89D774C1985DC6B39BFFDDBBB
+        Revocation Date: Aug 22 10:53:44 2006 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        54:64:e3:73:0e:d7:28:a6:df:d9:a0:9a:e8:bc:5f:48:57:c9:
+        cf:ea:80:e2:73:6d:72:2a:fe:34:c3:b9:cf:9e:32:5b:3b:08:
+        36:9a:0a:e6:d6:b1:5b:2b:a5:bf:73:97:88:14:c0:c6:d8:c4:
+        c2:ee:56:91:3b:83:89:fa:87:08:af:c7:6c:8c:47:3d:6d:ec:
+        11:0e:a6:de:c7:3a:da:df:d7:97:a9:01:cf:49:fb:84:4e:75:
+        fa:dc:7e:9d:1b:cf:65:c7:a1:f8:59:67:a3:76:6f:df:98:80:
+        a3:0c:a4:5f:aa:e1:c0:4f:22:e0:7b:71:69:b2:bd:06:d0:31:
+        e7:a7:6c:ab:a0:fe:e4:30:31:5b:5d:f8:8d:b7:04:93:3e:8a:
+        74:f3:b4:c5:5d:5a:b2:73:25:39:c0:fa:79:fd:42:f7:f0:7b:
+        1c:0c:06:5d:1a:1c:f5:7d:e7:a1:df:0f:ee:b4:2c:6a:ce:88:
+        90:09:bb:c0:00:f0:46:5e:ac:66:f2:cc:33:10:f4:b9:f8:38:
+        57:ba:d8:39:d6:66:0b:2a:21:7a:7a:04:c6:38:8b:5b:1d:2d:
+        57:68:90:00:e5:14:6e:01:9b:d7:2c:fc:66:e2:40:ca:31:bf:
+        b3:9d:3e:36:51:c6:f3:08:d9:83:9a:ad:32:1e:95:0c:42:fd:
+        fe:b6:e7:fe
