@@ -7,3 +7,8 @@ Generate a full list of all known CRL files:
 
   parse-crl-list.py raw-crl-sql-output-list.txt \
                     |sort|uniq > master-crl-list.txt
+
+Fetch all of the listed CRL files:
+
+  fetch-crls.sh master-crl-list.txt
+
