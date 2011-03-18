@@ -1,0 +1,36 @@
+issuer=/C=DE/ST=Mecklenburg-Vorpommern/L=Kuehlungsborn/O=Leibniz-Institut fuer Atmosphaerenphysik/OU=Rechenzentrum/CN=IAP CA - G01/emailAddress=ca@iap-kborn.de
+SHA1 Fingerprint=C7:AD:1F:4B:59:1A:F9:79:F6:52:CF:1D:2D:15:5E:3A:27:C7:E3:61
+d86a4b37
+crlNumber=F1
+lastUpdate=Mar 14 08:38:08 2011 GMT
+nextUpdate=Apr 13 08:38:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Mecklenburg-Vorpommern/L=Kuehlungsborn/O=Leibniz-Institut fuer Atmosphaerenphysik/OU=Rechenzentrum/CN=IAP CA - G01/emailAddress=ca@iap-kborn.de
+        Last Update: Mar 14 08:38:08 2011 GMT
+        Next Update: Apr 13 08:38:08 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                241
+Revoked Certificates:
+    Serial Number: 0BF9D35B
+        Revocation Date: Feb  6 08:06:08 2009 GMT
+    Serial Number: 0CE0C4EB
+        Revocation Date: Sep  8 14:53:07 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        6b:27:8d:6d:0c:60:8c:b9:dd:79:ca:5e:79:0c:de:1f:75:87:
+        fe:eb:3d:a7:3a:95:38:f6:85:7e:6b:51:98:a5:05:dc:a5:99:
+        0c:99:77:05:8c:c6:8d:3b:c4:aa:ee:d3:54:15:d2:6a:68:4a:
+        dd:8f:da:9c:cb:bf:54:eb:d9:30:c9:a8:6f:73:0f:6e:af:14:
+        23:a3:6e:b7:13:1d:fc:ef:b6:4f:7c:48:b4:7d:b1:1c:56:ad:
+        8b:f1:be:d1:13:4c:04:89:68:67:2e:ea:c1:34:da:f9:41:f1:
+        78:d2:ec:97:bc:ae:9b:f2:de:b5:2f:9d:8e:86:62:e7:95:c3:
+        f8:ad:76:59:5b:f8:dc:20:ec:2e:06:a0:2f:58:aa:4b:23:a5:
+        dd:a7:80:bd:c4:05:5c:55:de:bb:e1:55:93:99:ab:a2:38:37:
+        b8:ae:ac:9d:df:8b:0b:dd:27:03:44:f7:7b:d3:38:9a:06:67:
+        58:9c:a5:f2:e0:76:e8:ca:24:0a:fa:2e:90:26:4d:35:40:3e:
+        9c:f9:9b:81:d5:50:b5:a0:21:87:b7:34:e4:a6:3b:89:ed:08:
+        24:e0:f3:69:64:83:a8:2a:f6:02:d7:00:2d:b7:ea:bd:18:ec:
+        2d:35:ce:82:b1:6f:77:02:83:20:a5:a0:5e:eb:f5:a4:23:0f:
+        b3:7e:34:eb
