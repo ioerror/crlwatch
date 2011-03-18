@@ -1,0 +1,55 @@
+issuer=/C=FR/O=Dhimyotis/OU=0002 481463081/CN=Certigna Classique/serialNumber=19
+SHA1 Fingerprint=B7:8B:94:D0:B2:B8:81:F0:4D:BA:3D:87:48:C1:90:DF:13:DB:09:3A
+35701e94
+crlNumber=0185
+lastUpdate=Mar 15 23:00:51 2011 GMT
+nextUpdate=Mar 16 23:00:51 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: /C=FR/O=Dhimyotis/OU=0002 481463081/CN=Certigna Classique/serialNumber=19
+        Last Update: Mar 15 23:00:51 2011 GMT
+        Next Update: Mar 16 23:00:51 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:8A:05:E2:33:34:DE:F5:94:5F:76:20:54:DF:6D:F2:B0:0E:96:17:6C
+                DirName:/C=FR/O=Dhimyotis/CN=Certigna
+                serial:13
+
+            X509v3 CRL Number: 
+                389
+Revoked Certificates:
+    Serial Number: 05
+        Revocation Date: Nov 13 14:41:45 2008 GMT
+    Serial Number: 06
+        Revocation Date: Nov 13 14:41:52 2008 GMT
+    Serial Number: 09
+        Revocation Date: Apr  9 14:52:26 2009 GMT
+    Serial Number: 0A
+        Revocation Date: Apr  9 14:52:33 2009 GMT
+    Serial Number: 0C
+        Revocation Date: Jul 22 11:02:20 2009 GMT
+    Serial Number: 38
+        Revocation Date: Nov 16 14:02:30 2009 GMT
+    Serial Number: 39
+        Revocation Date: Nov 16 16:05:48 2009 GMT
+    Serial Number: 3F
+        Revocation Date: Feb 19 13:59:11 2010 GMT
+    Serial Number: 41
+        Revocation Date: Feb 26 10:11:12 2010 GMT
+    Signature Algorithm: sha256WithRSAEncryption
+        70:8a:a9:c0:8e:c0:c9:4a:32:2a:a2:f5:0d:c8:c2:13:69:a3:
+        e6:da:d3:ad:d1:5f:d8:21:8b:15:ee:df:55:62:30:7b:09:5a:
+        f3:48:d1:54:e1:14:b8:b3:52:d3:98:22:35:31:0d:97:55:ec:
+        7f:ea:f0:4b:9b:3f:e4:2c:49:a3:8b:46:5f:50:f8:bf:d6:a7:
+        6d:ef:6d:de:06:90:83:9a:d0:50:aa:04:64:aa:07:1f:ab:ce:
+        ed:4c:21:68:e4:eb:e5:e3:13:95:5f:5a:34:6f:97:8e:7a:a5:
+        d4:c0:36:be:cd:69:1f:65:57:e1:57:d0:9c:4f:00:73:30:39:
+        1f:08:18:e1:d0:eb:a0:ab:45:15:18:df:35:b4:49:69:af:58:
+        b2:3c:93:63:c5:18:ee:26:fa:b7:e1:31:cd:8e:df:27:f8:88:
+        12:02:66:8f:78:e0:79:42:46:3e:d3:e3:29:dd:6b:1d:36:68:
+        71:0a:ef:4b:e3:36:35:a1:57:42:93:5f:20:dc:45:c3:a8:7b:
+        9d:23:8f:db:83:5a:a9:7b:bd:bf:fc:ba:b2:47:50:dd:4d:59:
+        c2:96:2d:f7:43:38:20:6d:43:48:7b:39:b0:25:92:c9:66:5c:
+        1c:84:99:fc:16:13:c1:5d:30:b0:88:62:c7:98:1f:d6:09:2a:
+        ef:25:58:bd
