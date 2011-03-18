@@ -1,0 +1,38 @@
+issuer=/C=DE/O=Bundesanstalt fuer Wasserbau/CN=BAW CA/emailAddress=baw-ca@baw.de
+SHA1 Fingerprint=37:0F:01:AB:87:27:E0:B9:1B:12:98:9B:4A:C1:37:FB:5D:3B:77:B6
+bf9a521e
+crlNumber=D8
+lastUpdate=Mar 14 07:10:22 2011 GMT
+nextUpdate=Apr 13 07:10:22 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Bundesanstalt fuer Wasserbau/CN=BAW CA/emailAddress=baw-ca@baw.de
+        Last Update: Mar 14 07:10:22 2011 GMT
+        Next Update: Apr 13 07:10:22 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                216
+Revoked Certificates:
+    Serial Number: 0C09682F
+        Revocation Date: Mar  3 11:21:08 2011 GMT
+    Serial Number: 0C5E1420
+        Revocation Date: Apr 28 11:30:06 2009 GMT
+    Serial Number: 0E17F4FA
+        Revocation Date: Mar  3 11:21:07 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        2f:53:f4:b5:2f:59:a8:51:4f:ea:2c:35:95:a7:16:b6:78:3b:
+        a3:19:d3:a6:6a:5b:d4:21:1c:a5:d4:6e:02:04:bb:1e:70:05:
+        99:88:5e:46:e5:64:ec:0d:a4:4c:54:54:0d:56:77:5b:4d:f9:
+        65:f9:8a:f9:69:49:2a:35:02:bb:71:bb:db:9e:33:33:90:fc:
+        80:3f:6a:75:47:bc:08:71:11:5f:5c:0f:df:6f:1d:03:59:d8:
+        48:46:6c:86:55:58:b7:e5:5a:83:b6:23:c5:7e:2f:71:82:4f:
+        ff:05:94:dd:be:df:17:0e:0a:9b:fa:6a:0d:92:59:89:b4:1c:
+        10:20:43:e3:ee:b8:69:1b:30:a6:25:9e:f2:ba:6a:17:fa:11:
+        2f:8f:6c:31:8b:0e:c6:da:0a:4e:18:4e:85:ec:07:36:e5:af:
+        d9:6a:0c:37:77:e1:41:4b:aa:8f:4e:a7:a5:90:4b:cb:03:6f:
+        2b:d7:74:2f:80:34:ad:7f:ed:52:91:da:57:17:32:90:31:76:
+        31:64:df:19:ee:25:53:1e:30:b8:28:27:65:c0:f4:74:34:bd:
+        81:e3:42:2d:f1:5e:2e:b3:2b:8b:a0:e0:a8:f7:6d:e5:12:79:
+        fc:be:fc:ae:ae:14:37:28:42:a7:1f:f8:37:7b:ef:b7:e7:ee:
+        95:44:00:86
