@@ -1,0 +1,39 @@
+issuer=/C=CH/O=WISeKey/OU=Copyright (c) 2005/OU=OISTE Foundation Endorsed/CN=OISTE WISeKey Global Root GA CA
+SHA1 Fingerprint=07:0A:07:31:B1:C0:D9:31:84:8D:22:78:56:5A:12:DF:A6:81:5D:DE
+3a3b02ce
+crlNumber=07
+lastUpdate=Dec  8 11:25:06 2010 GMT
+nextUpdate=Dec  8 23:45:06 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=CH/O=WISeKey/OU=Copyright (c) 2005/OU=OISTE Foundation Endorsed/CN=OISTE WISeKey Global Root GA CA
+        Last Update: Dec  8 11:25:06 2010 GMT
+        Next Update: Dec  8 23:45:06 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:B3:03:7E:AE:36:BC:B0:79:D1:DC:94:26:B6:11:BE:21:B2:69:86:94
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                7
+            1.3.6.1.4.1.311.21.4: 
+                .111208113506Z
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        74:a8:76:bd:f3:1c:77:4f:57:98:6c:33:12:cc:00:e1:8b:75:
+        1c:a2:32:c0:99:1d:38:c4:4c:fc:eb:69:a2:28:d9:50:1b:55:
+        c8:26:bb:fd:7e:9a:f9:e2:2e:02:6d:f7:af:eb:b0:21:87:f0:
+        95:b1:62:39:cb:f0:9a:4c:06:23:f7:92:6e:de:80:79:f5:06:
+        3a:6d:3d:a6:a4:f2:84:37:0b:c6:0f:51:12:29:00:0b:a9:73:
+        82:2e:7d:d6:4f:fc:74:7b:1b:33:0c:85:b1:39:4b:b1:f7:84:
+        97:ff:7d:c4:08:e6:b1:93:84:f4:cf:a7:cf:0f:4a:d2:d7:60:
+        e5:ef:4e:bb:50:cb:28:73:e5:bb:0c:f0:f0:f2:cd:11:da:fd:
+        53:59:82:18:91:29:0d:64:cf:a4:7d:27:54:9a:4a:80:94:08:
+        11:d5:91:30:d2:42:bb:71:a6:1c:df:c8:c3:79:89:74:5c:5f:
+        90:3d:89:6d:fd:9f:48:79:25:2d:86:71:11:19:92:9f:b2:56:
+        e5:ed:06:e6:9f:ba:0a:94:09:1d:98:6c:51:b4:69:c6:c6:e8:
+        a4:8d:0b:84:61:54:2f:62:90:77:73:e4:b5:2b:54:4d:87:77:
+        b1:90:28:c4:94:09:4e:ae:8b:77:87:5d:16:9d:36:81:96:38:
+        2c:2b:f0:77
