@@ -1,0 +1,40 @@
+issuer=/C=DE/ST=Bayern/L=Regensburg/O=Universitaet Regensburg/CN=Uni Regensburg CA - G01/emailAddress=pki@uni-regensburg.de
+SHA1 Fingerprint=06:BC:37:55:01:D0:83:E6:78:AB:43:86:98:52:1E:E0:29:76:CA:1B
+7b78307f
+crlNumber=A3
+lastUpdate=Mar 14 09:41:40 2011 GMT
+nextUpdate=Apr 13 09:41:40 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Regensburg/O=Universitaet Regensburg/CN=Uni Regensburg CA - G01/emailAddress=pki@uni-regensburg.de
+        Last Update: Mar 14 09:41:40 2011 GMT
+        Next Update: Apr 13 09:41:40 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                163
+Revoked Certificates:
+    Serial Number: 0DC62F51
+        Revocation Date: Mar 24 08:36:11 2009 GMT
+    Serial Number: 0EC6D948
+        Revocation Date: Sep  9 09:19:09 2009 GMT
+    Serial Number: 0F406DF7
+        Revocation Date: Dec 10 13:15:19 2009 GMT
+    Serial Number: 110F243D
+        Revocation Date: Nov 26 15:11:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        1d:bb:be:cc:ac:f9:a9:49:23:16:18:67:d1:48:13:c1:5b:8b:
+        78:f1:67:87:52:24:b2:5f:c3:da:6b:5d:4b:67:6c:da:df:84:
+        93:5e:0d:be:2a:fe:39:ea:9c:e4:40:32:5a:a0:58:7f:f6:31:
+        92:89:cf:68:89:18:a4:31:cb:c0:e6:45:98:32:90:bf:af:2f:
+        f4:7a:4d:78:42:20:6c:90:dc:e5:ee:54:9b:46:6e:f6:62:e8:
+        d5:a9:c3:45:5c:19:31:94:a8:94:1e:f7:4f:01:01:55:4a:40:
+        c0:12:ab:18:6a:e9:61:3e:74:86:90:14:d8:e4:e7:6f:1f:f3:
+        75:7c:67:c6:b8:85:85:01:d6:a4:55:8e:e9:a5:64:ff:a3:15:
+        6c:ce:7c:d4:9e:5a:e4:2e:72:48:3b:7f:46:d8:18:5a:dc:99:
+        19:2b:e5:88:19:f2:d1:a5:35:a5:51:46:47:75:3e:2e:11:15:
+        5a:58:3d:db:7d:88:85:b5:1b:db:b4:7e:62:01:60:26:69:8b:
+        2c:30:0e:4f:45:d4:18:e7:97:c2:33:e6:8f:4d:6b:63:7d:c9:
+        f8:04:7e:4a:d7:27:54:03:11:b2:ff:54:b7:50:80:69:83:0e:
+        5c:56:53:7a:ce:5d:6b:04:07:8c:d9:2e:fe:22:18:a4:3e:4b:
+        7e:d8:7f:8b
