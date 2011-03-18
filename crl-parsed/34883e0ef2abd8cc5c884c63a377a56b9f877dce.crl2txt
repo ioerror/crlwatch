@@ -1,0 +1,54 @@
+issuer=/C=FR/O=KEYNECTIS/OU=FOR TEST PURPOSES ONLY/CN=CLASS 2 KEYNECTIS Silver CA
+SHA1 Fingerprint=57:9F:31:A3:7D:1F:26:F3:54:EF:A0:C0:A0:18:7B:DD:74:EA:E2:44
+bd8c6bac
+crlNumber=4FC5
+lastUpdate=Mar 18 00:00:00 2011 GMT
+nextUpdate=Mar 25 00:00:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=FR/O=KEYNECTIS/OU=FOR TEST PURPOSES ONLY/CN=CLASS 2 KEYNECTIS Silver CA
+        Last Update: Mar 18 00:00:00 2011 GMT
+        Next Update: Mar 25 00:00:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                20421
+            X509v3 Authority Key Identifier: 
+                keyid:CF:45:87:1C:B5:12:E9:71:40:41:25:9A:9C:3C:C5:4A:18:56:15:0C
+
+Revoked Certificates:
+    Serial Number: 1121369ABD00C31398641DE9DADD45731CB7
+        Revocation Date: Sep 12 10:43:50 2008 GMT
+    Serial Number: 112193E628E9D8DEC4E688FA5225D4A954C5
+        Revocation Date: Sep 12 12:03:06 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 1121517F90C4640291EE35BFE7CEF0C245C2
+        Revocation Date: Sep 16 11:51:42 2008 GMT
+    Serial Number: 11213640F22BAC43516112D6ED94B14AFA07
+        Revocation Date: Sep 16 11:51:41 2008 GMT
+    Serial Number: 1121F2A3762CF6903E6D5708F86DE3321291
+        Revocation Date: Sep 19 07:27:06 2008 GMT
+    Serial Number: 1221A0C2860F4EED5AA38451E5D28AB631D6
+        Revocation Date: Sep 23 13:41:24 2008 GMT
+    Serial Number: 11216D8F20F94E153811E16A56EF34023FDD
+        Revocation Date: Oct  6 08:58:38 2008 GMT
+    Serial Number: 1121AC4C2B864A9EA9A43DFC15BCB25532B1
+        Revocation Date: Apr  1 08:36:51 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        12:63:79:bb:15:35:c2:90:aa:15:d1:23:53:01:2c:43:84:ea:
+        74:5a:42:ef:ac:85:03:8d:59:9c:d0:6b:e3:b1:aa:31:e8:6d:
+        29:a2:f9:25:26:50:2a:ea:c6:d6:d2:31:e9:ff:97:a1:a7:df:
+        d2:c9:5e:9f:88:3b:9d:96:7f:cb:43:ca:b6:d1:70:fd:d9:15:
+        4f:24:0e:f2:d0:35:97:d3:39:4f:d6:2e:84:73:f0:1c:9c:df:
+        56:8c:95:8b:82:2b:52:a9:0b:b7:84:1f:2f:9c:58:43:2d:d2:
+        9b:ac:9d:13:5c:d0:1b:b5:c0:72:14:a3:38:5e:6f:53:d5:4e:
+        28:bb:17:50:31:eb:e6:6a:10:c1:65:fb:35:c7:fb:15:8a:c3:
+        96:d1:39:4c:59:bc:33:f6:c7:98:2f:d7:27:05:d4:00:d9:08:
+        df:68:0a:87:3b:7a:18:7c:db:73:60:24:41:99:90:ae:dc:d6:
+        59:86:ea:22:46:8e:f4:f5:21:c3:2e:9b:4b:5c:3f:b8:97:ae:
+        dd:80:67:1d:0a:0a:2e:81:e2:3f:2c:c8:09:e9:19:b9:4d:ce:
+        cb:9e:83:90:63:37:42:f4:7b:e2:f0:56:a8:63:57:bf:2e:f1:
+        9c:09:5a:50:77:d1:cd:52:14:20:6b:c5:82:27:52:39:5e:8e:
+        9e:ab:21:e5
