@@ -1,0 +1,432 @@
+issuer=/C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./OU=http://certificates.starfieldtech.com/repository/CN=Starfield Secure Certification Authority/serialNumber=10688435
+SHA1 Fingerprint=95:B4:A3:82:C1:90:8B:C1:FF:39:31:21:39:48:94:E9:B5:E7:F7:95
+e553aa39
+crlNumber=03A6
+lastUpdate=Mar 17 11:24:09 2011 GMT
+nextUpdate=Mar 18 11:54:09 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./OU=http://certificates.starfieldtech.com/repository/CN=Starfield Secure Certification Authority/serialNumber=10688435
+        Last Update: Mar 17 11:24:09 2011 GMT
+        Next Update: Mar 18 11:54:09 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:49:4B:52:27:D1:1B:BC:F2:A1:21:6A:62:7B:51:42:7A:8A:D7:D5:56
+                DirName:/C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+                serial:02:01
+
+            X509v3 CRL Number: 
+                934
+Revoked Certificates:
+    Serial Number: 45AA08
+        Revocation Date: Jul  1 19:22:36 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45AE4F
+        Revocation Date: Jul  2 20:40:16 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45AE52
+        Revocation Date: Jul  2 20:41:18 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45AE66
+        Revocation Date: Oct 19 01:01:31 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45AEC3
+        Revocation Date: Jul  2 20:40:47 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45AF65
+        Revocation Date: Mar 12 16:12:15 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45B149
+        Revocation Date: Jul  9 23:41:23 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45B35E
+        Revocation Date: Jul 22 00:13:23 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45B4DE
+        Revocation Date: Oct  2 03:19:42 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45BB58
+        Revocation Date: Oct 27 15:54:35 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45C3F0
+        Revocation Date: Feb  6 14:13:37 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45C698
+        Revocation Date: Dec 23 14:34:42 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45C860
+        Revocation Date: Jul 14 18:49:45 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45C861
+        Revocation Date: Jul 14 18:48:55 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45C8D5
+        Revocation Date: Jul  8 18:44:14 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45C909
+        Revocation Date: Jan 13 12:46:52 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45CEF2
+        Revocation Date: Aug 28 18:10:03 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45CFD3
+        Revocation Date: Jul 21 21:32:52 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 45DDF8
+        Revocation Date: Jul 18 07:54:13 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45E421
+        Revocation Date: Jul 14 21:09:52 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45E425
+        Revocation Date: Jul 14 21:08:46 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45E532
+        Revocation Date: Jul 28 17:47:14 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45E9A2
+        Revocation Date: Feb 12 21:23:47 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45EAE1
+        Revocation Date: Jun  1 06:49:57 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45EE01
+        Revocation Date: Dec 24 00:49:33 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 45EEF4
+        Revocation Date: Jul 17 21:30:19 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45F6AD
+        Revocation Date: Sep 23 21:32:59 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45F80A
+        Revocation Date: Jul 22 19:44:29 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45F9D1
+        Revocation Date: Aug  4 19:59:48 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45F9F2
+        Revocation Date: Aug  4 20:25:31 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45F9F6
+        Revocation Date: Aug  4 21:06:20 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 45FE62
+        Revocation Date: Aug 18 22:23:48 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4607E3
+        Revocation Date: Jul 22 18:08:58 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 460AAD
+        Revocation Date: Sep 22 21:11:23 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 460EC4
+        Revocation Date: Aug 29 15:58:53 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 46187A
+        Revocation Date: Jan 12 20:59:44 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 461D9D
+        Revocation Date: Jul 25 21:15:36 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 461E36
+        Revocation Date: May  4 14:35:06 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46251A
+        Revocation Date: Jul 29 04:35:25 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46282A
+        Revocation Date: Jul 28 19:37:21 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4629E0
+        Revocation Date: Oct  9 20:31:24 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 462A3C
+        Revocation Date: Jul 29 17:56:31 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 462A99
+        Revocation Date: Jul 29 01:02:33 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 462A9F
+        Revocation Date: Aug  6 01:37:26 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 462E6B
+        Revocation Date: Dec  5 14:32:52 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 463586
+        Revocation Date: Sep  2 11:34:23 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4637FD
+        Revocation Date: Aug 10 14:18:26 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 463F83
+        Revocation Date: Aug 23 15:35:00 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4649AF
+        Revocation Date: Oct  9 20:31:42 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 464A55
+        Revocation Date: Aug 15 21:28:34 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 464A7E
+        Revocation Date: Aug  5 17:38:35 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 464AA0
+        Revocation Date: Aug  5 17:24:59 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 464EF4
+        Revocation Date: Aug  5 18:36:45 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 465142
+        Revocation Date: Aug  7 21:40:18 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46517A
+        Revocation Date: Aug 20 22:05:09 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 465D1E
+        Revocation Date: Jun 10 06:15:35 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 467C60
+        Revocation Date: Aug 18 23:13:38 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 468132
+        Revocation Date: Apr 28 14:01:13 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 468438
+        Revocation Date: Aug 31 22:02:03 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 468639
+        Revocation Date: Sep 29 19:46:44 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 469322
+        Revocation Date: Aug 19 22:15:05 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 469706
+        Revocation Date: Aug 25 16:22:43 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46985F
+        Revocation Date: Aug 24 23:23:13 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 469878
+        Revocation Date: Aug 24 23:23:30 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 469B1E
+        Revocation Date: Nov 18 19:25:11 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 469E21
+        Revocation Date: Jan 29 02:27:11 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46A694
+        Revocation Date: Dec  8 17:53:39 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46AB04
+        Revocation Date: Jul 28 16:50:33 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 46ABD3
+        Revocation Date: Aug 23 15:48:14 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46ABD9
+        Revocation Date: Aug 23 16:15:00 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46ABF0
+        Revocation Date: Aug 24 13:20:25 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46B008
+        Revocation Date: Aug 24 13:41:41 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46B57B
+        Revocation Date: Dec  8 19:09:21 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46B824
+        Revocation Date: Aug 26 15:19:08 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46B9D4
+        Revocation Date: Feb 11 21:19:05 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46CB58
+        Revocation Date: Sep  6 00:20:19 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46DB7B
+        Revocation Date: Dec 12 20:13:32 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 46ED29
+        Revocation Date: Jan 22 17:46:52 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                9
+    Serial Number: 46F35B
+        Revocation Date: Oct  1 00:03:52 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        de:43:e7:0e:15:1c:82:c4:af:4a:98:86:5a:9d:91:33:4c:a8:
+        00:48:29:cc:fc:37:d4:a3:78:ab:8d:a4:6f:f9:b5:d9:cc:e6:
+        71:eb:2a:30:3e:fa:d1:29:a9:a0:5e:58:72:ba:88:ed:73:e7:
+        ae:04:82:72:dc:a4:cf:82:30:99:9b:0b:55:36:17:38:80:2b:
+        9f:89:5f:5f:51:19:87:51:7f:dc:fe:45:05:2f:a7:db:9d:11:
+        f1:3f:eb:be:39:9f:95:6e:ec:3e:f5:9d:bf:4f:24:99:7e:88:
+        a7:fd:53:b7:1e:e2:b5:4e:05:da:86:22:69:e1:4d:3d:2b:2a:
+        7c:80:dc:d9:35:05:14:db:54:8d:5b:13:d3:21:2f:e3:e8:2f:
+        f9:7a:30:e2:1b:85:ed:a0:91:21:1f:65:36:f6:bb:5b:ac:58:
+        6b:85:41:2f:79:28:8a:47:e3:9c:0e:a0:25:18:2a:70:0e:a9:
+        a4:b2:92:9e:f7:5d:84:6c:ed:2f:dd:d9:1d:ea:b6:f5:42:eb:
+        1a:1e:35:cb:c1:f4:7c:bd:49:67:f8:2e:f3:f6:32:f1:f6:97:
+        71:88:a8:3a:54:c5:6a:fa:26:2d:7e:09:4f:d4:e3:d8:aa:1a:
+        03:48:3a:89:7f:34:d5:64:75:89:83:24:fe:45:f7:2e:80:aa:
+        64:cf:4a:66
