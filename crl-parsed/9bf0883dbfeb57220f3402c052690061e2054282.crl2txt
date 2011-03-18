@@ -1,0 +1,46 @@
+issuer=/C=DE/O=Forschungsverbund Berlin e.V./OU=Corporate Network/CN=FV Berlin - PKI CA/emailAddress=pki-ca@fv-berlin.de
+SHA1 Fingerprint=F8:CE:97:54:BD:A5:E3:77:6D:8F:38:01:5F:E9:CE:1C:85:9D:B9:9E
+6d6baf25
+crlNumber=E2
+lastUpdate=Mar 14 07:57:07 2011 GMT
+nextUpdate=Apr 13 07:57:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Forschungsverbund Berlin e.V./OU=Corporate Network/CN=FV Berlin - PKI CA/emailAddress=pki-ca@fv-berlin.de
+        Last Update: Mar 14 07:57:07 2011 GMT
+        Next Update: Apr 13 07:57:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                226
+Revoked Certificates:
+    Serial Number: 0ACD683E
+        Revocation Date: Feb 13 10:57:29 2008 GMT
+    Serial Number: 0ACD746C
+        Revocation Date: Feb 13 10:57:31 2008 GMT
+    Serial Number: 0D65A835
+        Revocation Date: Feb  3 16:28:07 2010 GMT
+    Serial Number: 0EB745BF
+        Revocation Date: Oct  2 10:36:07 2009 GMT
+    Serial Number: 0EFFF017
+        Revocation Date: Jan 25 10:38:08 2010 GMT
+    Serial Number: 0F6B9C76
+        Revocation Date: Mar  5 14:53:07 2010 GMT
+    Serial Number: 0FA71885
+        Revocation Date: Mar  5 14:51:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        a9:a9:43:a5:0a:13:a5:bc:c0:57:55:f2:56:c1:22:91:0a:ec:
+        12:32:44:9c:71:c0:32:a6:1c:b8:b1:6f:ca:0d:ff:b3:b2:ba:
+        2f:35:a4:d2:41:54:39:9d:d3:2d:2c:1c:82:1d:24:2a:f5:d0:
+        0a:8b:ed:75:b7:88:31:63:01:d8:7e:49:fb:fe:90:55:e1:3d:
+        72:d2:fb:b2:00:6a:89:cc:15:1a:12:83:f5:2e:9a:e1:4a:f9:
+        d9:d0:f3:9b:19:86:39:b2:8d:bc:c1:8c:dd:93:3a:ce:9b:f3:
+        3b:cc:ce:79:0a:02:21:a8:f0:06:d9:f0:c0:e3:16:12:82:11:
+        f5:79:ca:fd:36:96:6b:2e:5a:b2:14:f2:14:05:5b:af:ea:1a:
+        7f:7b:ce:37:cf:1c:d1:54:67:e4:e6:f5:c2:a3:e0:93:b0:bf:
+        b2:e9:9a:f0:d1:1c:15:57:3b:ce:6a:2b:f3:08:15:fa:3f:a7:
+        b4:14:06:a5:c7:2e:e0:e2:b9:28:72:12:0a:58:d5:44:8e:e9:
+        c5:c9:d7:3a:aa:76:8f:d0:21:c8:7b:ae:94:0c:72:c3:d0:db:
+        55:42:2a:f2:bc:00:33:5c:33:64:fb:7a:c7:6d:6f:81:d4:64:
+        6a:7d:d1:6c:6b:06:65:a4:3e:c0:66:d5:88:ce:ff:43:c2:03:
+        bd:28:2c:db
