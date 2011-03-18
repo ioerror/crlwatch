@@ -1,0 +1,46 @@
+issuer=/C=DE/O=Hochschule fuer Gestaltung Karlsruhe/CN=Hochschule fuer Gestaltung Karlsruhe CA - G01/emailAddress=pki@hfg.edu
+SHA1 Fingerprint=8F:C8:D4:55:8D:BE:F5:44:D0:3A:26:AD:47:DC:7F:70:D4:D5:08:9A
+024656e6
+crlNumber=55
+lastUpdate=Mar 14 08:09:08 2011 GMT
+nextUpdate=Apr 13 08:09:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschule fuer Gestaltung Karlsruhe/CN=Hochschule fuer Gestaltung Karlsruhe CA - G01/emailAddress=pki@hfg.edu
+        Last Update: Mar 14 08:09:08 2011 GMT
+        Next Update: Apr 13 08:09:08 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                85
+Revoked Certificates:
+    Serial Number: 0F0688C4
+        Revocation Date: Oct 27 15:33:06 2009 GMT
+    Serial Number: 0F0E2123
+        Revocation Date: Nov  3 07:57:10 2009 GMT
+    Serial Number: 0F0E959F
+        Revocation Date: Nov  3 07:57:09 2009 GMT
+    Serial Number: 0F0E9922
+        Revocation Date: Nov  3 07:57:09 2009 GMT
+    Serial Number: 0F0E9C8D
+        Revocation Date: Nov  3 07:57:08 2009 GMT
+    Serial Number: 0F129A0E
+        Revocation Date: Nov  5 18:56:06 2009 GMT
+    Serial Number: 107B990F
+        Revocation Date: Jan 20 18:21:07 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        8e:3c:4b:46:77:35:4d:06:1b:73:aa:6a:db:3a:dd:57:89:9f:
+        45:7d:32:95:21:05:35:28:2f:c4:5b:6d:48:a0:15:04:3a:13:
+        c5:82:f8:09:11:8e:a8:bf:82:b5:a9:d4:7c:8e:c2:b5:61:7e:
+        e5:6b:c0:eb:5f:af:ae:eb:c2:c1:e3:72:cf:95:8e:b5:fa:8b:
+        ab:23:8f:a6:67:45:4b:6c:ec:f2:aa:86:7a:e1:7f:89:8e:f9:
+        29:99:2b:02:4d:2e:a1:35:3a:0d:c5:e7:02:84:98:e2:6e:1e:
+        24:0c:77:a1:cf:7f:45:67:ce:2c:d4:27:53:a5:42:93:b8:96:
+        8e:85:fa:84:d1:57:7c:82:85:d4:58:fe:10:31:c9:a5:f5:5b:
+        d3:78:8e:8c:b2:07:7e:c4:85:1f:65:85:7b:95:26:65:ba:9c:
+        5e:6a:53:49:81:6b:65:80:f3:cd:bd:2c:16:d8:83:1b:33:63:
+        21:3e:04:4c:25:6a:7a:48:1f:17:99:82:e0:ff:41:c9:92:71:
+        c0:ec:ba:0b:b0:ef:6c:df:ad:a2:f0:ca:db:9e:ee:19:b2:35:
+        7f:ac:02:8f:ef:cc:9d:c7:80:59:14:ea:ed:ea:37:fc:cb:e5:
+        43:96:c7:c7:b9:4b:f9:06:3b:27:69:a6:61:8e:41:23:ff:fa:
+        a8:b5:02:a9
