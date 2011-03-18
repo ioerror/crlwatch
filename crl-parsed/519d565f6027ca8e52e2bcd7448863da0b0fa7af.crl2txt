@@ -1,0 +1,39 @@
+issuer=/O=Cisco Systems/CN=Cisco SSCA
+SHA1 Fingerprint=C0:49:7E:D4:8B:98:B1:39:8E:7B:3D:8A:64:D4:B3:A2:F5:39:BE:D8
+39966f0d
+crlNumber=07F074
+lastUpdate=Mar  7 13:50:00 2011 GMT
+nextUpdate=Mar 23 02:10:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=Cisco Systems/CN=Cisco SSCA
+        Last Update: Mar  7 13:50:00 2011 GMT
+        Next Update: Mar 23 02:10:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:16:E1:B6:87:6A:17:7C:3A:23:B6:3E:BF:70:0F:4B:98:EF:57:5C:88
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                520308
+            1.3.6.1.4.1.311.21.4: 
+                .110322140000Z
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        bc:09:74:db:fe:1f:d9:0e:38:28:68:07:c7:e1:da:71:32:f0:
+        b5:6b:0a:75:ac:f5:30:7e:64:fb:45:8b:ff:11:a5:13:78:cf:
+        f7:b0:b2:24:43:39:35:ab:ba:3a:f8:f3:0a:41:41:fe:b8:7f:
+        79:46:6c:a9:48:b2:fc:bd:13:71:45:b8:ba:78:e4:c0:f8:bd:
+        6e:30:99:63:8c:40:9e:9f:67:08:e1:b9:ba:09:30:45:c4:87:
+        cf:03:87:40:2f:62:df:b2:7f:81:e2:49:d6:92:5b:f6:6c:ed:
+        55:6a:7e:11:8b:73:7a:c3:e3:ae:dc:49:ec:3b:dd:f7:aa:0c:
+        86:45:63:83:0c:04:c9:c7:68:85:20:89:32:44:df:f5:9a:f6:
+        09:e6:c1:fd:c5:eb:f8:18:3c:8b:63:b0:4e:14:9b:d7:44:a5:
+        01:02:b2:fc:a5:20:a6:c4:1a:c9:24:7f:50:89:09:be:1d:78:
+        e9:70:b7:fa:62:b9:69:25:84:02:67:08:e9:74:6b:98:82:8e:
+        c1:74:c5:60:b6:4c:0b:3a:23:c6:3b:9c:3e:00:74:f1:a8:30:
+        a6:e9:b2:c9:1e:13:8c:13:7d:40:b8:d5:2c:ab:b8:65:6a:5c:
+        e5:ac:c6:bf:9a:4c:cb:ca:a5:21:13:3a:3b:e6:93:ce:85:75:
+        1b:bc:9c:c9
