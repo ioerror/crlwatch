@@ -1,0 +1,657 @@
+issuer=/C=FI/ST=Finland/O=Vaestorekisterikeskus CA/OU=Palveluvarmenteet/CN=VRK CA for Service Providers
+SHA1 Fingerprint=89:36:07:67:BB:86:C5:1F:36:D1:B5:89:E6:32:1D:D5:07:44:D8:D9
+b0b2cc15
+crlNumber=0BA3
+lastUpdate=Mar 17 14:59:24 2011 GMT
+nextUpdate=Mar 19 14:59:24 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=FI/ST=Finland/O=Vaestorekisterikeskus CA/OU=Palveluvarmenteet/CN=VRK CA for Service Providers
+        Last Update: Mar 17 14:59:24 2011 GMT
+        Next Update: Mar 19 14:59:24 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                2979
+            X509v3 Authority Key Identifier: 
+                keyid:18:35:FD:24:17:EE:5F:C2:45:71:6E:6B:19:BD:E6:EE:01:F5:3A:F2
+
+Revoked Certificates:
+    Serial Number: 0BEBC201
+        Revocation Date: Feb  6 10:38:46 2004 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BEBC218
+        Revocation Date: Mar 11 07:36:51 2004 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar 11 07:36:44 2004 GMT
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BEBC20E
+        Revocation Date: Mar 11 09:31:29 2004 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar 11 09:31:24 2004 GMT
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BEC2F74
+        Revocation Date: Oct 23 07:40:55 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BEBC206
+        Revocation Date: Feb 19 15:36:39 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BECC425
+        Revocation Date: Mar  6 09:34:06 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BECCBF7
+        Revocation Date: Apr 19 12:17:53 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BEC46D8
+        Revocation Date: Jul 24 11:09:24 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BEC46D6
+        Revocation Date: Oct 20 12:00:40 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BECD5F2
+        Revocation Date: Oct 20 12:00:47 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BED04E1
+        Revocation Date: Mar 23 09:49:32 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar 23 09:49:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED06BE
+        Revocation Date: Apr  3 09:01:43 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Apr  3 09:01:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED06C5
+        Revocation Date: Apr 14 10:03:25 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Apr 14 10:03:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED06C6
+        Revocation Date: Apr 22 10:19:36 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Apr 22 10:19:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED08B9
+        Revocation Date: Apr 23 06:35:34 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Apr 23 06:35:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED0ADB
+        Revocation Date: Jun  4 08:58:23 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun  4 08:58:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED0ADE
+        Revocation Date: Jun  4 09:00:31 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun  4 09:00:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1083
+        Revocation Date: Aug 24 08:26:08 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Aug 24 08:26:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BEBC240
+        Revocation Date: Sep 22 07:07:08 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BED1285
+        Revocation Date: Sep 30 05:12:38 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Sep 30 05:12:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1289
+        Revocation Date: Oct 27 10:36:53 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 27 10:36:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BECA8CC
+        Revocation Date: Nov 27 08:59:38 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BED08BB
+        Revocation Date: Dec  4 10:45:33 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Dec  4 10:45:00 2009 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1859
+        Revocation Date: Jan 26 12:37:50 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 26 12:37:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1858
+        Revocation Date: Jan 26 12:39:00 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 26 12:38:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED0AA8
+        Revocation Date: Jan 29 10:15:14 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 29 10:15:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED185E
+        Revocation Date: Feb  9 13:07:23 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Feb  9 13:07:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1665
+        Revocation Date: Feb  9 13:16:30 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Feb  9 13:16:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1A48
+        Revocation Date: Feb 18 14:12:58 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Feb 18 14:12:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1A4A
+        Revocation Date: Feb 23 08:03:33 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Feb 23 08:02:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1A4B
+        Revocation Date: Mar  4 12:31:41 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar  4 12:31:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1A4C
+        Revocation Date: Mar  4 12:32:04 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar  4 12:31:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1A4F
+        Revocation Date: Mar  4 12:54:02 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar  4 12:53:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1C3A
+        Revocation Date: Mar  4 12:54:27 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar  4 12:54:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1C3B
+        Revocation Date: Mar  4 14:20:51 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar  4 14:20:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED166E
+        Revocation Date: Mar 11 11:20:59 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar 11 11:20:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1E53
+        Revocation Date: May 18 12:00:33 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                May 18 12:00:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1E6A
+        Revocation Date: May 19 09:31:57 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                May 19 09:31:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1854
+        Revocation Date: May 31 06:17:24 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                May 31 06:17:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1E76
+        Revocation Date: Jun  2 13:39:15 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun  2 13:39:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2223
+        Revocation Date: Jun 24 07:53:58 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 24 07:53:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2225
+        Revocation Date: Jun 28 08:50:29 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 28 08:50:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2226
+        Revocation Date: Jun 28 08:50:49 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 28 08:50:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED1E60
+        Revocation Date: Jun 28 12:51:45 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 28 12:50:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED222D
+        Revocation Date: Jul  6 08:22:45 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul  6 08:22:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED222E
+        Revocation Date: Jul  6 08:23:01 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul  6 08:22:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED222F
+        Revocation Date: Jul  6 08:23:15 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul  6 08:23:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2230
+        Revocation Date: Jul  6 09:46:53 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul  6 09:46:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2231
+        Revocation Date: Jul  6 09:47:05 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul  6 09:46:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2232
+        Revocation Date: Jul  6 09:47:17 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul  6 09:47:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2237
+        Revocation Date: Jul 16 05:26:23 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul 16 05:26:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED249D
+        Revocation Date: Aug 30 08:18:01 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Aug 30 08:17:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED24B9
+        Revocation Date: Sep 10 08:00:40 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Sep 10 08:00:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED24E9
+        Revocation Date: Sep 29 07:03:02 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Sep 29 07:02:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2504
+        Revocation Date: Oct  8 09:40:48 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct  8 09:40:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED250D
+        Revocation Date: Oct 14 09:15:48 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 14 09:14:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2518
+        Revocation Date: Oct 19 05:08:00 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 19 05:07:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2524
+        Revocation Date: Oct 19 09:36:25 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 19 09:36:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2526
+        Revocation Date: Oct 20 09:16:11 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 20 09:15:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED252E
+        Revocation Date: Oct 20 13:46:10 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 20 13:45:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED252F
+        Revocation Date: Oct 20 13:55:00 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 20 13:54:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2508
+        Revocation Date: Oct 21 08:19:41 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 21 08:18:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2529
+        Revocation Date: Oct 22 08:27:38 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 22 08:26:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2531
+        Revocation Date: Oct 22 08:39:45 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 22 08:39:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED252A
+        Revocation Date: Oct 22 13:04:14 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 22 13:03:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2533
+        Revocation Date: Oct 26 09:35:05 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 26 09:34:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED268A
+        Revocation Date: Nov  1 08:16:50 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov  1 08:16:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED268B
+        Revocation Date: Nov  1 08:17:22 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov  1 08:17:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED268D
+        Revocation Date: Nov  1 08:17:56 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov  1 08:17:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED185A
+        Revocation Date: Nov  5 06:16:16 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov  5 06:15:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2693
+        Revocation Date: Nov  5 13:01:00 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov  5 13:00:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2881
+        Revocation Date: Nov 12 13:12:17 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov 12 13:12:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2882
+        Revocation Date: Nov 18 10:25:20 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov 18 10:25:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2A76
+        Revocation Date: Nov 18 10:58:41 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov 18 10:57:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2A7B
+        Revocation Date: Nov 26 11:55:04 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Nov 26 11:54:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2A99
+        Revocation Date: Dec 10 10:10:56 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Dec 10 10:10:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2A9A
+        Revocation Date: Dec 14 09:13:24 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Dec 14 09:13:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2A93
+        Revocation Date: Dec 14 09:59:08 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Dec 14 09:58:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2E5A
+        Revocation Date: Dec 14 10:00:26 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Dec 14 10:00:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2E5D
+        Revocation Date: Dec 16 08:01:57 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Dec 16 08:01:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2E77
+        Revocation Date: Jan  7 06:54:22 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan  7 06:54:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2E9D
+        Revocation Date: Jan 14 09:48:25 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 14 09:48:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2E6F
+        Revocation Date: Jan 21 07:51:31 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 21 07:50:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2E96
+        Revocation Date: Jan 26 10:18:36 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 26 10:18:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2E64
+        Revocation Date: Jan 26 10:19:02 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 26 10:18:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2EB7
+        Revocation Date: Jan 26 10:39:36 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 26 10:39:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2EB9
+        Revocation Date: Jan 28 09:24:51 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 28 09:24:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2EBA
+        Revocation Date: Jan 28 09:24:57 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jan 28 09:24:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2ED3
+        Revocation Date: Feb  3 10:05:37 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Feb  3 10:05:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED127C
+        Revocation Date: Feb 18 11:38:04 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0BED2A77
+        Revocation Date: Mar  4 08:14:33 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar  4 08:14:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Serial Number: 0BED2EF4
+        Revocation Date: Mar  4 08:26:52 2011 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Mar  4 08:26:00 2011 GMT
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+    Signature Algorithm: sha1WithRSAEncryption
+        d0:7c:8b:31:39:0f:40:47:f9:61:b4:d1:04:b6:5b:32:42:33:
+        8b:23:81:30:1c:47:5e:a7:25:24:8e:30:4d:fe:36:02:2c:a6:
+        bf:e6:05:b0:3b:1a:4a:3f:fa:98:bd:f5:aa:ac:b4:c9:82:bc:
+        f1:ae:02:62:be:4c:32:bd:fa:ed:a3:94:f5:b3:6d:0d:23:a5:
+        00:64:9e:c6:4e:a8:c6:36:25:c9:54:4a:fc:41:67:65:d2:f5:
+        5b:2b:1e:72:cc:2d:57:7e:99:58:7b:51:97:62:85:10:a5:d6:
+        3f:f8:fc:b7:07:31:3f:0e:8b:66:2b:00:f5:cb:dd:18:1d:e8:
+        d7:a4:68:ea:5d:60:b5:4b:ec:bd:a9:99:84:6e:ec:a5:b0:e0:
+        c7:3d:b4:6e:ff:a2:f9:a3:70:34:46:32:15:31:d1:03:65:c5:
+        d0:2d:be:8c:4c:87:c1:c0:77:26:f5:f1:b8:9d:2b:c3:f2:a5:
+        ab:55:35:2a:71:15:b6:00:eb:45:ab:7b:96:44:48:b0:48:f2:
+        f6:30:f0:e0:6d:b6:c0:7b:dc:74:92:d9:bd:62:9b:7b:fe:b7:
+        4e:a3:60:33:b0:44:99:e4:87:01:94:42:28:5b:12:6d:96:a8:
+        4f:ea:a3:e9:98:39:2f:02:a8:ee:84:59:dc:de:bd:e2:b3:a4:
+        60:ff:9c:09
