@@ -1,0 +1,99 @@
+issuer=/C=JP/O=CrossTrust/CN=CrossTrust OV CA1
+SHA1 Fingerprint=8E:96:32:FA:4F:57:10:42:9D:07:C0:E2:72:66:07:5B:83:19:E9:F9
+8e7e8abb
+crlNumber=A4
+lastUpdate=Mar 18 03:38:03 2011 GMT
+nextUpdate=Mar 22 03:38:03 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=JP/O=CrossTrust/CN=CrossTrust OV CA1
+        Last Update: Mar 18 03:38:03 2011 GMT
+        Next Update: Mar 22 03:38:03 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:32:88:4F:A1:49:8F:A9:3E:70:45:F6:CB:F3:8C:C3:BD:A6:16:9A:00
+
+            X509v3 CRL Number: 
+                164
+Revoked Certificates:
+    Serial Number: 1F6597EF4679C7D3
+        Revocation Date: Dec 15 04:36:15 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 25FA1123EDC1DC2C
+        Revocation Date: Dec  1 01:49:38 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1CC156311CDD6147
+        Revocation Date: Jan 31 06:53:53 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 42993A3E46D4E8F9
+        Revocation Date: Mar 11 03:36:43 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 7C9184271E593B9C
+        Revocation Date: Mar  9 06:30:55 2011 GMT
+    Serial Number: 12927EEE6BEB46E1
+        Revocation Date: Feb 22 05:30:52 2011 GMT
+    Serial Number: 7DA26B9B1AAEB0F7
+        Revocation Date: Feb  8 06:56:44 2011 GMT
+    Serial Number: 60585F3A56713E49
+        Revocation Date: Feb  9 04:45:58 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 573FD656D0906BBE
+        Revocation Date: Jan 14 08:57:27 2011 GMT
+    Serial Number: 1922B37B9D57BD88
+        Revocation Date: Jan 17 00:33:14 2011 GMT
+    Serial Number: 6AB191627ABD9630
+        Revocation Date: Nov 16 08:03:29 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 491782896C1D0E21
+        Revocation Date: Dec 14 02:25:30 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 430449B07367F8D9
+        Revocation Date: Dec 14 07:16:22 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 706AA7E656BFAA5F
+        Revocation Date: Dec 14 09:12:12 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 230D99D4CD2D4869
+        Revocation Date: Dec  1 01:59:54 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 3CEA52E078CD15EA
+        Revocation Date: Jan 31 09:45:45 2011 GMT
+    Serial Number: 450F1C740313882D
+        Revocation Date: Jan 31 09:46:44 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        6b:9f:78:c2:8d:02:91:6c:1a:68:5d:e2:af:e0:fa:28:76:ab:
+        2f:1a:ac:0c:9c:ea:e7:83:b9:fb:5c:70:1a:42:37:08:fc:27:
+        c7:4d:75:18:1c:4b:e1:5b:71:4b:6b:2c:43:99:2e:15:0b:59:
+        0e:ba:db:45:12:bb:25:e6:f7:91:50:4d:cd:b5:31:6c:1d:fe:
+        e8:e6:9a:f6:b2:70:d2:db:e3:6d:d5:f6:0f:46:7d:cc:44:1b:
+        b9:1c:96:68:6a:f8:85:f3:16:ec:c7:71:d3:16:0c:cd:42:48:
+        65:57:d4:52:d5:03:db:d0:1e:cd:3d:7b:0a:ba:20:35:7b:68:
+        70:e6:cb:36:73:17:0a:55:f0:73:de:ee:2f:21:80:56:23:e1:
+        ac:c5:e8:68:02:cd:92:c0:e3:90:dd:d7:6d:d2:2f:43:0d:a4:
+        83:35:b1:c9:a1:1c:6e:bf:e6:27:70:e0:7d:1c:00:cf:61:50:
+        02:4d:71:e4:49:46:cf:83:63:ef:d2:9d:24:0a:47:79:fd:6d:
+        0c:ee:55:46:a0:86:19:3c:de:44:8d:fd:a6:19:98:35:73:af:
+        54:ce:15:d8:db:94:c8:d0:86:28:67:c0:f0:08:88:32:fd:ba:
+        fb:f6:cd:d9:66:34:61:42:01:03:77:0f:13:9c:3d:49:df:52:
+        ca:25:28:c3
