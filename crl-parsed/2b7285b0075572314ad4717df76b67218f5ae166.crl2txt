@@ -1,0 +1,48 @@
+issuer=/C=DE/O=Kath. Universitaet Eichstaett-Ingolstadt/OU=Universitaetsrechenzentrum/CN=Kath. Universitaet Eichstaett-Ingolstadt CA - G01/emailAddress=pki@ku-eichstaett.de
+SHA1 Fingerprint=30:2A:9B:54:69:67:6C:76:9F:7A:C2:69:AB:A3:A7:BF:7B:D1:ED:94
+eafccffa
+crlNumber=FB
+lastUpdate=Mar 14 08:45:07 2011 GMT
+nextUpdate=Apr 13 08:45:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Kath. Universitaet Eichstaett-Ingolstadt/OU=Universitaetsrechenzentrum/CN=Kath. Universitaet Eichstaett-Ingolstadt CA - G01/emailAddress=pki@ku-eichstaett.de
+        Last Update: Mar 14 08:45:07 2011 GMT
+        Next Update: Apr 13 08:45:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                251
+Revoked Certificates:
+    Serial Number: 09E171BB
+        Revocation Date: Feb 15 07:00:55 2007 GMT
+    Serial Number: 09E284B6
+        Revocation Date: Feb 15 07:00:57 2007 GMT
+    Serial Number: 09F03949
+        Revocation Date: Feb 15 07:10:47 2007 GMT
+    Serial Number: 09F411A8
+        Revocation Date: Feb 26 15:20:55 2007 GMT
+    Serial Number: 0C953F18
+        Revocation Date: Jul 16 05:45:10 2008 GMT
+    Serial Number: 0F4858CE
+        Revocation Date: Dec 16 15:11:07 2009 GMT
+    Serial Number: 0F6E3DD4
+        Revocation Date: Jan 22 07:33:06 2010 GMT
+    Serial Number: 0F6E4517
+        Revocation Date: Jan 22 07:31:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        65:28:1a:5d:9d:28:df:a6:26:81:7a:67:e3:17:a5:87:ff:35:
+        82:b1:1d:d6:22:d3:b4:d2:03:cf:ac:c1:4a:08:e4:65:91:62:
+        07:b3:bb:02:53:8a:77:80:a8:aa:dd:4f:ee:fc:0b:91:80:f1:
+        c4:63:f6:81:a6:18:1b:93:60:94:40:6d:90:1f:6b:bc:09:04:
+        c3:15:96:0f:af:57:0c:ed:d6:b3:b3:c4:af:5e:44:d8:35:61:
+        75:0c:e5:b7:fd:85:da:42:c6:3f:94:2c:cf:d4:d5:63:28:00:
+        d2:db:35:37:ff:05:57:2e:87:ac:a1:19:a6:58:d0:17:37:2e:
+        94:02:90:73:a0:ab:dc:26:db:d7:c0:19:bf:ed:cb:4a:01:9d:
+        5b:78:cd:0d:73:6f:7a:fc:41:7e:24:a4:95:fe:da:80:c7:01:
+        c5:0f:63:eb:fd:29:17:53:cf:ce:1e:9f:f5:67:9f:43:e3:85:
+        6f:44:98:44:c8:0d:86:26:63:af:36:4c:5d:18:94:50:69:a2:
+        33:7e:e1:7e:67:ca:51:fe:df:df:d6:61:3c:09:74:28:fb:08:
+        54:dd:d8:7b:49:c1:a7:8a:8a:37:60:c2:5e:96:65:96:a5:82:
+        7a:ab:7d:76:a8:18:c8:7a:39:80:62:4d:67:e0:79:d9:63:74:
+        d2:17:11:51
