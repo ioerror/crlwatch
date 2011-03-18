@@ -1,0 +1,52 @@
+issuer=/C=DE/ST=Baden-Wuerttemberg/L=Karlsruhe/O=Badische Landesbibliothek/OU=IT-Abteilung/CN=BLB Karlsruhe CA/emailAddress=ca@blb-karlsruhe.de
+SHA1 Fingerprint=E1:34:4E:66:0F:0C:27:54:0A:C8:57:F6:BC:B6:CE:D5:D5:32:30:23
+fffbf9cd
+crlNumber=0131
+lastUpdate=Mar 14 07:09:07 2011 GMT
+nextUpdate=Apr 13 07:09:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Baden-Wuerttemberg/L=Karlsruhe/O=Badische Landesbibliothek/OU=IT-Abteilung/CN=BLB Karlsruhe CA/emailAddress=ca@blb-karlsruhe.de
+        Last Update: Mar 14 07:09:07 2011 GMT
+        Next Update: Apr 13 07:09:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                305
+Revoked Certificates:
+    Serial Number: 0C22D2F5
+        Revocation Date: Sep  3 13:22:49 2008 GMT
+    Serial Number: 0C22E710
+        Revocation Date: May 14 08:09:07 2008 GMT
+    Serial Number: 0C2576D6
+        Revocation Date: May 14 08:13:08 2008 GMT
+    Serial Number: 0C3EA2FB
+        Revocation Date: May 14 08:13:06 2008 GMT
+    Serial Number: 0C3EA2FD
+        Revocation Date: May 14 08:13:07 2008 GMT
+    Serial Number: 0CE4998A
+        Revocation Date: Sep 15 13:47:06 2008 GMT
+    Serial Number: 0D4F6AC8
+        Revocation Date: Dec  1 08:47:09 2008 GMT
+    Serial Number: 0D4F6B42
+        Revocation Date: Dec  1 08:47:07 2008 GMT
+    Serial Number: 0D4F6B44
+        Revocation Date: Dec  1 08:47:08 2008 GMT
+    Serial Number: 1110CB83
+        Revocation Date: Nov 27 18:37:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        89:a4:53:31:65:2e:cc:5d:55:ee:4d:a8:07:bc:52:58:05:04:
+        26:8b:0a:8a:7f:a2:94:73:57:76:5d:af:af:fc:b7:cc:37:72:
+        1e:1e:5a:be:da:15:ca:5f:df:cb:ff:ee:60:37:80:a3:71:f8:
+        b5:44:e9:cd:4c:33:54:15:b2:a6:f2:fa:66:db:f2:b5:c5:ae:
+        45:af:27:a3:12:8c:37:95:9a:2b:97:dc:bf:f9:fb:67:e2:a4:
+        62:e3:0a:61:5f:74:a1:07:4c:1e:b2:da:0c:19:ed:5c:90:9c:
+        4f:36:c0:56:94:11:9f:50:0c:62:0b:4c:37:3f:65:dd:73:55:
+        85:25:85:87:4a:62:2b:7a:ad:9c:e3:59:cf:9a:d8:06:e7:03:
+        61:82:40:f0:3d:8f:dd:90:8e:b1:f7:b5:8d:ee:c5:b6:b7:f2:
+        86:f5:2e:b9:d3:4b:9d:5f:57:02:40:11:d8:20:8e:43:00:2a:
+        98:62:68:70:34:67:72:35:68:09:1b:80:f3:8a:32:8e:0e:04:
+        f3:ab:73:7d:af:5e:98:5c:5e:de:10:fa:1f:7f:d6:e7:24:ba:
+        be:3b:bb:d2:68:85:09:d4:f4:32:45:f6:df:4f:70:08:cf:92:
+        39:2e:e3:dd:15:d4:28:7a:7b:b8:0d:5c:68:57:3e:27:3a:15:
+        c4:f2:55:63
