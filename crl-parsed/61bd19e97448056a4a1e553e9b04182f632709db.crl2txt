@@ -1,0 +1,178 @@
+issuer=/C=ES/ST=Barcelona/L=Barcelona/O=IPS Seguridad CA/OU=Certificaciones/CN=CLASE B-3 ipsCA-IPS Seguridad 2005/emailAddress=ips@mail.ips.es
+SHA1 Fingerprint=35:86:9A:F4:6C:77:3E:60:35:A8:18:C2:F1:D2:9C:99:B7:A1:8E:9A
+4094b08e
+crlNumber=<NONE>
+lastUpdate=Mar 11 09:15:30 2011 GMT
+nextUpdate=Apr 11 21:35:30 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/ST=Barcelona/L=Barcelona/O=IPS Seguridad CA/OU=Certificaciones/CN=CLASE B-3 ipsCA-IPS Seguridad 2005/emailAddress=ips@mail.ips.es
+        Last Update: Mar 11 09:15:30 2011 GMT
+        Next Update: Apr 11 21:35:30 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:8B:BD:99:04:35:82:0A:55:61:CD:BB:35:80:36:EF:E3:2F:C4:E9:A5
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+Revoked Certificates:
+    Serial Number: 153415EF000100000AEE
+        Revocation Date: Mar 26 12:41:34 2010 GMT
+    Serial Number: 63F28192000100000BAC
+        Revocation Date: Nov  4 10:19:13 2010 GMT
+    Serial Number: 615F9339000100000BFE
+        Revocation Date: Nov  4 10:40:24 2010 GMT
+    Serial Number: 11366C96000100000C19
+        Revocation Date: Nov  4 10:44:15 2010 GMT
+    Serial Number: 1AB1C33F000100000C56
+        Revocation Date: Nov  4 10:45:30 2010 GMT
+    Serial Number: 1AB31A15000100000C57
+        Revocation Date: Nov  4 10:46:19 2010 GMT
+    Serial Number: 7CF67B24000100000C7A
+        Revocation Date: Nov  4 12:04:36 2010 GMT
+    Serial Number: 26F1D8D3000100000C80
+        Revocation Date: Dec 10 16:33:16 2009 GMT
+    Serial Number: 1D4FFCD1000100000CC8
+        Revocation Date: Apr 21 08:27:01 2010 GMT
+    Serial Number: 10217313000100000CF2
+        Revocation Date: Nov 11 08:59:40 2010 GMT
+    Serial Number: 1139C476000100000D0A
+        Revocation Date: Jun 21 09:21:59 2010 GMT
+    Serial Number: 51F645F9000100000D17
+        Revocation Date: Nov  4 10:39:20 2010 GMT
+    Serial Number: 1599E5C7000100000D26
+        Revocation Date: Nov  4 10:25:47 2010 GMT
+    Serial Number: 1A6243DE000100000D77
+        Revocation Date: Jun 25 08:32:45 2010 GMT
+    Serial Number: 1FB97591000100000D80
+        Revocation Date: Nov  4 12:06:58 2010 GMT
+    Serial Number: 29B0ECBC000100000D92
+        Revocation Date: Jun 21 09:25:53 2010 GMT
+    Serial Number: 150EFAF4000100000D9E
+        Revocation Date: Jan 24 17:03:00 2011 GMT
+    Serial Number: 1565F705000100000DD5
+        Revocation Date: Jun  7 09:54:30 2010 GMT
+    Serial Number: 23DDA131000100000DDB
+        Revocation Date: Jun 24 08:17:53 2010 GMT
+    Serial Number: 29156CD0000100000DE3
+        Revocation Date: Nov  4 12:06:38 2010 GMT
+    Serial Number: 2E80D36F000100000DE4
+        Revocation Date: May 14 09:34:44 2010 GMT
+    Serial Number: 4894A013000100000DF1
+        Revocation Date: Apr 27 11:27:03 2010 GMT
+    Serial Number: 529A78B4000100000DF5
+        Revocation Date: Nov  4 12:06:15 2010 GMT
+    Serial Number: 6C149AB8000100000DF9
+        Revocation Date: May 14 09:39:28 2010 GMT
+    Serial Number: 71B64399000100000DFD
+        Revocation Date: May 18 09:41:08 2010 GMT
+    Serial Number: 71BCA5C1000100000DFE
+        Revocation Date: Jul 20 09:01:32 2010 GMT
+    Serial Number: 7B6A2ACF000100000E04
+        Revocation Date: Jan  4 12:09:28 2011 GMT
+    Serial Number: 1A558A7B000100000E1C
+        Revocation Date: Jul 13 10:00:22 2010 GMT
+    Serial Number: 1A68C361000100000E1E
+        Revocation Date: May 25 08:47:56 2010 GMT
+    Serial Number: 1A731598000100000E1F
+        Revocation Date: Sep  9 15:29:25 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1F20CCD1000100000E29
+        Revocation Date: Jun 24 08:16:43 2010 GMT
+    Serial Number: 2EED0E29000100000E2F
+        Revocation Date: Nov  4 12:05:14 2010 GMT
+    Serial Number: 2EF7DD50000100000E30
+        Revocation Date: Nov  4 12:04:54 2010 GMT
+    Serial Number: 3E57555B000100000E34
+        Revocation Date: Jul 20 09:00:02 2010 GMT
+    Serial Number: 0B17D067000100000E57
+        Revocation Date: Jun 21 09:28:40 2010 GMT
+    Serial Number: 6147BB76000100000E88
+        Revocation Date: Jul 13 15:18:42 2010 GMT
+    Serial Number: 4DD342DB000100000EB3
+        Revocation Date: Jul 13 15:16:54 2010 GMT
+    Serial Number: 2947DBD3000100000EC6
+        Revocation Date: Jul 28 14:21:05 2010 GMT
+    Serial Number: 4692F694000100000ED7
+        Revocation Date: Aug 19 08:32:21 2010 GMT
+    Serial Number: 469D9246000100000ED9
+        Revocation Date: Aug 19 08:38:02 2010 GMT
+    Serial Number: 3968F8D6000100000EFD
+        Revocation Date: Mar  7 09:54:19 2011 GMT
+    Serial Number: 4334D88E000100000F1A
+        Revocation Date: Sep 30 13:26:25 2010 GMT
+    Serial Number: 434F4E2D000100000F1B
+        Revocation Date: Sep 30 13:26:25 2010 GMT
+    Serial Number: 43535369000100000F1C
+        Revocation Date: Sep 30 13:26:25 2010 GMT
+    Serial Number: 435658D9000100000F1D
+        Revocation Date: Sep 30 13:26:25 2010 GMT
+    Serial Number: 435B0E89000100000F1E
+        Revocation Date: Sep 30 13:26:25 2010 GMT
+    Serial Number: 5D774402000100000F26
+        Revocation Date: Oct 27 08:45:07 2010 GMT
+    Serial Number: 5D81DE8C000100000F27
+        Revocation Date: Oct 27 08:45:07 2010 GMT
+    Serial Number: 0119D94B000100000F34
+        Revocation Date: Nov 24 08:20:41 2010 GMT
+    Serial Number: 6E3D9CCB000100000F7A
+        Revocation Date: Jan 26 14:08:31 2011 GMT
+    Serial Number: 7DA43E55000100000F7F
+        Revocation Date: Dec  3 09:47:53 2010 GMT
+    Serial Number: 07D32602000100000F84
+        Revocation Date: Dec  3 09:48:55 2010 GMT
+    Serial Number: 0CD5F608000100000F87
+        Revocation Date: Dec  3 09:49:54 2010 GMT
+    Serial Number: 1F863203000100000FCA
+        Revocation Date: Jan 25 09:21:46 2011 GMT
+    Serial Number: 1F936E03000100000FCB
+        Revocation Date: Jan 25 09:21:41 2011 GMT
+    Serial Number: 1F954A16000100000FCC
+        Revocation Date: Jan 25 09:21:35 2011 GMT
+    Serial Number: 1F978754000100000FCD
+        Revocation Date: Jan 25 09:21:21 2011 GMT
+    Serial Number: 1F99B2C0000100000FCE
+        Revocation Date: Jan 25 09:21:15 2011 GMT
+    Serial Number: 1F9B78BA000100000FCF
+        Revocation Date: Jan 25 09:21:10 2011 GMT
+    Serial Number: 1F9E1BF6000100000FD0
+        Revocation Date: Jan 25 09:21:05 2011 GMT
+    Serial Number: 1FA0195C000100000FD1
+        Revocation Date: Jan 25 09:20:59 2011 GMT
+    Serial Number: 1FA20FDD000100000FD2
+        Revocation Date: Jan 25 09:20:54 2011 GMT
+    Serial Number: 1FA48580000100000FD3
+        Revocation Date: Jan 25 09:20:35 2011 GMT
+    Serial Number: 1FA73790000100000FD4
+        Revocation Date: Jan 25 09:20:16 2011 GMT
+    Serial Number: 1FA9A1AB000100000FD5
+        Revocation Date: Jan 25 09:19:05 2011 GMT
+    Serial Number: 234979BE000100000FD8
+        Revocation Date: Jan 25 09:52:15 2011 GMT
+    Serial Number: 23507D18000100000FDB
+        Revocation Date: Mar 10 11:10:22 2011 GMT
+    Serial Number: 2354599E000100000FDD
+        Revocation Date: Jan 25 10:03:51 2011 GMT
+    Serial Number: 4CDBF1CA000100000FE9
+        Revocation Date: Feb  3 09:07:29 2011 GMT
+    Serial Number: 4CF411F0000100000FEA
+        Revocation Date: Feb  3 09:08:32 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        d2:7c:5d:72:96:e8:e7:6f:de:c4:0e:5b:19:13:88:84:a7:bc:
+        f2:4d:c5:1a:1c:75:7f:2b:85:69:92:4b:52:9c:ef:6f:77:8b:
+        5b:78:00:5a:ee:90:f1:42:44:bd:ba:4e:3a:62:ab:9f:ee:d4:
+        e7:cd:7a:2a:d3:e5:84:12:69:98:61:e6:6a:c1:3e:49:80:bd:
+        df:c1:1b:e2:0b:4e:2d:57:cf:c1:10:b8:e8:9f:d5:9e:80:c2:
+        90:a1:2d:8d:ad:c0:40:95:98:f8:5c:b7:d9:29:54:98:70:ec:
+        21:31:a3:1a:3f:85:14:de:44:81:ce:55:8f:41:1c:4f:5b:25:
+        d5:5d:a6:11:3c:a6:64:5e:e3:72:db:b1:db:e6:f9:81:99:03:
+        3f:a1:82:87:53:53:b7:a0:53:ec:ac:78:11:d2:90:cd:ac:09:
+        98:4d:3d:cc:98:a1:ad:b6:27:c2:a4:45:86:df:af:37:2b:c0:
+        0a:b7:5d:14:e9:d0:ff:63:cb:1c:3c:5f:1d:70:a6:55:18:2f:
+        78:32:a8:69:9c:69:03:9a:e6:ff:2c:e4:d1:7c:eb:be:38:f7:
+        8d:56:d9:4b:21:56:11:6f:64:20:99:ed:fa:96:75:16:ad:27:
+        23:a0:91:30:fa:93:77:ae:27:bd:7f:cb:4b:c3:20:89:b3:e7:
+        f4:ad:78:f4
