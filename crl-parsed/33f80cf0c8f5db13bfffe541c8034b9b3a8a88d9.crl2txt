@@ -1,0 +1,62 @@
+issuer=/C=TW/O=\xE8\xA1\x8C\xE6\x94\xBF\xE9\x99\xA2/OU=\xE6\x94\xBF\xE5\xBA\x9C\xE6\xB8\xAC\xE8\xA9\xA6\xE6\x86\x91\xE8\xAD\x89\xE7\xAE\xA1\xE7\x90\x86\xE4\xB8\xAD\xE5\xBF\x83
+SHA1 Fingerprint=29:4C:67:F1:40:9F:30:8C:7A:47:A2:52:AB:74:3D:EE:70:4B:CC:10
+0e8392ba
+crlNumber=77DDE908
+lastUpdate=Mar 18 08:42:02 2011 GMT
+nextUpdate=Apr 17 08:42:02 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=TW/O=\xE8\xA1\x8C\xE6\x94\xBF\xE9\x99\xA2/OU=\xE6\x94\xBF\xE5\xBA\x9C\xE6\xB8\xAC\xE8\xA9\xA6\xE6\x86\x91\xE8\xAD\x89\xE7\xAE\xA1\xE7\x90\x86\xE4\xB8\xAD\xE5\xBF\x83
+        Last Update: Mar 18 08:42:02 2011 GMT
+        Next Update: Apr 17 08:42:02 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:4B:F6:4A:77:68:D3:94:C4:E3:B5:60:DC:0E:1B:EF:A9:BA:7B:F6:53
+
+            X509v3 CRL Number: 
+                2011031816
+            X509v3 Freshest CRL: 
+                0705.3.1./http://gtestca.nat.gov.tw/crl/GTestCA/delta.crl
+Revoked Certificates:
+    Serial Number: 158BD114DE252861736FB36500EC8DB3
+        Revocation Date: Feb 20 15:48:41 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 1C22E8A0F0CCE50956E98D0DBD2DF68F
+        Revocation Date: Feb 20 15:48:31 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 46FB19936E2B5AEBA56EA231214B955C
+        Revocation Date: Feb 20 15:48:24 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 58E5CB8D027B187F96FC5F57AD6E6B61
+        Revocation Date: Feb 20 15:48:14 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 69B6E599BED80880902AE87E31D0E4F6
+        Revocation Date: Feb 20 15:49:15 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Signature Algorithm: sha1WithRSAEncryption
+        c0:8c:e4:84:18:56:4f:b2:85:bb:d1:da:92:af:5f:bc:0e:c5:
+        79:b2:19:c7:78:d9:d7:a6:7c:2b:36:9c:33:5a:71:8d:71:9e:
+        68:92:52:df:c6:31:0b:e3:dd:16:e3:de:a4:62:36:fd:cc:94:
+        ca:ae:56:56:80:fc:c3:51:86:47:72:f9:3f:e0:de:4f:cc:d3:
+        5c:13:a7:fe:61:1a:cf:fc:1c:67:74:fb:6e:10:0d:fe:2a:23:
+        a6:18:b5:aa:03:f3:bf:96:70:c7:c3:09:43:6f:07:6a:b8:9d:
+        d1:ad:1e:93:b8:fd:bc:3b:a9:fa:e8:de:b3:6b:15:07:f4:89:
+        ff:48:79:00:45:57:b9:38:67:df:39:23:6b:1d:f5:46:c7:a9:
+        43:c6:f4:f7:49:31:ab:18:dd:63:d4:6f:20:91:ab:b1:3c:63:
+        00:07:9b:b1:b7:a3:12:3a:d6:ee:85:22:2d:1d:14:c4:f1:82:
+        08:03:53:5d:21:7f:33:1b:58:ec:6e:a6:8b:cd:47:7f:1b:36:
+        47:b7:81:84:0c:25:ff:e9:90:a2:63:ec:ca:6e:5e:13:70:a6:
+        32:68:24:09:26:d8:29:66:44:42:54:de:61:4a:e0:9c:04:9c:
+        c5:e1:b8:20:09:62:64:52:92:4d:47:ab:d7:15:b5:62:44:d1:
+        40:d0:bf:f4
