@@ -1,0 +1,40 @@
+issuer=/C=DE/ST=Bayern/L=Coburg/O=Hochschule fuer angewandte Wissenschaften Fachhochschule Coburg/CN=FH-Coburg CA/emailAddress=fhc-pki@fh-coburg.de
+SHA1 Fingerprint=52:B0:CA:72:26:ED:8A:52:22:A4:E1:39:70:C2:34:8E:62:4B:B2:78
+48c9cba9
+crlNumber=01AA
+lastUpdate=Mar 14 07:36:14 2011 GMT
+nextUpdate=Apr 13 07:36:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Coburg/O=Hochschule fuer angewandte Wissenschaften Fachhochschule Coburg/CN=FH-Coburg CA/emailAddress=fhc-pki@fh-coburg.de
+        Last Update: Mar 14 07:36:14 2011 GMT
+        Next Update: Apr 13 07:36:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                426
+Revoked Certificates:
+    Serial Number: 0AE902A5
+        Revocation Date: Oct 11 06:07:24 2010 GMT
+    Serial Number: 0D44ED4F
+        Revocation Date: Nov 21 08:28:07 2008 GMT
+    Serial Number: 0D65D9E6
+        Revocation Date: Jun  5 11:06:19 2009 GMT
+    Serial Number: 0FD3FDCB
+        Revocation Date: Apr  6 08:47:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        6f:9b:3b:fa:9a:82:39:15:00:9a:fd:39:41:42:90:08:a3:ea:
+        34:5a:8b:f8:48:12:6f:0d:ba:ec:9b:48:18:73:16:6c:f4:62:
+        21:51:22:fe:90:2d:d3:8e:c9:f6:0f:d0:03:e4:96:79:1c:3b:
+        04:b1:0c:09:d7:7a:c5:dd:3a:72:d9:ab:e6:c7:4c:7d:c0:fb:
+        5e:8d:b3:4e:d6:cb:90:4d:24:fb:15:0b:11:3a:32:86:de:9d:
+        28:4a:d6:23:ca:97:ed:c0:76:16:e0:ac:1f:c8:ca:01:12:a3:
+        1e:54:ab:94:e8:ec:d3:c2:56:19:8a:b9:a8:4b:cc:ae:7f:57:
+        5b:fd:36:fd:99:43:54:4e:8a:7e:7c:fd:9c:91:b8:11:3c:a4:
+        96:80:14:af:47:8d:dd:92:ed:8e:f9:78:33:8a:4c:a6:ae:92:
+        f4:d4:18:ce:17:72:b5:ff:c8:ab:d3:64:96:5c:2f:37:39:d7:
+        f0:0f:2d:62:44:61:65:d8:bd:5e:24:91:27:df:c3:10:ee:2c:
+        83:ab:7f:97:56:84:ee:db:71:30:3b:e3:2e:1e:4d:8c:c9:67:
+        86:ac:ca:81:a7:5b:fa:ce:bc:37:73:9d:d5:f7:79:0a:02:e2:
+        18:16:d0:ce:b5:62:aa:ca:64:d2:52:8c:f9:eb:97:47:dd:63:
+        77:d9:f0:60
