@@ -1,0 +1,38 @@
+issuer=/C=DE/O=Hochschule Zittau/Goerlitz/CN=HS-ZIGR CA/emailAddress=ca@hs-zigr.de
+SHA1 Fingerprint=02:8D:B9:01:AF:3E:96:4C:F6:48:A1:A1:BD:50:71:08:15:E5:85:0E
+3b7b9ea9
+crlNumber=F6
+lastUpdate=Mar 14 08:31:14 2011 GMT
+nextUpdate=Apr 13 08:31:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschule Zittau/Goerlitz/CN=HS-ZIGR CA/emailAddress=ca@hs-zigr.de
+        Last Update: Mar 14 08:31:14 2011 GMT
+        Next Update: Apr 13 08:31:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                246
+Revoked Certificates:
+    Serial Number: 0AD8D3D7
+        Revocation Date: Aug  8 08:38:06 2007 GMT
+    Serial Number: 0BCBDB70
+        Revocation Date: Feb  8 15:07:06 2008 GMT
+    Serial Number: 0BDA4DAE
+        Revocation Date: May 19 08:06:31 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        3b:2d:8d:21:89:b3:aa:da:e8:da:25:49:84:5d:1d:a5:ad:94:
+        32:6d:d0:57:cd:70:58:aa:85:d6:e0:17:59:9b:50:e3:18:2a:
+        4b:98:0f:c1:21:9b:0e:de:6a:b1:d2:96:af:a4:ed:29:9e:2b:
+        a1:a2:7b:c1:c4:cd:b3:a3:59:db:5a:31:bf:51:19:78:13:c6:
+        00:9e:c7:1f:54:ce:26:74:56:3a:66:eb:a3:03:9e:a3:42:53:
+        4f:b7:96:bf:9c:cd:8b:6f:55:61:74:be:90:a9:b8:e3:5e:71:
+        83:6d:fb:0b:36:0f:4c:19:89:f3:b3:b5:57:e1:c3:02:36:c9:
+        85:ac:f2:84:91:02:0d:ec:99:75:64:a9:31:2d:bb:5c:cd:6f:
+        55:05:0f:83:0c:5c:6a:f7:65:ec:4e:e9:f0:69:53:07:5e:00:
+        63:76:bf:60:0f:55:4d:0c:61:d7:27:65:42:d1:6a:6a:ac:8a:
+        e3:52:eb:7d:28:91:8d:f2:a3:cf:5d:07:06:eb:fe:8a:1b:29:
+        99:ed:8e:1a:a7:c2:26:ee:30:0a:02:9e:89:e4:0d:6e:d4:95:
+        7a:1a:f8:af:f5:f2:85:92:5d:67:9f:5c:03:8c:3c:1a:17:a3:
+        a4:11:21:e7:0e:c1:af:ae:20:05:d6:46:83:65:a3:f2:8f:cd:
+        b4:11:26:fa
