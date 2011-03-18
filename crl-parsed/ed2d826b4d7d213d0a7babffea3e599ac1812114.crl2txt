@@ -1,0 +1,44 @@
+issuer=/C=DE/O=Bundesinstitut fuer Risikobewertung/CN=BfR CA/emailAddress=ca@bfr.bund.de
+SHA1 Fingerprint=67:75:7B:A8:3E:E2:A8:AC:96:06:BE:62:71:CE:91:79:58:1F:F9:B7
+1e135677
+crlNumber=D1
+lastUpdate=Mar 14 07:16:07 2011 GMT
+nextUpdate=Apr 13 07:16:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Bundesinstitut fuer Risikobewertung/CN=BfR CA/emailAddress=ca@bfr.bund.de
+        Last Update: Mar 14 07:16:07 2011 GMT
+        Next Update: Apr 13 07:16:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                209
+Revoked Certificates:
+    Serial Number: 0AEA6524
+        Revocation Date: Mar 10 09:59:07 2008 GMT
+    Serial Number: 0BF4740E
+        Revocation Date: Mar 14 08:22:10 2008 GMT
+    Serial Number: 0BF89BDF
+        Revocation Date: Mar 14 11:20:06 2008 GMT
+    Serial Number: 0C54D476
+        Revocation Date: May 23 06:48:07 2008 GMT
+    Serial Number: 0F6FF1FE
+        Revocation Date: Apr  8 07:30:07 2010 GMT
+    Serial Number: 0F74EF93
+        Revocation Date: Sep 15 14:41:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        a7:58:ff:79:23:a2:4a:80:50:e2:2e:a4:dc:68:2f:82:fc:62:
+        d2:52:3d:c4:92:a1:03:3e:2e:a8:e0:6b:af:61:61:45:1a:bf:
+        fd:97:c3:d1:11:75:3b:cf:6a:5d:18:3a:fc:07:87:0c:17:cf:
+        26:4d:1e:70:6c:10:7a:d1:79:f3:c7:8e:30:78:a9:ec:ed:6e:
+        33:38:3b:82:2a:1e:5c:7b:dd:13:96:d1:56:56:20:c5:0d:71:
+        58:a3:99:ce:11:54:a9:77:12:f6:f2:a1:e7:76:f9:b1:49:27:
+        e7:07:d2:2d:3b:37:fd:b3:4a:0d:39:ce:f6:3d:b1:4c:24:d3:
+        f4:f0:c4:9c:93:84:5c:d4:83:b4:0f:4b:31:9a:17:23:4d:d4:
+        59:f5:55:19:2a:c0:94:1f:79:bf:77:3a:93:83:38:49:f6:70:
+        7f:48:c2:c1:53:44:de:3d:37:15:bd:73:ee:02:06:ee:ce:e1:
+        52:0f:0f:4e:53:c3:24:de:ca:e4:d6:4e:c3:64:0c:97:7b:40:
+        de:5d:c8:ed:b2:b9:e0:24:0a:68:44:61:b9:65:79:41:0b:1d:
+        e8:79:f1:70:38:b7:bb:54:fc:85:31:80:91:f1:72:59:9e:b3:
+        2d:af:18:30:0e:92:9d:ea:a4:54:48:92:4f:d4:be:c4:84:27:
+        66:7c:13:98
