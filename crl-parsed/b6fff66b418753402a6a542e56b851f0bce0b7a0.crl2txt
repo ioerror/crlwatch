@@ -1,0 +1,71 @@
+issuer=/C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 3
+SHA1 Fingerprint=91:34:BC:BD:B1:AF:E7:9C:A5:33:7E:30:42:06:D6:4E:8A:2C:12:74
+9339512a
+crlNumber=15
+lastUpdate=Feb 24 00:46:42 2011 GMT
+nextUpdate=Aug 23 00:51:42 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 3
+        Last Update: Feb 24 00:46:42 2011 GMT
+        Next Update: Aug 23 00:51:42 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                21
+            X509v3 Authority Key Identifier: 
+                keyid:F2:C0:13:E0:82:43:3E:FB:EE:2F:67:32:96:35:5C:DB:B8:CB:02:D0
+                DirName:/C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 3
+                serial:05:C6
+
+Revoked Certificates:
+    Serial Number: 069D
+        Revocation Date: Mar 30 12:52:39 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 0925
+        Revocation Date: Apr  1 19:37:39 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: EAF81DAAB1BD471953E393594FF59F158B27D764
+        Revocation Date: Feb 24 00:46:00 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 156DF1B35130F24B7541826D7FFCD8136F8F5ACF
+        Revocation Date: Feb 24 00:46:36 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        7b:bc:9c:04:64:7c:94:17:d9:ac:8c:78:54:e5:6d:01:53:19:
+        36:6e:99:d3:49:93:02:f3:e8:46:db:9a:96:2b:23:6c:f1:b3:
+        17:18:4f:e7:57:28:ae:b4:dc:2f:17:87:4b:70:87:bc:5c:70:
+        ef:b6:ba:0f:bb:05:00:17:82:e2:da:87:80:7a:b5:a1:55:cd:
+        32:5b:4b:0f:ee:4c:fb:28:30:e8:46:ee:e7:5d:dd:d5:27:85:
+        82:c7:d1:37:e3:90:b0:47:14:4a:cf:c6:30:7c:fd:86:28:a1:
+        18:36:22:7f:f5:d1:98:08:9f:bc:6a:05:ca:a9:32:4a:4d:e6:
+        97:0a:e0:0a:f4:8a:a8:35:a4:61:14:11:c1:92:38:6c:99:25:
+        3a:4e:ae:4c:b0:5f:13:1b:ce:54:40:e4:95:ca:73:61:93:6d:
+        ee:c3:4c:3f:53:fa:fc:64:46:f4:c2:9b:c2:79:e3:31:4c:d5:
+        4e:7e:5e:fa:54:78:8b:49:a6:ce:b5:f5:8c:fe:10:78:3f:55:
+        ac:ef:c3:9c:0a:94:3c:6e:7c:90:be:9a:21:2c:63:2f:c2:1d:
+        05:99:9c:d8:80:f8:cc:24:f2:56:66:00:8b:59:8f:c6:69:59:
+        4b:1c:f4:45:4e:e4:b7:97:ed:a5:c9:1b:87:f0:d2:48:b3:16:
+        ba:10:9a:64:9c:b4:37:27:7d:53:f6:84:0a:38:b1:48:38:7c:
+        f2:3c:c7:ed:0b:81:8d:19:37:80:1b:ef:1b:ea:d9:91:93:ff:
+        70:86:cd:9a:1c:48:a5:98:a3:dd:78:d9:48:0d:00:3e:4b:c0:
+        2d:ce:3c:6c:1b:34:ff:01:b3:fe:58:f3:8c:21:2f:f2:5e:30:
+        29:75:be:c7:31:6c:76:11:a2:07:b8:27:f3:9b:49:cc:8a:6a:
+        44:07:40:2e:4b:a8:a1:a2:8f:7c:9c:af:ee:95:b3:0a:09:74:
+        7c:97:c1:fc:3c:fa:ab:ea:a8:02:9f:b1:50:22:aa:99:fb:d4:
+        cc:7e:79:e2:32:1f:64:31:ea:1b:89:dc:0e:66:ec:0a:64:7b:
+        70:fc:f6:8a:8e:ad:c2:90:0b:a0:5f:ab:f9:51:34:83:c5:47:
+        eb:d3:0f:7f:9d:3d:4c:fb:6e:bb:4b:0f:11:22:e4:39:91:e1:
+        39:95:91:01:83:7b:1b:de:83:11:3e:47:42:2c:f7:e5:ad:5c:
+        27:5a:da:32:86:76:2a:20:53:29:06:90:1d:61:ae:f3:c3:d4:
+        e3:fb:a7:b4:5c:26:36:de:a2:47:25:19:01:7b:38:8a:4b:08:
+        09:66:d1:ed:3b:df:38:e7:8b:97:ef:e2:44:46:5d:a9:23:25:
+        05:ed:05:a3:2d:44:bb:e6
