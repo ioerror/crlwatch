@@ -1,0 +1,42 @@
+issuer=/C=DE/O=D-Trust GmbH/CN=D-TRUST Root Class 3 CA 2007
+SHA1 Fingerprint=25:9F:B8:C5:2B:D8:B6:B8:A6:19:54:34:B7:3D:68:1F:47:16:68:B2
+396bf851
+crlNumber=0958
+lastUpdate=Mar 18 02:31:19 2011 GMT
+nextUpdate=Mar 23 14:31:19 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=D-Trust GmbH/CN=D-TRUST Root Class 3 CA 2007
+        Last Update: Mar 18 02:31:19 2011 GMT
+        Next Update: Mar 23 14:31:19 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                2392
+            X509v3 Authority Key Identifier: 
+                keyid:82:2F:36:23:49:78:20:42:D7:B0:52:58:A0:D6:74:54:15:78:BF:AA
+
+Revoked Certificates:
+    Serial Number: 0501DC
+        Revocation Date: Jan 19 16:52:49 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 080123
+        Revocation Date: Sep 25 17:19:51 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        95:1f:89:17:37:9c:48:b0:cc:4a:15:83:c2:4e:bb:05:c9:a9:
+        31:38:e6:c7:85:5e:28:80:83:fb:4b:27:81:e9:08:63:5a:98:
+        e5:a0:aa:02:50:de:cb:6c:01:c1:e8:f8:4d:4d:0a:bd:d0:e0:
+        17:11:b2:68:d3:8b:18:9f:6e:25:1f:b9:6e:de:78:fc:ab:16:
+        23:73:8d:29:99:e3:bc:bc:65:79:fa:49:55:b7:e0:7b:f5:df:
+        94:d9:5f:c9:e5:66:01:da:43:46:cb:4f:ae:f1:cf:98:24:1b:
+        62:b9:e8:12:a6:03:88:b1:ba:b1:eb:0e:b8:1e:a3:95:16:8f:
+        9f:f6:b6:8a:b2:e3:0a:6b:44:36:42:2c:86:64:bf:00:a0:75:
+        a9:20:50:fd:d9:b0:1d:b1:9a:1a:ab:ad:db:04:9e:91:1b:79:
+        74:d4:9a:62:30:64:86:58:03:4d:c0:d8:ce:ff:af:47:40:b0:
+        9e:8f:54:ca:5d:75:76:0c:db:27:76:9e:eb:26:65:65:e6:bd:
+        18:e3:a6:2c:ad:d8:da:2c:94:94:a7:60:a6:33:74:fa:57:bc:
+        35:d3:c4:ce:da:cb:8a:99:de:a2:54:65:f3:da:fd:ae:9a:64:
+        b0:cf:55:96:aa:4c:65:05:bc:c3:dd:28:c7:ef:c2:32:45:40:
+        08:bc:f1:7a
