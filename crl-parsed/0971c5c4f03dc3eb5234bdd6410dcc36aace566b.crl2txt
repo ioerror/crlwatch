@@ -1,0 +1,60 @@
+issuer=/C=DE/O=Technische Universitaet Bergakademie Freiberg/OU=Universitaetsrechenzentrum/CN=TU Bergakademie Freiberg CA (TUBAF-CA)/emailAddress=tubaf-ca@tu-freiberg.de
+SHA1 Fingerprint=61:6F:1A:5C:51:FD:B0:0C:55:F2:E4:BD:EE:D4:5A:78:80:06:25:76
+85b8825d
+crlNumber=E9
+lastUpdate=Mar 14 09:09:15 2011 GMT
+nextUpdate=Apr 13 09:09:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Technische Universitaet Bergakademie Freiberg/OU=Universitaetsrechenzentrum/CN=TU Bergakademie Freiberg CA (TUBAF-CA)/emailAddress=tubaf-ca@tu-freiberg.de
+        Last Update: Mar 14 09:09:15 2011 GMT
+        Next Update: Apr 13 09:09:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                233
+Revoked Certificates:
+    Serial Number: 0AFB51B3
+        Revocation Date: Sep  4 05:26:10 2007 GMT
+    Serial Number: 0B6DDA3D
+        Revocation Date: Apr  3 06:41:08 2009 GMT
+    Serial Number: 0BAAF64A
+        Revocation Date: Mar 23 15:20:06 2009 GMT
+    Serial Number: 0BB06028
+        Revocation Date: May 19 13:24:09 2008 GMT
+    Serial Number: 0BB0609E
+        Revocation Date: May 19 13:24:10 2008 GMT
+    Serial Number: 0BB06115
+        Revocation Date: May 19 13:24:11 2008 GMT
+    Serial Number: 0BB06118
+        Revocation Date: May 19 13:24:12 2008 GMT
+    Serial Number: 0BB06190
+        Revocation Date: May 19 13:25:07 2008 GMT
+    Serial Number: 0C4CDED0
+        Revocation Date: Mar 23 15:17:16 2009 GMT
+    Serial Number: 0C4CDED2
+        Revocation Date: Mar 23 15:17:17 2009 GMT
+    Serial Number: 0C4CDF0B
+        Revocation Date: Mar 23 15:17:18 2009 GMT
+    Serial Number: 0C525DC4
+        Revocation Date: Apr  3 06:41:09 2009 GMT
+    Serial Number: 0C54F674
+        Revocation Date: Mar 23 15:17:19 2009 GMT
+    Serial Number: 0C563AD6
+        Revocation Date: Mar 23 15:17:20 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        81:5e:e7:c9:28:b3:57:9f:21:79:38:f4:e1:fc:4d:cd:4b:c0:
+        d4:23:8f:7e:ed:2c:f2:66:48:9c:6c:24:87:ec:bd:41:96:65:
+        f3:4b:d8:a7:36:0e:29:93:71:30:e5:21:c9:6b:7c:f3:82:a2:
+        8f:76:c8:58:27:65:1f:17:da:a2:2f:01:1e:95:ee:ad:48:93:
+        7d:c5:70:0c:9c:3b:fc:55:77:fe:59:18:df:50:74:e5:8d:c3:
+        35:f7:4c:7b:e3:30:e8:da:b5:fc:bb:73:22:ea:e9:b9:82:5d:
+        68:55:51:b0:e4:f5:46:3d:0d:0c:a7:b1:b3:03:37:4b:66:46:
+        e2:3b:be:9f:4e:9e:97:a1:6b:bf:69:d6:32:7c:71:50:49:1e:
+        76:49:2c:06:17:64:34:97:35:ae:45:61:90:f0:27:d1:65:2a:
+        41:ee:b9:8d:ce:3b:98:e2:83:6d:39:0d:9f:af:eb:c0:62:4a:
+        86:ba:54:2f:b5:7e:b9:15:81:ca:23:3e:8c:d4:b9:a4:12:63:
+        03:01:70:82:2d:f4:76:82:ab:4e:83:6d:db:93:ee:e4:5b:bf:
+        6a:05:17:ce:ff:18:38:05:11:e8:bd:46:2f:20:89:55:1e:5c:
+        70:0b:f3:32:31:b1:3b:0f:c6:c7:a3:ea:64:74:49:a3:89:7a:
+        7b:69:fc:a7
