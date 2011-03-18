@@ -1,0 +1,42 @@
+issuer=/C=DE/ST=Bayern/L=Aschaffenburg/O=Fachhochschule Aschaffenburg/OU=Rechenzentrum/CN=Fachhochschule Aschaffenburg/emailAddress=pki2@fh-aschaffenburg.de
+SHA1 Fingerprint=3B:D9:93:21:9E:2B:32:C5:D2:E6:D3:F0:2B:63:EA:92:E0:CC:8E:3D
+c6b27b93
+crlNumber=B7
+lastUpdate=Mar 14 07:33:13 2011 GMT
+nextUpdate=Apr 13 07:33:13 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Aschaffenburg/O=Fachhochschule Aschaffenburg/OU=Rechenzentrum/CN=Fachhochschule Aschaffenburg/emailAddress=pki2@fh-aschaffenburg.de
+        Last Update: Mar 14 07:33:13 2011 GMT
+        Next Update: Apr 13 07:33:13 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                183
+Revoked Certificates:
+    Serial Number: 0BBFD6BE
+        Revocation Date: Jan 30 15:13:06 2008 GMT
+    Serial Number: 0BBFF8B9
+        Revocation Date: Jan 30 13:50:06 2008 GMT
+    Serial Number: 0BC66F2D
+        Revocation Date: Feb 13 11:21:36 2008 GMT
+    Serial Number: 0BCBD14E
+        Revocation Date: Feb  8 14:40:06 2008 GMT
+    Serial Number: 0C199034
+        Revocation Date: Apr  7 13:14:07 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        7f:54:52:fa:fa:3a:aa:40:0a:ab:e8:b6:80:d3:30:a4:40:d2:
+        3d:61:a5:21:ed:11:50:bb:aa:fc:bf:0e:5d:a1:32:02:91:49:
+        b9:44:a0:4c:44:93:3d:34:d0:51:92:78:85:72:f4:d5:04:30:
+        94:98:b2:cc:a4:1f:72:75:bb:c2:46:7d:19:37:db:bf:04:db:
+        a2:65:7f:a2:48:ef:cd:b2:3c:74:a7:62:e1:c7:43:8e:b3:3a:
+        7d:4a:69:1d:38:d2:76:69:53:85:63:83:ae:d6:aa:e3:61:9f:
+        ef:1f:5c:07:80:88:cb:b1:0d:33:c4:5b:ec:26:e0:b7:f9:5a:
+        d6:fe:42:27:40:35:d1:75:17:2c:4f:4a:d6:cc:c5:8c:bb:51:
+        f1:85:79:67:0d:44:ef:a3:b4:48:a1:5f:8b:70:5e:67:08:a1:
+        f2:99:ec:43:a6:1a:d1:93:d2:27:c1:ee:26:dd:9f:fc:88:a7:
+        60:e9:aa:f3:ec:bc:a3:ba:70:1a:6b:64:e8:ea:5e:6d:4a:b7:
+        7d:7b:a8:5a:a6:27:ef:9d:f0:01:f8:9a:17:3d:c6:64:66:fe:
+        e4:be:83:12:71:7e:e0:db:85:32:b3:ea:8c:1f:74:d9:e9:3b:
+        ad:b2:46:e1:c8:5f:7d:82:cb:5e:ed:a0:79:ea:99:82:b6:15:
+        cf:e1:7a:36
