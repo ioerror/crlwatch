@@ -1,0 +1,44 @@
+issuer=/C=DE/ST=Sachsen-Anhalt/L=Halle/O=Martin-Luther-Universitaet Halle-Wittenberg/OU=URZ/CN=Universitaet Halle CA/emailAddress=pki@uni-halle.de
+SHA1 Fingerprint=41:DB:6A:F2:B9:7B:11:50:58:BA:E6:B0:B9:94:48:ED:A8:7F:08:63
+6a6f1569
+crlNumber=F8
+lastUpdate=Mar 14 09:28:27 2011 GMT
+nextUpdate=Apr 13 09:28:27 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Sachsen-Anhalt/L=Halle/O=Martin-Luther-Universitaet Halle-Wittenberg/OU=URZ/CN=Universitaet Halle CA/emailAddress=pki@uni-halle.de
+        Last Update: Mar 14 09:28:27 2011 GMT
+        Next Update: Apr 13 09:28:27 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                248
+Revoked Certificates:
+    Serial Number: 0B661DFF
+        Revocation Date: Nov 28 10:43:09 2007 GMT
+    Serial Number: 10133F78
+        Revocation Date: May 20 07:06:19 2010 GMT
+    Serial Number: 111864D5
+        Revocation Date: Dec  6 14:11:08 2010 GMT
+    Serial Number: 111864D6
+        Revocation Date: Dec  6 14:11:09 2010 GMT
+    Serial Number: 111864D7
+        Revocation Date: Dec  6 14:13:19 2010 GMT
+    Serial Number: 1118654C
+        Revocation Date: Dec  6 14:15:29 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        16:75:76:ff:50:26:7b:bb:04:92:44:82:22:f5:57:d9:03:f4:
+        d4:78:24:94:a7:55:76:2e:d4:8d:0d:57:e8:71:bb:4a:99:ba:
+        7b:ae:82:eb:f5:bf:f1:40:ee:b3:59:7b:30:de:11:a2:3e:9d:
+        05:94:95:24:39:97:ae:c3:ea:f6:cd:87:2f:68:6f:06:c4:84:
+        88:99:cd:b9:ac:62:01:ce:5b:98:51:9d:34:42:9c:12:7c:7a:
+        7b:52:79:e8:0d:3c:01:4b:38:8c:3a:23:06:4f:4d:4d:e6:43:
+        26:f2:ce:1d:8a:1f:86:df:62:a8:e5:5b:74:bc:16:9b:85:ff:
+        92:37:0f:33:5f:4a:ea:ad:4d:3b:72:8a:97:81:25:15:5d:95:
+        d6:27:dc:31:bf:17:3c:24:3c:33:4e:16:f9:f4:8c:6e:a6:3e:
+        cb:21:ed:90:ed:51:67:27:da:e4:d3:b8:d7:ad:2a:6b:3e:39:
+        bb:2f:3b:00:54:16:ca:70:c5:bb:2f:8f:c1:52:0d:8b:33:e1:
+        c4:24:e4:57:63:46:03:89:f3:a2:f9:a9:a4:ae:7e:ed:e2:dc:
+        a2:a5:09:32:f5:92:c0:66:1f:71:c1:00:70:b9:04:e1:01:78:
+        1f:42:f0:a4:34:a5:fc:39:26:50:c5:c6:99:62:6d:69:a6:1c:
+        5c:e8:06:56
