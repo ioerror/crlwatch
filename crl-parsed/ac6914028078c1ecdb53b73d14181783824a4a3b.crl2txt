@@ -1,0 +1,40 @@
+issuer=/emailAddress=camaster@egca.com.tw/C=TW/O=TaiOne International Ltd./OU=CA Center/CN=eLeader Global CA
+SHA1 Fingerprint=38:31:03:53:F7:E6:0E:65:7B:4A:BF:98:F7:8F:61:86:C7:AE:F6:C5
+89a60f8c
+crlNumber=1231
+lastUpdate=Mar  3 15:15:54 2011 GMT
+nextUpdate=Apr  3 15:59:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /emailAddress=camaster@egca.com.tw/C=TW/O=TaiOne International Ltd./OU=CA Center/CN=eLeader Global CA
+        Last Update: Mar  3 15:15:54 2011 GMT
+        Next Update: Apr  3 15:59:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:FD:9C:58:D4:6C:6C:D8:AB:16:CA:12:7A:41:AA:9E:5A:44:AA:30:24
+
+            X509v3 CRL Number: 
+                4657
+Revoked Certificates:
+    Serial Number: B8674034CAC53DEABF5022A15622333C
+        Revocation Date: Dec 22 09:23:26 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Dec 22 09:23:25 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        12:4e:0e:fa:db:19:8b:20:bd:e9:46:e4:2c:08:db:c0:7d:0b:
+        69:b7:f3:af:5a:75:ae:c3:7b:00:85:42:11:b8:22:c8:85:98:
+        48:ca:76:72:0b:d2:38:88:2b:f0:e3:4b:37:c1:f8:a0:66:3b:
+        4e:90:f7:e7:c6:e9:be:70:e5:a6:40:f5:ca:f6:87:f9:36:a9:
+        85:27:b5:64:b0:cb:ff:b5:aa:89:f3:22:da:79:54:a0:16:02:
+        b7:1c:eb:c5:2f:17:0b:c2:c8:bf:24:87:83:76:2b:c4:a3:24:
+        e5:00:05:75:0a:f5:4e:db:c9:59:fe:cc:f2:bb:5d:e9:90:5f:
+        7c:f6:e4:a1:de:dd:e6:8f:57:15:47:59:f0:18:5e:cc:c2:51:
+        c2:24:ed:e4:d8:4e:94:d1:6c:fe:87:fb:72:85:fe:da:52:e9:
+        2f:91:62:20:9f:89:98:65:79:d4:21:79:cf:94:50:a4:0e:e5:
+        71:49:18:50:24:29:3c:a4:3a:39:bb:77:0d:6b:22:6a:50:1f:
+        5a:ae:80:15:4f:bf:57:9f:be:4f:10:84:30:73:bb:e8:63:88:
+        6e:ed:34:d9:30:52:dd:f2:72:91:a5:4a:2a:8e:bc:d8:b1:0a:
+        d7:bf:12:ef:2a:2d:f5:ac:26:4b:b6:4e:ce:f8:77:8b:ac:bb:
+        da:b6:07:4a
