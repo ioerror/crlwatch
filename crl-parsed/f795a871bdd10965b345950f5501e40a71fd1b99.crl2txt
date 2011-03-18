@@ -1,0 +1,87 @@
+issuer=/C=US/O=Aetna Inc./OU=GeoRoot Certification Authority/CN=Aetna Inc. Certificate Authority
+SHA1 Fingerprint=CA:5C:1A:2E:0F:4A:AE:50:CD:44:AF:60:90:24:80:81:F5:62:E9:9F
+359869eb
+crlNumber=0D
+lastUpdate=Feb 26 13:14:35 2011 GMT
+nextUpdate=Mar 27 01:34:35 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=Aetna Inc./OU=GeoRoot Certification Authority/CN=Aetna Inc. Certificate Authority
+        Last Update: Feb 26 13:14:35 2011 GMT
+        Next Update: Mar 27 01:34:35 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:BE:C3:C5:71:C8:A0:8D:62:5D:3D:11:32:27:43:31:63:8D:28:29:C1
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                13
+            1.3.6.1.4.1.311.21.4: 
+                .110326132435Z
+Revoked Certificates:
+    Serial Number: 71D7F2570001000001ED
+        Revocation Date: Feb 16 15:36:53 2011 GMT
+    Serial Number: 58F72EB70001000001E7
+        Revocation Date: Feb 10 15:25:58 2011 GMT
+    Serial Number: 58F3CA2F0001000001E6
+        Revocation Date: Feb 10 15:18:13 2011 GMT
+    Serial Number: 4EB86E370001000001DF
+        Revocation Date: Feb  9 16:17:27 2011 GMT
+    Serial Number: 1761B2A3000100000174
+        Revocation Date: Dec 28 19:46:34 2010 GMT
+    Serial Number: 5E56D42E000100000123
+        Revocation Date: Nov 22 19:57:49 2010 GMT
+    Serial Number: 1FEF6E690001000000F9
+        Revocation Date: Nov 10 20:14:26 2010 GMT
+    Serial Number: 10F3D83E0001000000FC
+        Revocation Date: Nov  9 18:13:36 2010 GMT
+    Serial Number: 10EE78830001000000FA
+        Revocation Date: Nov  9 18:08:42 2010 GMT
+    Serial Number: 10F189D90001000000FB
+        Revocation Date: Nov  8 15:42:58 2010 GMT
+    Serial Number: 1B1A6CA50001000000F4
+        Revocation Date: Nov  2 16:21:33 2010 GMT
+    Serial Number: 4906C6270001000000B4
+        Revocation Date: Oct  8 13:07:31 2010 GMT
+    Serial Number: 25772A8800010000009A
+        Revocation Date: Sep 30 18:27:50 2010 GMT
+    Serial Number: 25791FB100010000009B
+        Revocation Date: Sep 30 18:24:26 2010 GMT
+    Serial Number: 2FD2A6E500010000004B
+        Revocation Date: Sep 10 17:23:56 2010 GMT
+    Serial Number: 6316AE0E00010000000E
+        Revocation Date: Sep  1 14:56:36 2010 GMT
+    Serial Number: 1D1A4656000100000037
+        Revocation Date: Sep  1 01:23:25 2010 GMT
+    Serial Number: 61DBAEFC000100000026
+        Revocation Date: Aug 26 18:07:34 2010 GMT
+    Serial Number: 7C07F027000100000020
+        Revocation Date: Aug 26 14:02:13 2010 GMT
+    Serial Number: 5E330CD100010000000A
+        Revocation Date: Aug 23 16:39:08 2010 GMT
+    Serial Number: 5DC135D0000100000009
+        Revocation Date: Aug 23 16:38:55 2010 GMT
+    Serial Number: 5CD0B390000100000008
+        Revocation Date: Aug 19 14:30:41 2010 GMT
+    Serial Number: 16945B9F000100000004
+        Revocation Date: Jul 23 13:49:29 2010 GMT
+    Serial Number: 1654B02E000100000003
+        Revocation Date: Jul 23 12:58:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        0c:01:3b:af:4b:21:e8:5e:8b:ee:c6:20:12:0a:3f:00:3b:59:
+        fd:10:16:7b:80:e6:9e:37:e0:06:9a:a9:7c:7b:9f:54:5d:ce:
+        57:7d:57:d4:6e:11:9d:2d:4b:04:53:f7:0d:e6:ef:17:03:7c:
+        eb:53:d1:c5:02:29:09:29:8e:94:ce:a6:2a:d0:87:10:5a:87:
+        81:73:4a:aa:ad:ac:32:a2:3b:eb:89:e5:1a:5f:97:24:14:b4:
+        7a:e6:db:9e:fb:85:67:46:6d:f3:1a:ca:1c:7e:54:4b:0e:04:
+        77:6d:85:c2:80:db:9e:12:f2:34:b9:c5:c0:56:7c:5c:ea:f8:
+        15:3c:d8:1c:7f:3a:ff:bb:b2:7b:ae:ce:69:23:73:11:f8:54:
+        e4:97:44:39:71:02:a5:36:cd:c1:89:d7:53:2c:70:13:28:8b:
+        25:e8:5b:0c:38:d6:ac:6a:0b:4b:f6:8b:b8:5b:46:3c:2a:11:
+        b4:bf:08:10:b4:2e:ab:f6:59:e7:d4:d1:e0:d9:6d:0b:bd:18:
+        d5:d5:1c:80:f5:1c:29:61:e1:38:d0:77:c1:87:3d:87:e1:e6:
+        1c:f1:b1:d2:43:a0:75:fe:2c:30:4b:68:44:62:ef:b0:a6:a0:
+        67:dc:36:bd:af:c5:e5:38:ec:85:30:e9:77:0b:01:60:63:ea:
+        94:fb:3c:38
