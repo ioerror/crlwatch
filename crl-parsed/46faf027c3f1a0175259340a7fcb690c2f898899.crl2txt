@@ -1,0 +1,36 @@
+issuer=/C=DE/O=Hochschule Offenburg/CN=Hochschule Offenburg CA
+SHA1 Fingerprint=E4:F3:B5:B0:7D:A2:9F:0F:15:74:F2:88:95:17:5B:5A:D6:96:41:63
+20a62bd8
+crlNumber=8D
+lastUpdate=Mar 14 08:27:15 2011 GMT
+nextUpdate=Apr 13 08:27:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschule Offenburg/CN=Hochschule Offenburg CA
+        Last Update: Mar 14 08:27:15 2011 GMT
+        Next Update: Apr 13 08:27:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                141
+Revoked Certificates:
+    Serial Number: 0D41148B
+        Revocation Date: Nov 24 10:46:35 2008 GMT
+    Serial Number: 0DB11660
+        Revocation Date: Feb 11 07:51:07 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        0d:a7:b9:cd:7e:c3:33:d2:fa:af:25:ac:4a:49:c0:f7:5d:4b:
+        dd:a5:e4:7a:c7:c2:0c:f0:81:9a:d0:47:9a:c9:77:6f:74:59:
+        d4:db:70:97:bd:5e:5b:d5:c2:87:af:f0:ec:8d:b7:d0:e2:08:
+        55:c6:71:b4:72:d4:e4:5d:fa:6d:bf:05:a5:cb:aa:d5:e1:ba:
+        9c:28:bc:6f:48:65:cf:5a:e8:11:2c:fc:47:07:24:01:dd:02:
+        5b:7f:b6:48:2f:a9:4a:2c:3b:83:17:65:1d:ef:76:67:7e:58:
+        38:00:9e:09:d0:a1:87:9d:8f:32:92:22:ff:7d:60:66:9b:62:
+        fc:a5:64:0d:0a:44:7a:6b:54:5e:da:ba:d5:66:77:89:a9:f9:
+        4a:dd:68:3f:eb:92:ed:03:5c:02:86:09:3f:38:f2:e0:12:e6:
+        d3:ba:4d:cc:75:06:11:b3:4c:c2:26:45:21:2f:02:12:2b:dd:
+        16:55:1e:a6:88:f0:9e:74:de:c1:4b:48:db:87:80:61:be:8e:
+        17:f0:a3:24:8d:e3:53:49:2c:e4:d9:12:9d:f8:c6:d1:48:fb:
+        f8:c2:16:da:41:9e:0b:60:c1:1a:30:37:5a:a4:0d:87:60:0b:
+        ea:9f:21:74:91:f4:11:7c:9a:a8:fe:aa:30:9b:65:5b:e9:38:
+        f3:b2:46:23
