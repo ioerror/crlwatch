@@ -1,0 +1,62 @@
+issuer=/C=DE/ST=Baden-Wuerttemberg/L=Heidelberg/O=Deutsches Krebsforschungszentrum (DKFZ)/OU=ZDV/CN=DKFZ CA/emailAddress=dfnpki@dkfz.de
+SHA1 Fingerprint=AF:22:C4:8C:67:B5:5D:CE:AE:DA:16:98:60:2C:22:1A:62:D8:71:94
+3cc8f174
+crlNumber=EC
+lastUpdate=Mar 14 07:28:14 2011 GMT
+nextUpdate=Apr 13 07:28:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Baden-Wuerttemberg/L=Heidelberg/O=Deutsches Krebsforschungszentrum (DKFZ)/OU=ZDV/CN=DKFZ CA/emailAddress=dfnpki@dkfz.de
+        Last Update: Mar 14 07:28:14 2011 GMT
+        Next Update: Apr 13 07:28:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                236
+Revoked Certificates:
+    Serial Number: 0A46F5EC
+        Revocation Date: May 27 14:57:11 2008 GMT
+    Serial Number: 0A6948A6
+        Revocation Date: May 27 14:57:12 2008 GMT
+    Serial Number: 0B481A02
+        Revocation Date: May 26 08:41:08 2008 GMT
+    Serial Number: 0C413863
+        Revocation Date: May 26 08:41:07 2008 GMT
+    Serial Number: 0E4E041E
+        Revocation Date: Aug 13 21:56:05 2009 GMT
+    Serial Number: 0EB4B452
+        Revocation Date: Feb  8 16:48:07 2010 GMT
+    Serial Number: 0F176720
+        Revocation Date: Nov 10 15:39:06 2009 GMT
+    Serial Number: 0F8A1D9B
+        Revocation Date: Feb  5 15:54:07 2010 GMT
+    Serial Number: 0F93B076
+        Revocation Date: May 11 14:01:06 2010 GMT
+    Serial Number: 0FC05EE9
+        Revocation Date: Mar 18 12:18:07 2010 GMT
+    Serial Number: 1008D9E6
+        Revocation Date: May 18 10:15:06 2010 GMT
+    Serial Number: 1010996B
+        Revocation Date: May 18 10:15:07 2010 GMT
+    Serial Number: 1011E240
+        Revocation Date: Oct  9 23:05:07 2010 GMT
+    Serial Number: 112B61C4
+        Revocation Date: Dec 17 22:41:06 2010 GMT
+    Serial Number: 1171E826
+        Revocation Date: Feb 14 12:43:06 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        ab:d7:48:f2:56:6c:a5:f0:b8:6b:60:8c:ef:2e:b7:17:d1:d9:
+        9d:7a:f7:13:53:7e:b8:f0:a7:60:3b:94:73:4a:c2:dc:2e:25:
+        cd:f9:66:a3:a3:d9:b1:90:c9:6e:df:b9:10:9b:19:31:cb:bd:
+        51:61:d8:8f:91:b9:0b:ac:b0:6d:5d:69:c6:fa:40:74:c1:b2:
+        15:8b:54:ea:af:9b:f3:8d:dc:44:f0:51:ab:06:27:53:27:c4:
+        16:4d:0e:37:2d:0e:dc:85:31:4d:f7:84:9b:b3:ce:db:28:0c:
+        f5:c3:26:57:31:00:e5:d5:1d:85:4a:cf:d4:85:58:e8:54:26:
+        f8:26:76:b8:eb:80:5c:53:f5:58:77:7f:db:db:ed:cd:19:5f:
+        f9:ed:c9:01:a4:f0:cc:ce:2c:4f:19:61:78:84:ca:52:04:4d:
+        c9:21:80:66:11:36:63:7a:1d:51:76:f2:26:89:24:08:0d:c4:
+        4c:9c:6a:ff:c9:bf:09:ff:8d:43:9b:97:9c:38:9f:30:17:d5:
+        b9:41:2e:29:26:3d:2c:3d:54:9a:56:4f:a3:5f:f6:22:39:59:
+        40:9c:a7:5a:f8:92:ae:47:0c:eb:e6:97:99:61:7b:03:ac:88:
+        e9:f0:3e:65:63:2b:6e:44:d4:0b:cc:41:30:88:05:95:85:e6:
+        81:cc:48:a1
