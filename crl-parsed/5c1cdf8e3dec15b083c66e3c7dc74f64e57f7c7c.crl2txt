@@ -1,0 +1,37 @@
+issuer=/C=HU/L=Budapest/O=Microsec Ltd./OU=e-Szigno CA/CN=Microsec e-Szigno Root CA
+SHA1 Fingerprint=74:FD:12:1C:03:49:D0:50:08:AD:00:50:D1:BB:7F:C1:AA:53:46:FB
+f61bff45
+crlNumber=64
+lastUpdate=Feb 23 11:00:01 2011 GMT
+nextUpdate=Mar 25 12:00:01 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=HU/L=Budapest/O=Microsec Ltd./OU=e-Szigno CA/CN=Microsec e-Szigno Root CA
+        Last Update: Feb 23 11:00:01 2011 GMT
+        Next Update: Mar 25 12:00:01 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:C7:A0:49:75:16:61:84:DB:31:4B:84:D2:F1:37:40:90:EF:4E:DC:F7
+                DirName:/C=HU/L=Budapest/O=Microsec Ltd./OU=e-Szigno CA/CN=Microsec e-Szigno Root CA
+                serial:CC:B8:E7:BF:4E:29:1A:FD:A2:DC:66:A5:1C:2C:0F:11
+
+            X509v3 CRL Number: 
+                100
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        e4:2b:fb:0d:08:f9:32:bb:ca:c4:1a:14:e5:ac:b6:ac:e3:58:
+        90:5d:26:60:3c:cd:8d:9f:88:7b:a7:7e:0a:a4:7e:5c:0f:9b:
+        90:18:51:15:bd:d8:3a:b4:ea:21:87:a9:05:aa:ec:9e:f4:60:
+        36:54:f1:a8:67:55:ff:c0:35:44:48:bc:a0:6d:dd:4d:79:4b:
+        0d:53:8b:be:38:fa:0e:12:56:96:21:7b:9f:ba:83:ce:35:be:
+        c9:e8:bd:7b:5c:0a:95:df:46:78:09:42:94:b1:7f:8d:bd:4c:
+        b4:ae:e2:98:fc:eb:32:91:42:ef:f6:9c:eb:c3:61:70:ce:1f:
+        a3:70:e4:d1:4a:73:46:73:28:01:7d:49:56:a6:86:bd:11:f7:
+        49:c3:5a:98:9e:3b:8d:7a:e4:dc:37:0a:e3:db:30:36:c4:31:
+        29:2e:f2:db:4b:42:41:40:6e:fd:df:3d:c9:2c:c2:f3:1e:33:
+        7a:98:2a:6f:35:ab:b2:98:24:52:4b:2a:23:e1:24:24:39:1e:
+        b5:45:c0:a8:d4:d3:c8:e5:8a:98:3f:59:2e:c8:16:43:be:73:
+        3f:a5:e9:2d:7b:e7:81:89:d7:7f:50:a7:56:3b:1c:22:cd:90:
+        18:6f:f0:a6:3d:39:33:92:ab:46:d6:fd:67:f6:b2:88:dd:b3:
+        58:7f:c3:83
