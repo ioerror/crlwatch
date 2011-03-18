@@ -1,0 +1,48 @@
+issuer=/C=DE/O=Forschungszentrum Dresden-Rossendorf e.V./OU=Informationstechnologie/CN=FZD-CA - G02/emailAddress=ra@fzd.de
+SHA1 Fingerprint=D4:DD:38:F1:9D:CD:20:D4:23:73:15:72:4C:FB:DB:9A:BE:9A:03:58
+cf9b3238
+crlNumber=FD
+lastUpdate=Mar 14 07:58:14 2011 GMT
+nextUpdate=Apr 13 07:58:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Forschungszentrum Dresden-Rossendorf e.V./OU=Informationstechnologie/CN=FZD-CA - G02/emailAddress=ra@fzd.de
+        Last Update: Mar 14 07:58:14 2011 GMT
+        Next Update: Apr 13 07:58:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                253
+Revoked Certificates:
+    Serial Number: 0CC229C3
+        Revocation Date: Mar  3 10:06:52 2011 GMT
+    Serial Number: 0DCB3DFF
+        Revocation Date: Mar  3 09:41:07 2009 GMT
+    Serial Number: 1114211C
+        Revocation Date: Mar  4 07:01:08 2011 GMT
+    Serial Number: 1143B0EE
+        Revocation Date: Mar  3 12:31:26 2011 GMT
+    Serial Number: 1186EBFC
+        Revocation Date: Mar  3 10:06:45 2011 GMT
+    Serial Number: 118B17CC
+        Revocation Date: Mar  3 15:37:07 2011 GMT
+    Serial Number: 118B2870
+        Revocation Date: Mar  7 11:57:07 2011 GMT
+    Serial Number: 118C4408
+        Revocation Date: Mar  4 07:01:09 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        80:26:25:a4:46:4f:2e:fa:85:3d:39:6c:9f:c6:9a:3d:9c:86:
+        a2:3f:f0:73:c7:33:49:5c:77:6d:7e:16:6e:07:f3:66:89:73:
+        76:c7:66:81:66:f5:26:f8:c7:70:20:41:91:45:90:5c:a3:e0:
+        77:8c:cc:cc:f1:0a:9d:48:39:2e:02:6e:1b:0f:7f:77:53:14:
+        4a:d4:b5:6d:5a:52:df:16:0d:92:0c:b9:d7:87:7f:36:d4:2e:
+        7f:0c:81:25:6d:72:ad:f1:ee:02:20:80:f1:43:4e:77:76:10:
+        b0:02:2b:45:c9:56:9b:de:37:59:f3:39:a0:c4:27:79:89:22:
+        c6:ad:82:35:43:03:0e:c3:76:9c:e0:d1:9c:91:f2:67:b8:92:
+        e5:a1:e2:24:a4:01:f3:d3:47:05:25:85:b7:28:b5:f9:1a:79:
+        12:df:4b:e9:0d:c5:96:fa:0e:ac:91:0f:d4:c0:6f:b4:a8:3d:
+        38:66:27:75:d2:62:89:87:9a:42:b9:0f:96:86:3b:ea:c9:03:
+        75:9c:0b:38:d3:96:13:a2:2e:4c:5e:ed:08:ee:af:2b:7a:fe:
+        6e:5b:2e:da:0a:53:cd:42:c8:c9:b8:65:48:20:66:b4:90:84:
+        e3:83:4d:cf:ee:00:a4:f1:3f:73:65:6d:bd:41:48:b2:ff:26:
+        78:91:e6:fc
