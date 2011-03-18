@@ -1,0 +1,60 @@
+issuer=/C=br/O=ICP-Brasil/OU=Caixa Economica Federal/CN=AC CAIXA
+SHA1 Fingerprint=11:84:43:D5:04:FA:08:29:57:6C:BF:CC:07:A3:C3:29:06:1D:BE:DF
+3d99aa21
+crlNumber=54
+lastUpdate=Feb  4 19:30:22 2011 GMT
+nextUpdate=Mar 21 00:00:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=br/O=ICP-Brasil/OU=Caixa Economica Federal/CN=AC CAIXA
+        Last Update: Feb  4 19:30:22 2011 GMT
+        Next Update: Mar 21 00:00:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                84
+            X509v3 Authority Key Identifier: 
+                keyid:1C:FC:55:FD:64:FC:DC:16:CC:65:2C:E7:F9:74:07:DE:BA:4B:2B:D6
+
+Revoked Certificates:
+    Serial Number: 41DF1115
+        Revocation Date: May 16 15:20:22 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 41DF0DB5
+        Revocation Date: Jul 21 22:07:02 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 41DF11D0
+        Revocation Date: Jun 24 20:34:31 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 41DF11E4
+        Revocation Date: Jul  9 13:02:33 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 41DF12E1
+        Revocation Date: Jul 23 21:18:01 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        5d:5a:32:b5:57:2b:25:9e:71:07:98:e5:66:b5:d6:6f:19:61:
+        79:bf:9d:9d:37:0a:e8:ff:d0:c9:81:76:f0:4c:c9:d5:47:2d:
+        89:6d:15:2f:95:43:a3:25:e7:81:9a:a8:6c:a2:06:cb:37:bf:
+        40:74:db:7a:fb:d6:53:b8:52:d1:4c:b6:76:22:91:da:84:87:
+        94:eb:a3:ca:43:04:5b:99:df:4d:94:36:c6:bb:3d:93:5d:66:
+        3e:e0:88:10:c4:b2:2b:b9:05:22:fd:01:c5:e2:ab:3c:f6:b2:
+        e7:39:ae:da:22:67:2b:95:a3:db:1a:01:eb:9a:68:e9:9a:c3:
+        b8:5f:54:d5:24:0e:b1:2f:ec:93:9c:0b:31:c1:53:2f:91:91:
+        b3:cc:57:95:2b:d6:67:56:6c:43:c9:ac:fa:15:d4:06:3e:6b:
+        66:df:e9:80:dc:87:11:b6:8b:53:44:00:01:fc:9c:94:26:68:
+        bd:3b:e3:08:26:bb:ec:73:75:26:38:1f:c8:07:c5:9f:46:a9:
+        c9:33:98:fd:13:79:33:1e:78:1b:99:03:93:05:5f:82:ec:f2:
+        6c:8c:a5:2a:45:43:8e:8b:a5:90:b6:db:5b:f2:3d:12:22:12:
+        f8:1e:a6:b4:52:8b:e3:ce:5a:ab:13:9c:8c:56:89:22:cc:b0:
+        4d:d9:72:bc
