@@ -1,0 +1,30 @@
+issuer=/C=US/O=Equifax Secure Inc./CN=Equifax Secure eBusiness CA-1
+SHA1 Fingerprint=2A:86:14:44:5D:EA:81:6C:C9:76:D7:D0:90:AC:B1:8B:AE:B4:97:6B
+e7b8d656
+crlNumber=<NONE>
+lastUpdate=Mar 18 08:03:00 2011 GMT
+nextUpdate=Mar 28 08:03:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 1 (0x0)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=Equifax Secure Inc./CN=Equifax Secure eBusiness CA-1
+        Last Update: Mar 18 08:03:00 2011 GMT
+        Next Update: Mar 28 08:03:00 2011 GMT
+Revoked Certificates:
+    Serial Number: 1F
+        Revocation Date: Oct 29 13:43:34 2002 GMT
+    Serial Number: 1E
+        Revocation Date: Oct 29 13:43:57 2002 GMT
+    Serial Number: 1D
+        Revocation Date: Oct 29 13:44:36 2002 GMT
+    Serial Number: 16
+        Revocation Date: May 31 15:24:43 2002 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        a2:6a:7c:44:69:ef:da:67:05:e3:db:95:5a:08:1e:01:57:79:
+        59:ea:00:77:2c:4e:27:4c:0f:57:36:9a:09:e5:45:bc:90:47:
+        97:34:4e:20:09:0c:d1:2e:df:0f:5d:11:25:cb:80:4b:b4:54:
+        69:11:9f:4f:25:e4:a5:17:ee:83:ad:c1:d4:ea:09:1e:2f:47:
+        ca:8f:b3:ac:38:6f:c1:e4:32:a9:2a:61:b3:3a:d2:a1:07:4b:
+        ac:3a:a0:81:86:1f:7e:ab:4c:a0:7a:15:cb:b3:f2:7c:4e:88:
+        54:fe:74:f2:01:1f:b7:a1:f1:65:19:9f:dc:7a:c3:71:00:31:
+        92:ac
