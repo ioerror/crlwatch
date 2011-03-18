@@ -1,0 +1,37 @@
+issuer=/C=US/O=Trusted Secure Certificate Authority/CN=Trusted Secure Certificate Authority
+SHA1 Fingerprint=04:55:5D:03:E9:F8:53:A4:97:DD:A6:10:38:FD:EB:66:C6:2C:AB:ED
+60ae61e6
+crlNumber=098E
+lastUpdate=Mar 18 01:45:50 2011 GMT
+nextUpdate=Mar 22 01:45:50 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=Trusted Secure Certificate Authority/CN=Trusted Secure Certificate Authority
+        Last Update: Mar 18 01:45:50 2011 GMT
+        Next Update: Mar 22 01:45:50 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:22:2E:51:BF:09:A5:92:A3:72:BA:CC:65:EC:EA:EF:C8:B5:60:34:00
+
+            X509v3 CRL Number: 
+                2446
+Revoked Certificates:
+    Serial Number: 21023FFA7ABA00FB6DDAFDA98E0D9594
+        Revocation Date: Mar 20 21:20:48 2006 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        1c:c9:a8:4f:1b:8b:9f:dc:ee:36:57:5c:d3:b8:56:7b:f6:09:
+        08:86:47:53:10:45:86:ba:22:23:6b:30:24:d2:a4:d5:f7:b0:
+        df:ac:21:93:bd:9c:a8:bc:e2:38:fd:3c:54:c5:49:d1:93:7c:
+        0f:f8:26:f0:6d:80:20:58:57:c3:28:3a:b7:12:3c:91:94:71:
+        79:a6:34:e6:56:ff:2b:aa:25:57:bd:0b:4c:f6:83:b5:76:7a:
+        f8:f3:b7:2f:67:c9:d4:f9:85:f9:35:e9:e7:0c:8f:c1:a1:31:
+        e2:c1:d9:dd:86:87:d7:19:21:53:b4:c9:e4:78:e9:0b:f4:5e:
+        c7:20:39:ea:1a:cc:fd:d7:4f:3d:ee:46:e0:8f:68:86:f5:69:
+        95:37:b0:0e:f3:27:e6:39:82:a7:40:d5:b5:86:48:17:49:f3:
+        83:3f:4c:e7:2b:25:9a:a1:46:e9:4c:ae:a4:d2:18:6e:31:12:
+        91:5b:2e:92:eb:f2:ca:31:4d:f0:22:a3:f5:6a:d6:c2:1b:94:
+        08:d2:94:ed:b8:96:73:7b:bb:95:91:f8:5d:42:b5:63:41:f5:
+        28:98:75:a6:87:5c:8f:b1:41:ef:02:c0:96:33:5f:86:35:9d:
+        ae:61:69:73:3f:7a:d4:77:fd:ca:07:ac:8f:a9:15:99:7c:23:
+        fa:98:9a:25
