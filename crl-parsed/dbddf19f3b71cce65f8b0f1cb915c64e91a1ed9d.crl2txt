@@ -1,0 +1,261 @@
+issuer=/C=ES/O=FNMT-RCM/OU=AC APE
+SHA1 Fingerprint=08:86:5B:5C:AA:CE:DE:A0:12:61:DA:64:F0:EE:1D:14:B8:F5:4D:9B
+ae469ab7
+crlNumber=0201
+lastUpdate=Mar 18 03:50:25 2011 GMT
+nextUpdate=Mar 19 03:50:25 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/O=FNMT-RCM/OU=AC APE
+        Last Update: Mar 18 03:50:25 2011 GMT
+        Next Update: Mar 19 03:50:25 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                513
+            X509v3 Authority Key Identifier: 
+                keyid:63:4B:74:5B:07:BF:E8:66:D1:5A:2C:5F:CB:F9:79:6E:A0:8C:AE:27
+
+            X509v3 Issuing Distrubution Point: critical
+                0...........ldap://ldapape.cert.fnmt.es/CN=CRL26,OU=AC%20APE,O=FNMT-RCM,C=ES?certificateRevocationList;binary?base?objectclass=cRLDistributionPoint.)http://www.cert.fnmt.es/crlsape/CRL26.crl...
+Revoked Certificates:
+    Serial Number: 3A77
+        Revocation Date: Mar 11 10:22:06 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Feb 11 10:22:02 2010 GMT
+    Serial Number: 3AFE
+        Revocation Date: Mar 11 12:02:17 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Feb 11 12:02:12 2010 GMT
+    Serial Number: 3B53
+        Revocation Date: Mar 11 13:47:24 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Feb 11 13:47:16 2010 GMT
+    Serial Number: 3B56
+        Revocation Date: Mar 11 13:57:24 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Feb 11 13:57:15 2010 GMT
+    Serial Number: 3B40
+        Revocation Date: Mar 15 12:56:09 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+            Invalidity Date: 
+                Mar 15 12:49:46 2010 GMT
+    Serial Number: 3C88
+        Revocation Date: Mar 16 09:37:18 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Feb 16 09:37:17 2010 GMT
+    Serial Number: 3C70
+        Revocation Date: Mar 16 13:22:35 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Feb 16 13:22:32 2010 GMT
+    Serial Number: 3BF7
+        Revocation Date: Mar 22 10:38:55 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Feb 22 10:38:45 2010 GMT
+    Serial Number: 3BEA
+        Revocation Date: Mar 22 10:43:45 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Feb 22 10:43:44 2010 GMT
+    Serial Number: 3BCA
+        Revocation Date: Apr 26 10:24:46 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Mar 26 11:24:37 2010 GMT
+    Serial Number: 3B93
+        Revocation Date: May  3 11:34:05 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+            Invalidity Date: 
+                May  3 11:17:27 2010 GMT
+    Serial Number: 3B3F
+        Revocation Date: May 24 11:58:17 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Apr 24 11:58:12 2010 GMT
+    Serial Number: 3C5A
+        Revocation Date: Jun 22 11:22:31 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                May 22 11:22:27 2010 GMT
+    Serial Number: 3B4C
+        Revocation Date: Jul  9 10:36:37 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Jul  9 10:31:13 2010 GMT
+    Serial Number: 3A7C
+        Revocation Date: Jul 20 12:35:53 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Jul 20 12:32:19 2010 GMT
+    Serial Number: 3C63
+        Revocation Date: Jul 20 12:40:56 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Jul 20 12:35:55 2010 GMT
+    Serial Number: 3B0B
+        Revocation Date: Sep  2 11:33:01 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Sep  2 11:27:37 2010 GMT
+    Serial Number: 3B3D
+        Revocation Date: Sep 15 11:21:35 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Aug 15 11:21:33 2010 GMT
+    Serial Number: 3A42
+        Revocation Date: Sep 22 12:25:32 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Sep 22 12:22:15 2010 GMT
+    Serial Number: 3C32
+        Revocation Date: Sep 29 07:16:28 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Sep 29 07:11:09 2010 GMT
+    Serial Number: 39E4
+        Revocation Date: Oct  6 09:47:37 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Oct  6 09:44:40 2010 GMT
+    Serial Number: 3C3B
+        Revocation Date: Oct 20 08:14:31 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+            Invalidity Date: 
+                Oct 20 08:08:03 2010 GMT
+    Serial Number: 3CA4
+        Revocation Date: Dec 14 09:15:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+            Invalidity Date: 
+                Dec 14 09:09:31 2010 GMT
+    Serial Number: 3C05
+        Revocation Date: Mar  1 10:05:01 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar  1 10:02:36 2011 GMT
+    Serial Number: 3CBF
+        Revocation Date: Mar  2 11:56:25 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+            Invalidity Date: 
+                Mar  2 11:53:34 2011 GMT
+    Serial Number: 3A17
+        Revocation Date: Mar  3 07:23:37 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar  3 07:23:35 2011 GMT
+    Serial Number: 3BBF
+        Revocation Date: Mar  3 07:23:39 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar  3 07:23:38 2011 GMT
+    Serial Number: 3C08
+        Revocation Date: Mar  3 07:23:47 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar  3 07:23:41 2011 GMT
+    Serial Number: 3C3C
+        Revocation Date: Mar  3 07:23:47 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar  3 07:23:44 2011 GMT
+    Serial Number: 3C8E
+        Revocation Date: Mar  3 07:23:49 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar  3 07:23:47 2011 GMT
+    Serial Number: 3C29
+        Revocation Date: Mar  8 12:50:10 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar  7 10:06:26 2011 GMT
+    Serial Number: 3AEA
+        Revocation Date: Mar  8 12:50:19 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Mar  3 09:03:52 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        b8:c5:45:f8:19:e9:f3:07:84:02:90:1b:31:ee:9a:57:24:6c:
+        1b:2d:44:24:90:62:a4:a7:79:ec:01:59:0c:ec:7d:0e:ce:d1:
+        72:f6:57:6c:9c:49:4c:91:1a:1f:5b:7a:46:02:4b:bb:98:6e:
+        04:e2:54:94:43:31:9e:cc:87:a1:76:17:6a:5d:d8:fb:de:9c:
+        ca:a7:6a:a8:97:3d:64:bf:09:51:3f:6a:fe:6d:5f:e0:40:f1:
+        7c:60:3c:7c:8e:c3:a3:78:2e:26:4f:a3:c7:4f:a9:29:d5:05:
+        56:27:db:a3:8c:ae:82:d8:f9:a4:77:4d:dc:77:cc:f5:f1:ac:
+        ba:2e:d5:86:5b:4e:89:af:6a:be:be:22:3f:04:ce:1c:c8:5c:
+        6a:6e:ff:80:ca:9d:3a:ef:bc:13:ae:f0:67:92:5a:31:44:7e:
+        79:11:c6:9e:57:e8:b2:a5:7f:46:da:4a:1a:54:5b:83:8e:37:
+        2f:9c:08:97:4d:b4:c5:7e:1c:61:c9:1e:ce:0e:78:6b:c9:c1:
+        cb:40:51:c7:ff:72:8a:dc:62:d8:bd:cb:c4:dc:12:e7:c3:3c:
+        be:a7:13:d6:11:05:a3:73:45:38:ff:e3:b2:6b:8e:e9:b3:c1:
+        32:53:38:48:97:c3:a1:92:f5:72:98:5d:fc:49:c0:5f:e8:8f:
+        b0:04:4d:6b
