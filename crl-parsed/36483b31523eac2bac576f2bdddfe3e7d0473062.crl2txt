@@ -1,0 +1,28 @@
+issuer=/L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 3 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+SHA1 Fingerprint=1D:D1:EA:8E:59:02:E0:C5:BC:0A:02:12:EA:A3:E4:C2:CC:AF:9B:F7
+7d3cd826
+crlNumber=27
+lastUpdate=Feb 23 19:14:46 2011 GMT
+nextUpdate=Aug 22 19:15:06 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 3 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+        Last Update: Feb 23 19:14:46 2011 GMT
+        Next Update: Aug 22 19:15:06 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                39
+            X509v3 Authority Key Identifier: 
+                keyid:8E:A7:5C:C3:4B:71:D0:21:80:24:D5:19:D3:7E:87:E5:A0:79:C2:E1
+
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        d0:9b:f8:1f:89:d1:dc:f3:dd:15:67:dc:5c:90:34:4d:70:7f:
+        1b:e6:06:b0:59:af:51:81:09:54:ad:26:8b:6b:02:08:e8:1d:
+        9f:67:2f:5d:51:04:fd:67:f4:91:61:dd:05:7c:7f:84:65:62:
+        9b:55:6e:51:5f:a8:53:bb:2b:cf:b6:2e:3a:0c:df:a9:6c:8d:
+        26:5c:49:78:2e:16:27:ca:ac:e3:1b:12:94:88:9c:8b:1d:c8:
+        0e:2f:3b:16:ab:da:80:ab:c9:3f:dd:4a:7f:e7:8d:5a:82:15:
+        52:36:86:6f:38:6d:89:0e:a8:f7:ec:d2:d1:a1:98:e1:da:61:
+        a8:d9
