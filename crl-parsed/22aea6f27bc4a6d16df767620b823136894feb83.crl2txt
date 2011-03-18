@@ -1,0 +1,33 @@
+issuer=/C=JP/O=SECOM Trust Systems CO.,LTD./CN=SubordinateCA6
+SHA1 Fingerprint=EC:23:62:DA:B5:EA:42:8E:10:26:BA:43:C8:82:C2:B9:C5:10:51:F7
+01ed1bda
+crlNumber=<NONE>
+lastUpdate=Dec  1 05:01:41 2009 GMT
+nextUpdate=Dec 31 05:01:41 2010 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: /C=JP/O=SECOM Trust Systems CO.,LTD./CN=SubordinateCA6
+        Last Update: Dec  1 05:01:41 2009 GMT
+        Next Update: Dec 31 05:01:41 2010 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:94:1B:43:F0:AC:1F:A0:95:82:74:98:0B:8E:AC:B7:29:0A:18:24:0A
+
+No Revoked Certificates.
+    Signature Algorithm: sha256WithRSAEncryption
+        bb:e3:30:b6:3b:45:e1:56:13:04:bb:3b:e1:ba:87:59:cf:8c:
+        69:9d:3f:56:f8:01:d3:8e:2e:1c:2b:4e:00:af:30:b4:94:d9:
+        7c:64:3e:00:aa:fd:7d:c0:2c:05:94:19:65:12:01:42:e0:02:
+        70:69:d9:88:89:f9:f4:5b:bb:ba:dd:2b:6e:00:d1:18:2a:e4:
+        eb:a5:85:f8:0a:1a:23:18:ce:dc:c4:28:5e:8f:96:57:b7:37:
+        45:27:2f:52:88:e5:a3:f1:43:55:b6:76:2f:70:7f:6e:52:ce:
+        ee:a1:ba:a2:24:99:cb:e9:23:91:3a:af:7c:ce:a1:98:57:3d:
+        29:cd:bc:1c:1f:02:84:bb:e9:36:34:13:4f:40:22:95:06:8c:
+        77:d0:d7:9f:6e:ed:5e:b3:39:c6:cb:21:62:b2:fe:5f:0e:28:
+        3a:69:3b:da:17:84:14:27:da:63:b8:ab:32:03:91:00:42:5c:
+        da:6d:29:e4:91:0c:fd:16:05:58:71:17:2e:ef:56:9b:f3:43:
+        3a:9f:36:fa:0a:ff:2f:a0:45:70:a2:d1:fd:cd:71:f2:15:c4:
+        12:bf:f7:32:c6:09:3e:56:73:43:bf:1b:59:f5:42:54:17:ad:
+        99:89:e5:34:c9:a9:ef:fa:ab:b9:42:18:f0:e8:70:69:73:92:
+        96:84:1e:46
