@@ -1,0 +1,58 @@
+issuer=/C=DE/ST=Baden-Wuerttemberg/L=Biberach/O=Hochschule Biberach/OU=Rechenzentrum/CN=HBC-Global CA - G 01/emailAddress=pki@fh-biberach.de
+SHA1 Fingerprint=DB:57:ED:D6:7B:23:96:6B:88:D5:0A:09:18:04:35:78:F0:CC:CA:94
+57066e08
+crlNumber=A9
+lastUpdate=Mar 14 08:06:07 2011 GMT
+nextUpdate=Apr 13 08:06:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Baden-Wuerttemberg/L=Biberach/O=Hochschule Biberach/OU=Rechenzentrum/CN=HBC-Global CA - G 01/emailAddress=pki@fh-biberach.de
+        Last Update: Mar 14 08:06:07 2011 GMT
+        Next Update: Apr 13 08:06:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                169
+Revoked Certificates:
+    Serial Number: 0C9160DC
+        Revocation Date: Aug  3 11:33:07 2009 GMT
+    Serial Number: 0C94135B
+        Revocation Date: Jul 10 08:35:08 2008 GMT
+    Serial Number: 0CC4CB22
+        Revocation Date: Aug 15 11:09:09 2008 GMT
+    Serial Number: 0CC4D390
+        Revocation Date: Aug 15 11:09:08 2008 GMT
+    Serial Number: 0D252E5B
+        Revocation Date: Mar 24 07:07:08 2009 GMT
+    Serial Number: 0D28DB23
+        Revocation Date: Mar 24 07:07:07 2009 GMT
+    Serial Number: 0DDF429B
+        Revocation Date: Mar 18 08:27:09 2009 GMT
+    Serial Number: 0FDAAD6E
+        Revocation Date: Apr  7 09:12:07 2010 GMT
+    Serial Number: 0FDD2190
+        Revocation Date: Apr 12 16:13:08 2010 GMT
+    Serial Number: 0FDD6676
+        Revocation Date: Apr 12 16:14:07 2010 GMT
+    Serial Number: 0FE563DC
+        Revocation Date: Apr 14 16:10:07 2010 GMT
+    Serial Number: 110DA1FC
+        Revocation Date: Nov 25 13:47:07 2010 GMT
+    Serial Number: 118460E3
+        Revocation Date: Feb 24 08:15:07 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        0a:c5:d3:4e:6d:3b:26:23:ba:c3:bd:4e:1d:b8:d2:79:47:f0:
+        0d:34:f3:69:76:54:fc:01:49:dc:b0:ea:c3:b2:5f:37:6d:b7:
+        6c:2e:de:cc:23:f6:92:dd:e2:a3:fc:6d:30:39:96:25:4f:98:
+        84:7a:e4:a8:39:51:8c:fa:40:29:5b:1f:1c:e3:3d:68:75:33:
+        a3:f8:b5:13:39:79:27:de:4a:bf:f1:fd:ed:21:b6:c8:98:dd:
+        8f:cd:79:8a:78:5c:6b:e2:dc:58:a9:a1:8d:7c:6c:f6:c5:91:
+        56:8f:cb:96:76:94:ae:01:05:74:b2:7c:9f:91:55:56:61:f7:
+        61:6f:78:f5:a0:a4:80:d0:10:1d:0b:28:9a:27:30:47:f7:e1:
+        d4:9b:6f:84:8d:e6:00:56:42:fa:7e:ff:68:f0:dd:42:1e:c3:
+        30:f2:5f:29:36:75:eb:b5:8a:ff:9e:0a:34:48:b3:7f:26:b3:
+        da:ed:83:5e:51:86:24:3b:f9:b2:c6:1f:18:75:8d:fd:e1:a1:
+        b8:a8:9e:e7:23:ab:14:c1:e3:3d:15:fa:02:f7:72:46:65:12:
+        c1:a0:bf:70:7f:11:11:10:78:ec:ff:b4:24:48:d6:d1:7f:6e:
+        20:89:03:da:53:9c:3b:b1:66:24:a2:3d:08:8e:63:b7:9d:ab:
+        b3:1b:12:30
