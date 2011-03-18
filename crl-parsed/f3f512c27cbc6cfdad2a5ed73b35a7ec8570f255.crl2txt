@@ -1,0 +1,36 @@
+issuer=/C=DE/O=Hochschule Fulda/OU=Datenverarbeitungszentrum/CN=HS Fulda CA - G02/emailAddress=pki@hs-fulda.de
+SHA1 Fingerprint=85:9F:9A:CD:C5:EE:B4:7C:C1:88:9C:DA:E5:6C:E2:95:B7:70:02:7A
+fc48550a
+crlNumber=ED
+lastUpdate=Mar 14 08:20:07 2011 GMT
+nextUpdate=Apr 13 08:20:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschule Fulda/OU=Datenverarbeitungszentrum/CN=HS Fulda CA - G02/emailAddress=pki@hs-fulda.de
+        Last Update: Mar 14 08:20:07 2011 GMT
+        Next Update: Apr 13 08:20:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                237
+Revoked Certificates:
+    Serial Number: 11047955
+        Revocation Date: Nov 19 10:19:08 2010 GMT
+    Serial Number: 1173563C
+        Revocation Date: Feb 10 14:49:06 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        31:9f:c3:79:96:ce:a0:fa:d6:a2:4e:61:23:90:b9:00:3c:ef:
+        ba:43:44:64:a0:a4:c8:ee:0f:38:4c:f1:28:52:3d:e6:15:11:
+        06:15:d3:54:25:66:5c:a2:39:43:ad:20:68:17:eb:c3:b2:7b:
+        b6:60:ec:8d:e7:36:d8:50:c9:7b:f4:79:47:ec:71:17:79:27:
+        6f:2b:75:8f:a0:15:ee:4e:06:1d:de:da:95:29:91:05:77:37:
+        e1:b8:f7:ca:ec:6e:68:36:f6:b4:4d:14:f2:5b:9f:0d:87:cc:
+        1c:af:94:48:61:9e:a4:40:fb:31:6a:f2:e1:0c:4a:f9:b9:66:
+        31:41:e4:74:42:77:ca:22:1d:84:fb:52:8b:f6:42:93:71:62:
+        f7:e1:c6:16:10:c5:ed:8a:9b:3d:43:a7:22:7c:e9:88:ef:36:
+        ae:d8:9d:b0:91:84:54:52:99:c3:b1:b1:b6:62:5b:8e:a3:c2:
+        77:8d:05:fe:10:15:b5:a0:16:b3:5c:fa:34:20:37:bb:47:f8:
+        7b:ef:bc:94:df:c1:1b:24:49:71:7c:8f:17:b5:15:e9:ca:9f:
+        8c:ca:c6:74:66:e3:e0:49:20:6d:45:91:d8:13:d8:08:19:1d:
+        74:a1:6a:50:68:45:50:66:53:80:12:d5:f1:a7:59:ff:65:d6:
+        cb:d6:fd:7d
