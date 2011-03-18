@@ -1,0 +1,315 @@
+issuer=/C=DE/O=GAD EG/OU=VR IDENT/CN=VR IDENT SSL CA 2009
+SHA1 Fingerprint=EC:06:9A:F2:56:EF:0C:95:BB:80:11:21:7A:47:90:29:6D:AD:F7:51
+2f4806ce
+crlNumber=B7
+lastUpdate=Mar 17 22:30:06 2011 GMT
+nextUpdate=Mar 21 21:17:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=GAD EG/OU=VR IDENT/CN=VR IDENT SSL CA 2009
+        Last Update: Mar 17 22:30:06 2011 GMT
+        Next Update: Mar 21 21:17:14 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:50:52:4F:44:2E:47:54:4E:2E:45:58:53:53:4C:43:41:2E:53:49:47:47:45:4E:52:53:2E:30:30:30:30:31:36:30:30
+
+            X509v3 CRL Number: 
+                183
+Revoked Certificates:
+    Serial Number: 0B
+        Revocation Date: Aug 17 15:32:48 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 0C
+        Revocation Date: Aug 17 15:33:12 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 0E
+        Revocation Date: Aug 17 15:33:33 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 11
+        Revocation Date: Aug 17 15:34:28 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 12
+        Revocation Date: Aug 17 15:34:51 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 02
+        Revocation Date: Aug 17 14:17:14 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 15
+        Revocation Date: Jul 14 08:41:53 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                9
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 16
+        Revocation Date: Jul 14 08:42:13 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                9
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 1A
+        Revocation Date: Mar  3 15:39:40 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 03
+        Revocation Date: Aug 17 14:17:32 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 1E
+        Revocation Date: Oct 22 14:03:16 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 1F
+        Revocation Date: Oct 22 14:03:47 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 20
+        Revocation Date: Oct 22 14:05:40 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 21
+        Revocation Date: Oct 22 14:06:44 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 25
+        Revocation Date: Oct 22 14:04:11 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 26
+        Revocation Date: Oct 22 14:04:36 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 27
+        Revocation Date: Oct 22 14:05:58 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 04
+        Revocation Date: Aug 17 14:17:49 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 35
+        Revocation Date: Nov 17 11:33:46 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 39
+        Revocation Date: Dec 23 07:19:25 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 3A
+        Revocation Date: Jan  5 08:31:58 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                9
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 3B
+        Revocation Date: Dec 23 07:20:05 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 3C
+        Revocation Date: Dec 15 11:38:21 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                9
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 3E
+        Revocation Date: Dec 23 07:18:39 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 41
+        Revocation Date: Jan  5 08:29:21 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                9
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 42
+        Revocation Date: Mar  3 15:28:51 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 43
+        Revocation Date: Jan  5 12:47:52 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 49
+        Revocation Date: Mar  3 15:33:22 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 4A
+        Revocation Date: Mar  3 15:32:30 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 4B
+        Revocation Date: Mar  3 15:32:06 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 4C
+        Revocation Date: Feb 10 14:02:42 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 52
+        Revocation Date: Feb 23 12:13:51 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 53
+        Revocation Date: Feb 23 12:12:02 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 55
+        Revocation Date: Mar  3 15:28:25 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Serial Number: 09
+        Revocation Date: Aug 17 15:29:28 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            X509v3 Certificate Issuer: 
+                0T.R0P1.0...U....DE1.0..U.
+..GAD EG1.0...U....VR IDENT1.0...U....VR IDENT SSL CA 2009
+    Signature Algorithm: sha1WithRSAEncryption
+        4f:ba:1f:83:be:ee:82:1d:a4:75:61:2a:83:f5:ea:b9:6a:7a:
+        f8:cd:2f:fd:ba:93:d4:70:ed:bf:b1:c9:2f:4a:8d:46:3a:52:
+        c1:1a:9d:7c:dd:10:b0:c6:d3:bf:9d:7b:52:bf:7b:9d:8b:54:
+        f8:9f:1e:ac:91:f9:5b:2c:2d:c9:3b:b8:34:77:0c:95:61:00:
+        f0:1a:b4:13:34:97:7e:d3:8e:49:71:f0:ff:34:df:cf:0d:fd:
+        48:0d:43:af:c2:01:e2:a2:c9:9a:40:5b:be:e4:ff:db:4b:3f:
+        f3:4c:86:e9:7e:24:f5:0f:f2:34:87:a3:02:85:4d:d2:63:cb:
+        63:c4:c4:0f:30:bf:3b:fd:be:51:07:80:df:2b:08:fd:a5:f5:
+        ba:d4:c1:ce:2d:7d:ba:a6:31:5d:ce:b0:86:59:3e:5e:53:df:
+        25:44:af:c4:4b:ca:fb:54:5e:4e:29:53:7f:d3:a0:6f:fa:8b:
+        a0:21:a2:d8:da:ac:86:92:60:bf:2b:d6:d3:86:ff:68:ab:a7:
+        a1:b4:51:18:10:75:2c:ec:97:05:31:a4:c4:86:f8:52:5a:1e:
+        65:96:8a:78:2f:b4:17:85:fe:ec:3b:82:37:3c:34:f1:96:f7:
+        4a:91:e9:06:49:f1:aa:ab:d0:83:a4:46:f8:ac:e7:d0:77:23:
+        fc:4c:23:95
