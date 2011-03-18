@@ -1,0 +1,89 @@
+issuer=/C=ES/ST=Madrid/L=Madrid/O=IPS Certification Authority s.l. ipsCA/OU=ipsCA/CN=ipsCA Global CA Root/emailAddress=global01@ipsca.com
+SHA1 Fingerprint=BA:FB:4A:58:44:46:6C:8C:91:6B:25:A1:D9:F7:83:D1:17:0E:E0:06
+1920cacb
+crlNumber=<NONE>
+lastUpdate=Mar 10 23:06:16 2011 GMT
+nextUpdate=Apr  9 23:06:16 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/ST=Madrid/L=Madrid/O=IPS Certification Authority s.l. ipsCA/OU=ipsCA/CN=ipsCA Global CA Root/emailAddress=global01@ipsca.com
+        Last Update: Mar 10 23:06:16 2011 GMT
+        Next Update: Apr  9 23:06:16 2011 GMT
+Revoked Certificates:
+    Serial Number: 1000000000000000000000000000000000000007
+        Revocation Date: Nov 23 18:08:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 1000000000000000000000000000000000000008
+        Revocation Date: Nov 27 18:08:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 100000000000000000000000000000000000000B
+        Revocation Date: Dec  3 18:08:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 100000000000000000000000000000000000000C
+        Revocation Date: Dec  4 18:08:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 100000000000000000000000000000000000000D
+        Revocation Date: Dec 10 00:08:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 100000000000000000000000000000000000000E
+        Revocation Date: Dec 10 00:36:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 100000000000000000000000000000000000000F
+        Revocation Date: Dec 10 00:37:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 1000000000000000000000000000000000000013
+        Revocation Date: Dec 29 00:37:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 1000000000000000000000000000000000000014
+        Revocation Date: Dec 29 00:37:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 1000000000000000000000000000000000000016
+        Revocation Date: Dec 29 17:37:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 1000000000000000000000000000000000000017
+        Revocation Date: Dec 30 17:37:55 2009
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 100000000000000000000000000000000000001D
+        Revocation Date: Jan  7 17:37:55 2010
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        78:35:0d:4a:25:d2:d6:a4:ff:b8:d0:93:93:b3:d9:30:af:91:
+        f4:f7:3e:29:a4:56:89:31:df:9f:84:40:32:bb:21:4a:3f:61:
+        90:73:fb:03:b0:18:30:88:6e:da:e8:dc:71:67:12:48:84:02:
+        51:c6:d3:b2:f4:4f:6f:ba:7b:ca:66:8f:ed:9e:36:61:f7:40:
+        bc:90:bd:c0:65:8d:73:70:4b:c8:5f:20:32:9e:76:57:3c:ed:
+        c5:36:c4:04:85:9d:ee:98:19:04:95:e4:85:c9:be:58:86:04:
+        93:a4:ac:cb:3f:68:75:e3:a8:93:b0:d0:8c:bf:c5:9a:57:ca:
+        61:f8:71:16:b7:af:ae:44:15:0a:48:16:f1:8f:8f:9d:35:92:
+        63:e4:c1:3d:a5:91:54:b4:b1:48:6d:ae:97:49:7a:63:02:fd:
+        67:e9:e8:fb:b6:91:02:2c:85:1f:71:90:93:64:d2:51:7e:90:
+        2c:07:58:29:bf:44:9b:da:48:62:dc:b4:8a:53:dd:75:dc:4d:
+        88:b7:0d:c5:78:c8:c1:f1:e8:b6:97:83:28:1b:ea:68:7e:66:
+        aa:56:6d:26:00:59:82:3a:0d:8d:8f:86:0a:38:03:94:cc:c8:
+        93:a9:f2:d2:5d:06:cf:10:a3:ab:54:77:7b:da:7a:5e:98:c2:
+        9f:b6:eb:54
