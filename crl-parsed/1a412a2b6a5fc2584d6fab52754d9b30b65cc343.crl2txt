@@ -1,0 +1,149 @@
+issuer=/C=BM/O=QuoVadis Limited/OU=Issuing Certification Authority/CN=QuoVadis Grid ICA
+SHA1 Fingerprint=CE:10:F4:E2:1E:15:0E:19:33:94:57:00:C2:C5:A2:BE:67:F5:C2:0D
+e72045ce
+crlNumber=05BE
+lastUpdate=Mar 17 22:00:27 2011 GMT
+nextUpdate=Mar 21 10:00:27 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=BM/O=QuoVadis Limited/OU=Issuing Certification Authority/CN=QuoVadis Grid ICA
+        Last Update: Mar 17 22:00:27 2011 GMT
+        Next Update: Mar 21 10:00:27 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                1470
+            X509v3 Authority Key Identifier: 
+                keyid:9D:89:B2:E4:58:FC:3A:4E:92:39:CC:56:BB:55:25:96:C6:45:81:F5
+
+Revoked Certificates:
+    Serial Number: 15A7
+        Revocation Date: Apr  6 09:34:44 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Apr  6 09:34:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1803
+        Revocation Date: Jul 29 07:38:44 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 18C9
+        Revocation Date: Feb 10 09:25:09 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1672
+        Revocation Date: Jun  9 14:36:16 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 15A8
+        Revocation Date: Jun 29 08:04:34 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 29 08:04:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 15AA
+        Revocation Date: Jun 16 14:42:56 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 16 14:42:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 15A6
+        Revocation Date: Jun 30 13:21:28 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 30 13:20:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 15AB
+        Revocation Date: Jul  5 08:01:02 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul  5 08:00:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1671
+        Revocation Date: Jul  6 12:30:20 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 17A3
+        Revocation Date: Jul 27 11:36:46 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 17A1
+        Revocation Date: Jul 29 07:14:25 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1670
+        Revocation Date: Aug 13 11:51:41 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 1627
+        Revocation Date: Jul  5 08:03:12 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jul  5 08:03:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 166F
+        Revocation Date: Aug 13 11:52:25 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 173A
+        Revocation Date: Sep 21 11:32:54 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1BF3
+        Revocation Date: Jan 20 09:05:46 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1C4E
+        Revocation Date: Feb  3 11:36:40 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1BF1
+        Revocation Date: Feb 16 09:26:06 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 15A9
+        Revocation Date: Apr 12 13:41:28 2010 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Apr 12 13:40:00 2010 GMT
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 19A9
+        Revocation Date: Feb 21 08:31:55 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        3c:52:bf:43:2d:bd:5c:a8:ac:20:a3:04:84:8c:7b:12:2b:b5:
+        bf:18:27:29:e0:a4:4a:b8:be:af:b7:95:be:fc:f2:a1:05:05:
+        68:9e:53:5f:ea:c7:97:35:5d:fa:c9:a6:95:db:11:fe:55:a3:
+        84:70:54:00:d1:1c:dd:3d:c4:63:bd:53:f6:a3:73:14:ae:f8:
+        f6:56:c8:36:a8:be:c7:9c:48:88:b0:cf:a0:11:d2:ed:a4:4c:
+        59:bb:e8:b2:0d:b8:f8:9d:9f:02:87:dc:34:1e:69:48:c8:09:
+        e9:98:7b:32:ac:c5:84:91:7b:90:88:9f:8b:ac:55:0f:fa:ac:
+        b2:8f:fd:0c:f4:be:92:aa:37:6e:d4:40:68:a6:ab:7b:0d:3f:
+        8a:6a:db:27:e1:bc:7e:b1:09:62:68:b0:ae:73:ed:43:37:30:
+        0e:22:9b:22:23:ad:05:b5:a7:d0:5b:41:3f:7e:a8:17:74:68:
+        30:62:b9:17:aa:b7:e7:a0:6f:18:48:0d:74:f2:3c:e4:91:73:
+        1b:7c:56:e5:1d:6c:1c:a8:29:7f:13:aa:9b:7e:b9:d1:40:71:
+        89:bc:2d:2a:86:64:32:b3:a6:2e:cb:df:a3:3d:08:a3:f1:14:
+        25:db:18:6a:e9:85:e6:28:1f:98:30:3c:e1:db:ad:38:c5:e1:
+        53:4e:a6:4c
