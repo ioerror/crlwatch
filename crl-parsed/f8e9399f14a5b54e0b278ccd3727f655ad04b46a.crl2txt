@@ -1,0 +1,60 @@
+issuer=/C=FR/O=Certplus/OU=Entity of KEYNECTIS for CA services/CN=KEYNECTIS Extended Validation CA
+SHA1 Fingerprint=6A:AF:E7:D9:B5:58:49:E7:67:0B:37:E0:61:9F:69:C3:C2:28:05:74
+4d01b586
+crlNumber=39E5
+lastUpdate=Mar 18 00:00:00 2011 GMT
+nextUpdate=Mar 25 00:00:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=FR/O=Certplus/OU=Entity of KEYNECTIS for CA services/CN=KEYNECTIS Extended Validation CA
+        Last Update: Mar 18 00:00:00 2011 GMT
+        Next Update: Mar 25 00:00:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                14821
+            X509v3 Authority Key Identifier: 
+                keyid:13:C1:32:2E:92:5C:AE:CD:6D:8F:A2:F3:E0:B4:49:B4:86:F4:A2:5C
+
+Revoked Certificates:
+    Serial Number: 212130182FAEC18480CF26CD17965CB68C72
+        Revocation Date: Jun 10 16:01:46 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 21218CB17D889EAAD6FFFDD48FC9E52F6CC7
+        Revocation Date: Jun 17 13:19:44 2009 GMT
+    Serial Number: 2121133578C695FF5A26F722325DB20A9CAC
+        Revocation Date: Jun 17 13:43:05 2009 GMT
+    Serial Number: 21215AED515028FDBC525134C067BE40FFE7
+        Revocation Date: Jun 17 14:43:09 2009 GMT
+    Serial Number: 21212D370CB111B2CDE86C4CFEEB4D1F8E89
+        Revocation Date: Nov 26 09:39:15 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 212113EECD6C8700AB07275116B90568DB84
+        Revocation Date: Apr  6 14:38:35 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 2121CF5AA25AEEE98E2C996039DD9902A016
+        Revocation Date: Aug 27 15:26:29 2010 GMT
+    Serial Number: 21216665DB516A71F257605FE59859BE429F
+        Revocation Date: Nov  9 16:50:00 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        63:19:d1:20:83:62:74:81:c2:a8:4c:0a:d5:47:99:ac:31:78:
+        0d:46:41:15:84:11:29:cb:f0:18:ab:8a:39:0c:95:62:d7:4b:
+        59:36:5d:69:a9:15:d1:b2:66:ee:8c:c5:cf:1c:7e:8c:61:88:
+        a2:70:96:9a:25:e1:0c:2e:69:0f:04:4f:53:e1:ec:29:9a:3c:
+        6f:0a:df:3d:7f:45:da:bf:11:b6:10:e3:d4:1b:4b:15:8d:76:
+        19:2b:45:fd:2c:cd:dc:3f:5a:1d:56:5f:6d:86:0c:9f:b2:d8:
+        86:87:0a:b7:75:65:6e:a9:97:93:ed:1c:2f:7c:8f:e0:e5:72:
+        84:f0:bf:25:e7:e3:35:d9:ff:a6:e5:d3:c1:f1:da:f0:5b:69:
+        af:66:bd:80:d0:d5:26:52:2a:5f:55:80:96:26:df:39:4e:1c:
+        c6:d9:cc:08:05:aa:7c:27:bb:3b:61:c5:a2:27:29:78:67:1d:
+        42:54:80:09:55:57:9b:6d:d6:d8:1b:87:a3:db:cc:d2:e7:ff:
+        92:fc:7f:4d:83:0b:70:35:1d:64:8f:78:1d:84:25:44:d3:01:
+        2e:7b:c3:40:e2:3d:be:14:7f:4d:9d:8e:c5:72:24:29:4f:4b:
+        20:8f:f9:cf:d7:87:35:57:e2:7c:e4:23:98:ed:70:5a:b5:f7:
+        39:05:a1:ef
