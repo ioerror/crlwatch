@@ -1,0 +1,39 @@
+issuer=/C=DE/O=EUNETIC GmbH/CN=EuropeanSSL High Assurance Server CA
+SHA1 Fingerprint=B6:D2:42:E2:55:61:56:DD:DC:C5:40:04:CA:59:E0:99:82:CD:7A:E5
+43f53c8f
+crlNumber=03BC
+lastUpdate=Mar 17 20:14:08 2011 GMT
+nextUpdate=Mar 21 20:14:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=EUNETIC GmbH/CN=EuropeanSSL High Assurance Server CA
+        Last Update: Mar 17 20:14:08 2011 GMT
+        Next Update: Mar 21 20:14:08 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:C5:F9:77:9C:71:27:1B:3A:52:5B:3A:73:8F:48:B9:F6:08:C4:78:20
+
+            X509v3 CRL Number: 
+                956
+Revoked Certificates:
+    Serial Number: FC23DF1B5C8F5C02EE9566F3AB3513CA
+        Revocation Date: Aug  6 16:57:51 2010 GMT
+    Serial Number: D6E5EBF0EE2A71009AD8465DC317E8CD
+        Revocation Date: Nov 19 22:49:41 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        c3:fc:d7:58:cb:5b:4c:ce:9b:fc:ed:ba:3d:31:02:36:4d:5b:
+        70:a5:6d:4e:5d:48:c2:f2:4b:81:0a:ea:8f:c8:8f:0c:24:bb:
+        75:ae:5a:4a:cc:73:4d:97:cf:77:56:49:15:44:f2:46:f6:08:
+        ba:c3:54:01:3d:a8:ad:52:54:2e:78:20:38:df:e1:62:e7:48:
+        9f:6c:e7:d6:1c:44:1c:95:fa:51:a5:7c:77:78:68:4b:b2:51:
+        02:d0:9d:fa:f4:34:7a:df:cd:84:ed:3d:ef:2e:da:e9:8f:8d:
+        64:18:0e:c0:20:e9:fd:50:e5:07:1e:bd:b4:a0:7e:81:6e:08:
+        cf:d3:da:be:4c:86:7b:4f:5e:15:d4:d3:ad:f5:74:4a:03:b6:
+        08:24:cd:fa:a8:83:9a:7a:89:18:44:5e:e2:68:72:f6:15:81:
+        31:55:1a:2d:46:87:44:3e:75:db:27:a5:10:32:ab:7a:39:47:
+        01:8c:8c:19:7c:41:13:02:8d:d9:bd:48:22:16:91:7d:fb:07:
+        e8:f3:4b:42:f8:b3:cd:e0:f5:01:59:af:bb:25:8a:3a:21:95:
+        33:6a:7d:d8:51:1f:91:9f:9b:55:0d:d5:86:31:90:c0:b9:65:
+        b9:6c:8a:f0:29:ec:d7:1b:81:47:75:cc:2a:a6:5f:3c:55:87:
+        9e:49:a3:8f
