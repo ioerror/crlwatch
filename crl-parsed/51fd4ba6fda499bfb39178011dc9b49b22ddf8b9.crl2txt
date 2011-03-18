@@ -1,0 +1,61 @@
+issuer=/C=FR/ST=Calvados/L=Caen/O=TBS INTERNET/OU=Terms and Conditions: http://www.tbs-internet.com/CA/repository/OU=TBS INTERNET CA/CN=TBS X509 CA SGC
+SHA1 Fingerprint=CF:5C:36:E7:0E:7C:3D:41:79:8E:23:8D:10:E3:CB:76:89:89:B7:E1
+c178089f
+crlNumber=103F
+lastUpdate=Mar 18 04:25:46 2011 GMT
+nextUpdate=Mar 19 04:25:46 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=FR/ST=Calvados/L=Caen/O=TBS INTERNET/OU=Terms and Conditions: http://www.tbs-internet.com/CA/repository/OU=TBS INTERNET CA/CN=TBS X509 CA SGC
+        Last Update: Mar 18 04:25:46 2011 GMT
+        Next Update: Mar 19 04:25:46 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:07:44:76:85:93:28:BC:7F:6D:78:D2:0A:EB:FA:4C:4B:DF:D9:82:1F
+
+            X509v3 CRL Number: 
+                4159
+Revoked Certificates:
+    Serial Number: 39B5C5391D0BEDD866F61A5D4318DA14
+        Revocation Date: Sep 28 16:43:48 2009 GMT
+    Serial Number: 27210A71ED624F2C028D878FA65BD1F3
+        Revocation Date: Jan 22 06:14:55 2010 GMT
+    Serial Number: CC7C7300D984AD29018A3760AAC941D4
+        Revocation Date: May 31 06:43:03 2010 GMT
+    Serial Number: E05D50AFA6AD6F5804635F73EC2EA313
+        Revocation Date: Jul  4 06:22:18 2010 GMT
+    Serial Number: CA00A0D723A6CCAE1F3EC89DB4C0B7EE
+        Revocation Date: Oct 26 03:00:27 2010 GMT
+    Serial Number: 52CDB11A398F78AB3A6615A1598C4012
+        Revocation Date: Oct 29 03:04:19 2010 GMT
+    Serial Number: 0ACC1F72930281503FCBFE99855E8352
+        Revocation Date: Nov  9 03:01:36 2010 GMT
+    Serial Number: 1F44C72BB69AE38036C2852176F44886
+        Revocation Date: Nov 21 02:32:09 2010 GMT
+    Serial Number: 20052ABD7090FC7A68CA6CE5434EC723
+        Revocation Date: Nov 30 03:09:13 2010 GMT
+    Serial Number: ECDEDC3F769F055231719BD65820D9BD
+        Revocation Date: Dec 11 02:25:08 2010 GMT
+    Serial Number: 339FD02BF731D626E307FCEDE71CA1FB
+        Revocation Date: Dec 24 03:01:28 2010 GMT
+    Serial Number: AC50E7372FB82627A05ADD4593AD2A6C
+        Revocation Date: Feb 21 15:50:28 2011 GMT
+    Serial Number: B267B63B2FF52588646B2F5C5D4B669C
+        Revocation Date: Mar 12 02:16:05 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        3a:f0:2b:d1:7b:f8:bf:8e:06:9c:ae:a6:3f:61:47:c5:98:e7:
+        64:63:cc:fc:49:45:f6:4f:0f:c4:c5:cf:cc:68:c4:4a:df:f0:
+        84:16:94:8e:19:b3:a4:66:1a:6d:bd:ce:f3:c8:5a:d8:7d:77:
+        19:77:d6:e9:5a:51:48:23:3a:cc:d3:ce:51:f0:ce:bf:9f:c8:
+        d2:d8:d3:3d:cf:3a:7a:17:61:56:a0:f2:79:3c:af:8f:8c:e1:
+        0b:42:e5:df:c9:d3:11:37:af:e8:a4:15:ed:cb:ac:ae:66:0b:
+        63:24:da:75:70:eb:82:65:a2:55:fa:35:ba:5f:8e:a9:77:fc:
+        df:d9:d1:ae:06:3f:f5:67:61:80:a7:61:bd:7d:35:2a:90:86:
+        d3:36:b8:e6:fb:f9:29:9b:95:87:af:90:bb:f0:ec:0f:c0:3c:
+        35:b5:4e:2b:31:d6:20:c3:70:56:4a:e6:4c:de:05:83:da:19:
+        21:3b:31:43:11:e2:d6:66:1d:b9:80:62:00:d2:17:ad:90:a0:
+        0b:fc:cf:bc:18:df:65:e3:88:ee:ee:1c:6b:3a:bb:30:72:62:
+        47:e1:99:44:7b:1d:8e:c9:03:c2:73:ce:0e:43:e3:ec:d8:2c:
+        03:b1:c1:72:20:92:69:a9:10:65:fe:07:82:ac:b7:f2:98:ae:
+        90:d5:f1:e0
