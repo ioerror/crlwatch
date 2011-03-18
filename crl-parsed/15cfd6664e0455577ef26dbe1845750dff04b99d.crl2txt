@@ -1,0 +1,42 @@
+issuer=/C=DE/ST=Mecklenburg-Vorpommern/L=Schwerin/O=Ministerium fuer Bildung, Wissenschaft und Kultur M-V/OU=BMMV-PKI/CN=BMMV CA - G 01/emailAddress=ca@kultus-mv.de
+SHA1 Fingerprint=B1:2B:D7:CE:60:0C:CE:A2:EF:A9:EF:3D:BF:1A:48:6F:72:1C:5F:AA
+4c8d10d4
+crlNumber=AA
+lastUpdate=Mar 14 07:14:14 2011 GMT
+nextUpdate=Apr 13 07:14:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Mecklenburg-Vorpommern/L=Schwerin/O=Ministerium fuer Bildung, Wissenschaft und Kultur M-V/OU=BMMV-PKI/CN=BMMV CA - G 01/emailAddress=ca@kultus-mv.de
+        Last Update: Mar 14 07:14:14 2011 GMT
+        Next Update: Apr 13 07:14:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                170
+Revoked Certificates:
+    Serial Number: 0C352DA8
+        Revocation Date: Apr 28 11:23:06 2008 GMT
+    Serial Number: 0EC45952
+        Revocation Date: Jul  9 10:55:07 2010 GMT
+    Serial Number: 0ED2D19F
+        Revocation Date: Sep 18 11:37:06 2009 GMT
+    Serial Number: 1053E86E
+        Revocation Date: Jul  9 10:55:07 2010 GMT
+    Serial Number: 1171DCE4
+        Revocation Date: Feb  9 12:43:06 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        34:49:dc:22:1f:38:00:04:02:2a:ca:b6:ab:ea:ba:9b:ae:56:
+        08:c3:4b:a6:fd:27:4d:02:2c:e7:ae:f1:00:ed:f8:35:ae:a2:
+        89:25:94:99:24:51:87:01:8a:cd:2d:7e:97:bf:f2:53:e8:38:
+        b8:97:cb:e9:5f:19:66:90:c8:0e:00:9c:87:75:2a:66:7f:08:
+        a0:59:68:0f:29:58:3c:77:fa:fa:50:79:ff:cb:ac:3c:4c:54:
+        50:15:e5:47:a6:f2:80:2e:d2:e1:b8:b7:82:a1:15:ac:d0:9d:
+        32:05:17:08:e2:7c:e5:b8:05:d0:44:a2:b4:c1:ef:57:89:db:
+        f0:c2:49:fd:15:74:3d:9b:47:bc:2f:b6:46:84:b8:85:a2:94:
+        06:e3:d8:3c:f1:42:79:55:18:1c:a9:a3:a1:24:f9:d6:b0:26:
+        1c:24:8b:d3:49:dd:48:cf:21:a8:21:1a:ee:7a:9b:d9:ce:e8:
+        92:c9:63:a8:66:b5:fe:88:ec:1b:a0:ed:f9:d5:a1:10:b3:9b:
+        16:a7:e8:ea:e5:72:95:67:b5:a0:94:f2:c3:5a:3b:bb:74:77:
+        42:89:f9:d6:06:5c:8f:6d:8a:b3:c2:27:a4:7b:3d:db:52:18:
+        77:1c:a5:6b:df:61:99:7b:18:02:ac:c2:90:54:f8:9b:7a:b7:
+        cd:42:2d:36
