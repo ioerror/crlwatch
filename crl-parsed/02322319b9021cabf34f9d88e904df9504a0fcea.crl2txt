@@ -1,0 +1,40 @@
+issuer=/C=DE/O=Fachhochschule Wuerzburg-Schweinfurt/CN=Fachhochschule Wuerzburg-Schweinfurt CA 3 (FHWS-CA 3)/emailAddress=ca@fh-sw.de
+SHA1 Fingerprint=8D:F6:7C:D1:B0:43:C2:F4:E3:BD:4A:18:9C:CC:B0:89:81:E7:9C:25
+4262502f
+crlNumber=B1
+lastUpdate=Mar 14 07:52:15 2011 GMT
+nextUpdate=Apr 13 07:52:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Fachhochschule Wuerzburg-Schweinfurt/CN=Fachhochschule Wuerzburg-Schweinfurt CA 3 (FHWS-CA 3)/emailAddress=ca@fh-sw.de
+        Last Update: Mar 14 07:52:15 2011 GMT
+        Next Update: Apr 13 07:52:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                177
+Revoked Certificates:
+    Serial Number: 0BEB7242
+        Revocation Date: Apr 15 11:46:16 2008 GMT
+    Serial Number: 0C0B32A5
+        Revocation Date: Nov 12 12:46:06 2009 GMT
+    Serial Number: 0C23E700
+        Revocation Date: Apr 16 16:08:06 2008 GMT
+    Serial Number: 0CF828F7
+        Revocation Date: Nov 12 12:46:07 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        a3:3d:7d:6c:b8:75:9a:f7:ab:43:67:c7:de:be:e1:7f:ff:89:
+        3b:53:ad:99:e1:77:58:8e:b2:a9:f1:ec:99:cb:74:d5:43:09:
+        49:f4:5c:ae:d7:ce:7e:22:02:89:e6:03:86:9d:07:bb:14:52:
+        94:8b:e4:3c:72:a4:6d:26:60:88:2f:d6:ce:c2:44:9c:86:8b:
+        4d:ef:b4:d1:3c:33:73:71:47:b9:c0:93:e1:e1:98:a8:ab:c9:
+        0d:b4:34:b5:cc:35:4e:55:a6:d1:98:76:59:67:f3:28:1f:7e:
+        76:f5:e6:95:fb:d3:b8:a1:b7:97:97:80:1e:12:93:a7:29:4a:
+        ba:2a:e8:21:94:15:c9:f8:e7:47:8f:a5:bc:e0:7b:28:1f:5e:
+        b7:f6:eb:50:83:93:e1:2a:3c:f3:2f:73:90:55:c6:fa:ae:6f:
+        0d:0c:f1:65:d0:bc:9a:64:9f:45:b1:1f:34:fb:ea:83:5c:b4:
+        98:fd:37:a6:77:c9:00:89:1f:b2:b6:0a:fa:51:ad:e5:0a:67:
+        6f:c5:89:a2:ba:ae:94:9d:1d:39:6f:50:ba:33:f1:ea:8b:4d:
+        c3:45:b9:c7:e0:e6:31:22:fc:e3:a6:52:be:1b:57:3a:40:5a:
+        ba:13:e1:a7:99:a5:71:7a:69:76:aa:c4:79:a1:fe:51:33:a8:
+        60:bf:c7:75
