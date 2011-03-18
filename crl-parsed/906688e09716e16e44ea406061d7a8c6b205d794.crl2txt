@@ -1,0 +1,42 @@
+issuer=/C=RO/O=certSIGN/OU=certSIGN ROOT CA
+SHA1 Fingerprint=48:CD:29:ED:43:FA:E5:85:9B:E3:91:56:CB:20:E8:E4:E7:CB:72:BA
+882de061
+crlNumber=06
+lastUpdate=Mar  9 12:27:53 2011 GMT
+nextUpdate=Mar  8 12:27:53 2012 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=RO/O=certSIGN/OU=certSIGN ROOT CA
+        Last Update: Mar  9 12:27:53 2011 GMT
+        Next Update: Mar  8 12:27:53 2012 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:E0:8C:9B:DB:25:49:B3:F1:7C:86:D6:B2:42:87:0B:D0:6B:A0:D9:E4
+                DirName:/C=RO/O=certSIGN/OU=certSIGN ROOT CA
+                serial:20:06:05:16:70:02
+
+            X509v3 CRL Number: 
+                6
+Revoked Certificates:
+    Serial Number: 20060516700301
+        Revocation Date: Mar 13 16:33:56 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        8c:60:58:ec:1d:8c:26:da:43:da:73:b1:6f:d2:47:0a:70:50:
+        c5:7c:1b:ec:1d:ed:33:69:fb:e3:8c:6e:16:64:6b:ee:74:68:
+        ea:b4:e1:84:e8:36:3e:8d:b7:9e:e6:21:f3:9a:11:61:26:b1:
+        84:69:cd:38:0e:0b:6a:de:cc:91:dd:7c:5c:a9:53:1a:ee:80:
+        75:76:a0:97:1f:a5:9c:ce:34:5b:d3:c2:fb:d6:82:a2:7e:e0:
+        90:35:1d:fd:61:23:b2:08:44:ff:91:8f:d2:66:7d:2d:70:46:
+        01:04:32:23:cf:0d:0b:cf:78:c5:42:4e:aa:f3:14:33:cd:de:
+        b7:59:2d:91:ab:9b:fd:e8:0d:36:13:86:8d:c6:e1:a9:c8:be:
+        29:e9:07:e0:08:85:1b:6c:72:d8:e1:4b:fe:21:d7:f2:e7:dc:
+        68:24:bc:0b:2a:7d:4b:40:e7:37:3c:7e:e5:66:55:8d:dc:87:
+        44:d7:ef:fa:45:5e:50:9a:78:5e:be:14:55:c5:e3:e9:85:0f:
+        3c:10:cf:20:fc:f4:fa:92:e3:83:99:58:59:19:bc:54:ff:ce:
+        5a:ed:52:d1:25:7a:5f:54:2d:fd:c0:d8:23:26:d4:11:30:04:
+        ea:59:37:d3:6f:27:cf:d8:91:27:ff:7b:5c:57:b5:9f:8c:bc:
+        05:ee:79:7f
