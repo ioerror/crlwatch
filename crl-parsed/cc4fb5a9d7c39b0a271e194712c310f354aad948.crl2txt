@@ -1,0 +1,90 @@
+issuer=/C=DE/O=Universitaet zu Luebeck/OU=Institut fuer Medizinische Informatik/CN=CA der Universitaet zu Luebeck/emailAddress=pki@uni-luebeck.de
+SHA1 Fingerprint=C2:5E:2D:A3:30:49:58:B8:19:A2:AF:B7:F3:FC:13:2B:C8:A0:E8:38
+8e0e5da9
+crlNumber=011F
+lastUpdate=Mar 14 09:46:10 2011 GMT
+nextUpdate=Apr 13 09:46:10 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Universitaet zu Luebeck/OU=Institut fuer Medizinische Informatik/CN=CA der Universitaet zu Luebeck/emailAddress=pki@uni-luebeck.de
+        Last Update: Mar 14 09:46:10 2011 GMT
+        Next Update: Apr 13 09:46:10 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                287
+Revoked Certificates:
+    Serial Number: 0A8DEA43
+        Revocation Date: Dec 11 16:33:08 2007 GMT
+    Serial Number: 0AC68EA7
+        Revocation Date: Jun 30 16:00:08 2008 GMT
+    Serial Number: 0B04C5D7
+        Revocation Date: Sep 11 08:20:20 2007 GMT
+    Serial Number: 0B19D30E
+        Revocation Date: Feb 10 15:39:09 2009 GMT
+    Serial Number: 0B2AC3F0
+        Revocation Date: Oct 10 10:32:07 2007 GMT
+    Serial Number: 0B471BF2
+        Revocation Date: Oct 31 13:11:08 2007 GMT
+    Serial Number: 0B761813
+        Revocation Date: May 22 15:15:08 2008 GMT
+    Serial Number: 0C3147B1
+        Revocation Date: May 28 09:39:09 2008 GMT
+    Serial Number: 0C3503F0
+        Revocation Date: May 28 08:11:08 2008 GMT
+    Serial Number: 0C3503F2
+        Revocation Date: May 28 08:11:09 2008 GMT
+    Serial Number: 0C3503F4
+        Revocation Date: May 28 08:12:08 2008 GMT
+    Serial Number: 0C54D43E
+        Revocation Date: May 28 08:13:07 2008 GMT
+    Serial Number: 0C65FEC5
+        Revocation Date: Jun 30 16:03:08 2008 GMT
+    Serial Number: 0DA14033
+        Revocation Date: Nov  2 12:58:08 2009 GMT
+    Serial Number: 0DE2EA79
+        Revocation Date: Apr  6 13:19:15 2009 GMT
+    Serial Number: 0E88F405
+        Revocation Date: Jul 30 14:44:10 2009 GMT
+    Serial Number: 0EB1B2ED
+        Revocation Date: Aug 25 10:01:12 2009 GMT
+    Serial Number: 0EB1B2EE
+        Revocation Date: Aug 25 10:01:11 2009 GMT
+    Serial Number: 0EB317E8
+        Revocation Date: Aug 25 10:01:10 2009 GMT
+    Serial Number: 102F260C
+        Revocation Date: Jun 10 12:35:10 2010 GMT
+    Serial Number: 102F260E
+        Revocation Date: Jun 10 12:35:11 2010 GMT
+    Serial Number: 10356B0E
+        Revocation Date: Jun 14 08:57:10 2010 GMT
+    Serial Number: 103FE954
+        Revocation Date: Jun 22 13:14:08 2010 GMT
+    Serial Number: 10CE3E56
+        Revocation Date: Oct 21 13:23:14 2010 GMT
+    Serial Number: 110F30E4
+        Revocation Date: Dec  3 10:41:18 2010 GMT
+    Serial Number: 110F31D5
+        Revocation Date: Dec  3 10:41:19 2010 GMT
+    Serial Number: 1155284E
+        Revocation Date: Jan 21 11:41:09 2011 GMT
+    Serial Number: 1168D426
+        Revocation Date: Feb  2 16:39:08 2011 GMT
+    Serial Number: 11708998
+        Revocation Date: Feb  8 13:29:34 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        6c:00:63:fe:fe:65:66:d2:6e:f5:10:5e:c6:9d:30:67:24:f8:
+        dc:ff:c2:d5:dd:f3:09:43:64:df:f8:5f:17:22:e1:85:9a:5e:
+        d8:4a:bb:96:b9:ac:a2:b7:e3:12:e3:1d:3a:13:c2:79:be:8c:
+        59:36:65:36:82:ab:c2:81:28:07:d7:8b:27:02:a0:9a:c3:b0:
+        d7:56:df:52:7b:52:fb:31:80:ad:5e:fe:c2:df:fe:79:42:a6:
+        a3:59:8b:d7:33:13:0b:d9:8e:65:3e:9e:ba:e6:34:9c:59:b8:
+        c9:fb:a9:68:81:52:68:cd:6d:cd:f3:30:f2:ca:27:a1:7e:16:
+        3f:09:47:a1:b1:e7:c9:5f:f6:3e:5e:ba:91:d5:dd:aa:52:15:
+        6a:49:0d:20:43:1f:b3:a9:27:93:34:05:07:9e:f5:ea:c1:a8:
+        a2:4b:21:38:31:83:00:e8:64:a2:e1:f4:06:6e:81:b4:59:26:
+        a8:1e:8e:fc:58:60:02:ff:e9:ae:00:f4:d9:5a:8b:d1:68:7a:
+        28:98:76:01:e3:4b:0d:6b:73:26:ed:54:cb:8d:53:62:73:a6:
+        aa:8b:4b:d9:8c:8d:7b:b6:bd:0e:57:09:42:a1:bb:36:e5:f8:
+        6b:83:01:78:ec:51:9d:62:7e:e9:78:61:ce:2f:c1:37:7e:9e:
+        60:05:86:70
