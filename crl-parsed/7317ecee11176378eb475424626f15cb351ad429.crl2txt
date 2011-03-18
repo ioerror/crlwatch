@@ -1,0 +1,73 @@
+issuer=/C=PT/O=SCEE/CN=ECRaizEstado
+SHA1 Fingerprint=4C:D6:97:1E:66:87:59:14:04:11:9B:57:30:E4:0D:5C:81:56:6B:78
+747d995c
+crlNumber=14
+lastUpdate=Mar 10 12:29:59 2011 GMT
+nextUpdate=Sep 10 12:29:59 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=PT/O=SCEE/CN=ECRaizEstado
+        Last Update: Mar 10 12:29:59 2011 GMT
+        Next Update: Sep 10 12:29:59 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                20
+            X509v3 Authority Key Identifier: 
+                keyid:71:7F:35:DE:F5:77:71:6D:1D:12:9C:E1:90:A4:BA:F0:A9:83:8F:80
+                DirName:/C=PT/O=SCEE/CN=ECRaizEstado
+                serial:42:EA:5B:0A:51:11:26:7C:D8:27:74:B7:DF:7F:71
+
+            X509v3 Issuing Distrubution Point: critical
+                0-.(.&.$http://crls.ecee.gov.pt/crls/ARL.crl...
+Revoked Certificates:
+    Serial Number: 05D911EC14852C4744A3F47092AD5678
+        Revocation Date: Jul  3 14:47:04 2006 GMT
+    Serial Number: 074975B4ABCB11B044A3E5991EB2AC4B
+        Revocation Date: Jul  3 14:47:04 2006 GMT
+    Serial Number: 0799662DD64694DC46B2F6464EAD0F74
+        Revocation Date: Aug 10 13:32:57 2007 GMT
+    Serial Number: 0E49435B8CDAEB3F44A3E91C53763C94
+        Revocation Date: Jun 29 15:51:11 2006 GMT
+    Serial Number: 14E2164B2D7CF14A44A3E3D0706A7BFA
+        Revocation Date: Jul  3 14:47:04 2006 GMT
+    Serial Number: 43F9CCD87FAC006246B2F7B3776E9B77
+        Revocation Date: Aug 10 13:32:57 2007 GMT
+    Serial Number: 4E7129406B6FFCBA46B2F82339F769D7
+        Revocation Date: Aug 10 13:32:57 2007 GMT
+    Serial Number: 54597886AA35D93D46E915D4EBBF0666
+        Revocation Date: Dec  7 12:17:52 2007 GMT
+    Serial Number: 79452D1D9269004E44A3E648CD5825BB
+        Revocation Date: Jun 29 15:51:11 2006 GMT
+    Serial Number: 7FDC00EDC09CCE9046E9159308390416
+        Revocation Date: Dec  7 12:17:52 2007 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        a6:a7:e5:ec:98:4b:8c:17:5c:1c:1f:be:87:39:30:ec:b5:5a:
+        54:01:b1:be:34:fa:46:0e:43:2a:8e:46:06:38:8a:2f:43:a0:
+        ca:59:9e:35:53:31:ec:7c:97:72:64:15:d5:6a:30:41:e2:f6:
+        23:ff:b0:01:70:36:d0:97:67:e2:14:58:b3:26:f5:26:5f:75:
+        0c:a3:b5:f2:ef:1d:50:e1:b9:37:c9:65:91:95:b7:b0:54:a8:
+        59:47:c1:22:66:c0:d9:21:ee:fa:73:c1:62:82:18:c0:ac:27:
+        3e:83:8a:78:99:b5:a7:07:f4:1b:9b:1b:83:79:eb:4b:2e:bc:
+        0f:ca:2e:79:9f:ab:84:ef:51:92:1e:1d:f8:1c:80:ca:de:15:
+        8e:5d:60:b2:2c:f6:01:57:04:a5:d3:74:02:1b:43:7f:4d:eb:
+        8e:4b:25:64:55:37:c8:67:80:d5:58:94:76:56:4f:0f:88:a2:
+        ac:5f:7e:86:33:93:ae:64:f1:9d:96:43:dc:0c:35:0c:ca:c0:
+        c2:8d:fe:93:e2:4c:95:ef:51:8f:51:3c:98:37:5a:c0:03:c8:
+        5d:43:18:24:db:79:62:29:15:d4:c4:ff:9a:e5:45:a0:a3:8f:
+        b7:26:34:5d:25:e6:1c:e9:06:95:ed:c4:04:88:68:99:3d:b2:
+        e6:b2:21:b2:64:94:7a:ed:2f:2a:7c:70:a8:e3:a5:2d:4e:da:
+        d0:61:52:59:f0:78:72:a0:ec:c3:2b:f7:b5:26:1d:d6:25:c6:
+        9d:ca:b8:b5:df:a5:56:a5:6d:53:ca:6c:f3:fa:ff:ee:9d:b0:
+        61:0e:ef:63:b5:73:69:1a:69:96:0e:60:f0:95:4c:e2:b0:41:
+        bf:0c:6a:dd:aa:2a:6b:bd:ef:fc:ad:52:ca:af:7b:44:08:cf:
+        78:14:eb:a6:e7:14:15:f1:43:08:b2:8f:e6:12:5a:94:66:a8:
+        6e:7b:b1:1f:52:2e:d2:3c:95:99:60:78:09:8f:51:8f:b3:9c:
+        7f:bc:13:96:60:e1:4b:09:e8:2f:de:eb:64:71:98:20:66:0c:
+        73:3c:43:c4:11:b3:b4:c0:3a:b2:8d:a1:7c:a5:c4:f9:49:57:
+        c0:44:cd:95:22:e9:db:51:49:72:25:da:5e:34:f2:0d:a6:97:
+        45:58:64:3a:b2:b8:87:da:d2:31:b6:fa:6e:8a:b7:bf:10:01:
+        89:e4:75:c5:c4:93:52:ed:b9:c4:9c:b5:99:b2:a1:26:e6:17:
+        3f:f2:6c:41:e8:81:cf:a2:90:8d:54:e6:c7:84:f5:03:01:16:
+        79:01:fd:20:8b:9a:f4:56:51:5e:c2:db:f2:83:a9:5c:7b:c0:
+        cd:d1:48:b7:42:c4:b8:50
