@@ -1,0 +1,94 @@
+issuer=/C=DE/O=Hochschule Anhalt (FH)/OU=ZIK/CN=HS Anhalt CA - G02/emailAddress=ca@hs-anhalt.de
+SHA1 Fingerprint=8F:BA:0A:10:60:98:81:D9:41:BE:B1:72:CA:8A:7B:8E:F0:43:5E:FA
+700ed28b
+crlNumber=0119
+lastUpdate=Mar 14 08:16:08 2011 GMT
+nextUpdate=Apr 13 08:16:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschule Anhalt (FH)/OU=ZIK/CN=HS Anhalt CA - G02/emailAddress=ca@hs-anhalt.de
+        Last Update: Mar 14 08:16:08 2011 GMT
+        Next Update: Apr 13 08:16:08 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                281
+Revoked Certificates:
+    Serial Number: 0A024024
+        Revocation Date: Feb  9 12:47:07 2010 GMT
+    Serial Number: 0A15F198
+        Revocation Date: Jun 11 10:50:08 2008 GMT
+    Serial Number: 0A2978C6
+        Revocation Date: Jun 11 10:50:07 2008 GMT
+    Serial Number: 0A2978C8
+        Revocation Date: Jun 11 10:53:07 2008 GMT
+    Serial Number: 0A7B831F
+        Revocation Date: Oct  8 12:22:07 2008 GMT
+    Serial Number: 0B5D23D2
+        Revocation Date: Feb 15 13:58:27 2008 GMT
+    Serial Number: 0B7DFA49
+        Revocation Date: Jan 24 08:57:07 2008 GMT
+    Serial Number: 0B7DFA4B
+        Revocation Date: Jan 24 08:57:09 2008 GMT
+    Serial Number: 0B7DFAD6
+        Revocation Date: Jan 24 08:59:06 2008 GMT
+    Serial Number: 0BC66DC6
+        Revocation Date: Dec  7 11:25:09 2009 GMT
+    Serial Number: 0BDD11A2
+        Revocation Date: Feb 22 10:37:55 2008 GMT
+    Serial Number: 0C2D63D4
+        Revocation Date: Feb  4 13:27:07 2009 GMT
+    Serial Number: 0C2D64C2
+        Revocation Date: Dec  2 11:25:07 2008 GMT
+    Serial Number: 0C59D223
+        Revocation Date: Jan 30 07:46:06 2009 GMT
+    Serial Number: 0C8057D7
+        Revocation Date: Jul 22 13:54:08 2008 GMT
+    Serial Number: 0C805AAA
+        Revocation Date: May 14 13:31:08 2009 GMT
+    Serial Number: 0CD378A0
+        Revocation Date: Aug 27 07:23:07 2008 GMT
+    Serial Number: 0CD3978F
+        Revocation Date: Aug 26 15:01:06 2008 GMT
+    Serial Number: 0D1CF96A
+        Revocation Date: Oct 21 07:06:06 2008 GMT
+    Serial Number: 0D4650A0
+        Revocation Date: Nov 24 11:40:07 2008 GMT
+    Serial Number: 0D4B721C
+        Revocation Date: Nov 27 14:30:07 2008 GMT
+    Serial Number: 0D58AAAB
+        Revocation Date: Oct  5 13:43:07 2009 GMT
+    Serial Number: 0D93C9E7
+        Revocation Date: Nov  4 14:39:08 2009 GMT
+    Serial Number: 0DBE1AB8
+        Revocation Date: Mar  3 07:20:10 2009 GMT
+    Serial Number: 0E2CA21D
+        Revocation Date: May 25 06:29:40 2009 GMT
+    Serial Number: 0EE16864
+        Revocation Date: Oct 30 06:06:07 2009 GMT
+    Serial Number: 0F33485E
+        Revocation Date: Nov 30 14:27:06 2009 GMT
+    Serial Number: 0F335358
+        Revocation Date: Dec  7 11:25:08 2009 GMT
+    Serial Number: 0F7FBF4F
+        Revocation Date: Feb  9 12:47:08 2010 GMT
+    Serial Number: 0F823AB4
+        Revocation Date: Jan 29 12:32:06 2010 GMT
+    Serial Number: 111DBC2B
+        Revocation Date: Dec  8 10:25:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        6a:12:bd:05:6f:9a:09:54:3e:f8:10:82:b5:5d:47:e9:53:7a:
+        b1:9d:51:67:89:89:47:03:1e:51:39:2b:84:b7:ae:6d:c8:12:
+        0e:eb:d5:26:7c:ed:27:65:74:4b:a8:e3:e4:89:28:bf:73:c9:
+        20:31:2a:70:d2:b8:6f:c4:9b:a4:95:5f:b5:22:11:68:d6:7a:
+        ea:d1:b6:98:48:36:0b:a0:b3:8f:ff:e7:f2:f1:ce:1f:b9:f0:
+        2c:04:c2:d3:4b:17:7b:be:5e:d4:40:42:18:3c:33:5b:28:c9:
+        3f:34:b8:f4:24:17:c2:dc:1e:cb:9d:79:b9:47:d0:11:62:e6:
+        95:83:dd:ef:f5:63:d7:93:48:94:82:e5:76:69:28:87:1f:dd:
+        65:86:98:d3:21:96:ee:67:37:fd:a1:ec:4e:17:14:57:cf:02:
+        4b:ac:26:46:b6:76:78:fe:4f:b6:65:b5:cb:57:29:55:24:82:
+        ac:29:ad:5c:fe:01:7f:f1:f5:7a:d5:03:ca:b7:3e:7b:0d:d6:
+        aa:05:a5:8f:05:91:37:38:36:3b:c6:9b:65:cb:9d:d2:52:a6:
+        9e:d4:67:3e:50:f3:1f:3e:24:40:08:52:82:3b:48:8c:c3:af:
+        cf:0c:cf:be:81:6e:fb:e1:79:5f:bc:43:32:84:ca:d8:6a:95:
+        b3:a5:39:c8
