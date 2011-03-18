@@ -1,0 +1,99 @@
+issuer=/C=JP/O=CENTRAL SECURITY PATROLS CO., LTD./CN=CSP SSL Service CA
+SHA1 Fingerprint=48:03:2D:DC:1D:5A:07:02:2F:EE:C7:56:5C:22:0F:75:59:BE:99:B4
+8481f726
+crlNumber=063E
+lastUpdate=Mar 18 05:37:50 2011 GMT
+nextUpdate=Mar 22 05:37:50 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=JP/O=CENTRAL SECURITY PATROLS CO., LTD./CN=CSP SSL Service CA
+        Last Update: Mar 18 05:37:50 2011 GMT
+        Next Update: Mar 22 05:37:50 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:57:8C:69:BB:98:C2:23:8D:53:25:76:2A:2A:92:3D:26:58:2C:4E:3D
+
+            X509v3 CRL Number: 
+                1598
+Revoked Certificates:
+    Serial Number: 32D7B313D9D3729E74911604CD02B522
+        Revocation Date: Aug  3 16:38:42 2009 GMT
+    Serial Number: 7D88AA4A191A374B6FB025426441CBBC
+        Revocation Date: Mar 11 15:59:07 2010 GMT
+    Serial Number: 717469CF43FBDA8DA72E69999D24568C
+        Revocation Date: Jun  1 15:12:27 2010 GMT
+    Serial Number: AEBC4401F8742802377BFE287D2B8037
+        Revocation Date: Jun 30 14:59:56 2010 GMT
+    Serial Number: 8FE3FF1C2A76828CC39C1740FE1686E1
+        Revocation Date: Jul  6 14:08:12 2010 GMT
+    Serial Number: 2F1D7CBBD86C6BEEECCF8B7EFA24C17E
+        Revocation Date: Sep 21 07:25:11 2010 GMT
+    Serial Number: 93ED21D839A6E238CCBD514154D43AC2
+        Revocation Date: Sep 22 09:05:33 2010 GMT
+    Serial Number: 35967691922CC8CBB565F6AEBEEB9EF4
+        Revocation Date: Sep 24 00:01:37 2010 GMT
+    Serial Number: 422CD4A51B63AF9C441DE1E13CF3AEB0
+        Revocation Date: Sep 24 00:02:27 2010 GMT
+    Serial Number: D36404519B5FB71C162065F6F5AEEC23
+        Revocation Date: Sep 28 04:31:19 2010 GMT
+    Serial Number: 0A4BFD48F6276D834639E8B6CA27E983
+        Revocation Date: Oct 28 14:59:44 2010 GMT
+    Serial Number: 651B8E7F4AC53704F55A53E3BC2FACE0
+        Revocation Date: Nov 22 01:48:32 2010 GMT
+    Serial Number: 98608C438279CE7C0CC982C2A55B9EDE
+        Revocation Date: Nov 22 01:50:54 2010 GMT
+    Serial Number: 0C88844A9E70FA1DBF885C32F8BDCED7
+        Revocation Date: Nov 22 01:51:49 2010 GMT
+    Serial Number: 95553C3D63FC53247D12823E4D493C61
+        Revocation Date: Nov 22 20:48:59 2010 GMT
+    Serial Number: ED30EB83DB16788DB2CF17164FFBFBC9
+        Revocation Date: Dec 13 19:35:52 2010 GMT
+    Serial Number: FCCAF359BF37168F0A05E050552B84B7
+        Revocation Date: Dec 22 15:55:18 2010 GMT
+    Serial Number: 7C7A75D1366CCF8AA2BAB3541B01543A
+        Revocation Date: Dec 22 16:09:36 2010 GMT
+    Serial Number: 4AB2584C2119D0BA13809F4B702B20FD
+        Revocation Date: Dec 30 21:38:12 2010 GMT
+    Serial Number: EF20C75CEE915DF83C6FAC12D78918C2
+        Revocation Date: Jan 19 19:21:07 2011 GMT
+    Serial Number: 710EF2132193DCEBFC1141B988B9DC4C
+        Revocation Date: Jan 21 22:21:21 2011 GMT
+    Serial Number: 6DFF073BCCA11CCA3F86AC5F09D21826
+        Revocation Date: Jan 26 22:35:11 2011 GMT
+    Serial Number: 35604F50D9CB8AF48DC4E66F76769922
+        Revocation Date: Feb  1 21:02:54 2011 GMT
+    Serial Number: B4D93BB95A8539E68ADC9BD50619678D
+        Revocation Date: Feb  1 21:49:17 2011 GMT
+    Serial Number: A02F517167C6115E88D2A3861F57BB3C
+        Revocation Date: Feb  1 21:52:56 2011 GMT
+    Serial Number: 0202351B976C3347C8E6E391AC3B27FE
+        Revocation Date: Feb  1 21:53:15 2011 GMT
+    Serial Number: A2C74DC62ADC5292ED60C1BEEF101247
+        Revocation Date: Feb 18 22:07:45 2011 GMT
+    Serial Number: D01A429DD72A95A0B6DD503679C74A51
+        Revocation Date: Feb 18 22:07:58 2011 GMT
+    Serial Number: 740C5283694DB17D953A1A0238E42A1C
+        Revocation Date: Feb 18 22:08:12 2011 GMT
+    Serial Number: D03AAE58F1B0F123C08A20B3DDC3D33C
+        Revocation Date: Feb 18 22:08:25 2011 GMT
+    Serial Number: 309D095685B9603594760C8FF33B3B78
+        Revocation Date: Mar  8 19:18:33 2011 GMT
+    Serial Number: 750A56D6AB5542B74D44A1EEF061D0DD
+        Revocation Date: Mar 15 20:18:08 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        04:16:2d:fb:a0:73:39:73:d4:d5:20:d8:73:15:ca:eb:56:6e:
+        57:ae:ec:83:89:96:59:3e:50:49:c0:0a:3b:75:95:43:80:c5:
+        9f:9a:2e:4d:f1:b5:66:bf:48:73:c8:ff:15:a1:1b:65:d4:1d:
+        90:fd:58:4c:f8:aa:d9:4b:a9:1c:84:ff:99:bb:57:66:19:90:
+        9c:b6:58:a5:16:56:ce:b7:00:64:72:1a:5d:e6:6e:21:bc:f8:
+        9b:83:b6:85:23:40:1b:58:a3:5c:0a:c4:0e:67:dd:19:d9:fd:
+        1e:1b:d2:71:cc:ea:64:a3:6a:13:0c:50:d1:49:8a:86:24:49:
+        c3:05:6b:a2:28:cd:54:56:91:32:56:27:de:b8:01:e7:32:cc:
+        fc:af:de:c6:77:d4:b8:c7:c8:24:56:83:df:2d:53:d1:22:d8:
+        cf:37:44:62:c1:1c:0b:41:6e:6f:73:50:48:d2:69:64:73:be:
+        03:14:c3:4a:9c:a4:9a:01:e2:aa:e7:bc:78:32:29:6b:40:d1:
+        06:d8:ec:4c:7f:50:66:e2:17:34:67:be:05:60:77:16:cc:24:
+        18:61:2d:57:1b:60:77:4c:15:fd:95:97:3e:de:f7:c2:49:b1:
+        1d:ff:33:bf:9c:4b:c6:5e:77:90:ce:c5:0b:78:bf:ee:9f:8d:
+        86:c9:85:2d
