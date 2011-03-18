@@ -1,0 +1,80 @@
+issuer=/O=Entrust.net/OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Certification Authority (2048)
+SHA1 Fingerprint=29:D7:1E:13:A0:5A:B2:0C:B2:02:FB:A7:E6:09:F4:60:32:F1:29:91
+3e7271e8
+crlNumber=044D
+lastUpdate=Mar 17 14:12:20 2011 GMT
+nextUpdate=Mar 24 14:12:20 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=Entrust.net/OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Certification Authority (2048)
+        Last Update: Mar 17 14:12:20 2011 GMT
+        Next Update: Mar 24 14:12:20 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                1101
+            X509v3 Authority Key Identifier: 
+                keyid:55:E4:81:D1:11:80:BE:D8:89:B9:08:A3:31:F9:A1:24:09:16:B9:70
+
+Revoked Certificates:
+    Serial Number: 4C0E6646
+        Revocation Date: Aug 20 13:23:27 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3863F33D
+        Revocation Date: Jan 25 20:37:28 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 3863E29B
+        Revocation Date: Jan 12 16:35:48 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3863E29A
+        Revocation Date: Jan 12 16:35:17 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3863D30B
+        Revocation Date: Feb 17 18:42:27 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3863BE3E
+        Revocation Date: Jan 25 20:37:28 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 3863BE3D
+        Revocation Date: Jan 25 20:37:28 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 3863BD20
+        Revocation Date: Feb  9 13:45:17 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3863BD1F
+        Revocation Date: Feb  8 20:21:02 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: sha1WithRSAEncryption
+        73:0e:c0:2c:19:a9:89:2c:38:81:f6:83:05:c4:c3:3c:5d:df:
+        e7:1b:2b:3e:a3:cb:36:46:69:7f:0a:59:b2:ec:27:a7:d8:96:
+        71:89:09:05:ee:20:12:86:2b:9d:e7:b5:ae:d1:8d:92:eb:9a:
+        c2:61:5b:db:b1:2f:fe:1d:98:b8:33:15:86:f2:c2:25:57:a3:
+        86:53:d4:92:d7:63:cc:91:45:d9:3a:39:6d:3a:d0:43:eb:0f:
+        f6:74:94:53:eb:9b:92:a3:fb:19:c1:de:08:dd:ab:87:2f:a2:
+        2c:36:27:11:7f:73:98:5d:3d:ee:8d:72:a5:b7:39:00:aa:ec:
+        46:2e:7b:c2:89:92:3f:8d:fd:42:95:7c:57:ac:28:62:2e:5e:
+        17:44:ad:1a:1b:47:7a:2b:c9:82:fe:2f:0a:36:04:ee:4d:1f:
+        18:20:fa:c5:be:af:6c:ad:f4:36:a8:51:35:99:55:70:18:ad:
+        61:26:28:29:80:42:d9:9c:51:21:0b:db:44:5b:98:cf:0a:e3:
+        ed:94:34:e4:5c:6c:8a:05:c0:1a:51:48:f3:08:01:34:d1:45:
+        be:c7:40:3c:1b:9b:0b:79:23:d9:f2:82:af:40:83:11:b9:d3:
+        bd:ae:02:75:e7:dc:8e:75:a8:b9:9e:2b:dd:2d:23:ce:ce:87:
+        af:26:ba:46
