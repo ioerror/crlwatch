@@ -1,0 +1,122 @@
+issuer=/C=DE/ST=Sachsen-Anhalt/L=Magdeburg/O=Hochschule Magdeburg Stendal (FH)/CN=HS Magdeburg Stendal (FH) CA - G01/emailAddress=pki@hs-magdeburg.de
+SHA1 Fingerprint=AC:98:37:EA:83:B0:21:77:EE:BD:6D:B4:A1:D6:75:21:A0:BA:8A:CF
+50909df6
+crlNumber=0113
+lastUpdate=Mar 14 08:23:25 2011 GMT
+nextUpdate=Apr 13 08:23:25 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Sachsen-Anhalt/L=Magdeburg/O=Hochschule Magdeburg Stendal (FH)/CN=HS Magdeburg Stendal (FH) CA - G01/emailAddress=pki@hs-magdeburg.de
+        Last Update: Mar 14 08:23:25 2011 GMT
+        Next Update: Apr 13 08:23:25 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                275
+Revoked Certificates:
+    Serial Number: 0A73AA95
+        Revocation Date: Feb 18 11:22:06 2010 GMT
+    Serial Number: 0A99D0F4
+        Revocation Date: Feb 10 16:52:07 2010 GMT
+    Serial Number: 0AC94E3E
+        Revocation Date: Jul 27 11:56:06 2007 GMT
+    Serial Number: 0AFDE4BE
+        Revocation Date: Sep  6 08:28:08 2007 GMT
+    Serial Number: 0AFF5784
+        Revocation Date: Sep  6 12:42:10 2007 GMT
+    Serial Number: 0AFF5789
+        Revocation Date: May 30 06:50:08 2008 GMT
+    Serial Number: 0AFF57FC
+        Revocation Date: Sep  6 12:42:08 2007 GMT
+    Serial Number: 0AFF57FE
+        Revocation Date: May 29 11:50:09 2008 GMT
+    Serial Number: 0AFF5875
+        Revocation Date: Sep  6 12:42:06 2007 GMT
+    Serial Number: 0B0615EE
+        Revocation Date: May 26 07:45:11 2008 GMT
+    Serial Number: 0B2030E4
+        Revocation Date: Apr 21 12:52:06 2009 GMT
+    Serial Number: 0B7CC26A
+        Revocation Date: May 26 07:45:12 2008 GMT
+    Serial Number: 0B86129E
+        Revocation Date: Feb 18 10:17:07 2009 GMT
+    Serial Number: 0BB56D3F
+        Revocation Date: Aug 13 09:19:07 2009 GMT
+    Serial Number: 0BB56E22
+        Revocation Date: Feb 17 13:46:06 2009 GMT
+    Serial Number: 0BB66F3E
+        Revocation Date: Aug 26 08:09:09 2009 GMT
+    Serial Number: 0BB6D045
+        Revocation Date: Jun 18 14:29:08 2009 GMT
+    Serial Number: 0BDB6CAB
+        Revocation Date: May 26 08:00:07 2008 GMT
+    Serial Number: 0BEF7D19
+        Revocation Date: May 26 08:00:08 2008 GMT
+    Serial Number: 0C0B1F2B
+        Revocation Date: May 26 08:03:06 2008 GMT
+    Serial Number: 0C36DC6F
+        Revocation Date: May 26 08:23:06 2008 GMT
+    Serial Number: 0C42779E
+        Revocation Date: Jun 12 07:04:09 2008 GMT
+    Serial Number: 0C59FCB2
+        Revocation Date: Feb 18 11:25:13 2010 GMT
+    Serial Number: 0C5A46C3
+        Revocation Date: Apr 22 12:11:06 2009 GMT
+    Serial Number: 0C5E2938
+        Revocation Date: Feb 18 10:13:06 2009 GMT
+    Serial Number: 0C5E29B1
+        Revocation Date: Sep 23 07:25:08 2008 GMT
+    Serial Number: 0C6603B3
+        Revocation Date: Jun 12 07:04:08 2008 GMT
+    Serial Number: 0D019617
+        Revocation Date: Nov 10 11:08:06 2008 GMT
+    Serial Number: 0D434247
+        Revocation Date: Mar  4 10:59:06 2009 GMT
+    Serial Number: 0D434644
+        Revocation Date: Mar 25 14:04:07 2010 GMT
+    Serial Number: 0D991AAF
+        Revocation Date: Jan 23 10:46:07 2009 GMT
+    Serial Number: 0DBCF817
+        Revocation Date: Mar 17 09:28:06 2009 GMT
+    Serial Number: 0DCDD9F8
+        Revocation Date: Jan 26 09:11:10 2010 GMT
+    Serial Number: 0DCDDAAA
+        Revocation Date: Mar  5 13:44:06 2009 GMT
+    Serial Number: 0DCF264F
+        Revocation Date: Mar  5 10:41:07 2009 GMT
+    Serial Number: 0DDEEA7B
+        Revocation Date: Mar 19 10:26:06 2009 GMT
+    Serial Number: 0DFAAB8F
+        Revocation Date: Apr  7 12:23:06 2009 GMT
+    Serial Number: 0ECDC3E0
+        Revocation Date: Oct  7 14:01:08 2009 GMT
+    Serial Number: 0F3C4B45
+        Revocation Date: Dec  8 08:33:10 2009 GMT
+    Serial Number: 0F80E010
+        Revocation Date: Jan 28 10:19:07 2010 GMT
+    Serial Number: 10074EFC
+        Revocation Date: May 11 09:15:08 2010 GMT
+    Serial Number: 10382018
+        Revocation Date: Jun 16 14:52:07 2010 GMT
+    Serial Number: 114AA085
+        Revocation Date: Jan 24 10:11:07 2011 GMT
+    Serial Number: 114E8063
+        Revocation Date: Mar  2 10:17:06 2011 GMT
+    Serial Number: 117B489C
+        Revocation Date: Feb 16 15:55:07 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        56:53:74:2c:ac:46:59:1b:99:a4:4f:bf:cc:43:97:fa:0d:0a:
+        c9:9c:0d:27:78:91:f4:fe:2e:fe:28:02:30:45:e3:8d:95:41:
+        5e:5c:22:7b:5c:e5:22:e4:c2:aa:7a:71:e9:05:34:34:e2:2b:
+        f6:b5:55:d7:48:85:ac:3e:d9:32:2b:ef:a7:80:9e:af:f3:2f:
+        f8:0f:08:00:77:44:c3:ce:ab:38:3c:a3:c2:95:76:d0:19:ec:
+        49:cf:95:53:ec:4f:0f:3b:9d:ec:cd:69:06:21:ce:ef:fc:9d:
+        4c:1e:67:c6:dc:20:0e:9d:73:e1:3e:9e:7a:77:3a:61:86:d6:
+        7d:89:3d:d9:02:b9:55:ea:b5:72:5f:e0:13:90:1a:8b:9d:5b:
+        b8:30:8e:e6:67:ba:fe:36:1f:b2:96:89:f8:f7:a2:91:39:21:
+        6a:d0:5d:51:e7:16:9f:4c:73:ac:e3:bb:85:a8:03:53:e7:f5:
+        61:70:17:e6:9e:37:55:f5:8d:af:47:72:48:2d:3c:0f:0d:c7:
+        34:e1:c3:40:41:45:a8:97:8d:4d:55:cb:14:37:a7:29:00:5a:
+        30:7e:8c:88:05:78:5f:31:ca:66:88:90:dc:66:a4:31:c2:bf:
+        96:55:84:07:22:89:a4:51:2e:88:a0:a4:ee:59:db:2c:0e:ca:
+        0a:7b:c3:d2
