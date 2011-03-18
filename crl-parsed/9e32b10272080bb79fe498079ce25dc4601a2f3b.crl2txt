@@ -1,0 +1,75 @@
+issuer=/C=KR/O=SGssl/CN=SGTRUST SGC CERTIFICATION AUTHORITY
+SHA1 Fingerprint=E5:9D:FB:58:3A:AF:FF:44:E7:B9:ED:78:10:E3:4A:5E:9D:7B:33:61
+ab6c1b19
+crlNumber=01E2
+lastUpdate=Mar 17 22:54:30 2011 GMT
+nextUpdate=Mar 21 22:54:30 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=KR/O=SGssl/CN=SGTRUST SGC CERTIFICATION AUTHORITY
+        Last Update: Mar 17 22:54:30 2011 GMT
+        Next Update: Mar 21 22:54:30 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:D3:5F:97:D2:6B:D1:A3:79:2E:1B:6E:B6:CE:8A:7C:DA:17:0E:E0:36
+
+            X509v3 CRL Number: 
+                482
+Revoked Certificates:
+    Serial Number: F85264A111B9F54E60FF1FA7C5163437
+        Revocation Date: Mar  8 22:44:08 2010 GMT
+    Serial Number: D028D4875473A8FA44F1062C0C00FE94
+        Revocation Date: Apr 19 15:56:07 2010 GMT
+    Serial Number: C858C455A6BE313C44E8B172C5A6B1C8
+        Revocation Date: May 27 15:47:38 2010 GMT
+    Serial Number: E70C9582BBA05C450F1DCB6FFB7E080C
+        Revocation Date: Jun 18 20:50:00 2010 GMT
+    Serial Number: A5913FA6FF06162E603E1ED79C39C735
+        Revocation Date: Jul  9 19:29:40 2010 GMT
+    Serial Number: 39E395AD2DCA2AED2893BB68065A74A5
+        Revocation Date: Nov 29 19:37:00 2010 GMT
+    Serial Number: 6BCC884E8A3A750F7032120C3A57B2AE
+        Revocation Date: Nov 29 19:37:13 2010 GMT
+    Serial Number: 60B90595BBDCFFBF9C51FF628C193784
+        Revocation Date: Nov 30 19:33:16 2010 GMT
+    Serial Number: 7035C7051DE53DE0C33B5C6F48747E2B
+        Revocation Date: Nov 30 19:33:34 2010 GMT
+    Serial Number: 82C1ED4DF920214F7934774E7981F83A
+        Revocation Date: Dec  6 15:45:15 2010 GMT
+    Serial Number: 8238ACE58E1517CCCA0A047053567661
+        Revocation Date: Dec  6 15:45:28 2010 GMT
+    Serial Number: 37568F4B433EFB1AA2F42DDF0089960D
+        Revocation Date: Dec  9 16:51:57 2010 GMT
+    Serial Number: C2C5B0F65D0A7AEB8F75ACAF00A67195
+        Revocation Date: Dec  9 16:52:25 2010 GMT
+    Serial Number: FAA2C774CF0036AB68D6BE97309A25D2
+        Revocation Date: Dec  9 16:52:47 2010 GMT
+    Serial Number: 0A26F4C6F079184CCA4B39EE9418E975
+        Revocation Date: Dec 23 16:16:17 2010 GMT
+    Serial Number: 018A67F7286708A6CB19D01353C2F3AA
+        Revocation Date: Dec 23 16:21:02 2010 GMT
+    Serial Number: A35C15767A230EF007C8E98969A00663
+        Revocation Date: Jan  5 16:02:41 2011 GMT
+    Serial Number: 63C08E6F333397ECCBB7D52686CADE8E
+        Revocation Date: Jan 28 20:36:41 2011 GMT
+    Serial Number: B0C516F442AA5390581D9AE0562F67FF
+        Revocation Date: Feb 21 06:24:07 2011 GMT
+    Serial Number: 5DBE88A4E0810C7F745E5734D4257A85
+        Revocation Date: Mar 15 05:18:30 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        92:07:76:fd:ed:cd:fc:b7:35:bd:e9:c5:b9:08:7d:f0:6a:a4:
+        e9:7e:78:ca:65:a3:fa:7d:08:47:c0:eb:c3:c0:b0:5b:b8:ff:
+        2c:85:db:68:d6:26:6b:2d:e6:55:c3:a6:99:4a:42:cf:0b:cd:
+        6f:29:7b:91:6f:50:a3:6e:fb:1b:6a:cf:21:1c:eb:0e:6e:36:
+        9e:35:3d:17:22:b0:e3:14:38:31:d4:c4:6b:33:ac:d4:63:87:
+        97:f8:30:81:fe:25:3e:c4:c5:71:1f:24:f0:58:46:5a:16:9d:
+        4c:b5:e5:70:a2:17:51:65:99:a0:02:b9:dc:90:91:c6:c1:6f:
+        9e:a1:7c:ae:a5:61:4a:33:69:e1:5d:62:f5:bd:ed:ed:85:6c:
+        64:df:20:ed:27:c0:0b:25:34:46:05:72:63:51:c6:db:d8:79:
+        06:0d:6a:40:49:2a:39:54:ba:05:17:98:6d:43:f5:d1:ce:ed:
+        39:8d:ad:50:9d:d9:28:d6:47:2e:7f:48:df:b2:56:e3:39:d3:
+        0f:a8:a5:ee:a5:c1:8d:0a:b7:13:53:36:00:ff:3b:14:14:b2:
+        68:fb:34:19:4f:86:ed:34:32:6f:ce:86:43:4c:6b:49:09:b7:
+        92:d2:a4:63:d2:fb:c3:24:63:8f:e5:0f:cf:74:26:cc:b9:70:
+        5a:c3:51:64
