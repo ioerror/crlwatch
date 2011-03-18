@@ -1,0 +1,39 @@
+issuer=/CN=Microsoft Secure Server Authority
+SHA1 Fingerprint=03:78:AB:4F:D7:81:EC:F6:45:B6:57:1A:C8:63:40:C5:29:8C:3F:86
+b0398940
+crlNumber=0186
+lastUpdate=Mar  7 18:37:38 2011 GMT
+nextUpdate=Apr 10 18:57:38 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /CN=Microsoft Secure Server Authority
+        Last Update: Mar  7 18:37:38 2011 GMT
+        Next Update: Apr 10 18:57:38 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:EF:CE:B3:65:F2:A3:60:69:D5:02:D8:84:02:16:CA:02:21:C5:F9:CF
+
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            X509v3 CRL Number: 
+                390
+            1.3.6.1.4.1.311.21.4: 
+                .110406184738Z
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        68:27:65:ca:3d:97:40:85:f9:a7:42:a5:56:12:61:42:aa:b7:
+        56:61:00:8d:7c:a0:1b:30:7b:36:67:0b:b9:52:e6:78:47:69:
+        36:2b:4e:eb:43:6a:5c:0d:73:35:df:a1:f8:00:56:5e:20:98:
+        85:aa:9b:71:5b:bd:e5:65:c3:2c:5c:9e:1d:83:d0:3c:05:f6:
+        1e:c3:f9:66:e2:1d:e2:7b:03:9f:ab:39:a3:6f:ab:75:0f:e8:
+        b9:95:c8:9e:dd:e9:20:a2:b2:f2:f4:78:46:e4:75:f0:c4:ba:
+        35:41:a2:fb:99:63:32:23:8c:49:4a:18:c2:5e:9c:26:d1:1e:
+        a4:0f:9d:53:2c:da:85:36:ab:04:f7:1d:1f:0f:93:87:b3:91:
+        32:8b:46:c3:62:c3:47:ee:98:0f:8d:75:6e:64:20:d3:ca:f8:
+        7d:62:ca:12:82:e7:1b:85:3e:8f:4c:82:c5:fd:ad:c5:7a:6d:
+        e6:49:0e:2e:f8:ee:17:8c:19:41:cd:ad:6d:cf:54:1e:98:82:
+        60:da:cc:52:a3:80:fa:1e:34:39:b9:6d:57:44:cc:22:78:47:
+        20:66:78:01:a1:5c:e2:b3:b5:3e:8b:9b:9d:36:09:ff:02:c8:
+        52:6d:19:0f:9f:f8:95:0f:c5:fc:a0:f3:bc:41:5f:63:c1:54:
+        b4:01:3c:0d
