@@ -1,0 +1,38 @@
+issuer=/C=DE/O=Mitteldeutscher Rundfunk/CN=MDR CA
+SHA1 Fingerprint=E3:CA:54:77:16:A8:43:47:82:C7:C1:6C:F6:88:1C:E7:FF:F4:1C:36
+db5762b0
+crlNumber=DC
+lastUpdate=Mar 14 08:49:15 2011 GMT
+nextUpdate=Apr 13 08:49:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Mitteldeutscher Rundfunk/CN=MDR CA
+        Last Update: Mar 14 08:49:15 2011 GMT
+        Next Update: Apr 13 08:49:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                220
+Revoked Certificates:
+    Serial Number: 0D54A2F3
+        Revocation Date: Apr  9 09:00:09 2009 GMT
+    Serial Number: 0DF9375F
+        Revocation Date: Apr  9 09:00:10 2009 GMT
+    Serial Number: 10EF4784
+        Revocation Date: Nov  5 10:21:31 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        44:c4:46:35:ce:97:7a:61:6b:47:71:a9:59:aa:23:e2:cd:03:
+        d9:42:8f:a7:c5:d1:69:75:08:d7:f0:fb:2e:f6:77:e9:bf:19:
+        f5:73:50:66:5d:53:f5:f0:50:4a:00:4e:b9:e6:ad:16:66:0f:
+        91:ca:18:7f:ee:bf:25:38:4f:68:56:d4:a4:25:4a:de:31:cd:
+        41:8a:c7:2d:6a:aa:5e:45:ca:2a:3a:f1:ff:3d:c0:ef:37:29:
+        c5:7e:9d:7d:38:22:16:ea:71:6b:7d:82:af:9c:2a:49:cc:b3:
+        7f:e5:16:e3:a5:52:c7:d0:24:18:76:58:9c:d5:b7:c5:87:ec:
+        13:75:60:1c:cc:1d:3d:55:0a:7f:cb:33:68:1a:12:a3:eb:7a:
+        eb:25:c3:ad:41:2c:c2:7b:ea:56:45:e6:cd:d9:89:0b:ba:a9:
+        4a:7d:f9:eb:0e:2b:77:8f:98:10:93:c0:06:a0:b5:43:a8:f6:
+        94:9f:31:24:fa:57:f3:3f:6d:bf:9a:c1:83:5b:7f:b3:06:be:
+        8e:2c:80:2b:be:f6:9e:38:76:63:83:77:f7:89:e2:b3:10:e9:
+        f7:bb:ac:4e:61:37:58:a9:95:6d:6c:63:34:cc:cb:c7:0c:eb:
+        a7:81:74:b2:d9:60:12:85:a7:64:98:41:f6:84:fe:20:c9:91:
+        af:8d:9c:62
