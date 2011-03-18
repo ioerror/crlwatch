@@ -1,0 +1,77 @@
+issuer=/C=CL/ST=Region Metropolitana/L=Santiago/O=E-CERTCHILE/OU=Autoridad Certificadora/CN=E-CERT CA/emailAddress=sclientes@ccs.cl
+SHA1 Fingerprint=0B:7E:93:F4:8D:30:4A:13:B0:85:B2:5B:BD:0C:48:4A:BA:99:1E:20
+7fb2fe0c
+crlNumber=04E9A4
+lastUpdate=May  4 22:29:00 2009 GMT
+nextUpdate=May  6 01:13:00 2009 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=CL/ST=Region Metropolitana/L=Santiago/O=E-CERTCHILE/OU=Autoridad Certificadora/CN=E-CERT CA/emailAddress=sclientes@ccs.cl
+        Last Update: May  4 22:29:00 2009 GMT
+        Next Update: May  6 01:13:00 2009 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:79:26:C4:4D:94:C4:A5:7B:90:DE:82:24:44:AB:B7:11:B3:EE:AE:F1
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                321956
+            1.3.6.1.4.1.311.21.4: 
+                .090505223900Z
+            X509v3 Freshest CRL: 
+                0..0...........ldap:///CN=E-CERT%20CA,CN=pki-ca,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=ecertpki,DC=cl?deltaRevocationList?base?objectClass=cRLDistributionPoint.6http://crl2.e-certchile.cl/certenroll/E-CERT%20CA+.crl
+            1.3.6.1.4.1.311.21.14: 
+                0..0...........ldap:///CN=E-CERT%20CA,CN=pki-ca,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=ecertpki,DC=cl?certificateRevocationList?base?objectClass=cRLDistributionPoint
+Revoked Certificates:
+    Serial Number: 2307C03300010000001A
+        Revocation Date: Jan 20 17:41:38 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 438CAA1E00010000001D
+        Revocation Date: Jan  9 13:53:39 2009 GMT
+    Serial Number: 1B43763F00010000001B
+        Revocation Date: Dec 16 13:29:47 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 30273C08000100000013
+        Revocation Date: Sep 23 20:29:50 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 1A8D3EDC00010000000A
+        Revocation Date: Sep 11 21:09:25 2008 GMT
+    Serial Number: 1A7E8043000100000009
+        Revocation Date: Sep 11 16:52:24 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                CA Compromise
+    Serial Number: 1A6A8248000100000008
+        Revocation Date: Sep 11 16:33:12 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 6150C965000100000006
+        Revocation Date: Sep 11 15:18:32 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        0e:80:bf:f3:7f:76:43:a5:f9:5a:df:6f:86:84:73:3c:9c:ba:
+        de:1c:e0:82:5d:81:b8:bb:bb:0a:85:18:b2:d0:da:ae:1b:38:
+        dd:1c:c4:8c:6b:82:d1:23:ad:1e:a7:a0:a5:78:ca:51:37:f8:
+        fe:e5:a2:c4:9f:3f:93:9f:74:02:1d:f7:d4:47:6b:a2:12:b3:
+        5a:70:8c:e4:4d:97:12:87:e5:d6:0c:82:a9:5b:27:71:f4:4e:
+        39:97:37:38:a6:7f:bf:6c:75:b3:f6:be:00:1a:90:7b:5a:44:
+        f9:7e:1c:80:6a:e0:21:3e:b9:4a:9e:d1:01:d9:c6:e7:14:da:
+        ca:01:bd:63:a3:d0:4b:58:59:eb:e6:95:39:af:23:ee:d3:ec:
+        34:31:34:1c:9e:dd:d0:28:ed:a7:ae:33:96:ca:a1:5e:a9:97:
+        07:ec:0a:ea:1f:23:af:f2:69:6b:3a:e3:e2:f1:f7:df:f7:ed:
+        16:d8:c3:29:25:52:a9:7f:f5:33:e0:72:55:a5:23:a3:ce:f8:
+        5f:02:fb:22:65:e8:dc:c4:78:d7:c3:be:a9:19:b3:48:c2:3a:
+        9e:5d:41:b9:38:ba:02:44:e9:78:83:d9:6b:6e:12:36:40:a5:
+        98:67:bd:45:7b:4f:98:87:c4:de:8e:01:e8:b6:4b:11:79:6e:
+        40:63:9f:5d
