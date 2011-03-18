@@ -1,0 +1,39 @@
+issuer=/C=FR/O=Gouv/OU=Direction Information Legale Administrative/OU=0002 13000918600011/CN=AC DILA Infra
+SHA1 Fingerprint=61:41:B4:11:A4:10:76:26:E5:76:0F:0B:E7:03:E1:C5:17:67:13:C1
+8ff50e56
+crlNumber=0D80
+lastUpdate=Mar 17 09:17:00 2011 GMT
+nextUpdate=Apr 16 09:17:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=FR/O=Gouv/OU=Direction Information Legale Administrative/OU=0002 13000918600011/CN=AC DILA Infra
+        Last Update: Mar 17 09:17:00 2011 GMT
+        Next Update: Apr 16 09:17:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:CF:61:E9:72:A3:2E:D8:28:A5:06:0A:54:A5:94:E0:21:2F:E9:F2:DB
+
+            X509v3 CRL Number: 
+                3456
+Revoked Certificates:
+    Serial Number: 6A
+        Revocation Date: Sep  9 15:41:38 2009 GMT
+    Serial Number: 6C
+        Revocation Date: Sep 11 12:05:53 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        50:9f:52:67:2e:33:5b:97:4a:0c:32:f9:7f:b3:b4:21:65:41:
+        53:17:c5:27:28:c3:a4:51:14:f2:dc:d9:19:93:5e:a1:90:66:
+        94:33:26:b1:0a:82:b0:30:48:59:c5:ea:d4:4d:c1:fe:d4:7f:
+        43:c8:fe:c6:41:1c:b7:6f:5a:6a:32:b1:38:8f:e9:01:e9:66:
+        ae:51:f5:4f:b4:ae:db:ac:c8:db:ee:02:03:83:6f:57:4e:30:
+        5d:77:d1:2d:2b:9f:12:e3:52:c4:20:af:f3:ec:51:42:48:82:
+        41:5d:44:bf:16:70:15:bd:3f:e4:bb:23:b7:96:85:8d:31:96:
+        4a:b7:f1:d6:a5:f0:15:42:45:fe:db:d7:10:6f:77:36:2a:d2:
+        99:7d:03:5a:50:72:85:c0:28:d7:d3:4d:f5:3b:42:8e:23:f6:
+        9e:d6:69:cc:ef:7c:f9:4d:a8:b6:bc:15:e6:53:bc:27:2b:70:
+        71:ae:83:e6:23:a8:0a:41:0c:db:33:d2:45:f8:a9:57:73:f7:
+        f4:f1:41:a2:6f:35:f7:06:73:b7:7d:42:55:8c:24:b4:43:6c:
+        98:8c:7a:7a:f4:9a:d6:10:9e:32:18:95:5a:ff:6f:9e:0a:d5:
+        a3:4c:90:2f:9d:fa:f9:ca:a1:cf:11:40:5b:83:9b:28:80:be:
+        8f:b0:94:45
