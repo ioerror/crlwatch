@@ -1,0 +1,36 @@
+issuer=/C=DE/ST=Nordrhein-Westfalen/L=Koeln/O=Rheinische Fachhochschule Koeln gGmbH/OU=Rechenzentrum/CN=RFH Koeln CA/emailAddress=pki@rfh-koeln.de
+SHA1 Fingerprint=15:A0:BA:FA:3D:00:64:C9:03:5B:49:17:52:6E:48:1B:BB:46:EA:15
+e622ec87
+crlNumber=B7
+lastUpdate=Mar 14 08:57:15 2011 GMT
+nextUpdate=Apr 13 08:57:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Nordrhein-Westfalen/L=Koeln/O=Rheinische Fachhochschule Koeln gGmbH/OU=Rechenzentrum/CN=RFH Koeln CA/emailAddress=pki@rfh-koeln.de
+        Last Update: Mar 14 08:57:15 2011 GMT
+        Next Update: Apr 13 08:57:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                183
+Revoked Certificates:
+    Serial Number: 108C5A98
+        Revocation Date: Aug 19 08:09:08 2010 GMT
+    Serial Number: 109C6911
+        Revocation Date: Aug 31 12:06:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        53:cb:cf:b3:4a:55:af:af:3d:85:a4:53:b6:b5:67:e5:ab:0e:
+        7b:15:38:0f:c6:c8:00:e0:2c:bf:15:5a:1f:f2:71:73:9c:e0:
+        2b:51:66:1d:d2:5c:02:be:36:d9:ef:69:a4:d9:a3:ca:3a:b7:
+        06:e4:4e:ee:41:6e:c1:40:0d:d4:bb:27:a3:c5:f2:7b:e2:6a:
+        f9:b2:ba:10:82:8d:3f:89:e2:71:be:2b:3d:ca:54:8a:c8:b8:
+        92:a3:bb:e3:cc:39:2b:2c:0c:08:99:f0:56:47:a6:e4:8f:0c:
+        90:9c:13:9c:52:35:17:11:14:93:d1:04:ff:bb:5a:1c:47:e1:
+        d7:fd:6b:98:a3:80:da:1a:f5:9f:44:93:71:aa:20:e5:c9:a3:
+        1f:83:be:9b:1e:59:16:c6:3b:af:c4:9f:88:d9:b2:9b:65:8c:
+        4b:17:ac:ce:4a:59:97:a6:62:15:a6:12:84:05:58:17:2f:e1:
+        aa:4b:f9:45:1c:b9:9a:46:3b:96:1a:87:75:07:5d:21:6b:6e:
+        8a:36:be:2a:a9:63:1b:52:95:b6:a2:e5:ed:61:61:16:73:54:
+        24:23:f6:cd:7a:2c:66:a0:4f:01:1d:70:91:54:fb:6f:6a:6b:
+        67:5b:78:ac:28:92:0d:b3:86:9f:34:cd:62:f7:60:7c:dd:a5:
+        4f:05:a9:d1
