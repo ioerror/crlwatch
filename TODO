@@ -1,0 +1,10 @@
+To get the project off of the ground, we need to do the following:
+    1) We need to crawl the entire internet for leaf and CA certificates
+    2) We need to generate a list of all CRLs discovered in the above survey
+    3) We need to randomly select CRLs and fetch all of them (w/Tor) regularly
+    4) We should parse each CRL and check the parsed and the raw CRL into git
+    5) We should analyze the data over a period of time
+
+Over time we need to repeat the first and second steps as often as is possible.
+Steps three to five should be repeated on a daily basis with differences stored
+in git or another document tracking system.
