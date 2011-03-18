@@ -1,0 +1,84 @@
+issuer=/C=DE/O=Universitaet Leipzig/OU=URZ/CN=UNIVERSITAET LEIPZIG CA/emailAddress=pki@uni-leipzig.de
+SHA1 Fingerprint=47:6F:69:2F:EF:48:D5:EF:0C:6F:A6:56:F8:08:20:64:BC:3D:DF:04
+c50f304f
+crlNumber=0136
+lastUpdate=Mar 14 15:13:11 2011 GMT
+nextUpdate=Apr 13 15:13:11 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Universitaet Leipzig/OU=URZ/CN=UNIVERSITAET LEIPZIG CA/emailAddress=pki@uni-leipzig.de
+        Last Update: Mar 14 15:13:11 2011 GMT
+        Next Update: Apr 13 15:13:11 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                310
+Revoked Certificates:
+    Serial Number: 09ED4446
+        Revocation Date: Feb 10 17:00:57 2007 GMT
+    Serial Number: 0AB2A552
+        Revocation Date: May 19 12:03:09 2008 GMT
+    Serial Number: 0BB95DB6
+        Revocation Date: May 15 11:08:09 2009 GMT
+    Serial Number: 0BB95E2D
+        Revocation Date: Feb 16 07:15:10 2010 GMT
+    Serial Number: 0BB960FE
+        Revocation Date: Mar 14 15:13:09 2011 GMT
+    Serial Number: 0BB96100
+        Revocation Date: Feb 16 07:15:11 2010 GMT
+    Serial Number: 0BEB6343
+        Revocation Date: Sep 23 14:29:08 2008 GMT
+    Serial Number: 0BEDD81E
+        Revocation Date: Jul  8 11:41:52 2008 GMT
+    Serial Number: 0C10346B
+        Revocation Date: Apr  1 11:55:21 2008 GMT
+    Serial Number: 0C1D33D8
+        Revocation Date: Mar 11 07:32:10 2010 GMT
+    Serial Number: 0CE08CE7
+        Revocation Date: Sep 23 10:17:07 2008 GMT
+    Serial Number: 0E210468
+        Revocation Date: May 14 06:55:10 2009 GMT
+    Serial Number: 0E8E3EF2
+        Revocation Date: Jul 31 10:48:07 2009 GMT
+    Serial Number: 0E9246AA
+        Revocation Date: Aug 13 11:01:10 2009 GMT
+    Serial Number: 0E9246AB
+        Revocation Date: Aug 13 11:01:11 2009 GMT
+    Serial Number: 0EFE8F5E
+        Revocation Date: Apr 15 14:06:09 2010 GMT
+    Serial Number: 0FDD4A24
+        Revocation Date: Apr 14 07:23:18 2010 GMT
+    Serial Number: 10E60A36
+        Revocation Date: Nov  2 08:09:24 2010 GMT
+    Serial Number: 10E771C8
+        Revocation Date: Nov  2 08:09:23 2010 GMT
+    Serial Number: 10EF3E9D
+        Revocation Date: Nov  2 10:31:12 2010 GMT
+    Serial Number: 110AF8EE
+        Revocation Date: Dec 14 07:01:10 2010 GMT
+    Serial Number: 110B322D
+        Revocation Date: Dec 14 07:01:11 2010 GMT
+    Serial Number: 110B322E
+        Revocation Date: Dec 14 07:03:09 2010 GMT
+    Serial Number: 114B8BE6
+        Revocation Date: Jan 12 16:15:11 2011 GMT
+    Serial Number: 114D12C4
+        Revocation Date: Feb  3 10:27:19 2011 GMT
+    Serial Number: 118AD2F3
+        Revocation Date: Mar  1 07:57:09 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        46:1f:2e:c4:bb:f0:3d:ba:de:d3:71:9d:aa:22:14:f2:9e:9b:
+        eb:ce:95:48:ea:c4:db:a9:88:b1:c9:af:97:c1:31:fb:a5:ba:
+        2f:d7:3c:c7:d5:87:3a:eb:21:0c:bf:f4:01:6b:6c:5b:3d:8c:
+        1d:c6:f5:e4:30:1e:7c:d5:e2:11:76:de:31:d1:ac:88:99:49:
+        dd:79:a6:42:ea:de:13:b6:be:e0:15:3a:d9:7b:1f:be:bd:d0:
+        72:eb:a8:b0:a4:9d:35:fd:1c:d4:e1:12:c4:91:be:a9:27:30:
+        81:27:85:32:57:f5:8a:d2:ef:b6:ee:ce:f4:b3:f5:55:f2:bb:
+        47:73:89:e8:9b:60:af:c0:09:f5:55:72:b6:30:b9:d7:b7:8a:
+        bd:69:29:d0:19:34:40:aa:b4:6b:7e:ea:a8:0a:83:61:f7:d8:
+        ba:09:ad:2d:df:7f:51:8d:70:e1:59:a1:cb:d5:4b:ff:29:70:
+        12:35:9d:2b:29:f5:13:ca:17:d9:ca:05:d5:50:cb:a5:16:1c:
+        2d:3e:74:ee:d3:c7:6c:9e:eb:59:b4:cc:0d:c1:45:12:68:ff:
+        0c:2b:2e:29:a6:6b:e9:c1:4e:fd:2c:4d:47:05:80:59:85:4b:
+        9f:8d:8f:ab:a8:d4:46:42:e0:27:3a:62:4e:99:a3:77:98:cc:
+        30:eb:bd:4e
