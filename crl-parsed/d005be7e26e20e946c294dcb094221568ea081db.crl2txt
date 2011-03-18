@@ -1,0 +1,54 @@
+issuer=/C=DE/O=Technische Universitaet Dortmund/OU=ITMC/CN=TU Dortmund CA - G01/emailAddress=ca@pki.tu-dortmund.de
+SHA1 Fingerprint=7D:BB:E9:74:6C:DF:70:56:2D:4B:1D:B4:39:E4:BD:42:32:ED:2F:49
+f85e5231
+crlNumber=A3
+lastUpdate=Mar 14 09:13:46 2011 GMT
+nextUpdate=Apr 13 09:13:46 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Technische Universitaet Dortmund/OU=ITMC/CN=TU Dortmund CA - G01/emailAddress=ca@pki.tu-dortmund.de
+        Last Update: Mar 14 09:13:46 2011 GMT
+        Next Update: Apr 13 09:13:46 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                163
+Revoked Certificates:
+    Serial Number: 0CB27859
+        Revocation Date: Feb  3 14:46:15 2010 GMT
+    Serial Number: 0CB2785B
+        Revocation Date: Feb  3 14:46:16 2010 GMT
+    Serial Number: 0DE71A08
+        Revocation Date: May  5 08:13:07 2009 GMT
+    Serial Number: 0DE71A09
+        Revocation Date: May  5 08:15:08 2009 GMT
+    Serial Number: 0DFC277C
+        Revocation Date: May  5 08:13:08 2009 GMT
+    Serial Number: 0DFC277D
+        Revocation Date: May  5 08:15:09 2009 GMT
+    Serial Number: 0E1E40C8
+        Revocation Date: May  5 08:28:07 2009 GMT
+    Serial Number: 0F1CD9B2
+        Revocation Date: Feb  3 14:48:08 2010 GMT
+    Serial Number: 0FE3B208
+        Revocation Date: Apr 22 09:13:28 2010 GMT
+    Serial Number: 1015CA90
+        Revocation Date: May 21 11:55:11 2010 GMT
+    Serial Number: 112AAF2E
+        Revocation Date: Jan 27 10:37:18 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        41:a4:35:2c:bc:95:1d:c6:97:22:d5:a7:a2:7a:03:2b:8d:57:
+        1f:ce:14:a2:55:f2:12:ab:a8:d0:19:a6:0a:56:bc:95:13:8e:
+        6e:56:c0:d2:10:cc:82:3b:f7:82:89:39:c9:a6:a8:80:3d:4c:
+        66:45:a2:26:0f:d1:d3:c1:8a:34:af:fb:33:55:12:a1:c5:a6:
+        5e:8b:16:df:f4:1b:21:fb:01:35:50:88:45:05:32:98:6d:02:
+        d1:33:66:be:fc:7c:f4:18:c9:98:6b:1c:87:12:a6:3e:1b:01:
+        b9:3f:be:88:21:87:c4:b7:4e:53:26:6d:09:b4:04:db:9a:23:
+        5f:0f:1c:d1:f4:47:a5:59:82:0d:3d:c0:3a:e1:ab:f6:03:34:
+        8e:af:59:84:94:c5:0e:01:46:dd:ce:a7:1c:2f:33:5b:d0:2a:
+        5d:17:77:6e:26:70:dc:2b:ae:7a:88:3c:9a:98:f0:d0:05:84:
+        d2:03:f3:64:58:1c:08:01:b0:df:50:f6:16:a7:fb:bc:ab:41:
+        cf:f5:ab:95:85:a0:c5:39:2e:45:87:8a:55:6a:7c:d1:29:46:
+        9f:a0:6d:91:2a:a2:d6:c1:97:9d:26:3c:fd:e3:37:cc:c3:f3:
+        d1:ed:2b:28:66:00:e7:a2:79:31:75:d0:ee:b9:54:50:15:cf:
+        0b:18:40:ce
