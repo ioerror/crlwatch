@@ -1,0 +1,43 @@
+issuer=/C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA
+SHA1 Fingerprint=10:8A:48:3B:68:1C:AE:B8:99:9F:2B:E7:C4:DE:D4:99:C2:14:0A:CE
+813b441f
+crlNumber=4190
+lastUpdate=Mar 18 08:23:00 2011 GMT
+nextUpdate=Mar 28 08:23:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=GeoTrust Inc./OU=Domain Validated SSL/CN=GeoTrust DV SSL CA
+        Last Update: Mar 18 08:23:00 2011 GMT
+        Next Update: Mar 28 08:23:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:8C:F4:D9:93:0A:47:BC:00:A0:4A:CE:4B:75:6E:A0:B6:B0:B2:7E:FC
+
+            X509v3 CRL Number: 
+                16784
+Revoked Certificates:
+    Serial Number: 57FE
+        Revocation Date: Dec  7 22:26:03 2010 GMT
+    Serial Number: 0858
+        Revocation Date: Jul 29 21:59:31 2010 GMT
+    Serial Number: 0724
+        Revocation Date: Nov 29 22:34:18 2010 GMT
+    Serial Number: BF15
+        Revocation Date: Nov 26 13:08:56 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        92:44:c3:57:1b:72:36:47:e2:de:b3:55:f9:cb:78:52:45:63:
+        84:e1:1d:5d:f8:b8:37:d4:98:4d:72:23:5b:0a:ef:b4:0c:54:
+        d6:61:e6:3a:dc:bc:d2:37:a9:39:c0:1e:96:6f:d6:aa:21:a5:
+        a7:b8:9c:59:c1:48:e7:8c:22:a6:49:4b:d8:47:fa:de:36:f8:
+        71:6b:6b:a4:2e:2b:20:b6:a0:55:d7:57:62:3b:74:c8:71:92:
+        08:48:bd:7f:94:7a:3b:e0:d8:3b:99:fc:59:a0:36:11:81:84:
+        ad:c6:18:85:9d:0c:9b:cb:b4:fc:20:5d:9b:5b:3e:cc:80:6d:
+        93:e4:ad:e6:6f:91:cc:db:77:49:54:80:04:5f:4c:78:48:27:
+        b8:78:b7:8b:1f:11:c9:72:52:0b:81:03:71:a8:f3:70:c8:b4:
+        e9:bc:d7:51:52:92:6d:28:92:1a:cd:5d:1c:90:c5:2d:e5:76:
+        44:da:a4:65:1a:91:e4:c6:da:6a:75:70:fc:77:1b:72:f9:3d:
+        73:5c:00:cc:96:5f:e1:cf:ee:ff:c9:5b:07:fd:33:62:a3:b1:
+        17:c4:c4:9d:d2:3f:12:92:2c:ff:63:6b:fa:db:ab:9f:ab:7d:
+        f4:0e:35:16:02:21:c1:65:32:92:8d:cb:86:0c:f5:7b:17:28:
+        56:d6:76:70
