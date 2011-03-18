@@ -1,0 +1,47 @@
+issuer=/O=RSA Security Inc/OU=RSA Security 2048 V3
+SHA1 Fingerprint=E3:CE:A4:F9:0F:6C:BA:25:63:1A:53:84:DD:20:91:EC:44:40:44:B2
+8470719d
+crlNumber=1B
+lastUpdate=Feb 23 20:07:23 2011 GMT
+nextUpdate=Aug 22 20:07:24 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=RSA Security Inc/OU=RSA Security 2048 V3
+        Last Update: Feb 23 20:07:23 2011 GMT
+        Next Update: Aug 22 20:07:24 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:07:C3:51:30:A4:AA:E9:45:AE:35:24:FA:FF:24:2C:33:D0:B1:9D:8C
+
+            X509v3 CRL Number: 
+                27
+Revoked Certificates:
+    Serial Number: 06CC425190B26C1962E833E9610F9397
+        Revocation Date: Nov 12 15:06:02 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Nov 12 15:05:15 2010 GMT
+    Serial Number: D97DCC6F39ED36E400B58C326A29D6A5
+        Revocation Date: Oct 31 20:39:08 2006 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Oct 31 20:38:36 2006 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        0e:1d:91:de:10:ae:9a:ff:a1:3f:60:1a:4b:ea:70:f7:2b:dd:
+        c0:12:0d:81:d2:6e:05:c0:b0:f9:7a:ea:59:48:0f:69:57:91:
+        cb:aa:21:57:5b:6e:24:36:53:a0:4b:c7:8e:60:1c:94:3c:9d:
+        e4:34:3e:58:e5:91:56:33:1d:b5:2e:76:1f:4b:56:00:95:b3:
+        4b:ba:a3:44:80:74:43:39:e5:74:8c:a2:32:64:0b:d5:6e:73:
+        00:18:75:23:ac:89:2d:d8:3b:a3:1c:ba:7a:8a:d5:59:3c:19:
+        bc:a6:d1:07:fc:83:4a:82:01:fb:d0:95:1f:38:d2:69:ce:41:
+        4c:34:f9:b0:17:85:5b:2c:e2:37:e2:6b:8f:be:8d:d8:fe:4f:
+        9e:c3:d9:3e:24:ee:9d:2a:c6:d0:7b:18:a8:5a:80:0d:75:fd:
+        45:34:f7:0c:aa:50:ab:e2:ca:df:f6:de:05:c3:22:04:5d:11:
+        6f:ff:6f:95:e8:d0:93:ca:b5:6f:63:2a:2c:9e:f4:ce:91:43:
+        d1:75:3a:ce:10:c5:b6:09:8e:a8:1f:cc:0d:1b:09:4a:8b:5a:
+        d2:7f:2c:6f:7d:06:8b:0f:5c:cd:ef:79:18:60:93:71:02:bb:
+        a5:3d:10:59:de:1a:5a:0a:2f:8b:2f:43:b2:e7:ce:e8:58:66:
+        1b:41:b8:c4
