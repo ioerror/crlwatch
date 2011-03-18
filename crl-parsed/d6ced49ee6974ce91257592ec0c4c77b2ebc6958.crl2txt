@@ -1,0 +1,38 @@
+issuer=/C=DE/ST=Baden-Wuerttemberg/L=Stuttgart/O=Staatliche Hochschule f. Musik u. Darstellende Kunst Stuttgart/CN=MH Stuttgart CA/emailAddress=ca@mh-stuttgart.de
+SHA1 Fingerprint=4A:95:F0:96:DB:24:F4:BD:17:48:14:37:19:90:3E:F3:DF:EF:04:72
+fe1e0c36
+crlNumber=DD
+lastUpdate=Mar 14 08:48:07 2011 GMT
+nextUpdate=Apr 13 08:48:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Baden-Wuerttemberg/L=Stuttgart/O=Staatliche Hochschule f. Musik u. Darstellende Kunst Stuttgart/CN=MH Stuttgart CA/emailAddress=ca@mh-stuttgart.de
+        Last Update: Mar 14 08:48:07 2011 GMT
+        Next Update: Apr 13 08:48:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                221
+Revoked Certificates:
+    Serial Number: 0AB1BFE3
+        Revocation Date: Aug 13 14:56:09 2007 GMT
+    Serial Number: 0ACD6758
+        Revocation Date: Aug 13 15:08:07 2007 GMT
+    Serial Number: 101C5388
+        Revocation Date: Oct 11 12:39:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        01:ef:cc:a0:12:34:16:6a:0d:34:46:0d:3c:fc:9b:40:d8:22:
+        1b:42:16:50:37:65:88:17:29:cc:1c:8d:f0:3e:f7:3a:6c:6e:
+        b6:0c:a6:75:c8:79:71:14:35:97:71:4f:06:95:f3:d6:c0:2d:
+        86:c0:3b:de:26:a7:ae:79:46:59:eb:13:f0:40:2a:bc:ee:d4:
+        37:88:78:58:e8:90:6c:e3:c6:f9:46:a7:02:5b:ab:c4:54:38:
+        94:a1:9c:d6:1e:f4:dc:b4:55:b5:5f:74:d1:cf:9a:f3:b5:41:
+        77:32:1e:ae:95:4a:9f:83:81:b6:a0:04:c4:3b:96:8d:2d:6f:
+        20:90:85:d4:19:92:8b:c6:df:84:cc:61:43:18:a6:59:3a:d3:
+        6b:18:67:69:61:a6:85:a1:23:58:0a:26:41:91:ef:0a:64:04:
+        e6:5d:04:a1:ec:90:35:a2:ca:12:d9:45:e5:ac:c5:e0:3a:78:
+        d1:ea:2f:ab:cb:7f:96:c9:2e:43:0b:b9:16:10:8a:af:cf:10:
+        c8:e0:a5:40:36:ed:65:c5:3d:cd:b2:68:a0:5f:e4:4f:5c:8a:
+        20:eb:2b:76:79:49:14:a9:58:bd:f3:78:69:a3:f8:d0:17:5a:
+        02:40:38:8d:ec:9e:81:06:24:cb:20:00:15:36:78:14:65:ac:
+        2c:e6:c2:c4
