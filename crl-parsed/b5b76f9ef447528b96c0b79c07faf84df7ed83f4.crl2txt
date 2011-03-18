@@ -1,0 +1,37 @@
+issuer=/C=US/O=First Data Corporation/OU=Certification Authorities/OU=First Data Root CA
+SHA1 Fingerprint=C9:3C:7C:32:95:C2:FD:2B:55:4E:B0:9D:84:B5:39:60:4C:F1:21:09
+a9d7f437
+crlNumber=05
+lastUpdate=Jun  8 13:32:44 2010 GMT
+nextUpdate=Jun  8 13:32:44 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=First Data Corporation/OU=Certification Authorities/OU=First Data Root CA
+        Last Update: Jun  8 13:32:44 2010 GMT
+        Next Update: Jun  8 13:32:44 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                5
+            X509v3 Authority Key Identifier: 
+                keyid:0B:13:3E:55:0F:7F:7E:37:DA:7A:65:42:4C:87:2B:C7:C8:85:CB:38
+
+Revoked Certificates:
+    Serial Number: 492AD280
+        Revocation Date: Jun  8 12:22:26 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        1e:63:42:5c:26:f9:61:9a:74:b5:64:70:31:40:9b:13:53:c2:
+        d0:7e:71:26:47:4a:d0:06:68:3f:cb:e5:f2:8d:8d:4e:4b:96:
+        26:cd:d8:7c:1a:cf:76:56:80:7f:be:75:9d:5c:5f:bd:f5:34:
+        5c:30:33:cd:01:27:2f:0c:88:df:59:bc:ba:6e:0b:48:67:13:
+        d0:46:08:28:b7:aa:a9:1d:1d:18:ab:8a:af:f8:7d:c3:8b:fb:
+        9b:84:7d:63:11:47:69:38:34:aa:9e:82:73:a4:14:77:03:da:
+        8f:24:83:37:df:0d:d7:fe:3c:e5:34:c1:52:e5:6b:03:ac:50:
+        06:fd:ae:5a:9e:ed:2f:2b:52:a9:d2:eb:82:3f:8f:ae:f5:c1:
+        3a:db:4b:19:12:cd:8e:de:21:12:20:4f:02:b4:d5:58:64:46:
+        65:bf:32:43:fe:51:97:08:78:6e:7c:d2:76:af:68:23:c1:a0:
+        6f:fa:ef:93:22:84:f1:d9:fc:46:23:11:9c:b1:02:4c:8e:b2:
+        3b:7c:ae:12:ca:90:e4:b3:a7:c3:65:8f:d3:e1:0c:1d:bc:5e:
+        c8:56:b5:e8:01:32:5d:5f:6a:d2:14:a2:66:f1:ba:dd:00:61:
+        72:2f:c9:9c:5e:28:57:74:71:51:a4:e6:67:5a:d3:74:7e:9e:
+        d3:01:de:18
