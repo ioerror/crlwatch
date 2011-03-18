@@ -1,0 +1,40 @@
+issuer=/C=DE/ST=Bayern/L=Muenchen/O=Hochschule Muenchen/CN=Hochschule Muenchen CA/emailAddress=dfn-ca@hm.edu
+SHA1 Fingerprint=29:C6:5C:C2:35:FB:28:30:C6:CB:29:EB:7E:E6:79:F9:E7:6D:13:1E
+c8d306bb
+crlNumber=BA
+lastUpdate=Mar 17 17:57:10 2011 GMT
+nextUpdate=Apr 16 17:57:10 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Muenchen/O=Hochschule Muenchen/CN=Hochschule Muenchen CA/emailAddress=dfn-ca@hm.edu
+        Last Update: Mar 17 17:57:10 2011 GMT
+        Next Update: Apr 16 17:57:10 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                186
+Revoked Certificates:
+    Serial Number: 0C526D00
+        Revocation Date: Jun  4 15:46:07 2008 GMT
+    Serial Number: 0C5272A0
+        Revocation Date: Jun  4 15:46:09 2008 GMT
+    Serial Number: 0CDC8132
+        Revocation Date: Sep  3 08:44:08 2008 GMT
+    Serial Number: 0F3F732A
+        Revocation Date: Mar 17 17:57:08 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        1c:e0:e9:c0:16:56:12:4b:97:65:db:80:5f:7f:82:fa:54:59:
+        9e:56:97:8c:6a:ef:23:02:dc:45:0b:92:67:ed:90:67:5e:8e:
+        35:3c:ef:63:82:3c:8e:a6:63:0c:e2:f3:61:c9:4a:97:a4:53:
+        b2:57:d6:00:9d:87:91:68:8b:30:78:09:a1:60:da:e9:d9:a1:
+        6a:3e:51:18:59:fc:89:53:1b:eb:17:12:3a:4e:6f:23:df:7e:
+        97:f2:f6:50:a8:11:00:fe:51:26:e2:7e:3b:3d:da:d0:06:71:
+        9a:38:cf:9a:52:77:a5:a6:61:fe:c7:bc:56:76:b2:6c:30:5e:
+        08:e5:bc:e0:d1:3c:bd:9d:ac:1d:a5:a8:e0:c5:81:1f:95:75:
+        72:95:01:af:c9:6a:87:18:a8:4a:2d:0b:d4:7e:d5:f4:37:e5:
+        b3:55:38:21:be:68:c4:c4:8c:db:49:23:c3:98:7a:5a:b9:c4:
+        2a:bb:60:9c:39:98:3f:3a:bd:80:29:22:01:52:6b:a6:9a:70:
+        3a:3b:61:f1:60:28:16:d1:9a:15:98:8e:45:bd:93:1a:e8:38:
+        69:fe:5d:b9:26:01:67:70:21:a4:d2:2b:99:b3:56:62:21:e0:
+        f7:e9:01:b7:f1:98:19:11:33:e5:8f:86:ab:6b:13:ee:26:db:
+        91:aa:2f:85
