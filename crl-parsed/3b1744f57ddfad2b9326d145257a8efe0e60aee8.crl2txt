@@ -1,0 +1,62 @@
+issuer=/C=DE/ST=Bayern/L=Muenchen/O=Ludwig-Maximilians-Universitaet Muenchen/CN=LMU-CA/emailAddress=pki@lmu.de
+SHA1 Fingerprint=01:8F:A7:B4:88:A1:8F:C3:48:E5:2A:E3:6C:28:22:99:51:44:3A:3F
+7ece279c
+crlNumber=F3
+lastUpdate=Mar 14 09:38:09 2011 GMT
+nextUpdate=Apr 13 09:38:09 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Muenchen/O=Ludwig-Maximilians-Universitaet Muenchen/CN=LMU-CA/emailAddress=pki@lmu.de
+        Last Update: Mar 14 09:38:09 2011 GMT
+        Next Update: Apr 13 09:38:09 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                243
+Revoked Certificates:
+    Serial Number: 0B206388
+        Revocation Date: Oct 12 11:04:07 2007 GMT
+    Serial Number: 0B20638B
+        Revocation Date: Oct 12 11:07:06 2007 GMT
+    Serial Number: 0BBE9136
+        Revocation Date: Jun 26 09:40:08 2008 GMT
+    Serial Number: 0BBE913A
+        Revocation Date: Jun 26 09:40:10 2008 GMT
+    Serial Number: 0BE2517C
+        Revocation Date: May 23 14:25:55 2008 GMT
+    Serial Number: 0BE2517E
+        Revocation Date: May 23 14:25:56 2008 GMT
+    Serial Number: 0BE251CC
+        Revocation Date: May 23 14:25:57 2008 GMT
+    Serial Number: 0BE251CF
+        Revocation Date: May 23 14:27:08 2008 GMT
+    Serial Number: 0BE25280
+        Revocation Date: May 23 14:27:09 2008 GMT
+    Serial Number: 0BE25283
+        Revocation Date: May 23 14:25:53 2008 GMT
+    Serial Number: 0BF0A2B6
+        Revocation Date: Mar 31 11:36:14 2008 GMT
+    Serial Number: 0C65ED6C
+        Revocation Date: Apr 14 14:40:10 2010 GMT
+    Serial Number: 0EB5F626
+        Revocation Date: Nov  3 11:51:24 2010 GMT
+    Serial Number: 108B3349
+        Revocation Date: Aug 18 11:09:08 2010 GMT
+    Serial Number: 10FCC2EF
+        Revocation Date: Nov 24 13:53:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        69:51:f6:52:b0:df:4c:48:3e:bc:e6:b6:05:f0:05:07:4c:cf:
+        70:05:d2:a3:6a:c5:fd:48:de:7b:1e:7d:3a:e0:ed:5f:8c:5c:
+        75:d5:70:18:5d:0c:45:67:60:47:7f:f2:e5:c2:52:2e:7b:f7:
+        65:1a:bc:92:97:71:cd:ec:a7:5e:a8:20:0c:f3:1f:95:36:4d:
+        00:d7:3e:8c:25:e5:6c:c0:ad:a9:2d:6a:fc:a6:fb:83:aa:af:
+        33:49:67:7d:10:57:db:0f:06:d0:ae:80:a9:69:33:83:7b:81:
+        03:a2:35:00:cd:28:d4:8f:a6:73:4d:f1:c9:9e:b8:1e:73:78:
+        86:19:78:cf:56:ac:5a:01:e5:27:3d:28:c1:b1:8b:17:a4:98:
+        ed:d5:76:41:1d:6a:f1:2a:c3:b1:d8:4f:47:2f:fd:f9:ef:9c:
+        15:04:21:41:ed:bf:ab:b1:53:0c:81:94:24:42:0d:60:79:f7:
+        72:18:87:25:47:da:3c:40:30:ac:12:4c:32:c7:4f:84:78:f6:
+        61:cd:07:fb:30:cd:b7:03:39:65:91:56:3e:3a:cb:dc:78:8f:
+        d2:04:18:08:59:5c:0d:a3:6c:2c:ab:a2:af:5d:38:3e:34:31:
+        2f:52:f0:8f:3f:a8:25:4e:ce:a6:3e:5e:da:98:17:0f:58:e7:
+        1c:fa:60:de
