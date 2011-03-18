@@ -1,0 +1,51 @@
+issuer=/C=ES/O=FNMT-RCM/OU=AC RAIZ FNMT-RCM
+SHA1 Fingerprint=1A:BA:92:1F:9E:C6:F1:BD:42:D0:96:DD:3A:6F:A9:AF:6E:2A:08:7B
+b936d1c6
+crlNumber=0A
+lastUpdate=Oct  6 08:48:51 2010 GMT
+nextUpdate=Apr  4 08:48:51 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/O=FNMT-RCM/OU=AC RAIZ FNMT-RCM
+        Last Update: Oct  6 08:48:51 2010 GMT
+        Next Update: Apr  4 08:48:51 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                10
+            X509v3 Authority Key Identifier: 
+                keyid:F7:7D:C5:FD:C4:E8:9A:1B:77:64:A7:F5:1D:A0:CC:BF:87:60:9A:6D
+
+            X509v3 Issuing Distrubution Point: critical
+                0...........ldap://ldapfnmt.cert.fnmt.es/CN=CRL,OU=AC%20RAIZ%20FNMT-RCM,O=FNMT-RCM,C=ES?authorityRevocationList;binary?base?objectclass=cRLDistributionPoint.+http://www.cert.fnmt.es/crls/ARLFNMTRCM.crl...
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        51:b5:2e:1c:a2:0c:a0:f5:29:10:f7:69:55:02:54:1d:00:98:
+        61:f5:15:7a:3c:8c:f7:27:db:9a:01:68:43:01:e5:b8:32:1b:
+        1f:05:4e:b1:f5:44:74:e6:48:24:0b:6e:8e:31:e1:34:db:04:
+        c6:5f:d7:db:9c:42:02:30:ac:fa:7d:0e:ea:e4:b5:f2:78:32:
+        76:e6:c4:a1:90:0a:a3:ec:e1:02:01:59:c3:c1:0d:68:90:3b:
+        ff:8c:48:2a:ad:64:ee:49:d1:89:4d:ab:ee:bb:f4:95:ea:d6:
+        b4:9b:bf:f6:a2:4a:fb:67:51:df:92:98:02:40:41:ac:b0:13:
+        d0:cd:39:c9:0d:f2:a4:43:c4:d4:a0:97:1d:ab:4c:b5:bd:98:
+        8e:7c:30:17:42:90:5f:de:2c:e4:4b:1b:ca:ec:06:ba:19:49:
+        e7:40:18:97:95:0f:f8:a2:52:72:7a:e5:9d:87:23:37:e5:f4:
+        61:81:a3:52:0c:13:cf:31:49:fc:93:57:62:bf:a2:ba:44:ab:
+        b5:e2:d2:57:34:a3:01:12:eb:04:91:de:42:0d:44:d3:7a:99:
+        58:30:c5:30:e2:98:90:19:80:79:73:a2:5b:cc:43:56:be:ea:
+        e6:f9:3e:a5:70:1c:97:0a:aa:c7:74:0c:e7:ff:06:52:70:4a:
+        79:a5:e7:32:bb:55:6b:2c:4e:f7:99:f9:de:f3:22:bd:84:e9:
+        4b:e3:79:64:6f:bf:f9:86:6c:5a:d3:f8:27:87:96:7d:9e:2b:
+        d4:63:39:82:51:a5:90:7a:47:a6:b9:07:63:bf:75:d5:7f:6e:
+        e9:a6:4e:0e:fc:6b:93:95:c4:74:6f:42:bd:d6:5f:16:3e:41:
+        4d:8c:62:6a:d0:2d:46:a3:2d:fa:c6:92:a3:3c:bd:33:4f:15:
+        69:5c:8d:70:ed:7a:d4:bc:f9:f0:af:fc:0f:0e:5d:ce:43:02:
+        9e:78:db:08:10:9e:ef:39:d4:a6:26:be:eb:30:c9:79:a9:34:
+        47:c8:13:12:e5:cd:ae:43:af:57:b1:da:3c:b2:61:34:23:82:
+        29:7d:6e:64:d2:eb:59:4e:0d:a9:a4:7e:2a:00:b7:de:ac:0b:
+        36:86:6f:6b:52:fd:a7:c1:9b:2c:b1:de:65:52:db:84:df:d8:
+        6a:89:cb:bd:b5:a6:51:85:f5:23:e3:8d:62:20:85:a0:bf:73:
+        9f:c7:40:72:e0:a8:e2:62:fe:a5:d9:8b:9f:04:3d:04:3c:25:
+        e3:cc:33:d8:74:db:d1:55:94:b6:ab:fb:70:5a:f6:a0:91:b8:
+        e6:48:33:fe:02:be:2e:87:71:22:3d:6e:17:72:e6:eb:d0:04:
+        50:73:1d:6c:5a:d6:a1:1c
