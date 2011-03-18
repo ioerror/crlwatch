@@ -1,0 +1,44 @@
+issuer=/C=DE/ST=Baden-Wuerttemberg/L=Schwaebisch Gmuend/O=Paedagogische Hochschule Schwaebisch Gmuend/OU=MIZ/CN=PH Schwaebisch Gmuend CA/emailAddress=ra@ph-gmuend.de
+SHA1 Fingerprint=99:B6:CC:60:38:5D:39:B2:8D:31:1B:35:A4:CA:A2:F5:B3:B3:5E:23
+69d21b68
+crlNumber=69
+lastUpdate=Mar 14 08:56:08 2011 GMT
+nextUpdate=Apr 13 08:56:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Baden-Wuerttemberg/L=Schwaebisch Gmuend/O=Paedagogische Hochschule Schwaebisch Gmuend/OU=MIZ/CN=PH Schwaebisch Gmuend CA/emailAddress=ra@ph-gmuend.de
+        Last Update: Mar 14 08:56:08 2011 GMT
+        Next Update: Apr 13 08:56:08 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                105
+Revoked Certificates:
+    Serial Number: 0EE979F0
+        Revocation Date: Aug 17 11:14:26 2010 GMT
+    Serial Number: 0EEE73CF
+        Revocation Date: Oct  9 10:39:09 2009 GMT
+    Serial Number: 0EEE92B4
+        Revocation Date: Aug 16 07:21:29 2010 GMT
+    Serial Number: 0F93AED4
+        Revocation Date: Feb 23 10:33:15 2010 GMT
+    Serial Number: 0F93AED5
+        Revocation Date: Feb 23 09:59:09 2010 GMT
+    Serial Number: 10886AE6
+        Revocation Date: Aug 17 11:14:27 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        7e:1d:ba:ae:60:51:6a:26:db:3d:9c:4d:9a:12:00:76:94:2e:
+        4e:75:92:3f:00:da:6c:b5:78:42:c3:76:2b:1d:46:a5:73:62:
+        65:fa:5d:92:23:fb:8e:43:cb:79:d6:75:b1:da:2c:d4:ae:8a:
+        15:52:74:0a:4f:46:9e:4b:f8:6e:6f:58:b9:22:63:c5:b3:84:
+        12:62:82:a1:43:86:ba:4d:4e:b8:d0:43:e6:74:81:4a:5a:83:
+        27:5d:74:ef:52:6f:be:0a:82:a5:3a:91:4f:ec:c2:24:62:df:
+        ce:d9:90:f3:b0:c1:e4:5a:15:75:6a:ec:5c:fe:13:42:20:a7:
+        f4:da:15:87:c8:c0:af:5e:d1:5c:9b:db:4d:ab:3d:3e:6f:1b:
+        15:3b:39:40:52:b0:2f:33:bc:c1:17:71:b3:04:cb:0c:92:ad:
+        ca:48:87:7f:b0:cc:e5:67:07:1d:37:77:f5:18:07:36:c4:d2:
+        42:a1:f0:1e:e6:24:44:9d:ab:6c:a0:89:aa:61:38:4e:6d:88:
+        07:2a:81:2d:5b:fd:e3:dd:a2:48:35:d5:d5:3c:84:38:a1:92:
+        f4:e8:e2:f5:ca:ec:50:40:16:7d:20:61:4f:d5:68:e3:a7:20:
+        d4:dd:b8:04:e7:e6:0a:e3:53:84:12:85:76:13:7e:ca:dd:e8:
+        fd:07:89:86
