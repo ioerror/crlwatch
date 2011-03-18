@@ -1,0 +1,42 @@
+issuer=/CN=ComSign CA/O=ComSign/C=IL
+SHA1 Fingerprint=85:B3:35:C5:4C:2E:32:AF:F0:89:4E:EC:1C:ED:14:77:E1:06:F3:02
+ff588423
+crlNumber=0F
+lastUpdate=Nov  1 13:00:24 2010 GMT
+nextUpdate=May  3 13:00:24 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /CN=ComSign CA/O=ComSign/C=IL
+        Last Update: Nov  1 13:00:24 2010 GMT
+        Next Update: May  3 13:00:24 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:4B:01:9B:3E:56:1A:65:36:76:CB:7B:97:AA:92:05:EE:32:E7:28:31
+
+            X509v3 CRL Number: 
+                15
+Revoked Certificates:
+    Serial Number: A67CFFB29F33A10A94C1A502910CCBEF
+        Revocation Date: Jan 14 14:18:51 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Jan 14 14:17:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        ba:d7:26:48:0a:4b:c5:ad:f5:af:a5:9a:2f:86:97:d9:68:ce:
+        fe:8b:12:18:fa:24:62:5f:f8:3b:c1:83:98:2e:aa:ff:37:78:
+        76:d1:5b:4c:d9:3f:ed:91:51:b4:95:3b:3b:75:19:5d:0c:29:
+        7b:36:36:d4:ac:ac:c5:bb:10:40:82:fd:df:25:39:c3:69:20:
+        e7:f6:37:70:11:cc:fe:fe:45:15:74:60:b7:c5:0d:6d:eb:04:
+        84:cb:66:c3:07:a7:1e:1f:78:2b:22:1e:25:e6:a9:cd:d0:c5:
+        e3:fd:93:13:c2:25:46:d4:14:32:ec:94:ba:3d:22:81:7d:ec:
+        a2:1e:b4:68:76:cd:5f:58:9c:27:2e:61:81:da:c6:b6:d5:32:
+        03:81:fd:a2:c3:00:43:0d:c1:16:f1:8a:db:d1:b0:fb:71:c4:
+        eb:f4:70:e8:da:48:60:f4:4d:42:9f:83:39:40:c0:53:9e:3b:
+        45:86:14:80:bf:42:9b:9b:5c:72:a2:e1:85:39:5b:18:0e:c3:
+        d4:fa:4b:e6:71:89:f9:b9:79:c8:1e:77:90:c3:26:7c:bd:e0:
+        20:bd:11:a9:b5:75:f2:24:94:e1:1d:02:76:c4:5c:f4:9e:12:
+        91:59:6b:c0:d7:9c:b0:88:2a:8b:4f:10:4c:99:58:86:27:97:
+        50:14:54:37
