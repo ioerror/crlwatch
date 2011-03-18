@@ -1,0 +1,43 @@
+issuer=/DC=com/DC=guidant/DC=ad/CN=GDT-EntSubCA-Public
+SHA1 Fingerprint=B0:A6:DE:61:DA:6D:85:17:5E:B5:FA:B5:CC:BC:7D:64:FD:29:2B:50
+8c23a054
+crlNumber=0BD0
+lastUpdate=Mar 15 17:31:19 2011 GMT
+nextUpdate=Mar 23 05:51:19 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=com/DC=guidant/DC=ad/CN=GDT-EntSubCA-Public
+        Last Update: Mar 15 17:31:19 2011 GMT
+        Next Update: Mar 23 05:51:19 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:67:CF:BB:48:65:31:55:6D:8F:48:75:1F:14:81:15:26:88:64:0F:B1
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                3024
+            1.3.6.1.4.1.311.21.4: 
+                .110322174119Z
+            X509v3 Freshest CRL: 
+                0...0.........8http://gdtsrv01.guidant.com/PKI/GDT-EntSubCA-Public+.crl...ldap:///CN=GDT-EntSubCA-Public,CN=gdteca02,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=ad,DC=guidant,DC=com?deltaRevocationList?base?objectClass=cRLDistributionPoint
+            1.3.6.1.4.1.311.21.14: 
+                0..0...........ldap:///CN=GDT-EntSubCA-Public,CN=gdteca02,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=ad,DC=guidant,DC=com?certificateRevocationList?base?objectClass=cRLDistributionPoint
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        58:a5:9d:73:a6:68:b7:5a:d3:f5:32:4f:f8:aa:63:31:45:a4:
+        6b:f3:71:67:a1:82:33:30:87:69:92:3f:19:21:22:5f:ac:6a:
+        d1:e0:7d:1a:38:ce:f1:0b:5f:ab:98:bd:28:14:f4:fb:f0:1b:
+        ff:df:0f:6d:a6:27:6f:7d:65:8c:9f:0b:58:12:d2:42:90:dd:
+        f2:60:a5:13:e3:47:bf:a2:21:b3:b7:6e:59:e0:43:02:75:2d:
+        9f:62:d8:fa:f3:aa:68:3b:d3:c3:c7:81:3d:2c:92:f9:84:fb:
+        51:94:ad:4c:1b:fe:ec:5f:f4:1b:07:2e:7f:68:4c:e0:62:00:
+        82:92:a0:03:5f:73:85:fc:19:62:c2:7e:8b:0d:d0:0e:44:43:
+        00:b1:92:91:b9:2a:4c:44:76:57:b9:16:67:bc:c6:13:57:73:
+        75:81:52:a8:30:cd:a3:e8:c2:31:41:02:cf:a5:c1:68:59:cd:
+        d5:a8:d3:27:9a:88:5c:22:99:70:4e:2d:71:77:3c:6c:9d:ac:
+        54:f3:db:0c:2c:36:e0:95:bd:28:ef:f5:04:8e:37:2e:d5:15:
+        ec:70:a9:4b:43:6f:2d:c4:a2:18:8c:7a:72:fe:19:58:9b:c3:
+        80:06:d8:eb:04:7c:63:47:7a:37:67:73:25:7e:1f:e3:af:fe:
+        f5:07:a2:f1
