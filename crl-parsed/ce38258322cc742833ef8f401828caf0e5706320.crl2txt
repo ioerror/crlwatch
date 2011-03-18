@@ -1,0 +1,105 @@
+issuer=/C=US/O=First Data Corporation/OU=Certification Authorities/OU=First Data Corporate CA
+SHA1 Fingerprint=79:77:E4:5F:EC:B7:A8:6D:85:7F:04:4C:4B:A2:AA:A6:EA:39:57:D9
+54044d31
+crlNumber=0C40
+lastUpdate=Mar 18 05:17:32 2011 GMT
+nextUpdate=Mar 21 05:17:32 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=First Data Corporation/OU=Certification Authorities/OU=First Data Corporate CA
+        Last Update: Mar 18 05:17:32 2011 GMT
+        Next Update: Mar 21 05:17:32 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                3136
+            X509v3 Authority Key Identifier: 
+                keyid:39:BD:57:8A:43:69:F0:19:CB:F2:9B:81:64:1C:9A:D7:F0:04:7A:79
+
+Revoked Certificates:
+    Serial Number: 492C520E
+        Revocation Date: Dec  2 17:07:58 2010 GMT
+    Serial Number: 492C520D
+        Revocation Date: Dec  2 17:07:58 2010 GMT
+    Serial Number: 492C4B35
+        Revocation Date: Sep 17 15:03:54 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 492C4B34
+        Revocation Date: Sep 17 15:03:54 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 492C3D7A
+        Revocation Date: Mar 31 16:26:29 2009 GMT
+    Serial Number: 492C3D79
+        Revocation Date: Mar 31 16:26:29 2009 GMT
+    Serial Number: 492C3D78
+        Revocation Date: Mar 31 16:21:28 2009 GMT
+    Serial Number: 492C3D77
+        Revocation Date: Mar 31 16:21:28 2009 GMT
+    Serial Number: 492C3D76
+        Revocation Date: Mar 31 16:19:58 2009 GMT
+    Serial Number: 492C3D75
+        Revocation Date: Mar 31 16:19:58 2009 GMT
+    Serial Number: 492C3D74
+        Revocation Date: Mar 31 16:13:02 2009 GMT
+    Serial Number: 492C3D73
+        Revocation Date: Mar 31 16:13:02 2009 GMT
+    Serial Number: 492C3D72
+        Revocation Date: Mar 31 16:07:23 2009 GMT
+    Serial Number: 492C3D71
+        Revocation Date: Mar 31 16:07:23 2009 GMT
+    Serial Number: 492C3D2F
+        Revocation Date: Mar 27 20:27:15 2009 GMT
+    Serial Number: 492C3D2E
+        Revocation Date: Mar 27 20:27:15 2009 GMT
+    Serial Number: 492C3D2A
+        Revocation Date: Mar 27 20:02:54 2009 GMT
+    Serial Number: 492C3D29
+        Revocation Date: Mar 27 20:02:54 2009 GMT
+    Serial Number: 492C3D16
+        Revocation Date: Mar 27 18:23:55 2009 GMT
+    Serial Number: 492C3D15
+        Revocation Date: Mar 27 18:23:55 2009 GMT
+    Serial Number: 492C3D14
+        Revocation Date: Mar 27 16:14:46 2009 GMT
+    Serial Number: 492C3D13
+        Revocation Date: Mar 27 16:14:46 2009 GMT
+    Serial Number: 492C3A6A
+        Revocation Date: Aug 25 21:15:56 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 492C3A69
+        Revocation Date: Aug 25 21:15:55 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 492C3205
+        Revocation Date: Feb 26 14:32:05 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 492C3204
+        Revocation Date: Feb 26 14:32:06 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Signature Algorithm: sha1WithRSAEncryption
+        02:a9:0c:ce:de:5e:70:3c:15:f9:79:b5:cd:38:46:7e:10:8c:
+        20:6f:7d:c6:35:51:3c:1f:08:d9:7f:2b:29:af:f0:1c:aa:31:
+        fa:ae:22:fa:ed:c1:c0:fa:68:2d:c5:38:5e:eb:93:67:41:3d:
+        6c:e9:52:9f:20:ff:2d:06:7c:44:d6:1f:0b:d4:4d:e9:f1:e4:
+        39:62:49:6f:91:b3:1d:13:0c:3d:0c:47:fa:ea:bb:e2:17:43:
+        30:fd:bd:7c:a6:4b:84:b6:96:85:34:48:9d:03:31:a0:47:b1:
+        35:47:73:2b:c3:bb:fe:1a:97:3a:a1:f3:e0:8d:26:38:0d:67:
+        fd:43:5d:21:be:3b:92:69:e0:d1:3f:13:87:95:ed:90:94:c9:
+        51:62:23:59:97:83:4c:95:f4:11:26:f9:95:98:f4:54:b3:ec:
+        28:1a:2a:d5:3a:83:9b:c7:ec:5e:28:a2:3b:6d:a6:e0:d1:74:
+        ac:7f:be:87:f0:ea:29:12:30:e0:63:a2:f5:a1:ca:cd:f2:6c:
+        f4:01:a7:bf:f9:eb:04:dd:01:99:b4:6a:98:e6:b6:a3:ab:8f:
+        f8:d0:d9:f4:56:ef:bd:e7:b8:53:39:b5:c8:98:be:a0:36:a8:
+        15:2a:8a:1f:a7:1f:bf:11:f6:0e:1e:fa:39:e4:e4:b1:94:9e:
+        a7:ab:5a:60
