@@ -1,0 +1,54 @@
+issuer=/C=ES/O=Agencia Catalana de Certificacio (NIF Q-0801176-I)/OU=Serveis Publics de Certificacio/OU=Vegeu https://www.catcert.net/verarrel (c)03/OU=Jerarquia Entitats de Certificacio Catalanes/CN=EC-ACC
+SHA1 Fingerprint=DF:9A:9E:2B:9E:83:33:B4:22:1A:1A:FA:55:2C:A2:BA:0D:E2:BE:6E
+aeb67534
+crlNumber=09
+lastUpdate=Mar 10 12:40:09 2011 GMT
+nextUpdate=Mar 10 12:40:09 2016 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=ES/O=Agencia Catalana de Certificacio (NIF Q-0801176-I)/OU=Serveis Publics de Certificacio/OU=Vegeu https://www.catcert.net/verarrel (c)03/OU=Jerarquia Entitats de Certificacio Catalanes/CN=EC-ACC
+        Last Update: Mar 10 12:40:09 2011 GMT
+        Next Update: Mar 10 12:40:09 2016 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                9
+            X509v3 Authority Key Identifier: 
+                keyid:A0:C3:8B:44:AA:37:A5:45:BF:97:80:5A:D1:F1:78:A2:9B:E9:5D:8D
+                DirName:/C=ES/O=Agencia Catalana de Certificacio (NIF Q-0801176-I)/OU=Serveis Publics de Certificacio/OU=Vegeu https://www.catcert.net/verarrel (c)03/OU=Jerarquia Entitats de Certificacio Catalanes/CN=EC-ACC
+                serial:11:D4:C2:14:2B:DE:21:EB:57:9D:53:FB:0C:22:3B:FF
+
+            X509v3 Issuing Distrubution Point: 
+                0W.U.S.'http://epscd.catcert.net/crl/ec-acc.crl.(http://epscd2.catcert.net/crl/ec-acc.crl
+Revoked Certificates:
+    Serial Number: 4EB36670F9251D5F4CBC659495136C6B
+        Revocation Date: Oct 18 15:21:44 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 07123F6608F052484D401102532BF48C
+        Revocation Date: Mar 10 12:40:09 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 24D082BB3FE16BAE4D4010CC15BEC847
+        Revocation Date: Mar 10 12:40:09 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: sha1WithRSAEncryption
+        7d:29:d7:6e:8c:a0:93:6a:c2:ce:18:1d:cc:bb:0f:56:0b:11:
+        59:73:a0:39:45:b2:ac:1e:57:84:bd:3b:be:a1:82:bf:31:b8:
+        9f:40:dd:20:74:1c:9b:95:fa:d8:7b:b6:09:0c:99:b9:55:47:
+        a1:02:f1:9a:9d:e7:9e:c1:e3:97:d5:f9:61:59:ae:70:b5:e4:
+        56:22:e2:db:a0:0f:55:e7:c1:3e:62:75:8f:63:05:0f:49:39:
+        53:37:01:96:3e:54:6c:c7:3d:2d:be:17:04:93:e3:60:ed:6e:
+        f9:00:25:b9:ea:2f:f9:72:00:8d:3b:a7:38:0d:ff:bd:23:0f:
+        62:55:63:8e:19:84:32:de:73:22:5f:29:1a:de:24:42:f8:9d:
+        3c:ae:5e:34:3d:81:03:2d:2a:e1:03:cd:c3:22:67:78:5e:ad:
+        87:86:ac:a7:b8:fb:80:73:12:96:d9:07:8e:2e:4e:dc:c0:aa:
+        31:34:e0:15:41:82:5e:ee:01:5b:ff:83:1c:2f:f0:12:69:8c:
+        a9:9a:1c:24:4f:f1:ef:89:08:28:1c:5d:04:93:9d:23:67:c4:
+        59:6e:5c:f8:3f:48:81:2b:53:6d:38:62:b7:a8:dc:85:c2:65:
+        4d:d6:f0:e3:0e:b8:ef:e3:63:41:95:be:52:1a:e2:b1:fb:49:
+        47:6b:aa:3e
