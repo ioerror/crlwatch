@@ -1,0 +1,37 @@
+issuer=/C=BR/O=ICP-Brasil/CN=Autoridade Certificadora SERPRO v2
+SHA1 Fingerprint=25:23:97:09:A2:F4:A0:14:BE:25:58:BB:3E:7F:6A:D0:BB:15:9D:72
+d84c3d89
+crlNumber=13
+lastUpdate=Feb 11 18:54:55 2011 GMT
+nextUpdate=Mar 28 18:54:55 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=BR/O=ICP-Brasil/CN=Autoridade Certificadora SERPRO v2
+        Last Update: Feb 11 18:54:55 2011 GMT
+        Next Update: Mar 28 18:54:55 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:1D:57:1E:BF:88:58:B2:7E:18:28:F8:C0:93:54:85:CB:12:69:29:0C
+
+            X509v3 CRL Number: 
+                19
+Revoked Certificates:
+    Serial Number: 01
+        Revocation Date: Mar 12 13:34:59 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        01:3b:4a:08:1e:e7:3c:73:e4:fb:41:2b:9d:2b:91:e8:6a:ae:
+        2f:e5:9d:2c:1a:66:cd:a2:b3:cf:e1:46:8d:3d:a3:f4:33:36:
+        eb:74:2e:d7:b2:a9:9c:ee:59:07:2f:46:4a:5d:52:0c:8a:aa:
+        cc:30:b2:71:14:1c:a0:b4:92:a0:36:45:60:a7:b1:a3:86:5c:
+        2b:7a:39:13:d0:e3:b7:ce:d6:6b:08:69:2a:55:b6:bf:9a:18:
+        47:26:96:a4:c4:d1:a4:96:8e:98:e7:f7:f6:3c:f0:68:51:0b:
+        9f:0a:13:c7:5d:ff:5a:34:7d:7e:25:b8:b3:b5:d0:9f:fa:22:
+        90:b7:c6:f2:98:1f:1b:00:3a:0f:73:d4:60:c4:e3:4e:72:ce:
+        7a:51:4e:56:b3:0a:48:86:09:d0:ca:e2:49:a0:e8:82:cd:b5:
+        c9:7d:0b:9a:7a:c8:ff:20:48:cd:8a:f8:37:9b:4e:f4:5c:21:
+        f9:69:36:6c:a1:a7:70:d8:85:a0:9f:cd:bf:a6:b4:92:9c:b7:
+        98:23:b1:cc:8b:e5:2d:51:a5:6d:85:9d:f9:f5:4b:8e:42:b0:
+        22:94:7c:f2:dd:d7:cb:6c:70:4b:78:50:89:11:bd:e3:df:00:
+        27:a0:6d:32:2f:84:a5:ec:e2:56:0b:f1:25:dd:03:2b:27:e3:
+        66:05:70:4b
