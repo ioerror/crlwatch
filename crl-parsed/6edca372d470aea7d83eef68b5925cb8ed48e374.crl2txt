@@ -1,0 +1,34 @@
+issuer=/C=DE/ST=Brandenburg/L=Wildau/O=Technische Hochschule Wildau/OU=Hochschulrechenzentrum/CN=TH Wildau CA/emailAddress=pki@tfh-wildau.de
+SHA1 Fingerprint=71:CA:FD:D4:E7:7A:CC:B4:8E:02:10:0E:E5:01:E3:B7:35:6A:9E:7F
+2429e9ef
+crlNumber=2C
+lastUpdate=Mar 14 09:08:08 2011 GMT
+nextUpdate=Apr 13 09:08:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Brandenburg/L=Wildau/O=Technische Hochschule Wildau/OU=Hochschulrechenzentrum/CN=TH Wildau CA/emailAddress=pki@tfh-wildau.de
+        Last Update: Mar 14 09:08:08 2011 GMT
+        Next Update: Apr 13 09:08:08 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                44
+Revoked Certificates:
+    Serial Number: 1043FCE6
+        Revocation Date: Jun 25 10:40:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        64:d7:32:ee:38:df:1c:c1:5a:16:d8:e2:99:7a:3e:dd:8f:28:
+        76:25:9e:35:72:2a:0d:62:d7:fa:69:15:29:eb:78:bc:24:fa:
+        14:88:a6:9b:75:91:d9:a3:13:6f:b5:ad:2e:c3:53:23:2b:d9:
+        c5:d4:7c:2c:6a:dc:0e:d4:1c:d4:dc:02:3f:9e:28:43:26:3a:
+        7a:94:f8:f8:1b:d6:9a:97:8b:34:e0:df:0d:2f:3a:16:c1:a9:
+        13:45:43:27:b8:1d:6d:44:29:95:28:e8:05:df:d2:d7:d2:6e:
+        39:6e:4b:89:9e:6f:fb:d9:08:2d:e3:6f:8c:4a:0a:52:03:48:
+        7d:1b:75:c8:74:0c:72:81:40:93:98:8e:c6:74:88:ec:d5:00:
+        7a:3f:fe:0f:c9:d0:50:11:59:e9:43:d2:91:26:d5:10:c2:aa:
+        d1:39:32:19:77:d5:88:28:28:40:66:54:6f:8b:4b:61:af:02:
+        a6:0c:e3:52:a9:65:bd:7c:86:89:83:7e:e5:1c:f5:bb:9b:bd:
+        75:23:f4:29:a0:f0:d6:a5:2c:d7:40:7c:cc:9d:01:91:83:1b:
+        d4:92:61:7f:c3:ea:bc:00:f3:64:2c:9f:8b:7b:0a:cc:0a:fd:
+        6a:a7:d0:59:c9:ee:73:c7:e3:8d:cb:08:8c:c5:39:06:53:2d:
+        1a:43:be:70
