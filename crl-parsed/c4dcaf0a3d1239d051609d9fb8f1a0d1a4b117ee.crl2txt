@@ -1,0 +1,45 @@
+issuer=/O=Mortgage and Settlement Service Trust CA
+SHA1 Fingerprint=0F:91:C2:E0:75:0B:F2:35:94:0A:40:67:D1:E8:05:85:9C:ED:75:8F
+71c37223
+crlNumber=D085
+lastUpdate=Dec  3 16:37:33 2010 GMT
+nextUpdate=Dec 10 16:37:34 2010 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=Mortgage and Settlement Service Trust CA
+        Last Update: Dec  3 16:37:33 2010 GMT
+        Next Update: Dec 10 16:37:34 2010 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:F8:E3:B9:C3:35:45:74:AA:17:30:9E:2C:93:93:2F:A0:3E:2F:40:82
+
+            X509v3 CRL Number: 
+                53381
+Revoked Certificates:
+    Serial Number: B1CA8F4B11F1087D9E87E191AB2F5F5E
+        Revocation Date: Jun 10 20:31:37 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun 10 20:31:16 2009 GMT
+    Serial Number: DFED7791870E6A893A6997828EDB7548
+        Revocation Date: Jun  8 19:33:48 2009 GMT
+        CRL entry extensions:
+            Invalidity Date: 
+                Jun  8 19:33:33 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        2b:f1:89:c2:1b:f9:6a:a6:00:f5:a5:74:77:2d:a0:9e:09:92:
+        d7:03:6c:f7:2c:e1:fd:1c:be:d6:f3:69:ae:97:cb:5e:cb:93:
+        58:9a:d8:28:5f:24:70:6c:4b:1d:c5:6d:21:a6:b4:fd:10:23:
+        40:b0:45:51:6b:c8:75:f2:a6:c8:d6:dc:e7:20:20:ed:a6:27:
+        6c:d9:e2:a7:0c:b3:5a:ef:e3:92:2d:d7:58:1a:12:27:5e:ed:
+        5f:f7:1b:47:f3:18:62:7d:15:25:5a:a2:b5:a5:03:bb:b9:58:
+        f3:01:95:d4:a4:14:f1:c8:b3:0b:18:34:3f:33:35:61:01:5a:
+        e4:3b:5b:fb:00:f4:59:2b:bc:a9:b2:a2:3d:47:fe:ea:49:dd:
+        b5:19:4b:52:f8:63:5a:d5:be:17:1d:b2:f6:dc:96:71:e8:2e:
+        d3:84:9e:a6:ae:79:4b:a7:aa:90:6e:64:bc:d5:e8:74:ec:51:
+        af:e4:59:4c:dc:c0:3e:88:35:b8:47:c5:ee:c3:39:46:f9:78:
+        57:11:ef:b0:45:ee:20:c6:f4:ca:27:ad:a6:18:31:63:ae:50:
+        70:81:27:36:cc:25:6b:76:aa:b3:6b:0b:ee:2c:eb:30:65:7d:
+        77:4c:23:3d:15:af:38:7c:04:f8:23:22:e5:38:cd:40:0f:0b:
+        80:7e:58:72
