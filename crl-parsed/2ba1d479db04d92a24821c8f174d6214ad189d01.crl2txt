@@ -1,0 +1,55 @@
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global CA
+SHA1 Fingerprint=4B:34:5E:C9:6E:F3:1F:F4:25:88:0E:1E:1E:56:2A:35:A5:B6:8B:62
+ab90c32b
+crlNumber=000242
+lastUpdate=Mar 18 06:20:18 2011 GMT
+nextUpdate=Mar 25 06:20:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global CA
+        Last Update: Mar 18 06:20:18 2011 GMT
+        Next Update: Mar 25 06:20:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:A7:C7:13:A0:7A:01:3C:9D:EF:82:48:82:48:D5:73:51:B6:12:56:2A
+
+            X509v3 CRL Number: 
+                578
+Revoked Certificates:
+    Serial Number: 0F26987DCA474F2F9311C7B61FFD4402
+        Revocation Date: Oct 28 20:01:04 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0E8ED116C61B416E9D30655D466F8B8D
+        Revocation Date: Jun 24 16:51:10 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0B2F228504924CDB95E9D22F69FCCE42
+        Revocation Date: Jul 11 14:41:55 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 055F99C587AE4C21AC1D862C19CF48EB
+        Revocation Date: Aug  8 17:12:14 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        b2:d2:d7:09:41:d2:53:12:f1:ab:c8:1b:00:3d:21:27:53:0e:
+        54:7a:69:5d:ca:55:9c:3f:1a:2a:96:e9:20:19:58:a3:c4:67:
+        52:99:7f:25:8d:c3:be:27:e7:01:0b:28:02:08:ac:dc:e8:04:
+        76:59:8e:39:c2:f9:73:78:6d:5b:3a:40:95:88:df:28:a2:ce:
+        2c:7b:ea:75:f8:2b:a6:9f:97:25:9c:b9:9d:2e:47:d1:a7:2f:
+        14:84:5a:09:ac:81:8c:dd:b4:31:2a:d4:9f:00:57:c9:a4:55:
+        a0:08:26:3b:c1:ae:ad:b0:ed:1d:a2:10:10:6e:0d:af:6e:ce:
+        22:1a:f0:c0:07:53:41:04:99:c0:d9:90:2c:01:33:ee:c0:9a:
+        a9:f4:62:94:6a:b9:b5:c3:e6:f9:0e:8b:86:cf:c2:7c:7e:17:
+        9b:e8:94:2f:ae:8c:25:a2:eb:ae:8b:1e:09:3b:36:53:e3:62:
+        18:9a:7b:70:36:5a:71:57:7f:d5:9c:72:50:c5:14:ab:4b:34:
+        67:c9:cf:bb:b0:c1:b0:41:5a:ae:a5:09:0b:34:43:66:f9:c3:
+        ab:14:85:52:cb:db:b9:f7:84:6c:98:0f:5c:29:0c:f3:45:3f:
+        ec:21:0f:b2:dc:22:7b:8b:09:0b:f9:67:7d:59:50:ee:8b:1d:
+        8b:fc:be:2b
