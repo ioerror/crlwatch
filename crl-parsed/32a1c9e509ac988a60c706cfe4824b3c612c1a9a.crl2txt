@@ -1,0 +1,52 @@
+issuer=/C=DE/ST=Berlin/L=Berlin/O=Technische Fachhochschule Berlin/OU=Hochschulrechenzentrum/CN=TFH Berlin CA/emailAddress=pki@tfh-berlin.de
+SHA1 Fingerprint=09:56:97:7E:F8:B6:83:4B:FB:22:80:36:0B:3A:27:6C:7F:58:FC:1A
+dc7831dd
+crlNumber=DE
+lastUpdate=Mar 14 09:06:16 2011 GMT
+nextUpdate=Apr 13 09:06:16 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Berlin/L=Berlin/O=Technische Fachhochschule Berlin/OU=Hochschulrechenzentrum/CN=TFH Berlin CA/emailAddress=pki@tfh-berlin.de
+        Last Update: Mar 14 09:06:16 2011 GMT
+        Next Update: Apr 13 09:06:16 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                222
+Revoked Certificates:
+    Serial Number: 0B820A21
+        Revocation Date: Jun 10 09:27:09 2008 GMT
+    Serial Number: 0B85FE3B
+        Revocation Date: May 30 09:33:24 2008 GMT
+    Serial Number: 0B886F17
+        Revocation Date: May 30 09:34:09 2008 GMT
+    Serial Number: 0C2BF633
+        Revocation Date: Jun 12 12:30:58 2008 GMT
+    Serial Number: 0C2BF723
+        Revocation Date: Jun 12 12:31:08 2008 GMT
+    Serial Number: 0C2D5D0D
+        Revocation Date: May 30 11:38:03 2008 GMT
+    Serial Number: 0C2D5D44
+        Revocation Date: May 30 11:29:06 2008 GMT
+    Serial Number: 0C2D5DBE
+        Revocation Date: May 30 11:27:07 2008 GMT
+    Serial Number: 0C2D716C
+        Revocation Date: Jun 12 12:31:19 2008 GMT
+    Serial Number: 0C2D7EE9
+        Revocation Date: May 30 11:25:07 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        4d:1f:b8:38:a3:9e:8e:ee:b3:fc:dc:4a:c0:6d:21:c6:06:0b:
+        dd:5d:f1:cd:31:20:67:92:dc:81:8c:66:79:bb:16:5d:6d:ac:
+        e9:c3:8e:6f:ba:f3:ab:9d:42:01:91:04:a0:4d:f5:19:80:74:
+        62:d4:e8:07:8e:99:e9:fd:c8:ad:85:64:f6:bd:9b:85:f8:85:
+        73:3f:e9:24:61:73:8b:15:49:4d:c2:10:08:aa:6f:af:ca:f8:
+        e9:aa:a9:78:a0:da:88:5f:93:bd:a4:b1:d4:75:75:b2:01:cf:
+        6e:27:35:27:61:a1:a8:35:83:4f:52:09:9d:54:e9:b3:79:64:
+        92:19:c1:17:c5:30:1f:26:1a:17:6b:34:ca:c5:4e:6a:d1:c1:
+        67:90:14:4d:79:d9:3c:cd:62:93:64:e5:d7:65:0e:7f:7d:e2:
+        66:13:13:10:69:ea:82:78:9e:36:7d:41:5e:16:cc:c7:19:2e:
+        d3:e1:da:65:b8:69:51:36:2a:aa:70:77:7f:2f:9a:04:3b:24:
+        84:5a:f4:1e:35:b2:17:89:d4:23:91:7f:ac:fd:30:3b:26:da:
+        68:8e:30:87:8c:fe:ec:fe:ef:b6:80:db:7b:62:bb:94:65:fa:
+        a5:fa:8e:ee:57:19:9f:3e:14:9a:31:f7:65:90:a8:3b:37:a9:
+        b1:4f:14:24
