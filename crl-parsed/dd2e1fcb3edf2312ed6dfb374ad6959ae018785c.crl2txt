@@ -1,0 +1,36 @@
+issuer=/C=DE/O=Deutsches Institut fuer Wirtschaftsforschung e.V. (DIW Berlin)/OU=IT/CN=DIW Berlin CA/emailAddress=diw-ca@diw.de
+SHA1 Fingerprint=8B:D7:62:18:66:16:F1:93:B3:C3:93:78:7F:60:F9:66:B4:CA:D7:D2
+4d85bf26
+crlNumber=6E
+lastUpdate=Mar 14 07:28:07 2011 GMT
+nextUpdate=Apr 13 07:28:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Deutsches Institut fuer Wirtschaftsforschung e.V. (DIW Berlin)/OU=IT/CN=DIW Berlin CA/emailAddress=diw-ca@diw.de
+        Last Update: Mar 14 07:28:07 2011 GMT
+        Next Update: Apr 13 07:28:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                110
+Revoked Certificates:
+    Serial Number: 0F1B6A28
+        Revocation Date: Jul 13 11:49:07 2010 GMT
+    Serial Number: 118EC853
+        Revocation Date: Mar  7 08:59:08 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        29:e9:d3:53:ae:f1:d6:13:63:fb:f4:ee:ff:3b:f1:5a:7b:ba:
+        0f:c8:0f:63:9f:68:59:db:09:35:8a:87:b6:cd:6c:e1:77:0f:
+        f6:3a:86:7e:b7:28:6c:89:28:d8:7c:41:a2:9f:58:3e:53:84:
+        e4:63:82:dc:3a:9f:4b:58:d1:3f:41:f4:77:26:15:81:2b:ff:
+        68:f1:7b:bc:f4:27:81:f5:3c:1e:76:0c:73:b0:27:c0:4e:a2:
+        61:47:59:46:d7:f1:c0:17:63:a0:01:18:35:3c:c3:59:11:97:
+        6e:11:cc:00:2f:7b:57:91:92:09:5d:47:91:d7:d7:a2:dc:bb:
+        a2:10:81:86:3f:28:2a:24:6d:9d:30:7d:80:f8:a8:50:59:7e:
+        ab:93:9d:da:25:a3:29:2b:5f:ae:66:99:6d:b4:1b:95:40:0d:
+        5c:d2:0d:e0:50:4f:3e:33:02:e3:bf:d5:e4:e7:11:12:f7:4a:
+        b8:85:46:6d:ec:ee:73:0f:6f:64:32:c7:fc:1a:fd:db:51:a2:
+        a2:87:1a:6e:3c:0b:8b:10:b0:55:75:1a:5e:59:68:b6:29:03:
+        b2:90:f1:04:83:a2:c9:3f:3c:69:d5:b9:44:3e:13:62:c8:a5:
+        dc:2d:16:c5:30:53:fd:7d:e1:c8:d9:23:f0:99:b2:0a:a6:dd:
+        3e:a5:9b:78
