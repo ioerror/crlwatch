@@ -1,0 +1,60 @@
+issuer=/C=DE/O=Universitaet Kassel/OU=Hochschulrechenzentrum/CN=Uni Kassel Certification Authority (UniKassel-CA) - G02/emailAddress=ca@uni-kassel.de
+SHA1 Fingerprint=A7:7C:2E:9A:F2:B8:CF:96:10:7B:C0:68:0A:4D:FC:29:CB:10:B2:E2
+1c3fe9c7
+crlNumber=010F
+lastUpdate=Mar 14 09:33:18 2011 GMT
+nextUpdate=Apr 13 09:33:18 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Universitaet Kassel/OU=Hochschulrechenzentrum/CN=Uni Kassel Certification Authority (UniKassel-CA) - G02/emailAddress=ca@uni-kassel.de
+        Last Update: Mar 14 09:33:18 2011 GMT
+        Next Update: Apr 13 09:33:18 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                271
+Revoked Certificates:
+    Serial Number: 09FBB6BB
+        Revocation Date: Jun 26 15:01:34 2007 GMT
+    Serial Number: 0A7F8373
+        Revocation Date: May 30 10:30:09 2008 GMT
+    Serial Number: 0AC57385
+        Revocation Date: May 30 10:32:07 2008 GMT
+    Serial Number: 0AC57387
+        Revocation Date: May 30 10:32:09 2008 GMT
+    Serial Number: 0AE37136
+        Revocation Date: May 30 10:34:10 2008 GMT
+    Serial Number: 0B170C6F
+        Revocation Date: May 30 10:34:08 2008 GMT
+    Serial Number: 0B4E3857
+        Revocation Date: May 30 10:30:08 2008 GMT
+    Serial Number: 0BB56A34
+        Revocation Date: May 30 10:36:07 2008 GMT
+    Serial Number: 0BC002D0
+        Revocation Date: May 30 10:37:08 2008 GMT
+    Serial Number: 0C2FF206
+        Revocation Date: May 30 10:38:36 2008 GMT
+    Serial Number: 0C42318E
+        Revocation Date: May 30 10:34:09 2008 GMT
+    Serial Number: 0D8EB9D0
+        Revocation Date: Jan 19 06:30:11 2009 GMT
+    Serial Number: 0DB105F9
+        Revocation Date: Feb 11 11:45:15 2009 GMT
+    Serial Number: 0DB21613
+        Revocation Date: Feb 19 12:12:08 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        b2:b4:7d:4c:e4:9c:3a:26:2f:98:a0:0d:0a:27:50:a9:4c:2b:
+        32:a4:f4:aa:d3:a8:5b:25:96:fc:0e:d1:c3:a9:f2:9d:84:00:
+        6c:de:ff:66:41:11:70:ce:ed:35:28:66:43:7a:34:2d:90:e8:
+        77:21:39:72:54:bc:49:d0:5f:16:fc:0a:92:ea:ee:3c:0b:f6:
+        a6:24:0b:e2:9e:a5:11:f6:06:a9:cd:6a:dd:30:04:6c:f5:31:
+        f5:d8:16:e2:36:4c:06:ec:0e:57:27:8a:ec:9d:ea:39:11:0f:
+        82:57:1f:3c:3d:48:4f:e5:47:33:75:1d:7f:12:ac:51:76:7a:
+        81:4c:4e:94:61:62:4c:22:cc:91:db:2d:d8:8d:ee:28:ce:e8:
+        48:db:7c:c8:78:5d:9a:ec:a9:6e:bc:28:bf:d7:a8:ae:08:28:
+        28:a7:6e:d6:cc:d8:0f:a3:b7:78:c3:16:d5:96:3f:d2:14:6f:
+        82:8e:15:29:77:8b:57:4e:f4:22:e5:9c:34:02:12:56:54:0b:
+        2f:bf:00:f5:47:3c:0f:17:30:e3:3e:65:d0:7e:47:2b:da:aa:
+        fa:a1:12:7e:49:05:c1:5d:ad:98:6d:83:2f:41:b3:39:4d:5b:
+        06:af:9e:d3:ca:52:f6:63:21:6d:37:3f:21:6f:f0:d6:e5:63:
+        e2:9d:51:52
