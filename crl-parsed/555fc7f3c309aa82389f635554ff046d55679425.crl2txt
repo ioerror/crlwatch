@@ -1,0 +1,36 @@
+issuer=/C=DE/O=BESSY/OU=EDV/CN=BESSY CA - G02/emailAddress=PKI@bessy.de
+SHA1 Fingerprint=1D:7E:09:A3:FA:A5:01:B4:AE:F9:9C:04:81:73:DC:0A:A3:5F:92:4B
+7577f476
+crlNumber=D3
+lastUpdate=Mar 14 07:12:11 2011 GMT
+nextUpdate=Apr 13 07:12:11 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=BESSY/OU=EDV/CN=BESSY CA - G02/emailAddress=PKI@bessy.de
+        Last Update: Mar 14 07:12:11 2011 GMT
+        Next Update: Apr 13 07:12:11 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                211
+Revoked Certificates:
+    Serial Number: 0BAC3EA6
+        Revocation Date: Jan 15 16:24:06 2008 GMT
+    Serial Number: 0BD22308
+        Revocation Date: Feb 13 11:21:26 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        33:f2:29:8a:3e:f0:57:3c:0f:4a:15:ea:c8:14:bd:02:55:0f:
+        f4:b1:f7:8d:72:f6:3f:5e:a0:b1:bf:1f:a9:fa:54:3a:66:a6:
+        ef:f1:52:52:e4:96:09:03:43:cd:2f:d2:97:7b:ac:b5:0a:25:
+        3a:a1:fd:b0:86:82:be:4b:97:24:8f:20:ba:50:c5:66:ff:81:
+        aa:ba:43:a9:0f:c0:f0:5d:8f:f2:aa:f3:c1:12:bb:ad:43:f8:
+        19:61:fc:d0:51:f3:cb:e0:84:2c:99:f6:3f:5f:d9:6a:3c:a6:
+        d3:5d:a9:f5:e2:33:db:d1:42:f1:c9:d8:88:17:77:fd:df:f2:
+        c1:41:d5:d8:bd:4a:51:d7:0f:a9:fb:0f:ec:7b:ea:1e:00:76:
+        ac:19:d4:51:dc:cd:f6:aa:08:38:39:c8:d2:a3:38:48:09:9e:
+        24:89:87:c1:f6:49:88:ff:52:58:d4:6f:41:c4:78:5e:3b:1e:
+        d6:c5:6c:3a:5c:c9:40:6d:ef:d6:ec:aa:2c:16:78:21:e8:69:
+        d4:70:73:3f:82:f9:95:f7:ec:65:f9:16:c4:29:22:c5:62:b6:
+        14:f2:e4:16:32:c9:6b:77:52:6f:27:03:e2:86:53:3b:7c:dc:
+        e7:e1:40:b0:a7:d4:6a:9d:9f:aa:ac:fd:a1:e6:f3:07:91:5c:
+        eb:fd:08:4e
