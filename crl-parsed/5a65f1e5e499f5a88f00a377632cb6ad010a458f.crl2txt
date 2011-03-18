@@ -1,0 +1,49 @@
+issuer=/C=FR/O=MINEFI/OU=TELEPROCEDURES/CN=MINEFI-AC TELEPROCEDURES
+SHA1 Fingerprint=8E:82:31:9A:CD:2B:1C:E2:50:7E:DD:14:63:46:32:12:6D:9F:54:31
+bf1f12c8
+crlNumber=0725
+lastUpdate=Mar 18 00:00:00 2011 GMT
+nextUpdate=Mar 25 00:00:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=FR/O=MINEFI/OU=TELEPROCEDURES/CN=MINEFI-AC TELEPROCEDURES
+        Last Update: Mar 18 00:00:00 2011 GMT
+        Next Update: Mar 25 00:00:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                1829
+            X509v3 Authority Key Identifier: 
+                keyid:6B:D2:29:2F:1A:26:E0:5A:D2:5B:D1:4F:6B:3D:47:6F:4C:2C:57:FB
+
+Revoked Certificates:
+    Serial Number: 122199043937A2DD7A3C0393B11B433BFB20
+        Revocation Date: Feb  5 14:26:22 2010 GMT
+    Serial Number: 122199043937A2DD7A3C8854189B4504247F
+        Revocation Date: Mar 10 09:27:13 2010 GMT
+    Serial Number: 122199043937A2DD7A3CFA5CD5ABBCF86CD4
+        Revocation Date: Dec 13 13:58:56 2010 GMT
+    Serial Number: 122199043937A2DD7A3C22C847737C113B21
+        Revocation Date: Feb  4 09:37:27 2011 GMT
+    Serial Number: 122199043937A2DD7A3CE026FC366E18B45E
+        Revocation Date: Mar  7 14:24:17 2011 GMT
+    Serial Number: 122199043937A2DD7A3CD1D918D05CDDFA6B
+        Revocation Date: Mar  7 14:26:20 2011 GMT
+    Serial Number: 122199043937A2DD7A3C808CD9BDC8F18A19
+        Revocation Date: Mar 14 10:10:43 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        2b:12:78:2f:c9:08:35:92:88:2d:d1:9f:b9:17:fe:78:21:d8:
+        76:8f:19:71:0d:8a:42:2d:d2:90:12:71:66:09:11:cd:6e:6c:
+        9d:5f:4e:8d:4b:98:44:cd:8b:47:eb:7f:e3:ec:fa:d0:a2:22:
+        7c:48:1d:6e:d4:10:63:fe:a8:63:36:9f:95:13:13:4c:90:7e:
+        81:fe:f1:4d:25:56:3a:f0:c9:76:01:a6:5a:d6:a7:7a:36:77:
+        6a:00:6b:ab:49:2c:db:b0:51:79:58:d2:32:f0:ee:b7:46:e0:
+        df:5c:f2:89:28:14:df:60:45:40:7a:00:fe:31:fc:07:49:d8:
+        2d:5a:17:b2:bd:a1:aa:85:e7:5e:42:71:5b:fe:06:e3:07:bf:
+        25:f7:88:43:fc:25:db:cf:a4:87:66:49:6e:9e:42:83:b4:0c:
+        f2:de:4c:16:3b:03:20:d8:e0:dc:ce:24:a7:01:48:d1:ee:8d:
+        0d:b9:45:cb:77:f3:e4:de:31:8a:99:c0:01:09:c4:32:02:33:
+        03:65:da:c3:89:a8:03:3a:4d:57:f2:36:78:5f:08:09:87:2a:
+        6a:7b:9f:72:cf:85:a2:02:ad:9a:9c:9c:c2:d7:fe:c9:2a:40:
+        de:1e:76:3f:bb:77:83:3a:85:29:fe:a7:3b:da:70:6d:0e:37:
+        43:60:9f:d9
