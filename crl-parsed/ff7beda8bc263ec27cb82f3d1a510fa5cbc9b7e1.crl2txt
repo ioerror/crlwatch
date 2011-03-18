@@ -1,0 +1,100 @@
+issuer=/C=DE/ST=Thueringen/L=Jena/O=Universitaet Jena/CN=Universitaet Jena CA - G01/emailAddress=pki@uni-jena.de
+SHA1 Fingerprint=73:F4:AA:0D:9F:CE:22:46:E2:3D:86:B8:7A:A3:58:90:35:40:36:41
+d45792e1
+crlNumber=F9
+lastUpdate=Mar 14 09:32:11 2011 GMT
+nextUpdate=Apr 13 09:32:11 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Thueringen/L=Jena/O=Universitaet Jena/CN=Universitaet Jena CA - G01/emailAddress=pki@uni-jena.de
+        Last Update: Mar 14 09:32:11 2011 GMT
+        Next Update: Apr 13 09:32:11 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                249
+Revoked Certificates:
+    Serial Number: 0ABC3681
+        Revocation Date: Jan 17 13:11:17 2011 GMT
+    Serial Number: 0AC028AC
+        Revocation Date: Jul 20 13:31:30 2007 GMT
+    Serial Number: 0AC02D5C
+        Revocation Date: Jul 27 08:34:24 2007 GMT
+    Serial Number: 0AC4037B
+        Revocation Date: Jul 23 11:11:26 2007 GMT
+    Serial Number: 0AF4DB75
+        Revocation Date: May  6 14:17:09 2008 GMT
+    Serial Number: 0AF600E8
+        Revocation Date: Aug 30 11:14:06 2007 GMT
+    Serial Number: 0AF63CF2
+        Revocation Date: Aug 31 10:32:08 2007 GMT
+    Serial Number: 0B049D0D
+        Revocation Date: Sep 10 13:12:07 2007 GMT
+    Serial Number: 0B04E8FD
+        Revocation Date: Sep 10 17:04:06 2007 GMT
+    Serial Number: 0B04EE9D
+        Revocation Date: Sep 10 17:04:08 2007 GMT
+    Serial Number: 0B4AAA81
+        Revocation Date: May 19 07:48:23 2008 GMT
+    Serial Number: 0B9AF264
+        Revocation Date: Aug  9 21:56:10 2008 GMT
+    Serial Number: 0BA2C95A
+        Revocation Date: Jan  8 11:37:14 2008 GMT
+    Serial Number: 0BA2DEAE
+        Revocation Date: Jan  9 14:36:17 2008 GMT
+    Serial Number: 0BDBAF46
+        Revocation Date: Nov 25 15:22:20 2009 GMT
+    Serial Number: 0C5B499B
+        Revocation Date: Feb  7 14:51:48 2011 GMT
+    Serial Number: 0CEEE593
+        Revocation Date: Mar 24 15:39:08 2009 GMT
+    Serial Number: 0CF82FC3
+        Revocation Date: Sep 23 12:12:16 2008 GMT
+    Serial Number: 0D313738
+        Revocation Date: Feb 11 07:23:10 2011 GMT
+    Serial Number: 0D43ACF2
+        Revocation Date: Nov 20 08:30:07 2008 GMT
+    Serial Number: 0D95102A
+        Revocation Date: Jan 21 10:43:14 2009 GMT
+    Serial Number: 0D9904A9
+        Revocation Date: Jan 29 08:57:16 2009 GMT
+    Serial Number: 0EC49B6D
+        Revocation Date: Sep  8 12:13:20 2009 GMT
+    Serial Number: 0EFE4B31
+        Revocation Date: Oct 21 10:42:08 2009 GMT
+    Serial Number: 0F1A215C
+        Revocation Date: Nov 16 12:52:20 2009 GMT
+    Serial Number: 0F20C3AC
+        Revocation Date: Nov 17 19:47:08 2009 GMT
+    Serial Number: 0F22769E
+        Revocation Date: Nov 24 13:36:08 2009 GMT
+    Serial Number: 0F24B3ED
+        Revocation Date: Nov 24 13:36:08 2009 GMT
+    Serial Number: 0F2CCA9D
+        Revocation Date: Mar 22 10:01:28 2010 GMT
+    Serial Number: 102845E6
+        Revocation Date: Jun  4 13:49:08 2010 GMT
+    Serial Number: 102865C4
+        Revocation Date: Jun  4 13:49:09 2010 GMT
+    Serial Number: 103960C9
+        Revocation Date: Jan 11 11:27:09 2011 GMT
+    Serial Number: 112803D7
+        Revocation Date: Dec 17 10:09:18 2010 GMT
+    Serial Number: 1153AD8E
+        Revocation Date: Jan 17 12:11:10 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        ae:02:26:1a:52:a3:af:ee:f9:22:f8:14:2b:dc:fa:f6:dd:51:
+        17:2f:72:96:3a:ed:eb:7a:58:69:91:c5:c9:c5:99:8a:b6:44:
+        67:e2:9f:1f:1b:95:bd:a1:85:67:95:48:8e:82:3b:a3:0c:52:
+        99:1f:ae:6d:e9:56:a6:93:d9:b5:42:3f:b7:8e:1d:ee:f0:8f:
+        d4:65:8f:98:28:16:df:cf:8f:7d:32:48:d6:9c:93:e7:d3:9c:
+        7c:9e:88:b0:a3:b5:79:40:9b:55:36:a9:b2:de:88:1c:83:6e:
+        d3:4a:e1:be:ff:68:54:cc:74:02:fb:41:58:6b:d3:5a:6d:71:
+        30:e0:53:d2:72:d9:b5:76:83:7f:6d:36:5d:8d:3e:55:20:1c:
+        5c:4b:3f:92:98:cf:cd:d9:30:a7:82:89:df:fe:18:40:ee:e0:
+        0d:51:08:2f:3c:9b:2f:64:8e:c3:fb:26:70:5b:21:7e:59:32:
+        ab:d4:64:b4:9f:24:72:44:cd:4b:ce:7d:fb:33:b0:a0:ac:83:
+        e3:ba:67:54:08:1c:7e:2a:35:6b:4c:0b:b6:66:07:14:bd:1e:
+        9a:7c:8f:41:7f:6b:50:3e:b2:5c:25:79:2c:f5:ad:c2:4a:59:
+        41:e6:28:e6:c1:e3:59:80:e6:66:a0:69:8c:5e:30:57:9c:7d:
+        09:43:7f:76
