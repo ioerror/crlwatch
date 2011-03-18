@@ -1,0 +1,36 @@
+issuer=/C=DE/ST=Bayern/L=Oberschleissheim-Neuherberg/O=Helmholtz Zentrum Muenchen/OU=Rechenzentrum/CN=Helmholtz Zentrum Muenchen CA - G01/emailAddress=pki@helmholtz-muenchen.de
+SHA1 Fingerprint=AE:66:E0:C4:9B:6A:30:2A:71:3F:59:ED:A6:6E:9B:25:55:6C:93:47
+baea4ad2
+crlNumber=B1
+lastUpdate=Mar 14 08:07:15 2011 GMT
+nextUpdate=Apr 13 08:07:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Oberschleissheim-Neuherberg/O=Helmholtz Zentrum Muenchen/OU=Rechenzentrum/CN=Helmholtz Zentrum Muenchen CA - G01/emailAddress=pki@helmholtz-muenchen.de
+        Last Update: Mar 14 08:07:15 2011 GMT
+        Next Update: Apr 13 08:07:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                177
+Revoked Certificates:
+    Serial Number: 0DB8F41E
+        Revocation Date: Aug 14 13:57:08 2009 GMT
+    Serial Number: 0DF1A76E
+        Revocation Date: Apr  1 11:18:07 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        62:b3:43:e4:f3:e9:17:7e:71:74:63:b1:04:3a:e5:58:5e:83:
+        26:d6:c1:c8:16:80:8c:07:dc:9e:33:77:b6:79:f2:0c:d0:6e:
+        34:31:12:cc:34:83:90:a3:ff:37:ca:44:01:18:9f:7a:a8:be:
+        40:59:1f:aa:cf:a6:44:6b:41:06:c1:19:7d:af:22:cb:cb:77:
+        36:3b:7b:09:84:13:6f:1c:8b:11:ed:61:85:32:a0:0d:d0:63:
+        9f:52:fe:dc:b3:66:ce:90:df:a7:f8:8d:e1:a2:62:0b:9e:28:
+        00:a9:17:43:00:0b:2a:72:4e:48:b4:45:2a:a4:73:c7:91:e4:
+        b7:19:5c:2a:d3:5d:b2:40:64:82:e8:a6:0e:b5:f4:e7:1b:e3:
+        a2:eb:44:ce:7c:07:c3:f2:db:f3:41:74:b1:d8:0e:56:2a:05:
+        eb:46:ff:3b:53:57:45:c9:50:8b:a7:e3:3a:d0:a1:9d:16:03:
+        68:09:33:2f:6b:fe:ba:9f:ee:8c:8e:df:69:3d:44:1f:3a:d4:
+        c9:51:bf:2e:b6:ec:43:1a:b7:c7:f1:e2:96:6a:82:ab:33:44:
+        02:f2:3b:17:c7:87:9a:64:d2:d0:0b:d4:40:82:ec:24:88:19:
+        75:f8:a5:49:34:06:c2:58:ea:2c:58:2f:51:bd:86:25:3a:9b:
+        93:57:f7:dc
