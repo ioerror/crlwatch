@@ -1,0 +1,39 @@
+issuer=/CN=NalcoExternalPolicyCA-1
+SHA1 Fingerprint=D2:C0:BB:7A:76:FB:FC:EC:56:1B:EE:1E:AE:B7:12:54:17:78:0B:FC
+849bc5bc
+crlNumber=0D
+lastUpdate=Jan 18 22:01:28 2011 GMT
+nextUpdate=Aug  2 22:21:28 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /CN=NalcoExternalPolicyCA-1
+        Last Update: Jan 18 22:01:28 2011 GMT
+        Next Update: Aug  2 22:21:28 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:52:FF:DE:3E:10:37:CA:FA:6A:FD:E6:77:37:C5:15:D4:5C:C3:3C:49
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                13
+            1.3.6.1.4.1.311.21.4: 
+                .110719221128Z
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        16:da:f9:af:8e:11:12:f7:cf:94:e0:c5:8c:5f:e2:05:63:c7:
+        6a:43:ce:6a:3b:23:e6:cf:21:dd:82:9d:40:49:a3:96:ef:c8:
+        90:c2:5b:ca:4c:3a:22:60:a9:ba:e4:61:83:91:d1:72:02:83:
+        13:d9:ec:e9:73:3e:55:c0:7f:23:0a:ae:56:db:b8:a3:fd:12:
+        5d:49:dd:46:0c:dc:ca:95:43:13:cc:21:36:5a:d2:2d:7c:c6:
+        77:d2:13:0c:ac:ee:57:95:2f:fb:bb:c3:c6:a6:a3:8b:f7:4b:
+        ee:57:9d:13:30:36:99:96:b4:54:44:cd:f1:4f:d8:e4:b7:78:
+        84:3e:ff:a1:4f:25:ba:66:ed:2b:35:67:82:86:04:ac:5f:08:
+        9a:6e:61:45:c9:0d:37:35:10:39:b8:b9:a1:48:2a:3b:d8:34:
+        3b:c4:3c:b0:e5:c6:97:b2:eb:78:64:b0:ff:4e:77:6e:cb:18:
+        de:c1:2b:56:16:fa:19:91:93:ae:4c:07:b8:84:e0:15:c1:4b:
+        a3:04:76:39:f1:14:44:db:9d:78:b2:a6:d5:d9:e5:a3:fc:2f:
+        0b:3d:33:03:6c:80:1c:c0:5e:2e:1f:73:ac:19:dd:a1:26:d1:
+        0a:f9:25:51:44:8d:98:2f:ea:af:56:cf:5f:9b:1e:72:e6:c5:
+        58:73:5d:2b
