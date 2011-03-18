@@ -1,0 +1,35 @@
+issuer=/C=FR/O=Certplus/CN=Class 2 Primary CA
+SHA1 Fingerprint=35:F2:84:28:40:86:9A:11:B5:3D:3A:43:72:FE:6E:7C:63:4B:D3:73
+17b51fe6
+crlNumber=03
+lastUpdate=Jun 10 00:00:00 2010 GMT
+nextUpdate=Jun 10 00:00:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=FR/O=Certplus/CN=Class 2 Primary CA
+        Last Update: Jun 10 00:00:00 2010 GMT
+        Next Update: Jun 10 00:00:00 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                3
+            X509v3 Authority Key Identifier: 
+                keyid:E3:73:2D:DF:CB:0E:28:0C:DE:DD:B3:A4:CA:79:B8:8E:BB:E8:30:89
+
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        93:89:ed:16:81:29:3e:89:b4:24:0b:c2:35:b3:ea:fd:d2:a5:
+        23:84:d8:a7:d6:83:5f:9c:66:6a:2e:4e:2e:88:1f:ff:b3:e6:
+        b0:6b:50:a5:41:0e:74:66:fc:83:78:92:87:22:27:4f:f4:10:
+        8e:1a:cf:a6:eb:73:5f:86:cd:78:e3:e9:11:4d:50:0a:48:20:
+        f4:f8:31:eb:36:db:5c:00:5d:e0:bf:5f:c9:74:21:b7:74:b6:
+        1a:47:79:b2:1d:7d:31:9a:0b:b4:73:22:da:d8:d8:53:3b:3f:
+        d6:33:6b:48:a1:c7:d2:59:98:e7:4f:16:c6:c4:03:9f:6e:fc:
+        ae:b2:57:91:8a:c2:28:ec:26:ff:a2:a2:f4:31:5a:84:78:cd:
+        d2:69:fb:80:bb:6f:c6:ec:a6:9d:32:5a:55:09:17:83:c2:9f:
+        46:b4:9f:84:d9:ad:82:65:5c:43:12:5f:cd:19:82:24:09:fa:
+        f3:ba:d9:28:d1:cf:25:e9:28:34:0b:2a:0a:a2:ef:da:85:10:
+        4f:c5:dc:ad:4f:a1:fd:5b:03:78:5c:f0:55:b9:3f:c2:c6:3f:
+        a3:ba:98:18:30:2e:55:46:54:6e:12:d7:fe:d9:60:f7:fe:cd:
+        b9:45:bd:19:1b:32:af:68:f5:f6:6b:ac:a4:f4:1c:e5:d4:c5:
+        21:3e:7e:da
