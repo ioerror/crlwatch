@@ -1,0 +1,34 @@
+issuer=/C=DE/O=Universitaet Flensburg/OU=ZIMT/CN=Uni Flensburg CA/emailAddress=ca@uni-flensburg.de
+SHA1 Fingerprint=2C:BC:3A:86:A5:9C:CA:B3:8F:3E:40:F9:AF:95:8E:97:1C:8C:5F:2C
+529d12a1
+crlNumber=8F
+lastUpdate=Mar 14 09:25:27 2011 GMT
+nextUpdate=Apr 13 09:25:27 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Universitaet Flensburg/OU=ZIMT/CN=Uni Flensburg CA/emailAddress=ca@uni-flensburg.de
+        Last Update: Mar 14 09:25:27 2011 GMT
+        Next Update: Apr 13 09:25:27 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                143
+Revoked Certificates:
+    Serial Number: 0CDC825F
+        Revocation Date: Sep  8 11:55:08 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        1c:0b:41:7a:c5:36:11:60:04:90:92:75:12:d5:e0:f0:04:da:
+        97:8f:3f:15:93:0c:92:16:b8:ec:12:1a:2d:db:13:41:e2:f0:
+        38:ae:33:3d:f5:de:c9:42:15:aa:49:ea:a3:56:43:28:31:67:
+        60:7f:b7:f7:1d:c7:a6:34:9f:15:7d:2d:56:45:68:f0:35:58:
+        c2:99:a7:93:a4:da:52:09:5a:b9:3b:f8:a3:0f:f0:f1:f8:27:
+        39:b9:c6:d2:21:1a:a9:7b:55:b2:be:fe:4a:75:2a:4e:d1:44:
+        6a:e9:d5:43:b0:11:80:d4:1b:83:4c:bb:fb:20:49:76:f6:ce:
+        19:5d:44:2c:52:de:29:00:c0:04:6e:91:1f:35:83:9c:3a:24:
+        75:44:79:de:1c:3d:96:19:a3:d2:2c:08:ed:1e:97:de:a9:f0:
+        02:42:53:60:99:d3:16:a1:fa:c2:76:d7:2c:65:89:e9:f0:3a:
+        78:e6:d8:6c:2d:99:0b:a5:76:e0:e4:91:6e:3e:2e:8e:32:b5:
+        4c:db:f6:f1:08:a4:7b:08:c6:6c:6d:ae:41:15:9a:2a:93:bc:
+        e6:97:ab:40:8a:ea:32:d2:3a:ce:e2:88:79:c4:6a:d9:43:2c:
+        5e:94:4e:30:c8:51:38:03:c2:08:0a:0b:47:51:2e:bf:29:93:
+        f2:a0:70:9f
