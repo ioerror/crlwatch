@@ -1,0 +1,98 @@
+issuer=/C=DE/ST=Bremen/L=Bremen/O=Universitaet Bremen/CN=Universitaet Bremen CA
+SHA1 Fingerprint=BC:BA:E0:92:5D:35:94:2E:5C:22:FE:10:47:6B:56:47:03:B2:38:03
+c58e4cf5
+crlNumber=010E
+lastUpdate=Mar 17 11:07:17 2011 GMT
+nextUpdate=Apr 16 11:07:17 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bremen/L=Bremen/O=Universitaet Bremen/CN=Universitaet Bremen CA
+        Last Update: Mar 17 11:07:17 2011 GMT
+        Next Update: Apr 16 11:07:17 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                270
+Revoked Certificates:
+    Serial Number: 0A1F3A43
+        Revocation Date: May 21 09:08:10 2008 GMT
+    Serial Number: 0A1F7263
+        Revocation Date: May 26 06:32:19 2008 GMT
+    Serial Number: 0A3ED279
+        Revocation Date: May 27 12:23:08 2008 GMT
+    Serial Number: 0A42E57C
+        Revocation Date: May 21 09:08:11 2008 GMT
+    Serial Number: 0A511D4F
+        Revocation Date: May 21 09:09:08 2008 GMT
+    Serial Number: 0A7BB21F
+        Revocation Date: May 27 12:23:09 2008 GMT
+    Serial Number: 0A7BB221
+        Revocation Date: May 27 12:23:11 2008 GMT
+    Serial Number: 0A7F8F3A
+        Revocation Date: Jun  5 13:51:15 2007 GMT
+    Serial Number: 0A834200
+        Revocation Date: May 21 09:33:07 2008 GMT
+    Serial Number: 0A84EA42
+        Revocation Date: May 21 08:47:07 2008 GMT
+    Serial Number: 0A86245F
+        Revocation Date: May 21 09:11:27 2008 GMT
+    Serial Number: 0AAC66DA
+        Revocation Date: May 27 12:23:12 2008 GMT
+    Serial Number: 0AFB961F
+        Revocation Date: May 27 12:32:35 2008 GMT
+    Serial Number: 0AFBAA45
+        Revocation Date: May 21 09:11:28 2008 GMT
+    Serial Number: 0BC127C6
+        Revocation Date: Feb  4 09:20:11 2008 GMT
+    Serial Number: 0BC2790D
+        Revocation Date: Oct 12 11:39:27 2009 GMT
+    Serial Number: 0BD3CD5D
+        Revocation Date: May 27 14:25:08 2008 GMT
+    Serial Number: 0BF4663A
+        Revocation Date: May 26 06:49:04 2008 GMT
+    Serial Number: 0BF4D1CC
+        Revocation Date: May 27 12:29:08 2008 GMT
+    Serial Number: 0BF70B57
+        Revocation Date: May 27 12:29:07 2008 GMT
+    Serial Number: 0BF9A4F4
+        Revocation Date: May 20 09:13:08 2008 GMT
+    Serial Number: 0BF9B033
+        Revocation Date: May 21 07:52:07 2008 GMT
+    Serial Number: 0C1061CE
+        Revocation Date: May 21 07:52:08 2008 GMT
+    Serial Number: 0C1D694A
+        Revocation Date: May 27 12:26:09 2008 GMT
+    Serial Number: 0C22D504
+        Revocation Date: May 27 12:26:08 2008 GMT
+    Serial Number: 0C844B03
+        Revocation Date: Jul  2 11:49:12 2008 GMT
+    Serial Number: 0DB22029
+        Revocation Date: Feb 11 12:20:08 2009 GMT
+    Serial Number: 0E474509
+        Revocation Date: Jun  8 10:56:09 2009 GMT
+    Serial Number: 0EBEFBB0
+        Revocation Date: Feb  4 13:15:21 2010 GMT
+    Serial Number: 0F078ECC
+        Revocation Date: Oct 29 10:58:08 2009 GMT
+    Serial Number: 105D4258
+        Revocation Date: Aug 11 14:03:09 2010 GMT
+    Serial Number: 10DFC016
+        Revocation Date: Mar 17 11:07:16 2011 GMT
+    Serial Number: 11A16092
+        Revocation Date: Mar 17 11:07:15 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        99:be:b3:94:d2:06:c2:fd:1e:83:93:ae:d0:7e:21:0d:bd:6b:
+        dd:41:e8:7a:21:1f:0d:d9:ef:a1:b7:0b:d1:bd:d7:be:78:10:
+        76:1e:dc:59:8f:5d:e5:54:ac:f5:90:5c:ba:dc:34:2c:4b:93:
+        99:8d:66:55:2f:bc:5f:3d:70:3e:f5:b5:32:d6:7b:56:2d:d2:
+        f3:30:ec:64:52:df:92:2f:21:bc:f4:5d:74:09:6e:50:b2:05:
+        98:a4:d7:8b:40:24:c8:81:c7:a7:1f:e3:0a:9a:e3:df:b7:a7:
+        9f:55:93:63:bc:b4:89:d2:68:f8:32:0d:a3:c2:4b:ec:3d:bc:
+        69:00:78:3b:ea:f4:76:98:86:3e:89:54:2e:98:dd:b7:0f:06:
+        ac:75:08:1d:c1:7b:0a:9a:29:b6:60:bf:93:f0:3d:44:b1:a9:
+        fe:75:30:2c:3e:f0:59:31:57:89:79:68:c6:b7:9b:5c:69:34:
+        2a:21:72:19:9b:db:70:bc:38:0c:9a:d5:22:44:fb:7b:9f:4c:
+        b2:fb:c0:fe:c5:6a:cd:0f:bb:4c:60:48:b2:ff:19:0a:dd:c5:
+        fb:d0:53:64:cf:19:03:ee:aa:8b:27:f6:4c:4a:aa:73:47:53:
+        2e:ca:7b:3a:b4:11:dd:25:c8:c9:bc:d0:c0:93:de:69:5c:ba:
+        bf:3c:44:52
