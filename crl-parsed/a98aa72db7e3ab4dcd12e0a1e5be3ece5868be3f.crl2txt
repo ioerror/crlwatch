@@ -1,0 +1,34 @@
+issuer=/C=DE/O=Hochschule fuer Musik und Theater Hannover/CN=HMT Hannover CA/emailAddress=pki@hmt-hannover.de
+SHA1 Fingerprint=22:AA:FC:0C:CE:35:F7:8A:1A:2A:C4:05:97:FF:42:AE:E9:DC:F9:4D
+ad6d2dcb
+crlNumber=7B
+lastUpdate=Mar 14 08:13:07 2011 GMT
+nextUpdate=Apr 13 08:13:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Hochschule fuer Musik und Theater Hannover/CN=HMT Hannover CA/emailAddress=pki@hmt-hannover.de
+        Last Update: Mar 14 08:13:07 2011 GMT
+        Next Update: Apr 13 08:13:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                123
+Revoked Certificates:
+    Serial Number: 0D9414AB
+        Revocation Date: Jan 20 11:29:06 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        68:c4:aa:99:03:16:3b:54:a7:b9:cf:24:66:5c:4e:f7:b2:a0:
+        25:f5:7f:be:2a:cf:4f:e7:bf:ad:91:b8:38:c5:58:46:0c:dc:
+        11:3e:51:a9:ab:a0:8a:41:79:86:39:3c:b5:13:74:c2:11:a8:
+        8f:7e:04:25:e8:e7:19:8c:08:af:7e:97:f6:a9:b0:36:a5:6d:
+        7b:07:b3:fb:bb:63:0e:d5:e4:d6:fd:86:30:a8:9e:55:cb:35:
+        82:0d:47:3b:97:e8:d7:43:eb:e7:3c:1b:63:e2:3c:e9:95:da:
+        9a:e1:17:44:0e:4c:81:30:5a:8d:d3:b3:1d:27:28:dc:3f:6f:
+        c9:41:f0:01:93:b7:49:ee:08:2b:5b:f5:05:64:aa:76:aa:ba:
+        31:c6:3f:28:ae:a2:9c:63:67:c1:80:75:0a:d5:a0:97:51:4c:
+        e7:25:fd:3f:18:7c:a3:db:83:ac:3f:e2:a1:2c:31:e1:0e:8d:
+        bd:9e:bd:f2:66:e3:86:68:90:c3:c8:e9:3d:78:58:a1:db:4f:
+        b5:b5:5c:40:57:3d:5c:d5:87:75:ce:31:11:1b:e8:ec:ca:b3:
+        ee:09:de:58:ba:4d:ce:6d:fb:9b:cd:a6:ca:64:83:6a:51:ba:
+        9c:a1:62:4d:06:40:2e:1c:b0:7a:9f:c6:64:91:fa:0b:d5:03:
+        3b:de:1b:36
