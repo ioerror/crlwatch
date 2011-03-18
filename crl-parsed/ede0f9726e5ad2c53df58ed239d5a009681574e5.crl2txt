@@ -1,0 +1,40 @@
+issuer=/C=DE/O=Fachhochschule Stralsund/OU=ZIK/CN=FH Stralsund CA - G02/emailAddress=ca@fh-stralsund.de
+SHA1 Fingerprint=7B:73:6C:45:49:B5:E9:45:51:EC:EE:03:E8:1B:D2:9D:B5:DB:06:5D
+5fcc5ab4
+crlNumber=EF
+lastUpdate=Mar 14 07:49:07 2011 GMT
+nextUpdate=Apr 13 07:49:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Fachhochschule Stralsund/OU=ZIK/CN=FH Stralsund CA - G02/emailAddress=ca@fh-stralsund.de
+        Last Update: Mar 14 07:49:07 2011 GMT
+        Next Update: Apr 13 07:49:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                239
+Revoked Certificates:
+    Serial Number: 0A148D44
+        Revocation Date: Mar 20 12:20:43 2007 GMT
+    Serial Number: 0A4569E9
+        Revocation Date: Nov  7 10:17:07 2008 GMT
+    Serial Number: 0A5961B1
+        Revocation Date: May  4 09:50:45 2007 GMT
+    Serial Number: 0D2915F7
+        Revocation Date: Oct 30 11:42:06 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        2b:d8:cf:0a:76:70:6b:74:2d:b9:20:3a:81:a4:41:99:4e:d7:
+        ff:41:4a:ce:9a:f7:2a:59:93:51:87:83:fd:9d:89:3f:cc:9a:
+        08:eb:ef:31:15:b8:f1:9d:fe:52:67:24:9f:12:9e:80:29:d4:
+        75:6c:99:4f:9c:8f:ef:07:9e:33:e0:d8:86:fa:d1:c0:4b:de:
+        6f:a9:d5:b9:f2:96:9e:28:19:5f:0d:32:c6:ac:46:ca:7d:78:
+        58:4b:b5:fa:27:c4:ef:4f:23:d0:ea:5e:31:62:65:48:3d:f9:
+        4c:a0:3c:48:52:41:7b:13:8a:3d:98:0f:3a:29:3f:37:2d:0e:
+        cc:d5:6d:f1:c9:e4:df:4f:92:24:80:e8:2a:7f:2c:71:d6:ca:
+        b4:34:a3:cb:79:91:30:5e:10:b2:56:a9:4c:13:9b:5b:5d:86:
+        85:ea:b2:71:a3:a8:26:c5:0a:c3:26:3b:e5:ff:04:21:55:ed:
+        d7:6b:fd:4a:59:35:7a:70:f5:72:fd:3f:8d:b4:ca:37:f8:c8:
+        c7:17:d9:3e:13:a7:da:5f:61:55:96:96:c8:31:9a:20:54:c8:
+        e9:a0:62:70:ab:c1:8a:dc:c0:f6:ac:2b:40:fc:61:c6:7f:1a:
+        47:f8:69:3f:07:bb:71:1e:ae:b2:c2:13:7f:a5:9f:7b:24:c5:
+        05:75:d4:8f
