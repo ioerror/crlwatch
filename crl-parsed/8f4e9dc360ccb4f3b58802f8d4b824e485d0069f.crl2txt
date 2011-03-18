@@ -1,0 +1,77 @@
+issuer=/emailAddress=pki@sk.ee/C=EE/O=AS Sertifitseerimiskeskus/CN=Juur-SK
+SHA1 Fingerprint=8A:69:61:78:FE:F2:80:7C:68:51:73:F8:B7:9E:EF:F9:41:04:2D:D9
+119afc2e
+crlNumber=DF
+lastUpdate=Dec 22 12:21:24 2010 GMT
+nextUpdate=Apr  1 12:21:24 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /emailAddress=pki@sk.ee/C=EE/O=AS Sertifitseerimiskeskus/CN=Juur-SK
+        Last Update: Dec 22 12:21:24 2010 GMT
+        Next Update: Apr  1 12:21:24 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                223
+            X509v3 Authority Key Identifier: 
+                keyid:04:AA:7A:47:A3:E4:89:AF:1A:CF:0A:40:A7:18:3F:6F:EF:E9:7D:BE
+
+            X509v3 Issuing Distrubution Point: 
+                0.
+Revoked Certificates:
+    Serial Number: 3B8E5400
+        Revocation Date: Nov 21 09:36:30 2003 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 459B9BE6
+        Revocation Date: Jan  3 12:18:20 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 459BACDE
+        Revocation Date: Jan  5 10:25:12 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 3E392C80
+        Revocation Date: Jan  5 10:26:44 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 3CB168BB
+        Revocation Date: Dec  1 10:09:38 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3CB423D4
+        Revocation Date: Dec  1 10:10:04 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3CB42519
+        Revocation Date: Dec  1 10:10:16 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 409F58A5
+        Revocation Date: Dec  1 10:10:36 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        2e:4c:72:ad:09:48:b1:f0:84:05:bf:66:44:81:7b:81:a1:1a:
+        9e:a0:ff:c0:3d:5d:73:bc:eb:71:41:29:4d:49:0c:22:3b:77:
+        d2:24:87:f6:dd:44:db:ae:fe:e3:d5:11:22:15:60:95:37:d9:
+        86:8f:d2:6a:0e:3f:c7:12:35:d0:aa:a9:84:88:92:95:19:d6:
+        a2:e1:19:06:d3:23:01:38:e1:6c:d9:7b:be:6e:bd:07:ee:11:
+        47:31:f9:1d:03:d0:7d:35:b6:29:85:cb:6c:8b:67:f1:04:f5:
+        a4:e5:41:33:26:51:2a:4f:85:36:a3:05:cd:90:a4:28:a8:99:
+        d6:bd:fa:82:5f:c2:46:88:16:8e:24:c2:7d:7b:3f:a4:8b:63:
+        32:bb:1a:d4:87:27:c7:a8:2a:27:32:1f:fa:3b:e8:bc:28:03:
+        23:25:64:98:88:b9:a2:e9:af:e7:77:5b:7a:b3:ac:95:65:6c:
+        93:aa:28:1f:56:76:3d:8e:e1:1e:87:fc:25:20:5b:00:cb:ea:
+        87:17:b3:ba:f9:08:f8:31:79:f6:a4:35:fd:5f:81:d3:20:c3:
+        69:38:13:95:3a:7c:56:40:50:00:0f:43:95:25:4c:81:8d:6c:
+        79:45:dd:57:4b:75:53:9d:23:dd:be:3b:36:8e:84:ef:71:19:
+        12:5b:2e:ed
