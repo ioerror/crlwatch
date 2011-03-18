@@ -1,0 +1,37 @@
+issuer=/C=KR/O=eBiz Networks Ltd/CN=eBiz Networks Certificate Services
+SHA1 Fingerprint=93:42:DB:50:9A:7E:51:11:B7:BF:5D:DA:B4:E2:13:EF:48:01:02:DA
+feb105b7
+crlNumber=05F9
+lastUpdate=Mar 18 07:06:47 2011 GMT
+nextUpdate=Mar 22 07:06:47 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=KR/O=eBiz Networks Ltd/CN=eBiz Networks Certificate Services
+        Last Update: Mar 18 07:06:47 2011 GMT
+        Next Update: Mar 22 07:06:47 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:A7:2A:4C:AF:9E:86:45:6A:D8:21:1B:03:39:B7:93:93:A7:D0:15:57
+
+            X509v3 CRL Number: 
+                1529
+Revoked Certificates:
+    Serial Number: F5D16E29175F4A3134F875F645D21B3A
+        Revocation Date: Mar 17 04:02:05 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        2f:38:9a:ad:34:f6:a2:ba:ef:9f:88:93:d8:66:92:db:2d:bd:
+        76:02:92:f4:04:7a:1d:06:d4:f6:90:f0:bf:ec:c7:3f:ff:34:
+        5e:d4:5c:68:7f:0b:f5:ce:6f:09:4d:77:ee:67:55:64:98:bd:
+        29:a3:de:1c:42:a5:f3:f5:fb:8a:cc:ad:a8:25:06:de:bb:88:
+        07:ff:fa:2d:fd:2d:e2:84:28:df:09:9e:fd:76:34:55:16:4b:
+        f8:6a:5f:e3:3e:0d:35:47:58:0c:2a:7a:89:3e:02:64:06:fa:
+        82:3b:32:4d:58:81:90:a8:e2:fa:2e:72:53:63:e5:b6:58:28:
+        ad:e2:ee:2c:64:4e:71:81:92:9a:d1:ad:cb:92:9e:a4:97:0b:
+        f9:8c:67:63:cb:aa:cd:0f:aa:c9:b3:4e:3b:0b:91:b2:00:64:
+        64:26:d9:04:6b:b8:3a:a5:9c:e1:c8:46:7d:6d:0b:b8:6c:75:
+        53:08:f5:7a:e2:a2:ca:7d:a8:23:03:52:b3:8f:af:b1:c3:b8:
+        8f:0d:af:e5:fe:39:7d:8f:51:55:e9:37:78:64:ea:d3:c0:df:
+        01:03:34:69:77:ff:fa:50:10:ef:ea:f3:36:48:d0:5b:20:ef:
+        30:ee:4e:3c:8b:67:54:e1:f4:23:00:17:16:4f:8a:31:1b:5d:
+        ca:6f:0b:cc
