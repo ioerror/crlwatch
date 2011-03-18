@@ -1,0 +1,114 @@
+issuer=/C=DE/ST=Thueringen/L=Jena/O=Fachhochschule Jena/OU=ServiceZentrum Informatik/CN=FHJ CA - G01/emailAddress=pki@fh-jena.de
+SHA1 Fingerprint=18:1E:22:48:05:9D:5C:E5:8A:77:6F:AC:06:C7:34:FE:FA:F9:2D:02
+72f77341
+crlNumber=FC
+lastUpdate=Mar 14 07:42:14 2011 GMT
+nextUpdate=Apr 13 07:42:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Thueringen/L=Jena/O=Fachhochschule Jena/OU=ServiceZentrum Informatik/CN=FHJ CA - G01/emailAddress=pki@fh-jena.de
+        Last Update: Mar 14 07:42:14 2011 GMT
+        Next Update: Apr 13 07:42:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                252
+Revoked Certificates:
+    Serial Number: 0AB32AC0
+        Revocation Date: Oct 21 10:56:06 2009 GMT
+    Serial Number: 0AB561F2
+        Revocation Date: Oct 21 10:54:07 2009 GMT
+    Serial Number: 0B2C5ECC
+        Revocation Date: Oct 12 06:47:14 2010 GMT
+    Serial Number: 0B5BD5F4
+        Revocation Date: Nov 15 16:12:06 2007 GMT
+    Serial Number: 0B5BD902
+        Revocation Date: Nov 15 16:08:06 2007 GMT
+    Serial Number: 0B7722CC
+        Revocation Date: Dec  6 13:46:06 2007 GMT
+    Serial Number: 0BAFF5C0
+        Revocation Date: Jan 29 10:57:11 2008 GMT
+    Serial Number: 0C1C5789
+        Revocation Date: Mar 24 11:43:07 2009 GMT
+    Serial Number: 0C2420AA
+        Revocation Date: Mar 24 11:45:07 2009 GMT
+    Serial Number: 0C54FB26
+        Revocation Date: Mar 24 11:04:07 2009 GMT
+    Serial Number: 0CEF146E
+        Revocation Date: Sep 17 09:16:07 2008 GMT
+    Serial Number: 0D1BE246
+        Revocation Date: Aug 31 07:07:13 2009 GMT
+    Serial Number: 0D1EBD4A
+        Revocation Date: Oct 27 10:07:06 2008 GMT
+    Serial Number: 0D253D1E
+        Revocation Date: Oct  8 10:05:07 2009 GMT
+    Serial Number: 0D37DA71
+        Revocation Date: Feb 22 09:18:07 2009 GMT
+    Serial Number: 0D5F4E1E
+        Revocation Date: May 11 08:52:07 2009 GMT
+    Serial Number: 0DE9BB62
+        Revocation Date: Mar 26 08:36:08 2009 GMT
+    Serial Number: 0DE9BC15
+        Revocation Date: Mar 30 09:41:10 2009 GMT
+    Serial Number: 0DF02696
+        Revocation Date: Mar 17 13:49:07 2010 GMT
+    Serial Number: 0DF2E84B
+        Revocation Date: Aug 18 07:10:07 2010 GMT
+    Serial Number: 0EC4362F
+        Revocation Date: Sep 17 11:23:08 2009 GMT
+    Serial Number: 0EC4A363
+        Revocation Date: Sep 17 11:23:07 2009 GMT
+    Serial Number: 0EC591CE
+        Revocation Date: Sep 17 11:23:06 2009 GMT
+    Serial Number: 0EEBDCF4
+        Revocation Date: Oct  8 09:29:07 2009 GMT
+    Serial Number: 0EEEB2CE
+        Revocation Date: Oct 23 14:48:07 2009 GMT
+    Serial Number: 0EF2CDC1
+        Revocation Date: Oct 14 07:09:09 2009 GMT
+    Serial Number: 0F1CD0C6
+        Revocation Date: Nov 13 12:52:13 2009 GMT
+    Serial Number: 0FA4B3E3
+        Revocation Date: Mar  2 08:40:08 2010 GMT
+    Serial Number: 0FBED787
+        Revocation Date: May 20 11:06:08 2010 GMT
+    Serial Number: 0FD2B406
+        Revocation Date: Apr  2 14:28:07 2010 GMT
+    Serial Number: 0FD2B92E
+        Revocation Date: Apr  2 14:28:08 2010 GMT
+    Serial Number: 0FEE62D2
+        Revocation Date: Apr 26 12:48:07 2010 GMT
+    Serial Number: 10230187
+        Revocation Date: May 31 11:44:06 2010 GMT
+    Serial Number: 10C94F5F
+        Revocation Date: Oct  5 07:16:29 2010 GMT
+    Serial Number: 10CC0942
+        Revocation Date: Oct 11 07:15:07 2010 GMT
+    Serial Number: 10D25457
+        Revocation Date: Oct 12 06:47:15 2010 GMT
+    Serial Number: 10D25D7B
+        Revocation Date: Nov 15 09:05:08 2010 GMT
+    Serial Number: 10D26B4E
+        Revocation Date: Oct 11 11:19:07 2010 GMT
+    Serial Number: 10FA2207
+        Revocation Date: Nov 10 16:19:07 2010 GMT
+    Serial Number: 114A5F59
+        Revocation Date: Jan 10 11:55:06 2011 GMT
+    Serial Number: 11832DA1
+        Revocation Date: Feb 22 13:33:06 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        8b:69:3b:d0:72:9b:ce:75:1a:bd:a1:27:74:b0:39:f4:27:e0:
+        48:19:fe:8f:01:d0:c9:56:2e:cd:6e:11:1f:11:b2:81:49:28:
+        5a:79:ae:40:71:c7:80:35:79:bb:4e:eb:39:80:7c:38:9c:be:
+        9e:87:0f:1e:8a:ad:57:b9:99:84:73:7d:c8:b2:cd:0b:14:6e:
+        5a:5d:9a:31:47:fa:47:34:51:2d:58:8e:58:6c:e9:d0:d7:33:
+        39:05:a7:c4:9f:3b:af:ca:85:4e:29:db:4d:a8:07:a4:85:3f:
+        6e:86:76:0f:e1:ea:9c:94:d8:2f:c7:3d:04:6b:84:8d:10:1e:
+        dd:eb:ad:31:5c:53:e2:89:a8:29:a5:14:9f:df:d5:18:93:78:
+        17:68:80:bd:a5:7f:2f:70:a2:12:22:14:3b:8b:70:b9:be:6b:
+        7d:60:df:26:40:d7:8a:58:3e:a4:26:19:a2:f4:a2:6b:ae:6e:
+        0e:ad:f9:34:a9:d1:19:70:da:8c:2d:83:3e:68:89:9f:57:08:
+        05:32:6c:3f:05:44:a3:1b:86:8b:cc:9f:f2:23:90:35:43:28:
+        27:58:10:32:cc:c5:59:d6:c4:48:a0:d3:ff:7a:18:8a:eb:c4:
+        31:66:15:be:97:ae:92:be:c5:a6:4c:cd:ed:fe:b6:c1:c6:ad:
+        8f:ff:88:4a
