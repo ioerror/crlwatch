@@ -1,1 +1,5 @@
-Collect, watch, and analyze SSL/TLS CRL lists
+crlwatch - collect, watch, and analyze SSL/TLS CRL lists
+
+generate-crl-list.sql - pull relevant information from the observatory
+parse-crl-list.py - parse raw SQL output into a list useful for sorting
+
