@@ -1,0 +1,92 @@
+issuer=/C=AT/L=Wien/O=MP2 IT-Solutions GmbH/CN=MP2.at Root CA/emailAddress=mp2@mp2.at
+SHA1 Fingerprint=C8:5D:D8:F0:86:B3:22:E6:92:A0:91:7D:B7:82:2F:3D:09:57:5F:68
+458315e0
+crlNumber=09
+lastUpdate=Jan  1 13:17:29 2011 GMT
+nextUpdate=Jul  2 01:37:29 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=AT/L=Wien/O=MP2 IT-Solutions GmbH/CN=MP2.at Root CA/emailAddress=mp2@mp2.at
+        Last Update: Jan  1 13:17:29 2011 GMT
+        Next Update: Jul  2 01:37:29 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:EF:27:57:22:04:1E:7E:9F:FA:8D:72:58:6A:85:7D:CA:5A:21:A1:33
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                9
+            1.3.6.1.4.1.311.21.4: 
+                .110701132729Z
+            1.3.6.1.4.1.311.21.14: 
+                0..0...........ldap:///CN=MP2.at%20Root%20CA,CN=G,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=mp2,DC=local?certificateRevocationList?base?objectClass=cRLDistributionPoint
+Revoked Certificates:
+    Serial Number: 588FCF3700000000001C
+        Revocation Date: Jul  2 09:27:00 2010 GMT
+    Serial Number: 16B75B17000000000007
+        Revocation Date: Jun 14 11:50:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 16B65ABE000000000006
+        Revocation Date: Jun 14 11:50:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 169F920A000000000005
+        Revocation Date: Jun 14 11:50:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 612927E3000000000019
+        Revocation Date: Jun 14 11:49:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 61254031000000000018
+        Revocation Date: Jun 14 11:49:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 612256D5000000000017
+        Revocation Date: Jun 14 11:49:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 1673977E000000000004
+        Revocation Date: May 26 15:14:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        6c:77:bb:d8:35:c5:de:7c:d0:c4:00:ef:15:6c:2b:ac:a3:ba:
+        d9:0c:77:92:a2:0b:84:b1:db:da:bb:76:11:c2:23:f1:8d:a4:
+        97:d3:bb:b7:63:f0:96:57:b1:85:8e:06:e0:ac:a8:8c:8b:90:
+        5a:63:76:c5:45:97:08:a4:7e:8e:28:45:5f:d5:a7:46:53:c2:
+        7b:b6:fb:bb:ad:d3:3f:34:b4:42:cc:d5:c1:d0:aa:28:1a:bc:
+        7f:f9:0f:ac:c1:5b:2b:8f:7d:a7:0b:cc:d3:fb:b3:0f:f7:e8:
+        16:5d:13:f6:0c:ef:82:bb:09:44:01:8d:dc:94:7f:09:73:94:
+        dd:41:72:7e:51:d9:6e:de:2c:a5:51:5c:3c:d1:19:32:21:46:
+        d4:0f:25:a7:c6:34:04:8c:91:94:36:76:a8:16:8f:0c:2a:e7:
+        50:f2:fc:d5:c5:b9:8f:ef:bb:43:5a:8f:22:53:a5:1c:b0:dd:
+        de:d0:a6:c3:6f:a8:56:fa:50:22:39:11:62:21:f8:dd:20:bf:
+        14:46:cb:4e:45:15:d1:6e:3d:3a:f5:30:5b:2c:4e:95:e7:f0:
+        30:82:42:57:dd:23:ea:9c:b1:c7:fd:6e:37:35:24:30:2a:ee:
+        e7:60:5a:b9:22:cb:87:f0:e4:71:61:c2:cc:93:36:1f:7c:34:
+        00:f0:09:b7:83:79:f9:ae:cf:51:16:8e:e4:e3:43:8f:55:08:
+        e2:af:65:db:d5:67:56:03:ca:f6:d6:44:d5:ad:2c:90:29:fc:
+        f5:ee:ab:28:74:1b:5c:67:c0:25:b9:dc:7d:ce:ec:c4:e9:d2:
+        f1:2f:0d:6e:ea:f2:90:b2:42:e1:cc:cd:c4:44:25:67:32:21:
+        f7:8f:1e:8a:c3:19:91:ab:25:82:f4:26:aa:35:a8:13:36:16:
+        d6:5c:27:f6:67:12:c6:15:e9:fc:92:4b:70:de:61:85:1f:0d:
+        4f:0c:d5:ca:8f:b4:fc:0e:8e:35:81:ec:ac:39:83:12:e1:a5:
+        c0:6b:36:3b:d8:d9:7a:52:16:b7:ec:9b:8d:86:df:3c:95:e9:
+        38:b5:0a:75:fc:c7:78:e5:cd:63:89:6e:03:db:25:40:79:0a:
+        79:f2:49:52:23:74:3c:63:e7:7b:7a:7a:a6:f3:20:bd:6b:56:
+        eb:9b:4d:5a:4b:32:48:e3:4e:dd:8c:6b:da:dd:f2:10:54:09:
+        c5:a2:c3:02:87:44:63:0a:c4:07:76:3c:65:e6:7c:09:15:9d:
+        90:4a:88:6d:61:dd:00:c6:fa:7d:91:dd:1f:22:07:6e:52:d6:
+        57:b4:dd:f2:a5:1b:9c:aa:bd:8f:84:5c:ce:b5:1a:20:8b:66:
+        34:64:27:7f:92:89:bf:ed
