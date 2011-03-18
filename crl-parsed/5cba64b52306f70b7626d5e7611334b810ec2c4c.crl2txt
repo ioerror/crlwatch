@@ -1,0 +1,47 @@
+issuer=/C=IE/ST=Dublin/L=Dublin/O=Digi-Sign Limited/OU=Terms and Conditions of use: http://www.digi-sign.com/repository/CN=Digi-Sign CA Digi-SSL Xs
+SHA1 Fingerprint=7F:48:E9:F5:1E:97:09:AD:F8:75:FC:EA:C2:85:D0:7F:91:03:AB:33
+7dd6ce7d
+crlNumber=0814
+lastUpdate=Mar 17 22:44:29 2011 GMT
+nextUpdate=Mar 21 22:44:29 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=IE/ST=Dublin/L=Dublin/O=Digi-Sign Limited/OU=Terms and Conditions of use: http://www.digi-sign.com/repository/CN=Digi-Sign CA Digi-SSL Xs
+        Last Update: Mar 17 22:44:29 2011 GMT
+        Next Update: Mar 21 22:44:29 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:1E:8B:38:EF:2A:0D:0B:3C:20:55:F3:C2:E7:A7:0C:04:3C:67:FA:BC
+
+            X509v3 CRL Number: 
+                2068
+Revoked Certificates:
+    Serial Number: D7BFB4E790107C541CCC33228E07F83C
+        Revocation Date: Sep  3 13:05:43 2008 GMT
+    Serial Number: C097D2842A896245178F7DEB5D3B5C6E
+        Revocation Date: Jun 11 14:35:26 2009 GMT
+    Serial Number: 3D91808069C7F52F4E7D3811FDB9A1BD
+        Revocation Date: Mar 18 10:41:57 2010 GMT
+    Serial Number: 8D254169947F51A73635E2496BDB79CF
+        Revocation Date: Oct 13 08:43:21 2010 GMT
+    Serial Number: B0201628A3ED3C4B0B43211034BF0A2A
+        Revocation Date: Nov 16 14:04:45 2010 GMT
+    Serial Number: DE4F804A1F60DFB8F01936D39D2F83E5
+        Revocation Date: Mar 14 10:44:50 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        b3:2f:11:aa:40:2b:c5:10:47:24:eb:d4:aa:51:b9:b2:8f:cf:
+        01:6a:da:8d:03:46:ca:ad:ff:97:f1:67:cc:8f:ca:cd:5c:80:
+        59:cd:35:34:a0:c7:3c:6b:c8:75:e1:c2:01:52:0a:05:a2:94:
+        cb:eb:50:76:71:8b:b0:e9:c9:8a:cb:83:6b:ce:76:3b:6a:77:
+        b0:e5:88:0a:2b:ff:85:f9:0e:9f:d9:6b:38:91:fa:00:be:e0:
+        e4:53:8c:87:8c:29:34:7c:72:f5:3b:c4:cc:8a:ae:04:2e:d1:
+        66:c9:96:d1:c4:98:21:39:16:6f:02:8f:c1:f2:f3:57:d3:85:
+        d0:ec:d8:9a:16:a1:90:53:3e:33:1d:7f:1b:02:ac:38:ac:d2:
+        a6:d2:98:b8:fa:84:b7:00:d3:84:75:73:c6:d5:fc:ea:57:16:
+        11:37:ab:f9:28:c5:d6:a0:0f:2a:c5:50:8b:8d:75:5b:49:d2:
+        5c:f3:1b:d7:3c:b0:05:57:af:22:ce:0a:7b:42:dc:21:da:d7:
+        35:9a:78:e7:65:a2:42:c3:e0:e3:1e:be:bf:e5:21:cd:ab:05:
+        50:ca:b2:52:cd:04:84:df:a0:8f:d6:41:97:59:f1:73:22:2d:
+        9f:e0:db:f6:23:4c:44:c7:da:4c:52:c5:7e:01:4f:15:24:68:
+        9b:b7:f1:c5
