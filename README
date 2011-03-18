@@ -1,7 +1,21 @@
 crlwatch - collect, watch, and analyze SSL/TLS CRL lists
 
+
+                                 Files of interest
+
+crl-raw/ - contains all downloaded CRL files hashed and ending with .crl
+crl-raw/master-crl-list.txt - a sorted and uniq list of all discovered CRLs
+crl-raw/raw-crl-sql-output-list.txt - an unsorted raw list of the CRL SSL
+                                      observatory data
+crl-parsed/ - contains text output for every parsed CRL; the names are hashed
+              and end with .crl2txt
+fetch-crls.sh - Fetch all known CRLs over Tor
+git-commit-crl-data.sh - Process all CRL files and pack them into a git repo
+parse-raw-crl-to-text.sh - parse a given CRL file into readable text
 generate-crl-list.sql - pull relevant information from the observatory
 parse-crl-list.py - parse raw SQL output into a list useful for sorting
+
+                                         Examples
 
 Generate a full list of all known CRL files:
 
