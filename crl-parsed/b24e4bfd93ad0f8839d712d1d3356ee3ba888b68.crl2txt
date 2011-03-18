@@ -1,0 +1,90 @@
+issuer=/C=DE/ST=Baden-Wuerttemberg/L=Mannheim/O=Universitaet Mannheim/OU=Rechenzentrum/CN=RUM-CA-G Zertifizierungsinstanz/emailAddress=rum-ca@rz.uni-mannheim.de
+SHA1 Fingerprint=DF:52:A7:69:31:EC:5C:CF:F1:0B:DA:61:41:EF:DA:E8:E7:9A:62:5B
+132e1ca6
+crlNumber=FA
+lastUpdate=Mar 14 09:37:24 2011 GMT
+nextUpdate=Apr 13 09:37:24 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Baden-Wuerttemberg/L=Mannheim/O=Universitaet Mannheim/OU=Rechenzentrum/CN=RUM-CA-G Zertifizierungsinstanz/emailAddress=rum-ca@rz.uni-mannheim.de
+        Last Update: Mar 14 09:37:24 2011 GMT
+        Next Update: Apr 13 09:37:24 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                250
+Revoked Certificates:
+    Serial Number: 0B04C64D
+        Revocation Date: Dec 14 09:13:08 2007 GMT
+    Serial Number: 0B11AD1F
+        Revocation Date: Aug 24 11:11:28 2010 GMT
+    Serial Number: 0B12FC4F
+        Revocation Date: Jun 26 06:38:09 2008 GMT
+    Serial Number: 0B1C319E
+        Revocation Date: Oct 11 09:49:10 2007 GMT
+    Serial Number: 0B2AAB91
+        Revocation Date: Oct 11 09:49:08 2007 GMT
+    Serial Number: 0B5A7B7A
+        Revocation Date: May 26 06:56:34 2008 GMT
+    Serial Number: 0B6378E3
+        Revocation Date: May 26 07:03:43 2008 GMT
+    Serial Number: 0B6378E6
+        Revocation Date: Jul 30 12:01:10 2009 GMT
+    Serial Number: 0B6B9845
+        Revocation Date: May 26 07:08:29 2008 GMT
+    Serial Number: 0B7392D7
+        Revocation Date: May 26 07:10:29 2008 GMT
+    Serial Number: 0B7392D9
+        Revocation Date: May 26 07:10:30 2008 GMT
+    Serial Number: 0B7E15B6
+        Revocation Date: Mar 31 10:40:16 2009 GMT
+    Serial Number: 0B7E15B9
+        Revocation Date: Mar 31 10:40:17 2009 GMT
+    Serial Number: 0C354519
+        Revocation Date: Jun 30 06:38:32 2008 GMT
+    Serial Number: 0C82B9EC
+        Revocation Date: Jun 26 07:29:08 2008 GMT
+    Serial Number: 0CB247E3
+        Revocation Date: Nov  9 14:27:08 2010 GMT
+    Serial Number: 0CB785A1
+        Revocation Date: Jan 23 13:21:19 2009 GMT
+    Serial Number: 0CF8777B
+        Revocation Date: Sep 24 09:57:08 2008 GMT
+    Serial Number: 0CF9A4A7
+        Revocation Date: Sep 26 12:47:18 2008 GMT
+    Serial Number: 0D5C6D40
+        Revocation Date: Mar 26 10:38:08 2009 GMT
+    Serial Number: 0E0FF9F1
+        Revocation Date: Feb  5 09:33:11 2010 GMT
+    Serial Number: 0E30AE0C
+        Revocation Date: Sep 10 07:17:16 2009 GMT
+    Serial Number: 0E55B7B0
+        Revocation Date: Feb  3 14:39:20 2011 GMT
+    Serial Number: 0E87DAC4
+        Revocation Date: Aug  3 09:47:16 2009 GMT
+    Serial Number: 0F3745F5
+        Revocation Date: Mar 15 10:34:24 2010 GMT
+    Serial Number: 1067BE19
+        Revocation Date: Nov 22 13:25:09 2010 GMT
+    Serial Number: 10E62544
+        Revocation Date: Oct 27 08:35:23 2010 GMT
+    Serial Number: 10E62546
+        Revocation Date: Oct 27 08:35:22 2010 GMT
+    Serial Number: 1101E29B
+        Revocation Date: Nov 16 12:23:27 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        19:b2:67:a1:da:ca:1c:8d:2d:08:51:df:54:7a:d5:fc:79:b3:
+        34:92:b4:58:6f:e7:98:4d:8f:4c:f8:45:14:3a:41:16:73:b7:
+        53:4f:6a:fb:8b:73:e4:b6:28:d2:e9:c8:90:e6:46:c9:36:d8:
+        58:23:32:27:9f:af:34:33:ef:ba:af:75:40:73:e6:41:0e:34:
+        6b:68:f1:4f:7d:b4:27:5d:0d:56:cf:54:91:b2:42:c2:bc:6e:
+        3d:4e:cc:e9:35:61:f7:cc:97:08:ce:5c:a8:9f:df:8a:a4:08:
+        22:90:c3:d5:ca:11:04:fa:a4:5c:e1:dd:5c:3c:25:b1:66:b5:
+        d6:66:bb:d9:7f:2c:b6:6b:13:73:39:51:25:1a:35:ca:11:fd:
+        bf:20:c3:1b:29:55:cd:94:e7:19:a7:ed:b1:c0:cc:0f:88:86:
+        a9:2e:0b:cc:f4:c6:38:18:02:2e:0e:86:c1:c6:1d:66:7c:06:
+        00:ae:26:20:ef:ff:5d:ce:26:94:e0:eb:44:7a:23:02:d7:a4:
+        9b:7e:34:b3:e3:36:f9:b0:f5:f2:c8:05:0f:3e:f7:0f:89:f1:
+        8a:eb:d3:32:fb:39:c5:4c:03:ea:5b:ec:38:0c:10:8d:01:34:
+        ec:56:f1:c1:3b:41:78:a8:02:dd:84:f9:54:7a:3e:58:06:15:
+        55:66:08:50
