@@ -1,0 +1,599 @@
+issuer=/C=US/O=Entrust/OU=Certification Authorities/CN=Entrust Education Shared Service Provider
+SHA1 Fingerprint=FE:F5:34:28:64:45:A4:F1:D1:22:61:0F:A4:22:7A:CC:D5:F5:15:37
+b237f270
+crlNumber=0434
+lastUpdate=Mar 18 08:23:31 2011 GMT
+nextUpdate=Mar 19 08:23:31 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=Entrust/OU=Certification Authorities/CN=Entrust Education Shared Service Provider
+        Last Update: Mar 18 08:23:31 2011 GMT
+        Next Update: Mar 19 08:23:31 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                1076
+            X509v3 Authority Key Identifier: 
+                keyid:22:DD:A2:FA:58:4E:83:3E:53:8B:01:80:13:16:35:D4:81:15:B6:7F
+
+Revoked Certificates:
+    Serial Number: 4C1FC26E
+        Revocation Date: Mar 17 19:01:12 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FC229
+        Revocation Date: Mar 17 19:01:12 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FC13E
+        Revocation Date: Mar 10 16:46:01 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FC114
+        Revocation Date: Mar  8 16:53:16 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FC0A6
+        Revocation Date: Mar 10 18:48:06 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FC09E
+        Revocation Date: Mar  4 21:06:24 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FBDED
+        Revocation Date: Feb 16 20:06:20 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FBDDE
+        Revocation Date: Feb 16 15:04:15 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FBD9C
+        Revocation Date: Feb 16 15:04:15 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FBC57
+        Revocation Date: Feb 11 00:59:12 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FBC52
+        Revocation Date: Feb  7 18:08:23 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FBC4E
+        Revocation Date: Feb  7 17:33:40 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FBC4B
+        Revocation Date: Feb  7 16:39:43 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FBAB1
+        Revocation Date: Jan 26 20:57:32 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FBAB0
+        Revocation Date: Jan 26 20:57:33 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FBA83
+        Revocation Date: Feb  7 16:08:26 2011 GMT
+    Serial Number: 4C1FB9B3
+        Revocation Date: Jan 20 21:39:29 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FB8BA
+        Revocation Date: Feb  7 16:08:26 2011 GMT
+    Serial Number: 4C1FB8B8
+        Revocation Date: Jan 12 15:56:29 2011 GMT
+    Serial Number: 4C1FB5C1
+        Revocation Date: Dec 22 21:57:49 2010 GMT
+    Serial Number: 4C1FB589
+        Revocation Date: Dec 22 20:56:17 2010 GMT
+    Serial Number: 4C1FB588
+        Revocation Date: Dec 22 20:56:17 2010 GMT
+    Serial Number: 4C1FB562
+        Revocation Date: Dec 21 01:27:21 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB560
+        Revocation Date: Dec 21 01:27:21 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB55B
+        Revocation Date: Dec 21 01:27:21 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB55A
+        Revocation Date: Dec 21 01:27:22 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB4B2
+        Revocation Date: Feb 16 15:03:27 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FB4B1
+        Revocation Date: Feb 16 15:03:28 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FB3A3
+        Revocation Date: Dec  8 16:49:29 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB3A2
+        Revocation Date: Dec  8 16:49:29 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB3A1
+        Revocation Date: Dec  8 16:49:29 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB35C
+        Revocation Date: Dec  8 03:43:24 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB32A
+        Revocation Date: Dec  6 22:00:03 2010 GMT
+    Serial Number: 4C1FB0AF
+        Revocation Date: Nov 19 19:38:27 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB0AE
+        Revocation Date: Nov 19 19:38:27 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB05B
+        Revocation Date: Nov 17 03:55:43 2010 GMT
+    Serial Number: 4C1FB057
+        Revocation Date: Nov 19 19:40:51 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB033
+        Revocation Date: Nov 19 19:40:51 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FB015
+        Revocation Date: Nov 17 03:55:43 2010 GMT
+    Serial Number: 4C1FAFDD
+        Revocation Date: Nov 17 03:55:43 2010 GMT
+    Serial Number: 4C1FAFD9
+        Revocation Date: Nov 19 19:40:52 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FAFCF
+        Revocation Date: Nov 12 15:02:16 2010 GMT
+    Serial Number: 4C1FAFCE
+        Revocation Date: Nov 12 15:02:16 2010 GMT
+    Serial Number: 4C1FAFCC
+        Revocation Date: Nov 12 14:51:13 2010 GMT
+    Serial Number: 4C1FAFCB
+        Revocation Date: Nov 12 14:51:13 2010 GMT
+    Serial Number: 4C1FAFA6
+        Revocation Date: Nov 17 03:55:43 2010 GMT
+    Serial Number: 4C1FAFA5
+        Revocation Date: Nov 17 03:55:43 2010 GMT
+    Serial Number: 4C1FAFA4
+        Revocation Date: Nov 12 14:03:41 2010 GMT
+    Serial Number: 4C1FAFA3
+        Revocation Date: Nov 12 14:03:41 2010 GMT
+    Serial Number: 4C1FAF9D
+        Revocation Date: Nov 19 19:40:52 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FAF9C
+        Revocation Date: Nov 19 19:40:52 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FAF93
+        Revocation Date: Nov 19 19:40:52 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FAF92
+        Revocation Date: Nov 19 19:40:52 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FAF64
+        Revocation Date: Nov 17 03:55:43 2010 GMT
+    Serial Number: 4C1FAF63
+        Revocation Date: Nov 17 03:55:43 2010 GMT
+    Serial Number: 4C1FAF5E
+        Revocation Date: Nov 17 03:55:43 2010 GMT
+    Serial Number: 4C1FAF5D
+        Revocation Date: Nov 17 03:55:43 2010 GMT
+    Serial Number: 4C1FAF3A
+        Revocation Date: Nov 10 19:58:01 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FAF13
+        Revocation Date: Nov 17 03:55:43 2010 GMT
+    Serial Number: 4C1FAF12
+        Revocation Date: Nov 17 03:55:44 2010 GMT
+    Serial Number: 4C1FAD99
+        Revocation Date: Nov 17 03:55:44 2010 GMT
+    Serial Number: 4C1FAD98
+        Revocation Date: Nov 17 03:55:44 2010 GMT
+    Serial Number: 4C1FAD96
+        Revocation Date: Nov 17 03:55:44 2010 GMT
+    Serial Number: 4C1FAD95
+        Revocation Date: Nov 17 03:55:44 2010 GMT
+    Serial Number: 4C1FAD91
+        Revocation Date: Nov 17 03:55:44 2010 GMT
+    Serial Number: 4C1FAD90
+        Revocation Date: Nov 17 03:55:44 2010 GMT
+    Serial Number: 4C1FAD8D
+        Revocation Date: Nov 17 03:55:44 2010 GMT
+    Serial Number: 4C1FAD8C
+        Revocation Date: Nov 17 03:55:44 2010 GMT
+    Serial Number: 4C1FAC34
+        Revocation Date: Jan 19 20:47:27 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FAAF2
+        Revocation Date: Dec  1 15:15:24 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FAAE8
+        Revocation Date: Nov 10 19:58:01 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FA5CF
+        Revocation Date: Oct  4 20:28:16 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA5CE
+        Revocation Date: Oct  4 20:28:16 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA5CD
+        Revocation Date: Oct  4 20:28:41 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA5CC
+        Revocation Date: Oct  4 20:28:41 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA5B0
+        Revocation Date: Oct  4 20:27:53 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA5AF
+        Revocation Date: Oct  4 20:27:53 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA5AB
+        Revocation Date: Aug 31 04:25:28 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FA5AA
+        Revocation Date: Aug 31 04:25:29 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FA5A8
+        Revocation Date: Aug 31 13:11:38 2010 GMT
+    Serial Number: 4C1FA5A7
+        Revocation Date: Aug 31 13:11:38 2010 GMT
+    Serial Number: 4C1FA5A3
+        Revocation Date: Aug 31 13:11:38 2010 GMT
+    Serial Number: 4C1FA5A2
+        Revocation Date: Aug 31 13:11:38 2010 GMT
+    Serial Number: 4C1FA55B
+        Revocation Date: Aug 30 19:18:41 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FA55A
+        Revocation Date: Aug 30 19:18:41 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Affiliation Changed
+    Serial Number: 4C1FA558
+        Revocation Date: Oct  4 20:27:25 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA557
+        Revocation Date: Oct  4 20:27:25 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA555
+        Revocation Date: Oct  4 20:27:25 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA554
+        Revocation Date: Oct  4 20:27:26 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA4DA
+        Revocation Date: Oct  4 20:12:04 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA4D9
+        Revocation Date: Oct  4 20:12:04 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA473
+        Revocation Date: Oct  4 19:54:17 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA472
+        Revocation Date: Oct  4 19:54:18 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA456
+        Revocation Date: Aug 18 18:16:54 2010 GMT
+    Serial Number: 4C1FA43D
+        Revocation Date: Oct  4 20:05:40 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA3D4
+        Revocation Date: Oct  4 20:43:45 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA3D3
+        Revocation Date: Oct  4 20:43:46 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA3BD
+        Revocation Date: Dec  8 03:43:24 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA3B7
+        Revocation Date: Aug 11 17:46:57 2010 GMT
+    Serial Number: 4C1FA3B6
+        Revocation Date: Dec  8 03:43:24 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA3A0
+        Revocation Date: Aug 20 15:37:04 2010 GMT
+    Serial Number: 4C1FA39F
+        Revocation Date: Aug 20 15:37:04 2010 GMT
+    Serial Number: 4C1FA39E
+        Revocation Date: Oct  4 20:09:08 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA39D
+        Revocation Date: Oct  4 20:09:08 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA204
+        Revocation Date: Oct  4 20:43:46 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA203
+        Revocation Date: Oct  4 20:43:46 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA15F
+        Revocation Date: Oct  4 20:11:20 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA15E
+        Revocation Date: Oct  4 20:11:20 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA15C
+        Revocation Date: Oct  4 20:06:40 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA15B
+        Revocation Date: Oct  4 20:06:40 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA159
+        Revocation Date: Aug 27 15:18:27 2010 GMT
+    Serial Number: 4C1FA158
+        Revocation Date: Aug 27 15:18:27 2010 GMT
+    Serial Number: 4C1FA156
+        Revocation Date: Aug 18 18:16:54 2010 GMT
+    Serial Number: 4C1FA155
+        Revocation Date: Aug 18 18:16:54 2010 GMT
+    Serial Number: 4C1FA153
+        Revocation Date: Aug 18 18:26:56 2010 GMT
+    Serial Number: 4C1FA152
+        Revocation Date: Aug 18 18:26:56 2010 GMT
+    Serial Number: 4C1FA150
+        Revocation Date: Aug 20 15:37:04 2010 GMT
+    Serial Number: 4C1FA14F
+        Revocation Date: Aug 20 15:37:04 2010 GMT
+    Serial Number: 4C1FA14D
+        Revocation Date: Oct  4 20:09:08 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA14C
+        Revocation Date: Oct  4 20:09:08 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA14A
+        Revocation Date: Oct  4 20:05:40 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA149
+        Revocation Date: Oct  4 20:05:40 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA147
+        Revocation Date: Dec  8 03:43:24 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA146
+        Revocation Date: Dec  8 03:43:24 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1FA12C
+        Revocation Date: Jul 20 14:20:17 2010 GMT
+    Serial Number: 4C1FA12B
+        Revocation Date: Jul 20 14:20:17 2010 GMT
+    Serial Number: 4C1FA115
+        Revocation Date: Jul 15 18:02:49 2010 GMT
+    Serial Number: 4C1FA114
+        Revocation Date: Jul 15 18:02:49 2010 GMT
+    Serial Number: 4C1FA112
+        Revocation Date: Jul 15 17:48:56 2010 GMT
+    Serial Number: 4C1FA111
+        Revocation Date: Jul 15 17:48:56 2010 GMT
+    Serial Number: 4C1FA00E
+        Revocation Date: Jul 15 18:05:29 2010 GMT
+    Serial Number: 4C1FA00D
+        Revocation Date: Jul 15 18:05:29 2010 GMT
+    Serial Number: 4C1FA00B
+        Revocation Date: Jul 15 18:01:29 2010 GMT
+    Serial Number: 4C1FA00A
+        Revocation Date: Jul 15 18:01:29 2010 GMT
+    Serial Number: 4C1FA008
+        Revocation Date: Jul 15 18:08:03 2010 GMT
+    Serial Number: 4C1FA007
+        Revocation Date: Jul 15 18:08:03 2010 GMT
+    Serial Number: 4C1FA005
+        Revocation Date: Jul 15 18:06:53 2010 GMT
+    Serial Number: 4C1FA004
+        Revocation Date: Jul 15 18:06:53 2010 GMT
+    Serial Number: 4C1FA002
+        Revocation Date: Jul 15 18:04:06 2010 GMT
+    Serial Number: 4C1FA001
+        Revocation Date: Jul 15 18:04:06 2010 GMT
+    Serial Number: 4C1F9FFF
+        Revocation Date: Jul 15 17:59:41 2010 GMT
+    Serial Number: 4C1F9FFE
+        Revocation Date: Jul 15 17:59:41 2010 GMT
+    Serial Number: 4C1F9FFC
+        Revocation Date: Jul 15 17:58:20 2010 GMT
+    Serial Number: 4C1F9FFB
+        Revocation Date: Jul 15 17:58:20 2010 GMT
+    Serial Number: 4C1F9FF9
+        Revocation Date: Jul 15 17:55:30 2010 GMT
+    Serial Number: 4C1F9FF8
+        Revocation Date: Jul 15 17:55:30 2010 GMT
+    Serial Number: 4C1F9FF6
+        Revocation Date: Jul 20 14:20:17 2010 GMT
+    Serial Number: 4C1F9FF5
+        Revocation Date: Jul 20 14:20:17 2010 GMT
+    Serial Number: 4C1F9FF4
+        Revocation Date: Oct  4 20:03:23 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1F9FF3
+        Revocation Date: Oct  4 20:03:23 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1F9FF1
+        Revocation Date: Oct  4 20:03:56 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1F9FF0
+        Revocation Date: Oct  4 20:03:56 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1F9FEE
+        Revocation Date: Jul 20 13:42:06 2010 GMT
+    Serial Number: 4C1F9FED
+        Revocation Date: Jul 20 13:42:06 2010 GMT
+    Serial Number: 4C1F9FE9
+        Revocation Date: Oct  4 20:40:31 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1F9FE8
+        Revocation Date: Oct  4 20:40:31 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 4C1F9FBC
+        Revocation Date: Jul 20 14:39:20 2010 GMT
+    Serial Number: 4C1F9FBB
+        Revocation Date: Jul 20 14:39:20 2010 GMT
+    Serial Number: 4C1F9F76
+        Revocation Date: Jul 14 17:46:43 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        12:87:99:65:d4:5c:9d:8b:60:2c:e9:69:40:7c:8a:0a:4e:3e:
+        38:1d:65:5e:07:5c:53:30:b6:3f:e3:ef:23:49:bb:21:42:5d:
+        50:1d:16:86:ae:3f:5e:e2:cc:2a:36:5f:75:bc:6f:4b:23:40:
+        6e:fb:82:97:42:20:71:45:df:df:e3:b1:f3:f3:95:f1:3e:41:
+        05:24:a8:16:9d:ee:99:94:c9:5b:e7:7d:fd:07:a2:db:29:04:
+        62:1e:b5:3a:12:45:a6:e4:ee:80:ba:a8:23:9e:c4:7a:bd:8e:
+        f8:c3:c9:ef:b7:e6:c5:32:36:7a:1e:22:78:a1:2c:04:eb:12:
+        d8:aa:80:db:16:ee:e5:b4:cd:6c:e0:14:ff:97:70:38:ef:1d:
+        52:d5:c9:2b:94:20:85:7c:d9:28:a8:af:8f:64:a6:34:30:e7:
+        b2:42:25:c0:31:2a:37:1c:9f:d2:d7:5e:ae:33:e5:ca:1e:93:
+        3d:82:d5:8c:31:37:9b:8a:fb:8a:df:59:66:30:e2:d1:de:7a:
+        10:5f:c7:cd:0d:42:ac:f7:d4:09:c2:e9:13:84:7e:a5:14:3d:
+        52:05:40:bb:e0:3a:85:d2:b4:47:d9:58:88:e0:86:cc:2e:4e:
+        f8:7f:e7:88:9b:ec:bb:e2:3a:c5:72:1d:c5:86:ca:ea:ae:7f:
+        46:5a:5b:91
