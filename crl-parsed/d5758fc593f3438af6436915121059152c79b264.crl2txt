@@ -1,0 +1,41 @@
+issuer=/C=US/O=Bechtel Corporation/OU=Information Security/CN=Bechtel External iBechtel CA 1
+SHA1 Fingerprint=68:CE:C4:5B:78:16:E0:5C:04:8C:9C:D1:59:88:F6:26:C1:95:33:AE
+f72161e8
+crlNumber=0327
+lastUpdate=Mar 14 08:50:01 2011 GMT
+nextUpdate=Mar 21 17:10:01 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=Bechtel Corporation/OU=Information Security/CN=Bechtel External iBechtel CA 1
+        Last Update: Mar 14 08:50:01 2011 GMT
+        Next Update: Mar 21 17:10:01 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:8F:31:85:64:C3:86:D6:00:82:B9:A1:EE:50:0B:92:F5:51:CC:E2:D4
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                807
+            1.3.6.1.4.1.311.21.4: 
+                .110321090001Z
+            X509v3 Freshest CRL: 
+                0X0V.T.R.Phttp://certauth.bechtel.com/certdata/Bechtel%20External%20iBechtel%20CA%201+.crl
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        23:0c:48:14:b4:f3:1f:5b:68:43:b2:84:c6:ae:4b:b8:cc:9b:
+        61:bc:a0:f9:93:7c:0d:51:51:1c:da:99:4e:8a:a7:0a:45:fb:
+        25:35:a6:93:73:c3:d1:db:9e:af:63:69:f0:ac:7d:bd:a0:75:
+        06:45:1a:66:a9:a4:f3:8d:37:7c:cc:8f:fc:10:2a:81:ff:48:
+        51:69:ab:68:80:89:ed:f7:93:48:93:52:9b:66:8d:56:23:09:
+        02:fc:09:49:c4:c7:64:55:ad:20:74:0b:42:97:6b:c0:51:25:
+        f9:66:fb:62:fe:e9:45:11:d9:7e:48:c1:76:c9:c1:b3:bc:32:
+        ad:bf:48:41:71:12:a2:5a:80:79:e2:7d:97:8c:8b:e3:1f:27:
+        0d:39:af:87:41:66:52:77:aa:a8:63:5d:de:4c:d8:50:5d:68:
+        9c:b7:7e:c4:3d:48:2a:fc:3a:05:d1:d5:80:f0:ec:6a:cd:83:
+        40:aa:3d:cc:46:d4:e8:26:4d:71:0a:74:a2:0c:d7:80:3d:e2:
+        59:cd:23:3c:ac:13:9f:bd:56:58:0d:78:a7:f1:52:7c:32:f6:
+        41:4e:37:48:db:a9:82:b7:7a:99:79:4b:59:ff:09:1b:1a:51:
+        f5:89:69:87:92:70:b6:f7:90:42:b7:a2:33:11:49:e1:31:5c:
+        5a:39:60:a2
