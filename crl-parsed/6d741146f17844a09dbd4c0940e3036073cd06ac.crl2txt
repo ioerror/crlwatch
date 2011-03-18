@@ -1,0 +1,48 @@
+issuer=/C=DE/O=Dioezese Rottenburg-Stuttgart/CN=DRS CA - G01/emailAddress=pki@drs.de
+SHA1 Fingerprint=55:BD:01:97:D2:04:88:C8:0F:CD:5F:27:66:30:6A:5D:DC:28:B9:E2
+a570258d
+crlNumber=93
+lastUpdate=Mar 14 07:27:15 2011 GMT
+nextUpdate=Apr 13 07:27:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Dioezese Rottenburg-Stuttgart/CN=DRS CA - G01/emailAddress=pki@drs.de
+        Last Update: Mar 14 07:27:15 2011 GMT
+        Next Update: Apr 13 07:27:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                147
+Revoked Certificates:
+    Serial Number: 0CDB2923
+        Revocation Date: Sep  1 09:51:05 2008 GMT
+    Serial Number: 0CDB3C95
+        Revocation Date: Sep  1 15:08:05 2008 GMT
+    Serial Number: 0CE47BC6
+        Revocation Date: Apr 29 12:02:07 2009 GMT
+    Serial Number: 0CE862AE
+        Revocation Date: Sep 15 08:29:07 2008 GMT
+    Serial Number: 0CED9938
+        Revocation Date: Dec 14 13:17:09 2010 GMT
+    Serial Number: 0CEDC5FA
+        Revocation Date: Sep 16 10:14:06 2008 GMT
+    Serial Number: 0E1775B7
+        Revocation Date: Apr 29 07:41:08 2009 GMT
+    Serial Number: 0E178D63
+        Revocation Date: Aug  4 10:37:07 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        cd:ac:a9:65:8c:d3:4c:c6:0e:8c:b8:7c:e6:ff:fc:8a:af:60:
+        70:c6:f7:30:80:4c:3f:f9:99:bb:09:23:bb:3a:7e:39:e1:34:
+        d7:18:78:5b:fe:6c:63:62:09:09:73:e1:98:ae:33:e3:b2:d1:
+        3d:70:24:e3:1e:0a:18:28:de:1a:dc:80:2f:0a:46:fc:5c:a4:
+        09:42:a1:dc:58:ff:06:be:ae:e0:5b:49:38:b3:4e:ec:a3:93:
+        4c:97:df:31:b1:4d:65:35:05:14:ff:f6:cc:2e:18:5a:49:34:
+        1a:33:21:85:ba:21:8e:5e:37:be:7e:ed:40:52:76:65:ae:ff:
+        63:14:13:73:0f:b0:28:28:82:a7:78:68:b9:34:9f:a9:5d:c2:
+        a2:66:d2:af:eb:80:4b:7d:22:25:3c:ab:ba:a0:30:5e:82:08:
+        d2:e7:c4:0c:bb:bd:b9:cb:ea:86:eb:b2:fd:9a:d4:f4:6f:0c:
+        96:89:ee:ae:7b:15:80:e2:b0:b0:a0:4f:e1:9f:70:3c:5b:2f:
+        e5:53:28:05:11:12:3c:28:80:d6:71:21:59:1c:d9:bf:b3:f1:
+        00:9d:e1:7e:14:46:8c:79:f1:0a:b2:ba:02:48:e7:6e:37:f0:
+        ea:c3:ab:65:02:af:80:76:d1:fb:d1:99:d2:61:5f:1b:d9:51:
+        b4:8e:5c:55
