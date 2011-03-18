@@ -1,0 +1,45 @@
+issuer=/DC=com/DC=telstra/DC=dir/DC=test/DC=testcore/CN=Test RSS Issuing CA
+SHA1 Fingerprint=0F:E3:B4:69:FE:98:95:87:71:49:2F:70:C2:20:AF:29:0F:EF:24:60
+657294e6
+crlNumber=02E9
+lastUpdate=Mar 11 02:04:35 2011 GMT
+nextUpdate=Apr  1 14:24:35 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=com/DC=telstra/DC=dir/DC=test/DC=testcore/CN=Test RSS Issuing CA
+        Last Update: Mar 11 02:04:35 2011 GMT
+        Next Update: Apr  1 14:24:35 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:5C:6A:8B:FA:40:80:6E:CF:76:D6:02:DC:5E:06:12:F5:3A:71:69:DF
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                745
+            1.3.6.1.4.1.311.21.4: 
+                .110401021435Z
+            X509v3 Freshest CRL: 
+                0..-0..)...%...!.Dhttp://telstra-crl.pki.telstra.com.au/Test%20RSS%20Issuing%20CA+.crl...ldap:///CN=Test%20RSS%20Issuing%20CA,CN=wsrssi0201,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=testcore,DC=test,DC=dir,DC=telstra,DC=com?deltaRevocationList?base?objectClass=cRLDistributionPoint
+            1.3.6.1.4.1.311.21.14: 
+                0..0...........ldap:///CN=Test%20RSS%20Issuing%20CA,CN=wsrssi0201,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=testcore,DC=test,DC=dir,DC=telstra,DC=com?certificateRevocationList?base?objectClass=cRLDistributionPoint
+Revoked Certificates:
+    Serial Number: 19D3720A000000000019
+        Revocation Date: Apr 15 06:44:14 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        56:41:e5:72:41:ef:fc:c0:d3:6b:2b:96:74:03:0a:84:ca:73:
+        58:42:ec:58:9c:3f:d8:dd:1c:b6:f6:65:57:f1:d9:ea:ca:95:
+        6d:cf:56:89:af:7d:a8:5b:eb:74:7e:ec:1e:82:bc:1a:df:8a:
+        73:16:49:07:33:97:e5:db:38:f6:f4:e9:83:eb:71:da:9e:c1:
+        07:10:a6:9c:66:de:14:25:3a:7d:fc:51:ec:2a:27:98:ac:1b:
+        91:3a:c3:cc:7a:f1:4d:e7:ad:db:28:d7:d3:f3:5e:db:37:47:
+        40:1f:64:87:92:cd:c7:21:4f:f0:79:20:d5:24:75:c2:36:4b:
+        98:aa:b6:ff:0e:c8:f6:2a:bb:46:98:bf:f8:a1:36:c3:85:69:
+        a8:20:95:ee:27:41:c2:31:13:8c:ac:95:23:41:c5:fd:fd:52:
+        fb:3b:c4:e9:56:2a:d9:13:2c:41:ee:6e:f9:78:eb:5f:a7:6d:
+        75:30:94:1b:16:97:3b:69:60:0d:aa:7e:b7:b2:59:cf:75:c0:
+        e2:f6:86:52:f0:9f:6d:a7:a3:ad:be:c0:77:39:f4:40:9b:5f:
+        79:f8:aa:ee:d6:60:02:65:0a:4b:a7:24:20:07:6e:bf:e4:53:
+        50:0f:be:5e:aa:d7:5c:30:de:18:b1:45:c8:5b:ed:b7:20:5a:
+        40:3c:27:e3
