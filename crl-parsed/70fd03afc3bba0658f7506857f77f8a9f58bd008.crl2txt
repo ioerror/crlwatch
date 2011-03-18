@@ -1,0 +1,43 @@
+issuer=/C=RO/O=GLOBE HOSTING CERTIFICATION AUTHORITY/CN=GLOBE SSL CA
+SHA1 Fingerprint=FB:E9:99:BB:25:D1:B2:19:06:E5:2A:EB:38:E5:45:6D:22:F2:AF:01
+1b263f77
+crlNumber=02ED
+lastUpdate=Mar 17 21:34:08 2011 GMT
+nextUpdate=Mar 21 21:34:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=RO/O=GLOBE HOSTING CERTIFICATION AUTHORITY/CN=GLOBE SSL CA
+        Last Update: Mar 17 21:34:08 2011 GMT
+        Next Update: Mar 21 21:34:08 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:40:4B:91:15:C3:38:DD:A0:19:86:5F:2F:9B:52:8D:C7:48:CC:24:09
+
+            X509v3 CRL Number: 
+                749
+Revoked Certificates:
+    Serial Number: 54E6611D57844C47A624068726C54AF1
+        Revocation Date: Apr 14 13:56:10 2010 GMT
+    Serial Number: 346E6CCAEAB5E6F50E5E83A57DCD8BAE
+        Revocation Date: Jun  2 11:38:59 2010 GMT
+    Serial Number: 3E252350C9F8B5E9C5A55D855F6048A6
+        Revocation Date: Jun 21 19:41:45 2010 GMT
+    Serial Number: 69B4703DA1764D074337D4329D585577
+        Revocation Date: Jun 25 14:54:45 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        78:27:fc:47:03:0b:0f:3a:c1:16:f6:a0:59:02:75:66:23:6b:
+        4d:62:f2:44:eb:e3:da:67:8a:8a:96:21:03:2c:04:64:40:33:
+        0d:27:b1:6c:fb:cc:92:4a:36:64:4c:cb:34:c6:c9:01:c0:85:
+        32:6e:24:7e:0a:3d:ea:67:9b:2f:85:0d:77:8b:53:1b:9f:a3:
+        b8:03:65:f4:54:21:1d:b4:17:c2:a1:33:32:b5:2e:e0:15:e5:
+        02:5c:00:c6:24:c4:d9:af:59:a4:af:cb:5b:09:df:8b:80:fc:
+        57:cc:1b:ab:e6:5e:60:fe:33:c1:86:82:ba:55:1c:ba:5a:2a:
+        3c:9f:c6:f4:60:2b:0b:10:b4:0f:a9:56:a0:12:61:77:be:ec:
+        7c:c6:0d:cb:b8:80:46:05:24:9f:99:c3:9c:0d:a0:5b:43:7e:
+        20:20:35:5b:1c:0e:e7:0b:3a:72:71:9c:29:4b:aa:8f:f1:8f:
+        06:20:1f:63:84:e8:89:ab:69:79:80:b8:90:e3:47:b9:90:89:
+        f1:2d:0e:3a:d2:4c:ae:52:85:d2:e3:66:b2:40:8f:e8:0d:bc:
+        ec:ed:3e:1c:3c:32:d5:49:90:de:6e:a8:a1:7a:f6:83:7e:57:
+        7c:60:e0:cd:4e:e1:5a:45:ff:19:d8:da:1f:ef:c4:d3:d1:1f:
+        fc:f6:1a:34
