@@ -1,0 +1,45 @@
+issuer=/C=NL/O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg/CN=ZOVAR Server CA G2
+SHA1 Fingerprint=23:74:3C:DB:6B:B3:C3:21:C7:EA:62:96:EA:48:83:44:67:1D:26:C2
+9349e709
+crlNumber=2611
+lastUpdate=Mar 18 09:00:00 2011 GMT
+nextUpdate=Mar 20 09:00:01 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=NL/O=agentschap Centraal Informatiepunt Beroepen Gezondheidszorg/CN=ZOVAR Server CA G2
+        Last Update: Mar 18 09:00:00 2011 GMT
+        Next Update: Mar 20 09:00:01 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:26:31:79:A0:9E:C8:27:27:F5:0E:37:7D:2D:0A:D0:76:0D:D5:D3:DA
+
+            X509v3 CRL Number: 
+                9745
+Revoked Certificates:
+    Serial Number: 28CBA5DFB06DA40F074ED6D7A63CDF86
+        Revocation Date: Nov 27 17:19:59 2009 GMT
+    Serial Number: AE806ED4F6A054034EBB1E34310947E9
+        Revocation Date: Dec  9 14:06:13 2008 GMT
+    Serial Number: B0E061DC45BE2547DD57E893CCF5CA40
+        Revocation Date: Jun  2 12:29:29 2010 GMT
+    Serial Number: D43E0E97D486F430453CE54D6C410CB9
+        Revocation Date: Mar 21 13:52:42 2008 GMT
+    Serial Number: E151D8FF4616486A03CC44251330C321
+        Revocation Date: Mar 21 18:29:00 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        d9:32:5d:87:8e:ab:98:2e:6c:95:62:b6:2c:3c:b2:05:e7:4e:
+        fe:68:49:c2:31:c1:63:f7:f5:9f:a9:41:1d:d2:37:05:a6:24:
+        03:2b:ea:4c:97:60:07:c3:00:af:0d:9b:5e:18:30:9f:04:0f:
+        ba:a4:f5:eb:22:eb:42:db:c2:59:6e:7f:12:83:f8:08:77:ce:
+        8a:5b:3f:50:aa:03:5d:e8:40:3f:f7:d5:a3:c6:33:c4:dc:1e:
+        22:a7:30:74:12:be:c9:c4:24:06:92:3c:44:9b:9a:ec:81:35:
+        52:08:32:12:ec:75:3e:3e:3e:58:42:87:83:ce:eb:b6:c8:e2:
+        13:25:f8:80:a7:2c:d8:a7:28:b1:1c:e9:14:15:8f:57:fd:7e:
+        23:be:17:60:4a:8c:39:3e:00:d6:7f:84:39:26:3e:4d:65:42:
+        62:bc:d4:b0:cc:2f:17:0d:59:69:53:db:09:f0:8a:d5:b6:5c:
+        81:92:ca:3d:bb:e7:0b:6a:45:23:8d:11:7f:6f:99:8d:ee:65:
+        4c:ba:66:9f:d8:ba:c6:98:c2:06:9a:96:8a:8c:ba:bb:8f:eb:
+        10:4f:6f:85:3c:16:86:14:2f:f7:74:22:5a:73:27:df:f0:4c:
+        68:90:55:cb:cb:8a:08:65:1f:2c:79:02:4e:99:f9:92:00:e3:
+        10:b8:64:f3
