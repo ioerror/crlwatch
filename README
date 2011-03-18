@@ -3,3 +3,7 @@ crlwatch - collect, watch, and analyze SSL/TLS CRL lists
 generate-crl-list.sql - pull relevant information from the observatory
 parse-crl-list.py - parse raw SQL output into a list useful for sorting
 
+Generate a full list of all known CRL files:
+
+  parse-crl-list.py raw-crl-sql-output-list.txt \
+                    |sort|uniq > master-crl-list.txt
