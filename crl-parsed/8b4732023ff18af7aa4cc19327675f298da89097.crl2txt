@@ -1,0 +1,64 @@
+issuer=/C=IT/O=UGIS S.p.A./OU=ICT Security Office/OU=Servizi di Certificazione
+SHA1 Fingerprint=5F:92:58:BA:33:99:81:CC:4F:1B:E2:80:53:77:FE:AD:B7:59:5E:CC
+d31cbccc
+crlNumber=0338
+lastUpdate=Mar 17 16:09:53 2011 GMT
+nextUpdate=Mar 18 17:58:01 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=IT/O=UGIS S.p.A./OU=ICT Security Office/OU=Servizi di Certificazione
+        Last Update: Mar 17 16:09:53 2011 GMT
+        Next Update: Mar 18 17:58:01 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                824
+            X509v3 Authority Key Identifier: 
+                keyid:30:69:69:3F:47:0A:04:84:6A:73:A2:53:13:44:4B:63:7D:B0:7C:D8
+
+Revoked Certificates:
+    Serial Number: 4946C90A
+        Revocation Date: Mar 16 12:22:45 2011 GMT
+    Serial Number: 4946C3C0
+        Revocation Date: Feb  3 11:05:54 2011 GMT
+    Serial Number: 4946C3A9
+        Revocation Date: Jan 20 09:53:21 2011 GMT
+    Serial Number: 4946B3B7
+        Revocation Date: Jul 14 06:58:31 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+            Invalidity Date: 
+                Jul 13 22:00:00 2010 GMT
+    Serial Number: 4946B3A2
+        Revocation Date: Jul 13 13:09:22 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+            Invalidity Date: 
+                Jul 13 08:34:30 2010 GMT
+    Serial Number: 4946ABDD
+        Revocation Date: Feb 24 08:41:11 2011 GMT
+    Serial Number: 4946AB77
+        Revocation Date: Apr  8 09:46:48 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+            Invalidity Date: 
+                Apr  8 08:29:36 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        b7:bc:df:27:ec:64:9f:e2:29:ee:94:d1:af:88:27:48:11:fe:
+        85:7d:0c:f9:a4:0c:14:2f:54:3a:fc:ae:f9:a2:d0:93:f8:4e:
+        31:62:d1:c7:e0:90:ac:01:e6:38:b7:82:a0:87:82:51:69:b7:
+        c2:fc:58:94:17:6d:fd:7e:cc:4a:7d:e7:1c:2e:17:70:66:14:
+        95:af:c5:13:0c:29:d0:08:2a:9a:74:d1:ac:26:c9:76:10:b2:
+        ca:e6:66:56:b0:2c:0c:8f:99:3a:a2:57:e1:3b:e1:5e:56:c0:
+        98:c0:8b:fa:63:31:a2:b8:70:8b:7e:d9:b3:8e:8a:74:6b:a6:
+        fa:10:44:63:ca:4a:90:55:e2:80:91:c5:db:ba:32:58:c2:16:
+        c1:78:91:f6:28:57:1a:5c:ff:3d:51:8e:4d:d5:91:8a:b5:05:
+        8e:cc:07:2f:f9:af:ea:44:07:af:4b:ad:e1:3e:fe:78:8f:b3:
+        68:e5:0f:34:2f:0e:34:78:d1:ed:fd:bf:b1:c2:65:ab:26:e1:
+        4f:80:3e:7d:64:a0:38:cd:56:bc:c9:8a:c9:a3:eb:71:88:4d:
+        14:c6:a5:fe:67:c0:4a:0f:8d:9b:28:ec:ac:90:76:31:f9:78:
+        d1:89:ce:1c:67:94:d0:9e:36:75:0f:7e:6f:c3:4e:a5:6f:5e:
+        d0:15:ba:57
