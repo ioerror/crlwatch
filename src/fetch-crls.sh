@@ -1,6 +1,7 @@
 #!/bin/bash -x
 #
 # Fetch all CRLs listed in a given file
+# We use the Torbuton User-Agent to blend in with the Tor crowd.
 #
 
 for crl in `cat $1`
