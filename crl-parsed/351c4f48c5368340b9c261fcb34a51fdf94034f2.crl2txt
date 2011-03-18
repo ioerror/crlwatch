@@ -1,0 +1,46 @@
+issuer=/C=DE/ST=Nordrhein-Westfalen/L=Bonn/O=Max-Planck-Institut zur Erforschung von Gemeinschaftsguetern/CN=MPI Gemeinschaftsgueter CA/emailAddress=ca@coll.mpg.de
+SHA1 Fingerprint=CD:43:83:1D:B3:80:B2:24:D6:E0:89:9F:6B:32:09:F9:E4:6B:7B:9A
+4c1731f3
+crlNumber=EF
+lastUpdate=Mar 14 08:50:08 2011 GMT
+nextUpdate=Apr 13 08:50:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Nordrhein-Westfalen/L=Bonn/O=Max-Planck-Institut zur Erforschung von Gemeinschaftsguetern/CN=MPI Gemeinschaftsgueter CA/emailAddress=ca@coll.mpg.de
+        Last Update: Mar 14 08:50:08 2011 GMT
+        Next Update: Apr 13 08:50:08 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                239
+Revoked Certificates:
+    Serial Number: 0A7382BE
+        Revocation Date: May 23 09:41:07 2007 GMT
+    Serial Number: 0A73BFAA
+        Revocation Date: Mar 12 14:33:07 2008 GMT
+    Serial Number: 0BF09B33
+        Revocation Date: Mar 12 14:25:08 2008 GMT
+    Serial Number: 0BF72E4C
+        Revocation Date: Mar 12 14:20:09 2008 GMT
+    Serial Number: 0F3D93F2
+        Revocation Date: Dec 15 07:40:11 2009 GMT
+    Serial Number: 0F3DA18E
+        Revocation Date: Dec 15 07:40:12 2009 GMT
+    Serial Number: 0F3DAA75
+        Revocation Date: Dec 15 07:34:12 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        97:a0:a5:f7:bc:e9:84:35:0d:fd:3a:40:2e:6c:76:64:94:04:
+        24:21:6b:4d:6e:45:82:f9:cd:74:62:35:a2:7d:78:f8:6a:09:
+        81:84:81:a9:0b:a2:62:02:4e:56:41:56:e0:fe:fb:6f:58:3f:
+        3d:3a:1b:f8:b4:de:eb:0f:32:6a:c7:c3:20:af:8e:8b:01:5c:
+        b2:ae:39:2b:53:d9:e0:2f:34:87:25:35:e7:70:4b:6a:05:19:
+        e9:18:81:03:22:af:e3:f1:c8:3d:95:b0:c8:08:1f:74:34:a9:
+        f0:02:ac:09:37:8c:2d:80:60:cc:04:bb:f1:d0:4b:5a:b2:c5:
+        f7:ee:e1:bb:27:97:03:9c:96:16:7d:d6:cd:6b:29:71:60:de:
+        55:12:b9:e7:54:0f:ff:f1:ed:39:1a:12:8e:a5:51:f9:be:64:
+        a9:60:94:ef:36:26:a7:6e:45:5d:d4:00:34:d8:ef:90:20:41:
+        bc:44:fd:8f:49:eb:70:69:a8:2e:45:b1:6c:b8:6c:00:8b:dc:
+        09:1a:c4:ff:eb:6d:5f:81:51:4d:b3:6c:88:a4:60:4f:f3:83:
+        92:14:13:88:80:dc:d0:de:29:91:ff:30:f8:d0:6d:af:54:17:
+        33:89:d4:bf:c6:57:3c:01:63:8d:70:92:9b:20:0f:9c:08:32:
+        de:67:1a:11
