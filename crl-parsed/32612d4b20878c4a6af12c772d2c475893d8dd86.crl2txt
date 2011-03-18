@@ -1,0 +1,52 @@
+issuer=/C=DE/ST=Bayern/O=Fachhochschule Weihenstephan/CN=FHW CA - G01/emailAddress=pki@fh-weihenstephan.de
+SHA1 Fingerprint=90:A4:D8:14:19:57:D1:4F:AB:55:2E:B2:EA:5B:0F:A3:DF:4A:34:FB
+03e4ac16
+crlNumber=AD
+lastUpdate=Mar 14 07:51:24 2011 GMT
+nextUpdate=Apr 13 07:51:24 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/O=Fachhochschule Weihenstephan/CN=FHW CA - G01/emailAddress=pki@fh-weihenstephan.de
+        Last Update: Mar 14 07:51:24 2011 GMT
+        Next Update: Apr 13 07:51:24 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                173
+Revoked Certificates:
+    Serial Number: 0C1D555D
+        Revocation Date: May 16 13:45:07 2008 GMT
+    Serial Number: 0C1D740E
+        Revocation Date: May 16 13:29:17 2008 GMT
+    Serial Number: 0C1D821E
+        Revocation Date: May 16 13:11:08 2008 GMT
+    Serial Number: 0C2BFC4B
+        Revocation Date: Apr 25 11:02:11 2008 GMT
+    Serial Number: 0C4256CA
+        Revocation Date: May 27 11:34:09 2008 GMT
+    Serial Number: 0C4D0A2D
+        Revocation Date: Dec  9 14:47:06 2010 GMT
+    Serial Number: 0C4D0DAE
+        Revocation Date: Sep 22 06:37:06 2009 GMT
+    Serial Number: 0D5DC064
+        Revocation Date: Dec  9 12:12:06 2008 GMT
+    Serial Number: 0EA8AA16
+        Revocation Date: Nov 19 13:02:18 2009 GMT
+    Serial Number: 0F939547
+        Revocation Date: Mar  3 10:57:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        47:f9:fb:33:f0:5d:1e:fb:ae:80:00:15:10:3b:00:33:7e:d7:
+        11:3c:9c:c2:35:c4:06:1a:16:6e:a1:09:2d:39:d8:d5:a5:3f:
+        71:e9:d6:5b:3d:12:25:bf:0f:ac:bd:0c:a9:8f:93:dd:7b:8a:
+        52:20:b9:e6:72:b5:50:b6:03:a6:01:26:c2:b9:d9:7e:03:e3:
+        b3:93:7f:91:f2:99:67:3a:4d:e2:04:08:93:26:7d:a6:5b:dd:
+        65:00:88:4e:fa:5d:6c:2b:9b:b2:31:99:2d:31:86:ce:1a:ca:
+        68:1f:90:81:0b:4a:15:18:2b:cc:aa:49:dc:ac:bc:0f:b9:e8:
+        ab:a4:eb:35:df:13:dc:12:c0:d6:77:c6:a0:be:7f:ba:6e:6d:
+        c9:cc:b1:9c:60:e0:ad:40:99:1d:c4:d9:e5:96:25:c5:3b:69:
+        4a:9f:3c:d3:26:b4:49:eb:1b:bf:a8:97:49:d1:94:05:b0:2a:
+        5d:9c:94:34:a4:02:e4:a3:b8:a7:88:af:cd:51:cd:78:cb:48:
+        e4:44:43:fb:14:6b:af:91:96:a5:7d:97:57:c4:21:ac:83:0b:
+        34:fa:bf:de:9a:64:a2:c0:de:ca:33:da:b4:9d:ed:72:25:5f:
+        ef:57:f1:e1:48:3e:69:7b:cd:3a:26:70:c1:9a:45:e1:a4:2f:
+        6f:6b:97:50
