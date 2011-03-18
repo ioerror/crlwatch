@@ -1,0 +1,38 @@
+issuer=/C=DE/ST=Sachsen/L=Leipzig/O=Hochschule fuer Musik und Theater Leipzig/CN=HMT-LEIPZIG-CA/emailAddress=pki@hmt-leipzig.de
+SHA1 Fingerprint=8D:DE:4A:C0:D2:D9:61:59:18:3B:FC:81:08:06:B4:2D:2D:7E:86:D8
+010b1559
+crlNumber=F2
+lastUpdate=Mar 14 08:13:14 2011 GMT
+nextUpdate=Apr 13 08:13:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Sachsen/L=Leipzig/O=Hochschule fuer Musik und Theater Leipzig/CN=HMT-LEIPZIG-CA/emailAddress=pki@hmt-leipzig.de
+        Last Update: Mar 14 08:13:14 2011 GMT
+        Next Update: Apr 13 08:13:14 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                242
+Revoked Certificates:
+    Serial Number: 0A7648DA
+        Revocation Date: Oct 26 11:50:08 2009 GMT
+    Serial Number: 0EF2B704
+        Revocation Date: Mar  1 12:32:11 2010 GMT
+    Serial Number: 0EF53934
+        Revocation Date: Oct 14 12:10:08 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        72:2c:03:97:61:c8:b0:7c:d9:ff:c0:7e:7d:5c:42:60:af:35:
+        ab:aa:b7:82:24:8a:02:88:4e:4b:fe:42:32:e1:be:92:5c:ad:
+        26:44:08:51:70:bb:d7:df:22:d7:d8:3a:ae:f5:1b:e0:25:e4:
+        49:6d:d2:79:52:1c:be:03:8a:a2:fc:2d:fe:88:23:5b:97:58:
+        1c:e8:af:99:0c:07:15:6b:1c:51:68:29:de:c7:33:a7:7e:60:
+        d3:ad:4f:6c:db:7e:ee:51:40:0b:91:2e:50:ec:83:ad:5c:8c:
+        77:07:17:c8:7d:9c:d8:ab:e7:d5:a5:5d:40:ab:c2:a8:8d:25:
+        89:ce:10:c2:6f:ea:c2:e7:60:30:92:41:6d:d4:1d:f5:88:fe:
+        1e:1f:dd:75:28:5f:40:22:14:26:c6:54:9a:1f:05:28:5e:6e:
+        f4:4b:90:e1:fe:73:69:37:84:35:0e:ab:52:c8:59:b4:db:b1:
+        91:07:c7:78:3e:72:2f:00:1c:8e:8a:54:6f:a7:2a:dc:c5:a7:
+        59:99:a3:08:42:cf:68:c9:a7:b1:0d:90:3d:4b:fe:c5:6e:b2:
+        88:63:38:94:12:67:d3:74:7f:93:bc:d3:6c:5d:54:fe:d8:7f:
+        97:8b:9f:23:71:81:97:8d:a9:df:56:1c:05:37:ed:f1:80:a2:
+        6f:97:14:f2
