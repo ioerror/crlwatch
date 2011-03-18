@@ -1,0 +1,70 @@
+issuer=/DC=com/DC=disney/OU=PKI/CN=The Walt Disney Company Enterprise CA
+SHA1 Fingerprint=02:53:01:5F:8D:93:70:53:38:2A:56:58:7B:2E:05:86:FD:2E:C0:B6
+986dc2f1
+crlNumber=0C5C
+lastUpdate=Mar 18 07:32:09 2011 GMT
+nextUpdate=Mar 21 07:32:09 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=com/DC=disney/OU=PKI/CN=The Walt Disney Company Enterprise CA
+        Last Update: Mar 18 07:32:09 2011 GMT
+        Next Update: Mar 21 07:32:09 2011 GMT
+        CRL extensions:
+            X509v3 Issuing Distrubution Point: critical
+                0.........}0{1.0..
+..&...,d....com1.0..
+..&...,d....disney1.0
+..U....PKI1.0,..U...%The Walt Disney Company Enterprise CA1.0...U....CRL83.+http://cdp.disney.pvt/CRL/Enterprisec83.crl.+http://cdp.disney.com/CRL/Enterprisec83.crl...
+            X509v3 CRL Number: 
+                3164
+            X509v3 Authority Key Identifier: 
+                keyid:78:2F:15:38:BA:3B:41:FD:A0:B9:CF:C6:90:51:41:AE:6E:C1:B0:4A
+
+Revoked Certificates:
+    Serial Number: 42C6549C
+        Revocation Date: Jul  2 16:22:26 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 42C6549D
+        Revocation Date: Jul  2 16:22:26 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 42C6551C
+        Revocation Date: Jul  2 19:01:44 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 42C6551D
+        Revocation Date: Jul  2 19:01:44 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 42C65A0A
+        Revocation Date: Jul 10 16:49:14 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 42C65A0B
+        Revocation Date: Jul 10 16:49:14 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        6b:5e:6a:2c:c4:1f:e6:05:7b:0e:d2:e6:ba:3f:39:05:1d:5e:
+        91:7d:ef:cb:1d:11:fa:8c:40:1f:05:b7:e6:65:6d:6f:07:19:
+        bd:20:64:92:f7:9c:d1:e5:a7:6d:16:73:4b:8f:f8:c3:ce:51:
+        55:3a:55:8b:0c:17:a4:0a:15:3a:c8:1b:fa:8d:ad:41:89:12:
+        d9:07:25:02:dd:7d:cf:4b:cd:d1:f1:b7:48:29:6c:20:47:73:
+        1b:09:10:03:98:15:12:f4:37:45:f1:00:ae:f3:d8:0f:fa:43:
+        61:23:21:32:a3:39:bd:60:fd:35:20:b7:df:a0:3b:20:c3:ce:
+        53:18:fb:f1:f8:0e:01:23:4a:0f:12:a5:97:78:69:f4:ca:73:
+        a3:b9:83:eb:f0:34:df:db:15:ca:a5:ba:5a:d5:70:1d:64:ac:
+        66:a4:f8:64:99:c5:82:37:1a:93:2b:07:3a:ba:94:1b:b9:46:
+        da:fa:dd:8b:c0:ca:ee:5c:3c:67:54:1c:cb:0a:f8:50:97:75:
+        40:d4:cd:c4:f3:19:6f:c1:57:ac:80:2e:c0:f5:cc:28:d8:99:
+        d7:c6:e7:3f:04:47:1e:70:7c:71:94:6d:ab:4b:9b:9d:46:a4:
+        b9:05:17:e0:00:bd:0e:9b:f5:f8:f5:8d:72:2b:bf:a8:0a:1f:
+        be:80:df:83
