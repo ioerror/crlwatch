@@ -1,0 +1,98 @@
+issuer=/C=US/O=VISA/OU=Visa International Service Association/CN=Visa Information Delivery Root CA
+SHA1 Fingerprint=0C:C4:A9:02:5E:B8:A2:20:3F:F6:24:33:28:7B:0C:B3:BC:62:B6:6F
+8ccb5f6d
+crlNumber=38
+lastUpdate=Jan 13 23:04:40 2011 GMT
+nextUpdate=Jan 20 22:35:00 2012 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=VISA/OU=Visa International Service Association/CN=Visa Information Delivery Root CA
+        Last Update: Jan 13 23:04:40 2011 GMT
+        Next Update: Jan 20 22:35:00 2012 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:4F:8A:DA:76:FF:67:77:23:9A:A6:80:7D:7D:DB:88:75:85:F7:81:7A
+
+            X509v3 CRL Number: 
+                56
+Revoked Certificates:
+    Serial Number: 23D45697D393BC822D09E755DE750CE5
+        Revocation Date: Jan 13 19:28:33 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jan 13 19:28:15 2011 GMT
+    Serial Number: 2B5B890DB200816614A1FEDE977690EC
+        Revocation Date: Jan 13 22:59:18 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jan 13 22:59:14 2011 GMT
+    Serial Number: 2EA9ED5A1600F78025C09776FB833163
+        Revocation Date: Jan 13 19:28:55 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jan 13 19:28:52 2011 GMT
+    Serial Number: 528628E2AAA51453F691E44C489260AC
+        Revocation Date: Jan 13 22:58:25 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jan 13 22:58:23 2011 GMT
+    Serial Number: 800F95F29E474FB7586F50089B32F210
+        Revocation Date: Jan 13 22:58:42 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jan 13 22:58:39 2011 GMT
+    Serial Number: 92B78DB172FA4C04634BCD1BF89703E5
+        Revocation Date: Jan 13 22:58:56 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jan 13 22:58:54 2011 GMT
+    Serial Number: 999258985008754B6CCE42304CCFA38E
+        Revocation Date: Jan 13 22:59:30 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Certificate Hold
+            Invalidity Date: 
+                Jan 13 22:59:28 2011 GMT
+    Serial Number: B787561A36C4DBC3C246B5EEF1E85BCF
+        Revocation Date: Aug 25 17:07:11 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Aug 25 17:07:01 2009 GMT
+    Serial Number: C0EDEB00AFECA664CD74CF23345AD073
+        Revocation Date: Aug 25 17:06:44 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Aug 25 17:06:28 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        6e:62:99:48:05:e7:1c:0a:3f:4f:ba:bb:35:7f:48:af:24:f3:
+        da:03:50:3a:be:7c:af:d0:75:a0:b9:5f:a8:cb:ba:8a:c2:b3:
+        a4:92:be:e8:31:bf:f3:c5:a8:62:a9:68:db:5b:42:bb:8b:5d:
+        e8:b8:69:3f:cd:a1:e5:d4:3a:65:0c:c7:3f:c6:88:65:a6:db:
+        57:b8:f5:b2:3b:9a:9f:7a:06:0f:2b:c9:24:31:bd:1b:c1:94:
+        b1:38:b9:29:09:83:84:57:9d:59:66:01:5c:4a:2a:41:9f:c3:
+        39:f1:1c:ef:14:b9:34:e8:e7:96:e8:51:ad:db:2f:63:da:e6:
+        4d:ea:c1:bb:98:0f:52:0a:94:7e:c6:5d:88:7a:1a:eb:a7:6b:
+        75:55:be:9d:0d:62:50:f5:a7:87:5e:b3:71:04:b8:fb:98:1d:
+        75:86:eb:1d:7d:21:db:3c:1d:1c:0a:68:eb:2f:1a:37:74:9b:
+        42:ca:be:d8:59:3e:50:98:43:e1:f5:ea:f5:bc:de:63:f6:1b:
+        8d:69:2d:f9:f8:23:c0:ba:12:d7:b8:c2:2a:c2:6d:cc:90:63:
+        5c:cb:b4:0f:bc:9d:1b:81:94:36:26:d5:97:6e:3d:ab:b3:e8:
+        b9:8d:64:c7:75:a2:83:ef:fb:1f:b6:f5:84:a5:fe:9e:55:1b:
+        df:36:c3:73
