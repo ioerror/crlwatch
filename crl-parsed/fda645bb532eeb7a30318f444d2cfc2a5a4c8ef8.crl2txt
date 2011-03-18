@@ -1,0 +1,49 @@
+issuer=/C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 4 L1 CA/CN=TC TrustCenter Class 4 Extended Validation CA I
+SHA1 Fingerprint=D9:18:CC:89:99:9E:F5:CB:97:55:00:91:B9:B0:5D:B4:D3:CB:E9:F8
+c2c7d9e6
+crlNumber=022D
+lastUpdate=Mar 17 13:08:14 2011 GMT
+nextUpdate=Mar 24 13:08:14 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 4 L1 CA/CN=TC TrustCenter Class 4 Extended Validation CA I
+        Last Update: Mar 17 13:08:14 2011 GMT
+        Next Update: Mar 24 13:08:14 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:E5:F4:DB:16:B1:10:6D:86:90:9F:04:0D:17:31:8B:FD:AC:A7:7D:49
+
+            X509v3 CRL Number: 
+                557
+Revoked Certificates:
+    Serial Number: 2C2B00010002304F7D07A032B4F9
+        Revocation Date: Sep 10 10:40:36 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 7C8000010002120F5F003EBAFB8A
+        Revocation Date: Nov 12 15:16:12 2009 GMT
+    Serial Number: 1519000100020D6AD093EE4AEE0D
+        Revocation Date: Nov 17 11:53:13 2009 GMT
+    Serial Number: 607500010002E72450031CF1D204
+        Revocation Date: Jan  6 13:28:25 2011 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Signature Algorithm: sha1WithRSAEncryption
+        71:2b:db:92:f0:7a:f6:21:34:c0:ae:9b:4b:d0:bb:22:cf:43:
+        8e:df:52:e8:13:7c:24:a1:7b:63:c2:1d:bf:8d:d3:0f:8e:a7:
+        ae:c0:0b:f2:ce:c9:75:f4:09:52:68:a0:59:d9:11:30:de:74:
+        31:6f:93:6b:f0:fe:33:7e:6e:80:9c:6e:91:bc:c9:0c:18:e6:
+        28:8e:e3:40:b3:18:7d:07:51:6a:06:7b:09:fb:a6:4d:e4:58:
+        66:c7:22:c6:1f:cd:ef:26:c0:b5:33:11:61:eb:31:6c:d7:8d:
+        1e:e7:95:a8:76:77:bb:e1:dc:d9:ea:84:21:81:af:14:64:a5:
+        af:93:eb:54:bf:89:c5:f0:d3:ba:cb:37:e3:1d:9d:c0:da:3d:
+        f5:f9:ee:ea:4b:d1:de:cd:38:b5:33:56:20:d1:75:34:bf:80:
+        df:42:c6:8b:95:46:b9:1e:59:23:8d:43:b7:c4:8d:c8:98:f6:
+        26:e2:9f:ed:7f:ac:92:98:12:90:82:52:ba:72:46:21:45:6a:
+        50:78:ac:54:3b:c8:fa:77:5f:17:34:cb:e6:74:82:d4:fc:ed:
+        cc:1e:ae:6a:3c:aa:f8:e0:58:98:8f:03:91:9a:a5:a2:c9:50:
+        45:08:41:0d:b6:4a:65:c6:7d:51:c4:6d:8e:64:93:f1:01:89:
+        23:9e:c9:87
