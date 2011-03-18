@@ -1,0 +1,93 @@
+issuer=/O=Dell Inc./CN=Dell Inc. Enterprise Issuing CA1
+SHA1 Fingerprint=04:37:83:4A:2B:23:1E:26:99:42:95:04:3F:05:C6:AC:4B:72:E9:58
+74eb875c
+crlNumber=0128
+lastUpdate=Jan 17 13:59:50 2011 GMT
+nextUpdate=Apr 18 02:19:50 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /O=Dell Inc./CN=Dell Inc. Enterprise Issuing CA1
+        Last Update: Jan 17 13:59:50 2011 GMT
+        Next Update: Apr 18 02:19:50 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:D0:BE:B6:48:F5:14:BA:37:A9:07:D6:3B:E1:53:F4:D6:5B:EE:16:90
+
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            X509v3 CRL Number: 
+                296
+            1.3.6.1.4.1.311.21.4: 
+                .110417140950Z
+Revoked Certificates:
+    Serial Number: 1BC3CACB00020000145C
+        Revocation Date: Nov 17 19:53:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 71392638000200001416
+        Revocation Date: Nov 12 15:50:00 2010 GMT
+    Serial Number: 6CD42891000200001413
+        Revocation Date: Nov 11 19:21:00 2010 GMT
+    Serial Number: 23F5A955000200001360
+        Revocation Date: Oct 28 15:45:00 2010 GMT
+    Serial Number: 114E5AD2000200001311
+        Revocation Date: Oct 21 22:16:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 11401200000200001310
+        Revocation Date: Oct 21 22:11:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 610CEDC700020000130D
+        Revocation Date: Oct 21 16:23:00 2010 GMT
+    Serial Number: 6104B6A100020000130B
+        Revocation Date: Oct 21 16:23:00 2010 GMT
+    Serial Number: 2F88B0070002000011EB
+        Revocation Date: Sep 29 20:19:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 2F88B0360002000011EA
+        Revocation Date: Sep 29 20:19:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 1A9987010002000010FD
+        Revocation Date: Aug 28 19:36:12 2010 GMT
+    Serial Number: 1A9985F80002000010FC
+        Revocation Date: Aug 28 19:36:12 2010 GMT
+    Serial Number: 1A9984EF0002000010FB
+        Revocation Date: Aug 28 19:36:12 2010 GMT
+    Serial Number: 1A9983D60002000010FA
+        Revocation Date: Aug 28 19:36:11 2010 GMT
+    Serial Number: 1A9982BD0002000010F9
+        Revocation Date: Aug 28 19:36:10 2010 GMT
+    Serial Number: 2B345B3C0001000010AB
+        Revocation Date: Aug 13 19:38:00 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3D3338EC000100001045
+        Revocation Date: Jul 28 15:12:41 2010 GMT
+    Serial Number: 6A859A1C000100000FCC
+        Revocation Date: Jul 12 13:52:58 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        44:2f:f7:81:6a:18:15:c0:c8:88:7c:c9:69:46:14:a6:66:57:
+        0a:7d:ee:63:ea:90:09:24:9d:af:70:62:96:67:62:6d:00:2d:
+        d4:c6:f4:cc:6d:05:7e:15:73:b0:c3:98:57:7d:47:c4:ea:ec:
+        29:61:12:88:ac:5b:0e:87:74:96:6d:e4:dd:8b:7f:01:91:51:
+        86:af:b3:a3:8c:52:c9:28:9e:d6:51:7f:03:94:3d:79:25:ef:
+        6c:2d:fe:cf:48:5f:be:7e:f2:fc:bf:71:a3:98:9f:fe:c7:a6:
+        83:ec:7f:04:52:95:47:7c:52:8e:a3:5c:78:40:6f:21:58:24:
+        d9:f6:21:7c:79:f2:29:c8:5e:79:7b:76:72:0d:e5:19:57:c4:
+        9f:79:44:b6:96:0e:83:85:bd:6a:33:55:ea:1f:e4:38:95:22:
+        c7:01:00:63:85:1a:97:07:aa:b4:05:23:41:ed:c6:8f:41:0a:
+        18:7e:0c:2b:ff:ff:39:d6:97:f7:e3:1a:38:b4:4c:6d:3b:e6:
+        53:8e:88:2e:dd:59:d5:4e:55:35:73:95:aa:f1:31:d7:64:bd:
+        56:e1:37:65:cc:de:9c:0f:16:88:e7:4e:cf:0c:f3:fe:bd:e8:
+        95:af:ed:d7:c8:44:0a:1d:b9:ba:b9:7c:90:ef:c4:c2:1a:38:
+        e9:7a:e4:4f
