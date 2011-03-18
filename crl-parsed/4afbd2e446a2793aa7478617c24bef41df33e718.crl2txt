@@ -1,0 +1,46 @@
+issuer=/C=DE/O=FIZ CHEMIE Berlin GmbH/CN=FCH CA - G02/emailAddress=fch-ca@fiz-chemie.de
+SHA1 Fingerprint=C6:D1:DB:8C:84:E2:4C:CA:B5:77:CC:70:AC:6B:04:D5:B6:D8:AC:D9
+0ce06e14
+crlNumber=F4
+lastUpdate=Mar 14 07:56:08 2011 GMT
+nextUpdate=Apr 13 07:56:08 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=FIZ CHEMIE Berlin GmbH/CN=FCH CA - G02/emailAddress=fch-ca@fiz-chemie.de
+        Last Update: Mar 14 07:56:08 2011 GMT
+        Next Update: Apr 13 07:56:08 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                244
+Revoked Certificates:
+    Serial Number: 0A7CA816
+        Revocation Date: Aug 20 11:38:11 2007 GMT
+    Serial Number: 0C351980
+        Revocation Date: Jun 11 13:24:08 2008 GMT
+    Serial Number: 0C351982
+        Revocation Date: Jun 11 13:24:10 2008 GMT
+    Serial Number: 0C351983
+        Revocation Date: Jun 11 13:24:10 2008 GMT
+    Serial Number: 0C351984
+        Revocation Date: Jun 11 13:24:11 2008 GMT
+    Serial Number: 0C351985
+        Revocation Date: Jun 11 13:24:12 2008 GMT
+    Serial Number: 1055308E
+        Revocation Date: Jul  8 12:40:07 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        6e:77:a1:76:26:a0:1a:28:fc:bf:8b:2f:30:cc:c1:ce:c3:fc:
+        11:c3:07:39:83:be:d8:d2:1e:65:d1:92:a2:f3:fe:70:b8:08:
+        7d:47:d7:14:2a:0d:70:8a:bb:56:a5:db:fc:27:1a:44:1e:1a:
+        29:67:17:ad:c2:d5:85:05:2a:8b:3d:c8:12:50:0a:cb:a5:25:
+        3d:ea:2e:e0:eb:97:44:c2:b4:3b:6c:d5:e9:ed:6a:6b:cf:21:
+        06:4d:00:4c:0a:54:3a:a8:d0:13:80:6a:c4:80:26:db:20:a6:
+        5d:62:f3:c2:60:98:f2:64:cf:26:48:e8:20:2a:e6:02:70:44:
+        78:d6:07:4b:75:c0:81:5c:71:5d:15:8b:ec:e4:ea:30:2e:73:
+        02:29:f3:25:f1:e1:6a:15:9b:44:7d:56:d5:85:7c:8c:13:e1:
+        d4:cd:a0:65:64:29:aa:9b:2a:8c:73:c0:f7:37:5d:8e:d6:7d:
+        e1:09:6e:4e:c5:2a:20:80:17:2a:7e:17:8e:83:17:f0:66:40:
+        7b:31:8c:b5:42:d8:b5:9c:ee:56:7f:ca:75:ba:92:12:f8:56:
+        e9:6a:02:b5:21:6b:9f:fa:b1:ca:9a:d0:af:9b:fa:f3:9e:8c:
+        dd:f3:84:9f:c2:43:38:d6:58:73:2d:83:d4:54:3e:56:9f:50:
+        50:12:14:c5
