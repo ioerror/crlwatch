@@ -1,0 +1,45 @@
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global CA
+SHA1 Fingerprint=99:42:83:D2:97:83:93:AB:FD:56:F3:19:12:9A:DE:AF:6C:05:2F:32
+ab90c32b
+crlNumber=000300
+lastUpdate=Mar 18 06:20:16 2011 GMT
+nextUpdate=Mar 25 06:20:00 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global CA
+        Last Update: Mar 18 06:20:16 2011 GMT
+        Next Update: Mar 25 06:20:00 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:A7:C7:13:A0:7A:01:3C:9D:EF:82:48:82:48:D5:73:51:B6:12:56:2A
+
+            X509v3 CRL Number: 
+                768
+Revoked Certificates:
+    Serial Number: 0C99D561E4E94EB5976B3EF1192CBB07
+        Revocation Date: Feb 27 18:49:34 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 09642D1F8D374532B045BFD4753CDD72
+        Revocation Date: Mar 19 17:27:21 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Signature Algorithm: sha1WithRSAEncryption
+        ba:6b:0f:66:86:f9:90:ff:23:1b:f3:4d:bb:c3:c4:d8:b2:c6:
+        cd:42:52:60:a1:e2:96:55:7c:5c:71:56:02:00:29:97:af:27:
+        7f:ea:37:64:c4:55:5e:7e:66:c3:3f:6c:92:94:ce:6f:0a:2e:
+        90:a3:fd:45:62:ed:29:31:3e:b7:01:b6:80:ae:17:4d:f6:44:
+        79:f8:f3:3b:62:a7:0a:a7:45:92:f4:4b:74:d9:36:2e:e1:40:
+        bd:27:b8:2b:26:8c:c0:ab:d9:c7:2f:55:74:3d:43:64:02:8a:
+        4d:95:cc:a2:04:ab:18:2d:01:7e:f8:a2:03:a5:58:89:e7:fe:
+        e2:bf:b3:4b:d2:a2:0e:73:93:77:cb:7c:28:f4:77:38:49:69:
+        ee:f5:ff:74:19:01:44:46:14:34:db:a1:0b:fd:8e:26:ac:2c:
+        0c:7f:79:b1:3a:d8:b3:bd:2d:3a:c0:b4:b8:da:e5:36:d8:39:
+        da:01:57:d2:77:8f:56:83:d8:34:9c:bb:28:f8:ad:69:ca:82:
+        4c:73:ee:c3:e3:56:9e:eb:a9:52:87:4e:43:4c:60:1b:d6:f6:
+        14:f1:17:db:e7:5a:c0:86:2f:c7:d1:2b:b0:33:33:87:2f:02:
+        9e:2e:bd:b7:cd:da:d3:2f:41:5c:89:5d:dd:2c:87:59:f1:00:
+        3a:d6:ae:03
