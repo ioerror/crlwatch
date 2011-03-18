@@ -1,0 +1,56 @@
+issuer=/C=DE/O=Universitaet Dortmund/OU=Hochschulrechenzentrum/CN=Uni Dortmund CA - G01/emailAddress=ca@pki.uni-dortmund.de
+SHA1 Fingerprint=A7:1E:9F:88:CC:16:8F:D1:CD:AB:31:68:2F:8D:82:EB:18:AF:34:0A
+f381931f
+crlNumber=0105
+lastUpdate=Mar 14 09:44:15 2011 GMT
+nextUpdate=Apr 13 09:44:15 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Universitaet Dortmund/OU=Hochschulrechenzentrum/CN=Uni Dortmund CA - G01/emailAddress=ca@pki.uni-dortmund.de
+        Last Update: Mar 14 09:44:15 2011 GMT
+        Next Update: Apr 13 09:44:15 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                261
+Revoked Certificates:
+    Serial Number: 0A29F2BC
+        Revocation Date: May 26 09:33:08 2008 GMT
+    Serial Number: 0BAAF51E
+        Revocation Date: May 19 13:26:07 2008 GMT
+    Serial Number: 0BB6BE42
+        Revocation Date: May 19 13:24:27 2008 GMT
+    Serial Number: 0C1D9C61
+        Revocation Date: Feb  3 13:34:08 2010 GMT
+    Serial Number: 0C1ED110
+        Revocation Date: May 26 09:33:09 2008 GMT
+    Serial Number: 0C353CA8
+        Revocation Date: May 26 09:45:22 2008 GMT
+    Serial Number: 0C3FD989
+        Revocation Date: May  6 14:52:08 2008 GMT
+    Serial Number: 0C52022D
+        Revocation Date: Feb 12 10:42:09 2009 GMT
+    Serial Number: 0C65C685
+        Revocation Date: Sep 30 12:36:09 2009 GMT
+    Serial Number: 0C79A7E3
+        Revocation Date: Jun 19 09:58:15 2008 GMT
+    Serial Number: 0C803CE4
+        Revocation Date: Jun 25 13:49:07 2008 GMT
+    Serial Number: 0F8A27B1
+        Revocation Date: Feb  4 11:25:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        86:7f:60:30:f6:58:12:93:42:ff:90:d0:e2:39:56:f1:f0:dc:
+        49:6c:86:f7:e5:4f:d2:d7:f2:d9:23:3d:d8:0e:14:43:5f:b2:
+        60:11:eb:dd:8d:b6:aa:81:7f:12:ba:09:3f:40:e6:f7:db:a3:
+        a5:3c:8b:1d:5e:b4:a4:41:d5:bb:84:4a:9b:d7:64:34:a1:15:
+        49:0a:ba:b2:70:ce:0c:9d:d5:cc:a5:19:fa:0d:50:a1:0f:93:
+        6b:7a:ad:74:13:c4:d1:79:8e:f0:59:7c:4c:64:84:f8:f9:2a:
+        62:7b:7f:d6:5a:37:be:0c:85:80:9f:8d:4e:e3:54:7b:65:37:
+        9d:a8:4d:ab:de:c6:4d:71:2d:32:dd:0e:53:36:92:22:1f:e7:
+        14:3e:3a:0f:98:ac:a9:3c:27:7a:ad:f4:2a:a0:96:2c:50:86:
+        75:69:a1:57:00:9b:82:24:ef:e8:36:2b:35:8e:d5:04:ef:e4:
+        8e:ea:ea:48:a3:ea:fa:1c:b9:72:28:40:49:39:da:18:8d:fb:
+        d0:c4:e5:b5:6e:65:57:d1:e7:14:d8:e9:9f:f3:b9:26:b3:d0:
+        e7:83:66:3f:50:b5:4c:c0:ba:62:3d:6c:bd:99:b7:8a:3c:2a:
+        c3:f6:58:90:f6:46:cd:e4:7b:ab:8b:1e:89:69:a1:b1:f8:a8:
+        8c:05:9e:b5
