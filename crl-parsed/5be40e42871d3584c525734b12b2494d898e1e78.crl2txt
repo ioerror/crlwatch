@@ -1,0 +1,40 @@
+issuer=/C=JP/O=IDEACROSS INC./CN=IDEACROSS CA
+SHA1 Fingerprint=60:D5:E6:0F:87:70:A1:8C:07:5D:55:09:02:CD:9D:5B:00:6A:1A:5C
+2337e37c
+crlNumber=03B9
+lastUpdate=Mar 18 07:38:03 2011 GMT
+nextUpdate=Mar 22 07:38:03 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=JP/O=IDEACROSS INC./CN=IDEACROSS CA
+        Last Update: Mar 18 07:38:03 2011 GMT
+        Next Update: Mar 22 07:38:03 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:92:D2:A2:03:F4:EB:E9:AD:CD:32:5D:BF:E9:B9:DD:3C:32:81:F4:CB
+
+            X509v3 CRL Number: 
+                953
+Revoked Certificates:
+    Serial Number: 53F0A09055DD98A5
+        Revocation Date: Jan  8 16:47:50 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: sha1WithRSAEncryption
+        71:a9:37:2a:a7:bb:4a:3e:97:90:48:2a:2a:cf:62:02:27:b5:
+        7a:07:d4:33:ca:8a:f8:4e:94:eb:34:a3:77:89:9a:90:a6:0d:
+        d3:da:50:bb:7a:aa:15:60:1e:bd:e6:73:43:e2:7d:36:b9:27:
+        58:79:a5:89:e6:e7:1a:cd:ba:af:33:bb:8b:8d:3e:e6:16:41:
+        23:f8:44:d2:28:23:7c:d0:e4:59:a4:8e:43:2c:d3:bb:55:57:
+        b3:60:e8:f8:d0:e8:40:1d:3f:d6:c2:6e:43:6b:3a:04:2a:9a:
+        6f:e5:de:1d:a0:c0:bf:4b:42:e0:61:e8:5a:3f:3d:e8:64:df:
+        7e:ed:08:b6:2e:a8:52:84:8b:fc:47:af:eb:c1:7e:77:42:65:
+        1a:03:02:5e:d4:66:f4:aa:c8:36:29:75:26:4c:3e:79:88:6e:
+        1b:46:29:b1:e9:35:0c:f2:93:71:9f:31:98:e4:dd:1f:0b:e9:
+        64:f6:69:e7:89:6f:28:5b:af:57:69:34:fc:f1:5b:bf:d6:a2:
+        32:d5:ed:56:f1:cf:00:6b:dd:6c:58:08:5c:f9:b6:d0:72:41:
+        5a:6a:0b:38:87:03:0d:83:69:be:ee:e0:a6:10:12:b9:46:a7:
+        c2:92:8d:54:d0:1d:13:ab:fe:3e:69:cb:15:72:f3:bd:ff:ce:
+        7d:b3:0a:d5
