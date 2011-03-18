@@ -1,0 +1,41 @@
+issuer=/CN=Ford Motor Company - Enterprise CA
+SHA1 Fingerprint=E9:06:45:A0:79:60:88:76:4B:CA:88:FB:17:9A:8E:8B:EB:85:6E:08
+91b812df
+crlNumber=0E
+lastUpdate=Dec  1 15:56:03 2010 GMT
+nextUpdate=Jun  5 16:16:03 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /CN=Ford Motor Company - Enterprise CA
+        Last Update: Dec  1 15:56:03 2010 GMT
+        Next Update: Jun  5 16:16:03 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:9F:15:7B:28:C4:5C:D2:54:B4:85:6B:3F:1D:5E:22:07:8F:88:D4:26
+
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 CRL Number: 
+                14
+            1.3.6.1.4.1.311.21.4: 
+                .110601160603Z
+            1.3.6.1.4.1.311.21.14: 
+                0..0...........ldap:///CN=Ford%20Motor%20Company%20-%20Enterprise%20CA,CN=ipkifmceca-vm07,CN=CDP,CN=Public%20Key%20Services,CN=Services,cn=configuration,dc=ford,dc=com?certificateRevocationList?base?objectClass=cRLDistributionPoint
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        3f:44:3a:81:bc:f4:27:95:ac:fd:08:26:fb:fd:9d:4e:b3:d2:
+        17:dd:85:26:df:e9:69:9b:5c:75:c1:d2:3c:f3:68:fb:69:7a:
+        3b:e9:16:44:44:4c:c8:da:b8:13:51:db:2e:24:ca:2f:1c:d9:
+        f0:67:6b:0a:78:47:0f:c4:d9:34:5c:11:c9:d4:ae:b8:35:ec:
+        93:a7:a0:63:9f:3d:25:4b:8e:da:93:a7:69:86:2a:20:35:67:
+        d5:0b:7c:44:29:58:4e:63:e5:fb:24:92:63:ea:86:8a:7a:46:
+        9b:66:83:3a:f3:f7:74:0a:7a:67:a5:2d:64:84:4c:8a:e5:f1:
+        90:df:ca:34:e4:8f:a4:08:4b:1b:65:27:0d:fa:f2:81:2f:55:
+        29:09:3e:e8:f6:4c:ea:76:1d:9c:3e:41:ab:74:10:fd:75:50:
+        44:ac:82:21:78:40:40:5e:93:a5:86:cd:05:62:cd:76:53:2c:
+        4d:a3:b7:1a:3a:be:0c:1f:9c:36:96:f4:a3:82:65:a7:0b:9e:
+        87:8f:0b:2c:24:43:6f:b9:d2:a6:45:1a:ee:70:30:0a:04:06:
+        9e:20:ab:11:2f:7e:f1:53:11:c9:fa:02:79:b9:f2:f2:e4:5e:
+        b0:b2:d5:61:46:88:1f:d6:9f:20:06:ec:d8:44:c6:09:a0:c4:
+        35:17:d3:95
