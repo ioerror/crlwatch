@@ -1,0 +1,46 @@
+issuer=/C=DE/O=Berlin-Brandenburgische Akademie der Wissenschaften/OU=Informationstechnologie/CN=BBAW-CA 1/emailAddress=ca@bbaw.de
+SHA1 Fingerprint=4E:33:75:7B:0A:5B:D5:3B:23:3E:33:3F:08:E2:70:E2:02:DC:0B:B0
+e50467c8
+crlNumber=53
+lastUpdate=Mar 14 07:11:06 2011 GMT
+nextUpdate=Apr 13 07:11:06 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Berlin-Brandenburgische Akademie der Wissenschaften/OU=Informationstechnologie/CN=BBAW-CA 1/emailAddress=ca@bbaw.de
+        Last Update: Mar 14 07:11:06 2011 GMT
+        Next Update: Apr 13 07:11:06 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                83
+Revoked Certificates:
+    Serial Number: 0F1B9637
+        Revocation Date: Sep 29 14:55:06 2010 GMT
+    Serial Number: 0F24CCBB
+        Revocation Date: Nov 19 16:20:07 2009 GMT
+    Serial Number: 0F24ECD5
+        Revocation Date: Nov 19 16:20:08 2009 GMT
+    Serial Number: 0F41F684
+        Revocation Date: Dec 15 09:55:07 2009 GMT
+    Serial Number: 0F41F861
+        Revocation Date: Dec 15 09:55:08 2009 GMT
+    Serial Number: 0F4704F7
+        Revocation Date: Dec 15 13:04:12 2009 GMT
+    Serial Number: 10C3C85C
+        Revocation Date: Oct  4 14:33:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        5d:92:af:a4:74:0b:cf:77:be:fa:39:ac:b4:e1:69:76:fa:b4:
+        6d:21:7e:ee:c0:a2:da:f1:e8:71:c8:be:e2:fd:3f:78:fd:c2:
+        1b:c3:0b:3b:90:22:b1:62:27:c3:94:a5:0d:d2:8e:46:16:34:
+        be:ba:aa:e0:69:db:cc:2c:9b:83:ad:dd:12:63:d6:32:13:82:
+        26:9b:82:7e:83:18:ce:6e:3e:92:c3:4b:67:1d:44:d8:33:3f:
+        ae:15:83:d1:2b:d6:29:e2:de:5c:a0:1f:1e:80:c8:16:a7:84:
+        3f:90:86:07:09:d9:2c:67:86:1d:f9:a6:9e:a6:36:cb:78:f4:
+        0b:93:03:da:e9:99:e3:88:b1:eb:be:4c:95:5a:ce:1a:6c:03:
+        49:89:ac:3c:2e:8b:19:bd:45:61:6d:8c:5d:87:28:e3:cd:fc:
+        ce:24:e0:32:53:5f:44:1d:8b:7e:6a:c5:77:fa:ac:bd:83:ec:
+        c6:48:aa:40:e3:8e:78:8b:56:07:10:84:c3:75:97:fc:2c:ca:
+        cf:e6:5d:10:cb:67:56:a3:6b:60:1f:33:98:fc:60:88:0e:e3:
+        6e:2a:d7:52:29:83:a8:f7:06:de:0a:74:ff:d9:ec:d1:75:a2:
+        ca:09:e0:e3:b3:c3:ac:b9:eb:1a:cd:4d:38:e4:e2:17:2c:32:
+        a7:98:d3:fa
