@@ -1,0 +1,39 @@
+issuer=/CN=UIS-IntB-CA
+SHA1 Fingerprint=35:1B:FB:CF:8E:79:54:45:76:CD:40:E4:8F:53:BF:2D:DE:E6:2B:3E
+363c0cc2
+crlNumber=0E
+lastUpdate=Feb 23 16:26:30 2011 GMT
+nextUpdate=Feb 24 04:46:30 2012 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /CN=UIS-IntB-CA
+        Last Update: Feb 23 16:26:30 2011 GMT
+        Next Update: Feb 24 04:46:30 2012 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:F5:C6:DD:33:8F:E0:34:D7:D5:5B:44:94:FF:35:35:70:7D:F3:EC:35
+
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            X509v3 CRL Number: 
+                14
+            1.3.6.1.4.1.311.21.4: 
+                .120223163630Z
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        1d:0f:fb:c7:aa:38:14:0c:fa:87:6d:2c:ff:46:e1:bf:12:fe:
+        c5:01:b2:41:10:24:6f:ff:00:eb:76:31:77:b2:9c:2f:59:c7:
+        53:01:87:d0:ea:38:d4:51:50:4d:c7:19:4a:fa:ae:27:69:2a:
+        08:b2:b0:39:fc:ea:a0:a1:01:78:2f:87:75:30:2f:13:c8:3a:
+        d2:ef:de:73:34:91:eb:57:85:11:6e:21:7c:11:f7:43:1b:d1:
+        ac:70:24:d9:3c:b3:65:0a:f6:84:bf:e9:3e:3f:85:54:8f:bc:
+        af:16:a8:6b:c5:76:b7:22:12:cc:fd:2d:e7:db:4f:e6:56:bd:
+        35:29:e2:bf:c6:04:20:65:02:d2:88:06:1f:b9:a4:f7:9e:e9:
+        12:03:43:18:05:4d:aa:e6:2f:25:82:47:5a:08:0e:9e:7d:55:
+        be:bd:00:3e:44:cb:5a:38:74:5f:96:1e:8e:81:75:a7:42:ec:
+        4d:b8:cd:b1:e3:71:91:39:d0:d0:89:81:39:f0:5b:b6:75:7e:
+        09:0f:2a:13:15:8b:04:26:ea:aa:39:f2:d4:aa:8b:f9:03:a5:
+        06:f0:02:b6:60:6e:eb:bb:62:0b:c0:fd:48:2d:bc:fc:b7:37:
+        15:4e:88:89:5e:f5:7f:d6:da:e5:7d:c5:80:bf:5a:06:6c:a6:
+        79:99:6f:ae
