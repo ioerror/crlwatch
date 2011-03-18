@@ -1,0 +1,54 @@
+issuer=/C=DE/O=Georg-Simon-Ohm-Hochschule f. angewandte Wissenschaften FH Nbg/OU=Rechenzentrum/CN=Ohm CA - G01/emailAddress=HS-PKI@ohm-hochschule.de
+SHA1 Fingerprint=91:8B:1B:3B:7A:71:B2:12:61:71:E2:4A:DA:78:F6:88:6C:76:E0:F1
+ebabc867
+crlNumber=AF
+lastUpdate=Mar 14 08:27:07 2011 GMT
+nextUpdate=Apr 13 08:27:07 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=Georg-Simon-Ohm-Hochschule f. angewandte Wissenschaften FH Nbg/OU=Rechenzentrum/CN=Ohm CA - G01/emailAddress=HS-PKI@ohm-hochschule.de
+        Last Update: Mar 14 08:27:07 2011 GMT
+        Next Update: Apr 13 08:27:07 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                175
+Revoked Certificates:
+    Serial Number: 0C64D3B4
+        Revocation Date: Sep 17 13:28:09 2009 GMT
+    Serial Number: 0E600D8D
+        Revocation Date: Sep 17 13:30:10 2009 GMT
+    Serial Number: 0E923910
+        Revocation Date: Aug  3 11:05:07 2009 GMT
+    Serial Number: 0E923912
+        Revocation Date: Aug  3 11:07:06 2009 GMT
+    Serial Number: 0FD01540
+        Revocation Date: Dec  8 07:47:07 2010 GMT
+    Serial Number: 0FEBAF30
+        Revocation Date: Dec  7 10:33:31 2010 GMT
+    Serial Number: 108B687D
+        Revocation Date: Aug 23 14:27:09 2010 GMT
+    Serial Number: 10920253
+        Revocation Date: Dec  8 07:47:08 2010 GMT
+    Serial Number: 109202CB
+        Revocation Date: Dec  8 07:47:09 2010 GMT
+    Serial Number: 111D7EC6
+        Revocation Date: Dec  7 10:33:31 2010 GMT
+    Serial Number: 111D87AC
+        Revocation Date: Dec  8 07:47:09 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        63:66:a8:c6:d9:32:55:fa:ac:cb:70:b6:21:1c:a6:63:da:41:
+        ee:0e:df:fb:ff:01:8f:e5:de:44:ee:d2:4f:1c:45:2a:24:db:
+        15:b5:a6:69:41:04:ae:8d:b4:97:c3:43:c7:fe:2e:7c:26:7d:
+        dc:e7:1f:ca:1d:f0:36:4c:72:cb:31:4e:da:54:bd:f5:29:48:
+        14:5c:53:19:4e:2c:4e:14:b6:22:47:b9:60:fb:ec:86:87:55:
+        2f:78:47:c0:ac:fb:0e:23:ab:10:4a:ab:e2:9c:67:51:fc:9f:
+        a4:f1:22:08:32:cc:be:34:04:6e:5b:77:ca:6a:3e:5c:fb:40:
+        e2:a7:35:ea:34:d4:7d:42:91:91:fa:07:5e:45:63:83:12:0c:
+        48:46:a0:3b:07:55:bc:3d:95:d4:62:19:f0:63:c7:ae:6f:f4:
+        fd:7d:f5:06:2c:0a:64:ef:b7:d0:cb:60:94:8a:bd:fe:67:f0:
+        6d:bd:ff:05:a8:a8:01:65:fe:9c:d0:ed:2d:03:72:f9:f3:e0:
+        ca:23:59:45:d9:66:9f:61:39:7f:c2:5e:07:e3:3b:d5:4f:d7:
+        ed:48:f0:31:a4:35:57:c6:8d:35:67:1e:5b:5a:8f:97:b6:b8:
+        16:45:f5:2a:ff:26:ef:75:c8:d1:78:d3:1d:4c:67:3e:07:92:
+        fb:3f:9e:02
