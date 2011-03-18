@@ -1,0 +1,40 @@
+issuer=/C=DE/ST=Bayern/L=Ansbach/O=Fachhochschule Ansbach/OU=Hochschulrechenzentrum/CN=FH Ansbach CA/emailAddress=ca@fh-ansbach.de
+SHA1 Fingerprint=FB:8E:40:20:AD:B5:74:46:DC:D9:49:4C:7B:26:F8:6D:C4:B9:46:5D
+faa149c0
+crlNumber=019B
+lastUpdate=Mar 14 07:33:06 2011 GMT
+nextUpdate=Apr 13 07:33:06 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/ST=Bayern/L=Ansbach/O=Fachhochschule Ansbach/OU=Hochschulrechenzentrum/CN=FH Ansbach CA/emailAddress=ca@fh-ansbach.de
+        Last Update: Mar 14 07:33:06 2011 GMT
+        Next Update: Apr 13 07:33:06 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                411
+Revoked Certificates:
+    Serial Number: 0B33ED16
+        Revocation Date: Oct 16 08:40:06 2007 GMT
+    Serial Number: 0BBEB9F9
+        Revocation Date: Jun  5 11:05:58 2009 GMT
+    Serial Number: 0BBEB9FB
+        Revocation Date: Jun  5 11:05:53 2009 GMT
+    Serial Number: 0E6D215C
+        Revocation Date: Jul  3 09:09:19 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        1e:b9:3e:dc:8a:9b:a9:45:fe:26:dd:7d:69:9b:46:63:ff:e2:
+        0a:08:c2:1d:a8:28:30:7b:1e:d4:5e:8d:58:f8:b2:c0:c9:b8:
+        0d:80:bb:a2:27:e7:90:b0:61:4f:b1:be:8e:3e:8a:2c:1e:7a:
+        dc:6b:4d:f7:61:e1:37:8e:46:8a:7f:24:ba:f9:c9:d2:85:06:
+        f9:40:f0:53:d6:c1:bf:ba:ff:bd:c8:73:0f:a9:c8:03:d3:37:
+        c3:d7:66:ae:6d:57:2e:22:a2:50:1d:46:38:2a:d2:ee:af:b9:
+        62:c3:4e:78:7a:77:ba:0e:d0:c2:00:b7:69:a3:3f:bc:aa:1d:
+        40:e4:e8:e2:31:34:d7:7d:fe:f0:dc:32:bc:1b:0e:02:e2:29:
+        53:1c:73:d7:ff:82:2a:cf:8d:a2:35:66:7f:4f:8b:1f:46:1f:
+        bc:82:2e:a3:96:a4:74:b8:e7:e8:4a:50:48:c4:a6:86:c9:38:
+        93:e9:6c:ae:dd:ad:bc:f7:55:f6:80:15:25:af:96:99:d7:f3:
+        fe:38:5c:90:64:ce:b0:c2:91:a5:3f:b6:bd:07:84:58:b5:6f:
+        fb:2f:29:46:b3:e3:f6:67:70:c4:01:08:92:82:82:76:ad:af:
+        95:0a:7a:c1:ff:0f:d5:f0:b9:12:f9:43:cd:d7:f5:6a:46:32:
+        8b:d3:0b:3b
