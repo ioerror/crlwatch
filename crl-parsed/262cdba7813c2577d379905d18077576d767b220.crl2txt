@@ -1,0 +1,42 @@
+issuer=/C=TH/O=NECTEC/OU=GOC/CN=NECTEC GOC CA
+SHA1 Fingerprint=D0:58:2B:9C:1D:1E:E6:DC:A8:E3:53:76:E9:2D:81:DF:9F:4C:1E:68
+3839294d
+crlNumber=43
+lastUpdate=Mar  4 10:23:54 2011 GMT
+nextUpdate=Apr  3 10:23:54 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=TH/O=NECTEC/OU=GOC/CN=NECTEC GOC CA
+        Last Update: Mar  4 10:23:54 2011 GMT
+        Next Update: Apr  3 10:23:54 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:63:15:AC:F3:BE:13:5A:66:75:A0:47:C1:BA:B0:CC:CB:30:9E:6B:2E
+                DirName:/C=TH/O=NECTEC/OU=GOC/CN=NECTEC GOC CA
+                serial:B0:2A:B2:CE:65:87:50:66
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://gridca.hpcc.nectec.or.th/pub/crl/cacrl.crl
+
+            X509v3 CRL Number: 
+                67
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        66:37:8e:9b:12:af:45:81:16:f2:82:e9:d6:ec:64:9f:fd:0d:
+        31:d2:d7:14:10:f5:ae:0a:c5:45:2a:d8:25:2f:1d:9e:33:34:
+        38:1d:a0:50:ba:c5:e8:c2:25:7f:44:a9:94:86:2d:47:5b:08:
+        ed:17:12:99:c5:45:cf:c3:04:45:a2:fe:cf:82:8e:b6:4c:bb:
+        a6:59:15:86:e6:33:7b:81:01:a1:3a:2c:c6:33:8e:85:d9:97:
+        11:af:24:68:7b:dd:72:e8:22:98:d6:0a:a7:c6:d0:7a:fb:5e:
+        d9:29:2c:d8:a5:b4:f4:f4:5a:3c:9d:e5:63:8f:ce:bc:e3:3d:
+        ba:89:c7:77:ee:5f:e5:cc:e9:fd:35:83:ad:58:70:3c:ba:e2:
+        b0:61:aa:44:33:dd:67:87:16:d1:c6:15:0a:60:65:d9:bd:ea:
+        9f:4c:70:03:db:df:e5:78:72:be:25:ed:47:16:08:47:30:b9:
+        c0:ae:73:6a:48:1a:70:76:78:fb:1d:aa:f7:e5:02:81:d5:9c:
+        38:f2:b5:29:99:d9:66:e4:42:2f:7b:80:10:5c:cb:04:0a:1a:
+        d8:9e:05:a3:23:94:5c:6d:99:cd:44:db:52:a3:8e:8c:9e:42:
+        77:82:11:b7:80:32:ab:a6:dd:21:1b:71:3c:fc:19:15:9b:35:
+        c6:87:0d:74
