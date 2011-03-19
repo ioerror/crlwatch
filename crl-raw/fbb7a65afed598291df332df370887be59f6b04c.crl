@@ -1,0 +1,111 @@
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=net/DC=ES/O=ESnet/OU=Certificate Authorities/CN=ESnet Root CA 1
+        Last Update: Dec  2 18:32:42 2010 GMT
+        Next Update: Dec  2 18:32:42 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                95
+Revoked Certificates:
+    Serial Number: 2C
+        Revocation Date: May 25 00:48:19 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 26
+        Revocation Date: Oct 26 19:35:16 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 25
+        Revocation Date: Oct 26 19:35:00 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 0E
+        Revocation Date: Jun 11 00:41:12 2003 GMT
+    Serial Number: 23
+        Revocation Date: Oct 26 19:34:31 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 22
+        Revocation Date: Oct 26 19:34:02 2006 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 0A
+        Revocation Date: May  6 18:43:40 2003 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                May  6 07:00:00 2003 GMT
+    Serial Number: 09
+        Revocation Date: Dec  6 02:13:21 2002 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Dec  5 08:00:00 2002 GMT
+    Serial Number: 06
+        Revocation Date: Dec  6 02:08:21 2002 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Dec  5 08:00:00 2002 GMT
+    Serial Number: 05
+        Revocation Date: Dec  6 02:12:49 2002 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+            Invalidity Date: 
+                Dec  5 08:00:00 2002 GMT
+    Serial Number: 32
+        Revocation Date: Jan 30 23:16:39 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+            Invalidity Date: 
+                Jan 30 08:00:00 2008 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        2a:48:2c:5c:22:46:ce:15:8d:87:24:5c:11:d5:04:3c:9f:df:
+        1c:fa:d6:9d:b6:74:1e:96:c7:8c:93:89:00:44:32:53:73:41:
+        b8:63:7e:13:04:9c:d3:c5:c0:c9:b3:35:b6:ca:f5:dc:3a:b6:
+        15:d7:86:52:f3:d5:85:7a:8c:ec:76:92:24:ee:4e:34:39:2a:
+        7e:cf:e8:e6:61:39:9a:42:12:32:72:da:82:17:56:1e:c9:6c:
+        82:86:55:2f:5d:30:16:5c:54:09:15:64:a4:7c:7c:a5:ef:29:
+        80:36:88:45:ef:5f:f9:bb:ff:85:f7:cf:f4:3d:b9:68:19:65:
+        7a:5b:65:a4:e2:7c:56:a8:bc:b5:9f:ae:c6:82:0b:05:39:ea:
+        52:8c:ab:85:63:27:11:15:d0:76:56:4f:14:01:95:4e:ad:da:
+        ae:2d:48:5b:22:d2:a3:aa:41:3e:20:b6:5c:55:60:cf:d6:8d:
+        90:55:03:c9:30:a9:59:dd:77:b4:a1:06:96:9f:fa:df:d8:5f:
+        1a:c5:62:df:09:f6:61:e3:a6:95:c3:58:7d:25:b8:cf:51:be:
+        b5:82:13:50:25:b4:88:18:ed:25:4f:f6:9f:12:4f:a4:78:20:
+        72:ea:56:83:4a:c2:3b:65:f4:6b:d6:62:3d:41:17:bd:35:44:
+        b7:49:63:e2
+-----BEGIN X509 CRL-----
+MIIDvTCCAqUCAQEwDQYJKoZIhvcNAQEFBQAwdTETMBEGCgmSJomT8ixkARkWA25l
+dDESMBAGCgmSJomT8ixkARkWAkVTMQ4wDAYDVQQKEwVFU25ldDEgMB4GA1UECxMX
+Q2VydGlmaWNhdGUgQXV0aG9yaXRpZXMxGDAWBgNVBAMTD0VTbmV0IFJvb3QgQ0Eg
+MRcNMTAxMjAyMTgzMjQyWhcNMTExMjAyMTgzMjQyWjCCAeowIAIBLBcNMDcwNTI1
+MDA0ODE5WjAMMAoGA1UdFQQDCgEFMCACASYXDTA2MTAyNjE5MzUxNlowDDAKBgNV
+HRUEAwoBBDAgAgElFw0wNjEwMjYxOTM1MDBaMAwwCgYDVR0VBAMKAQQwEgIBDhcN
+MDMwNjExMDA0MTEyWjAgAgEjFw0wNjEwMjYxOTM0MzFaMAwwCgYDVR0VBAMKAQQw
+IAIBIhcNMDYxMDI2MTkzNDAyWjAMMAoGA1UdFQQDCgEEMDoCAQoXDTAzMDUwNjE4
+NDM0MFowJjAKBgNVHRUEAwoBBDAYBgNVHRgEERgPMjAwMzA1MDYwNzAwMDBaMDoC
+AQkXDTAyMTIwNjAyMTMyMVowJjAKBgNVHRUEAwoBBDAYBgNVHRgEERgPMjAwMjEy
+MDUwODAwMDBaMDoCAQYXDTAyMTIwNjAyMDgyMVowJjAKBgNVHRUEAwoBBTAYBgNV
+HRgEERgPMjAwMjEyMDUwODAwMDBaMDoCAQUXDTAyMTIwNjAyMTI0OVowJjAKBgNV
+HRUEAwoBBDAYBgNVHRgEERgPMjAwMjEyMDUwODAwMDBaMDoCATIXDTA4MDEzMDIz
+MTYzOVowJjAKBgNVHRUEAwoBBTAYBgNVHRgEERgPMjAwODAxMzAwODAwMDBaoA4w
+DDAKBgNVHRQEAwIBXzANBgkqhkiG9w0BAQUFAAOCAQEAKkgsXCJGzhWNhyRcEdUE
+PJ/fHPrWnbZ0HpbHjJOJAEQyU3NBuGN+EwSc08XAybM1tsr13Dq2FdeGUvPVhXqM
+7HaSJO5ONDkqfs/o5mE5mkISMnLaghdWHslsgoZVL10wFlxUCRVkpHx8pe8pgDaI
+Re9f+bv/hffP9D25aBlleltlpOJ8Vqi8tZ+uxoILBTnqUoyrhWMnERXQdlZPFAGV
+Tq3ari1IWyLSo6pBPiC2XFVgz9aNkFUDyTCpWd13tKEGlp/639hfGsVi3wn2YeOm
+lcNYfSW4z1G+tYITUCW0iBjtJU/2nxJPpHggcupWg0rCO2X0a9ZiPUEXvTVEt0lj
+4g==
+-----END X509 CRL-----
