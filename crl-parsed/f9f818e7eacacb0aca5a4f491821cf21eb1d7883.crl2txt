@@ -1,0 +1,105 @@
+issuer=/DC=bg/DC=acad/CN=BG.ACAD CA
+SHA1 Fingerprint=B2:00:4B:14:D7:7A:ED:A8:06:1A:54:59:64:5C:9A:9A:49:BD:E5:99
+13ba0088
+crlNumber=46
+lastUpdate=Mar  2 10:16:45 2011 GMT
+nextUpdate=Apr  1 10:16:45 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=bg/DC=acad/CN=BG.ACAD CA
+        Last Update: Mar  2 10:16:45 2011 GMT
+        Next Update: Apr  1 10:16:45 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:D1:7D:63:38:C7:69:EC:56:2C:CE:EE:D5:6D:4E:77:C7:A3:FD:34:6C
+
+            X509v3 CRL Number: 
+                70
+Revoked Certificates:
+    Serial Number: 04
+        Revocation Date: Nov 20 11:10:20 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 09
+        Revocation Date: Apr 27 10:13:37 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0A
+        Revocation Date: Apr 27 10:14:24 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0F
+        Revocation Date: Feb 29 16:02:43 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 15
+        Revocation Date: Mar 18 13:06:50 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 19
+        Revocation Date: Jun 13 12:56:47 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 38
+        Revocation Date: Dec 28 17:12:04 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 3A
+        Revocation Date: Nov 20 11:11:28 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 3C
+        Revocation Date: Nov 20 11:12:04 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Cessation Of Operation
+    Serial Number: 42
+        Revocation Date: Dec  6 13:41:04 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 43
+        Revocation Date: Dec  6 13:39:19 2007 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Serial Number: 62
+        Revocation Date: May 13 14:17:01 2008 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Key Compromise
+    Serial Number: 0145
+        Revocation Date: Mar  5 12:47:26 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Unspecified
+    Serial Number: 0188
+        Revocation Date: Dec  3 12:22:20 2010 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: sha1WithRSAEncryption
+        4d:eb:6a:fb:43:bc:e5:e0:65:b3:e8:2b:55:aa:65:b5:22:0d:
+        bc:81:63:6e:46:d5:a2:d8:d9:be:bd:f9:7b:09:d8:90:48:7f:
+        33:9b:c0:0d:33:84:18:2a:90:93:28:2a:5d:d3:5a:9a:89:65:
+        f7:c8:89:71:8f:2a:f0:d3:c4:de:4e:04:f0:20:85:1d:04:2e:
+        c3:a3:46:c6:20:7a:c5:21:b8:df:cf:4c:eb:fc:9d:23:43:a5:
+        24:b7:d5:c7:8f:64:58:e9:81:f6:d8:60:0f:41:4f:75:38:d9:
+        f4:91:b9:94:c8:0f:2f:c1:02:bd:cf:ca:0c:60:27:5b:f4:f3:
+        1e:e1:04:f3:cc:fb:6a:89:99:88:05:f0:74:8a:8d:b8:28:c8:
+        3b:87:0e:4b:7b:85:4c:ea:e0:90:e0:14:d6:d2:05:8a:88:9c:
+        d7:c6:a1:d3:21:2a:49:d4:d0:bf:d5:98:0b:6d:34:dc:6c:84:
+        bf:80:e9:7d:be:94:4a:4a:6f:3e:36:b0:b3:9f:9a:9c:1d:77:
+        e3:9c:5e:fe:f5:2a:59:ee:c6:63:7b:0d:ad:74:fa:96:ef:53:
+        78:0c:d4:85:cf:31:a0:f1:33:fd:52:f1:2a:42:2a:19:7c:93:
+        b2:f9:4b:eb:aa:b1:d9:98:dc:9b:d8:80:30:45:cd:4a:cf:27:
+        30:ef:f3:5c
