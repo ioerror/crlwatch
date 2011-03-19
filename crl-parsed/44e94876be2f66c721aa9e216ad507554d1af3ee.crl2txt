@@ -1,0 +1,40 @@
+issuer=/DC=HK/DC=HKU/DC=GRID/CN=HKU Grid CA
+SHA1 Fingerprint=35:3A:8C:7B:9F:80:E2:73:15:68:A7:EA:91:16:2E:D3:7E:82:A5:65
+03a1fa38
+crlNumber=25
+lastUpdate=Mar  7 02:47:13 2011 GMT
+nextUpdate=Apr  6 02:47:13 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=HK/DC=HKU/DC=GRID/CN=HKU Grid CA
+        Last Update: Mar  7 02:47:13 2011 GMT
+        Next Update: Apr  6 02:47:13 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                37
+Revoked Certificates:
+    Serial Number: 01
+        Revocation Date: Apr 28 08:56:52 2009 GMT
+    Serial Number: 02
+        Revocation Date: Apr 28 08:59:05 2009 GMT
+    Serial Number: 03
+        Revocation Date: Jul  9 06:42:47 2009 GMT
+    Serial Number: 05
+        Revocation Date: Jul 16 07:11:05 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        3b:d7:b8:4e:6d:90:88:90:40:72:01:07:90:df:b2:ef:e2:4f:
+        3d:10:9f:26:b1:de:17:bc:12:6a:98:01:5b:27:3d:46:a6:77:
+        df:19:71:91:20:b6:22:fe:3e:a0:f3:81:0d:7c:ee:9a:50:38:
+        2d:37:f8:8a:aa:99:fc:36:3b:5c:4e:d1:42:66:ab:7c:5d:12:
+        f7:5d:e3:40:a9:2e:d4:4b:f5:67:7c:01:14:cb:91:15:a4:ca:
+        7f:4c:30:c5:79:da:60:ec:fc:d4:9c:73:82:6d:54:bf:c5:5d:
+        2a:ef:86:e4:46:f4:22:43:5d:87:2e:01:51:d7:42:f4:84:88:
+        81:7e:40:49:61:1e:d2:7c:ae:aa:29:61:7b:b3:3e:c1:7a:6e:
+        6f:86:b0:d9:bb:7f:3e:59:26:14:19:7e:13:c2:7a:23:41:f8:
+        28:6f:ff:53:16:a1:b0:ae:ab:e1:55:12:63:b5:41:99:51:3c:
+        05:60:7a:cb:27:55:40:b7:29:8e:da:39:a5:60:a1:12:b6:0c:
+        6b:7f:47:ad:f2:8c:28:54:79:91:95:97:ef:18:06:fa:af:1a:
+        b5:bf:5e:9e:b9:c7:a5:51:2e:ef:f7:ed:93:32:eb:a6:92:0d:
+        91:df:63:9a:aa:2d:b4:5a:05:4b:ed:3f:95:cf:4e:41:e6:67:
+        45:ad:61:26
