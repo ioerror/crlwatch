@@ -1,0 +1,45 @@
+issuer=/C=IR/O=IPM/O=IRAN-GRID/CN=IRAN-GRID CA
+SHA1 Fingerprint=2E:CB:65:9B:C3:A8:5D:25:D5:CC:D8:68:7B:B2:88:99:10:46:A3:08
+d072977b
+crlNumber=2F
+lastUpdate=Mar 11 07:39:31 2011 GMT
+nextUpdate=Apr 10 07:39:31 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=IR/O=IPM/O=IRAN-GRID/CN=IRAN-GRID CA
+        Last Update: Mar 11 07:39:31 2011 GMT
+        Next Update: Apr 10 07:39:31 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:CC:C2:87:06:9D:19:EF:B5:B7:76:83:D6:DF:1D:16:68:B9:28:73:70
+
+            X509v3 CRL Number: 
+                47
+Revoked Certificates:
+    Serial Number: 03
+        Revocation Date: Jun  2 16:24:52 2008 GMT
+    Serial Number: 05
+        Revocation Date: Jul 19 11:22:24 2008 GMT
+    Serial Number: 0A
+        Revocation Date: Aug  7 13:08:47 2009 GMT
+    Serial Number: 0F
+        Revocation Date: Oct 14 18:59:40 2010 GMT
+    Serial Number: 17
+        Revocation Date: Mar 11 07:37:59 2011 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        66:1f:40:17:55:20:36:be:ae:03:41:95:18:69:23:7c:fe:72:
+        81:98:3e:1a:ed:63:5c:fb:46:84:07:eb:d0:08:38:96:0b:9b:
+        2c:22:41:68:6c:7a:6a:c9:74:dd:8e:08:82:70:8d:22:47:1f:
+        00:61:90:e2:3f:e4:73:5f:fd:8a:1b:d9:d0:f3:a4:0a:1b:ec:
+        f5:f4:f8:98:de:73:98:66:d3:59:57:0c:69:48:17:e5:97:5f:
+        bd:22:79:3b:f4:9c:dd:d9:c4:e6:8a:47:36:36:2c:66:24:ca:
+        9e:a6:c7:1d:9e:62:b9:f1:9d:2f:4e:53:f7:65:34:5f:83:1c:
+        76:48:fd:f1:8f:51:0b:2e:e1:92:98:62:af:a9:38:18:3e:f6:
+        9a:26:55:8a:91:bb:4a:8f:f6:b6:8c:52:92:d8:f4:26:3a:48:
+        f1:3d:b8:66:69:41:32:e2:17:95:f2:6b:43:1e:84:30:0e:31:
+        83:6a:4e:e7:ef:2f:55:a5:a9:3f:8a:cf:35:d6:56:c9:2b:b4:
+        a9:4c:3a:8c:97:7a:4b:fd:30:35:8f:5c:1d:6c:b7:8a:6b:20:
+        2a:0e:27:8f:37:9c:c0:d5:ad:99:ae:99:71:b6:c4:6f:4e:89:
+        3c:28:f0:8e:09:77:aa:db:9a:21:f7:bb:22:8a:6b:d9:c7:7b:
+        71:ef:bc:55
