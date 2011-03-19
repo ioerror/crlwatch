@@ -1,0 +1,81 @@
+issuer=/C=MA/O=MaGrid/CN=MaGrid CA
+SHA1 Fingerprint=DC:51:4C:0E:65:19:36:49:B4:1B:AD:3D:86:81:27:21:CB:B4:E8:86
+4ce1cf99
+crlNumber=3C
+lastUpdate=Feb 28 16:16:37 2011 GMT
+nextUpdate=Mar 30 16:16:37 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=MA/O=MaGrid/CN=MaGrid CA
+        Last Update: Feb 28 16:16:37 2011 GMT
+        Next Update: Mar 30 16:16:37 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:89:CB:49:6C:54:26:6E:E3:70:BC:F1:9B:59:13:C3:55:6B:18:12:5B
+                DirName:/C=MA/O=MaGrid/CN=MaGrid CA
+                serial:F5:B1:58:1F:5D:9B:65:8A
+
+            X509v3 CRL Number: 
+                60
+Revoked Certificates:
+    Serial Number: 01
+        Revocation Date: Nov 20 15:07:44 2008 GMT
+    Serial Number: 02
+        Revocation Date: Nov 20 15:17:40 2008 GMT
+    Serial Number: 06
+        Revocation Date: Apr 28 09:58:34 2008 GMT
+    Serial Number: 07
+        Revocation Date: May  2 13:43:32 2008 GMT
+    Serial Number: 08
+        Revocation Date: May  2 13:43:51 2008 GMT
+    Serial Number: 0B
+        Revocation Date: Mar 10 11:45:43 2008 GMT
+    Serial Number: 0E
+        Revocation Date: Apr  8 15:28:46 2008 GMT
+    Serial Number: 15
+        Revocation Date: Jun  4 14:50:27 2008 GMT
+    Serial Number: 16
+        Revocation Date: Jul 29 14:58:03 2008 GMT
+    Serial Number: 17
+        Revocation Date: Oct 27 10:26:47 2008 GMT
+    Serial Number: 18
+        Revocation Date: Oct 27 10:27:05 2008 GMT
+    Serial Number: 1D
+        Revocation Date: Jul 10 16:25:33 2009 GMT
+    Serial Number: 1F
+        Revocation Date: Jun 10 10:19:15 2009 GMT
+    Serial Number: 22
+        Revocation Date: Jun 11 11:50:29 2009 GMT
+    Serial Number: 25
+        Revocation Date: Mar  4 15:52:29 2010 GMT
+    Serial Number: 2D
+        Revocation Date: Jun 10 10:19:31 2009 GMT
+    Serial Number: 34
+        Revocation Date: Jul 17 10:44:54 2009 GMT
+    Serial Number: 3A
+        Revocation Date: Mar  4 15:53:09 2010 GMT
+    Serial Number: 42
+        Revocation Date: Jun 18 15:05:22 2010 GMT
+    Serial Number: 53
+        Revocation Date: Dec 20 16:10:03 2010 GMT
+    Serial Number: 54
+        Revocation Date: Dec 20 16:10:16 2010 GMT
+    Serial Number: 61
+        Revocation Date: Dec 20 16:10:28 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        66:5f:d8:40:80:57:78:3e:1b:01:1c:bf:76:a3:46:da:f4:7f:
+        9f:0c:22:ec:d4:e8:46:ec:b6:e2:86:e8:c4:48:f4:3b:34:33:
+        0d:47:ca:03:d5:99:aa:4a:6f:af:16:b1:4a:73:07:16:39:1f:
+        1c:6f:98:3d:bd:f9:84:a4:a7:10:33:e0:0c:a1:a8:8f:ab:84:
+        b7:80:ea:ac:03:b2:20:2f:2f:c0:6b:0d:52:86:bd:42:93:65:
+        93:81:d5:2f:d4:17:18:68:f0:8d:65:85:1e:d7:b6:1a:f9:1c:
+        fe:c2:01:e0:13:3b:f4:24:0a:32:cb:0f:d5:d1:63:1d:50:de:
+        1c:e9:3f:ac:28:80:6f:db:ae:c3:89:76:ec:ab:57:5d:97:ef:
+        1e:96:fa:da:08:80:e9:8c:9a:aa:0d:31:77:6d:c2:36:86:68:
+        3f:1a:a3:d6:58:a5:0c:9f:41:c7:6e:ea:90:a8:57:06:61:7d:
+        98:19:ed:66:9e:19:48:30:e6:39:b4:a9:a8:da:11:50:d6:e1:
+        bd:07:81:61:d5:a3:cd:1e:e9:75:6a:5f:8c:ae:ae:9a:51:3e:
+        27:59:45:ba:e9:1e:f9:fe:64:34:c5:20:ab:92:e6:4e:d0:52:
+        8b:d9:be:86:b4:e8:97:2b:16:c1:39:08:d2:4b:28:ba:ce:72:
+        7a:f4:dc:77
