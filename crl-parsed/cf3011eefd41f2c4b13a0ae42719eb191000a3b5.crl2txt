@@ -1,0 +1,50 @@
+issuer=/DC=TW/DC=ORG/DC=NCHC/CN=NCHC CA
+SHA1 Fingerprint=2E:51:F2:D3:3A:88:7E:62:B9:7D:23:DD:DA:94:CD:06:41:AF:38:91
+2c0df5ae
+crlNumber=32
+lastUpdate=Mar  7 04:46:27 2011 GMT
+nextUpdate=Apr  6 04:46:27 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=TW/DC=ORG/DC=NCHC/CN=NCHC CA
+        Last Update: Mar  7 04:46:27 2011 GMT
+        Next Update: Apr  6 04:46:27 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                50
+Revoked Certificates:
+    Serial Number: 01
+        Revocation Date: Sep  8 03:54:37 2009 GMT
+    Serial Number: 0B
+        Revocation Date: Sep  8 03:55:24 2009 GMT
+    Serial Number: 12
+        Revocation Date: Feb 10 05:35:37 2010 GMT
+    Serial Number: 13
+        Revocation Date: Feb 10 05:36:43 2010 GMT
+    Serial Number: 17
+        Revocation Date: Mar 15 09:16:12 2010 GMT
+    Serial Number: 18
+        Revocation Date: Mar 15 09:02:32 2010 GMT
+    Serial Number: 27
+        Revocation Date: Aug 23 09:42:11 2010 GMT
+    Serial Number: 3D
+        Revocation Date: Aug 23 09:42:32 2010 GMT
+    Serial Number: 3E
+        Revocation Date: Aug 23 09:42:52 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        03:08:d0:fd:3b:e6:f7:da:e5:b2:3c:2c:b8:2c:58:13:21:e9:
+        da:55:69:ac:09:7e:01:ae:09:65:0d:21:69:50:10:f0:c8:97:
+        cf:cf:96:fc:d8:c3:d7:76:75:b0:81:05:37:a8:43:df:5f:f1:
+        fe:dd:e0:52:c1:ec:1b:a9:8b:71:a0:73:b2:0f:b5:a9:ff:a3:
+        c8:79:43:80:93:33:ab:db:be:62:8c:5d:82:d3:d8:7d:f0:f3:
+        3a:69:f3:e4:a8:3c:5f:cf:92:8e:d1:3f:a1:d0:3b:99:b2:69:
+        66:a1:ce:c9:b8:f3:88:34:74:6a:89:e4:71:f0:85:b9:06:cc:
+        ad:89:fa:c6:b8:f3:bb:a1:20:49:e7:71:6d:53:1f:05:a3:89:
+        d5:0d:fe:62:b2:5b:a3:64:e7:2c:12:49:38:61:78:1e:30:c8:
+        cd:0d:ea:18:bd:3d:fd:57:c6:9d:7e:3e:0b:c8:b2:a2:7d:45:
+        48:54:0e:b2:3c:67:9e:a3:15:f8:47:88:21:f8:68:ea:ab:c6:
+        82:d0:86:b0:6c:f1:98:1c:bc:b1:5c:55:3c:61:0f:b8:43:b0:
+        29:41:09:2a:5f:c4:26:0b:5b:02:97:a2:6c:ae:20:0f:da:a7:
+        3a:8e:59:59:fc:7a:c2:7b:e1:b8:49:0c:62:43:80:19:43:ce:
+        4e:98:b3:cc
