@@ -1,0 +1,117 @@
+issuer=/C=RS/O=AEGIS/CN=AEGIS-CA
+SHA1 Fingerprint=C7:19:D2:FB:53:DC:B0:6C:10:B1:8D:92:67:57:BE:3B:4B:F9:3E:49
+cc5645bd
+crlNumber=<NONE>
+lastUpdate=Mar 10 20:01:36 2011 GMT
+nextUpdate=Apr  9 20:01:36 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=RS/O=AEGIS/CN=AEGIS-CA
+        Last Update: Mar 10 20:01:36 2011 GMT
+        Next Update: Apr  9 20:01:36 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:6B:18:11:7B:49:0B:C9:61:CC:C8:B1:28:C3:51:4F:DD:7D:74:30:0F
+                DirName:/C=RS/O=AEGIS/CN=AEGIS-CA
+                serial:00
+
+Revoked Certificates:
+    Serial Number: 01
+        Revocation Date: Jun 24 15:57:24 2007 GMT
+    Serial Number: 02
+        Revocation Date: Jun 24 15:57:32 2007 GMT
+    Serial Number: 03
+        Revocation Date: Jul 19 14:23:04 2007 GMT
+    Serial Number: 04
+        Revocation Date: Jul 24 08:13:38 2007 GMT
+    Serial Number: 06
+        Revocation Date: Sep 18 19:01:11 2007 GMT
+    Serial Number: 07
+        Revocation Date: Sep 18 19:01:49 2007 GMT
+    Serial Number: 08
+        Revocation Date: Jul  4 10:34:27 2007 GMT
+    Serial Number: 09
+        Revocation Date: Jul  6 07:27:25 2007 GMT
+    Serial Number: 0A
+        Revocation Date: Jul  6 10:01:54 2007 GMT
+    Serial Number: 0B
+        Revocation Date: Jul  6 07:31:28 2007 GMT
+    Serial Number: 15
+        Revocation Date: Jul 26 11:45:25 2007 GMT
+    Serial Number: 48
+        Revocation Date: Jan 25 23:03:40 2008 GMT
+    Serial Number: 57
+        Revocation Date: Jun 19 10:26:14 2008 GMT
+    Serial Number: 5A
+        Revocation Date: Jul 14 13:11:36 2008 GMT
+    Serial Number: 5D
+        Revocation Date: Jun 27 10:08:43 2008 GMT
+    Serial Number: 60
+        Revocation Date: Jun 27 10:47:22 2008 GMT
+    Serial Number: 63
+        Revocation Date: Mar 30 09:42:16 2009 GMT
+    Serial Number: 73
+        Revocation Date: Jul 14 15:47:25 2008 GMT
+    Serial Number: 76
+        Revocation Date: Jul 14 15:48:52 2008 GMT
+    Serial Number: 79
+        Revocation Date: Jul 22 12:52:57 2008 GMT
+    Serial Number: 8C
+        Revocation Date: May 21 08:01:53 2009 GMT
+    Serial Number: 91
+        Revocation Date: Sep 18 11:54:25 2008 GMT
+    Serial Number: 97
+        Revocation Date: Dec 30 08:54:45 2008 GMT
+    Serial Number: AC
+        Revocation Date: Oct 12 13:58:18 2009 GMT
+    Serial Number: AD
+        Revocation Date: Oct 12 14:00:22 2009 GMT
+    Serial Number: AE
+        Revocation Date: Oct 12 14:01:47 2009 GMT
+    Serial Number: AF
+        Revocation Date: Oct 12 14:02:45 2009 GMT
+    Serial Number: B0
+        Revocation Date: Oct 12 14:03:27 2009 GMT
+    Serial Number: BA
+        Revocation Date: May  6 11:31:32 2009 GMT
+    Serial Number: BB
+        Revocation Date: May 15 12:41:51 2009 GMT
+    Serial Number: CB
+        Revocation Date: Jul  7 10:25:50 2009 GMT
+    Serial Number: FC
+        Revocation Date: Sep 29 10:58:38 2009 GMT
+    Serial Number: 010C
+        Revocation Date: Nov 25 11:23:12 2009 GMT
+    Serial Number: 0115
+        Revocation Date: Mar 19 12:19:51 2010 GMT
+    Serial Number: 012C
+        Revocation Date: Jun 21 07:42:46 2010 GMT
+    Serial Number: 0153
+        Revocation Date: Jul  9 07:55:28 2010 GMT
+    Serial Number: 016C
+        Revocation Date: Sep 21 08:48:29 2010 GMT
+    Serial Number: 0179
+        Revocation Date: Oct 14 09:29:50 2010 GMT
+    Serial Number: 017A
+        Revocation Date: Oct 14 11:41:56 2010 GMT
+    Serial Number: 017C
+        Revocation Date: Oct 20 13:40:30 2010 GMT
+    Serial Number: 0181
+        Revocation Date: Nov 18 13:07:38 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        90:95:74:e3:6b:73:0e:37:69:c9:12:36:15:ff:8f:c9:74:ee:
+        bb:c5:bb:93:40:99:43:d3:6d:cc:10:86:da:76:61:4d:1d:98:
+        c9:58:c5:4e:80:48:cc:16:9b:f3:59:2c:77:4f:6d:fe:5c:1b:
+        55:2d:f3:15:a7:75:4b:05:3c:43:69:4c:7f:ac:8d:50:a0:0f:
+        8f:0d:37:c6:ec:68:05:8e:cf:d9:c2:23:b0:0b:66:b1:3e:56:
+        a6:ce:df:14:38:f0:bc:f5:11:de:8c:1c:d6:7e:8f:a2:ef:fa:
+        36:17:2b:c4:89:94:c0:38:7e:35:73:66:f4:a9:b6:ca:d4:69:
+        9b:50:e5:4c:b4:f6:f2:62:5a:df:64:15:fa:a9:bd:af:cb:1a:
+        98:58:6f:10:35:27:8d:f2:96:36:17:ce:3a:3e:69:1a:fa:2d:
+        6d:6f:ac:b6:fb:2e:74:85:ad:13:a9:f6:bc:92:af:ae:3e:f1:
+        1f:13:c6:e3:ea:bb:5e:c6:92:1d:1f:ef:32:4b:9f:7e:97:af:
+        94:e3:c8:6b:d0:28:d0:50:6a:45:5d:b7:7b:f0:74:71:cc:0f:
+        f5:d5:2a:16:10:32:cf:3f:ce:10:dc:97:ca:93:3a:ac:0f:33:
+        93:86:3a:8b:39:f7:7a:b8:ad:8b:cb:8b:86:dd:12:69:d2:10:
+        87:1a:b0:ea
