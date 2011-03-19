@@ -6,11 +6,14 @@
 
 for crl in `cat $1`
 do
+ savedpath="$(echo "$crl" | shasum -a 1 | awk '{print $1}').crl"
  echo "Fetching $crl";
  usewithtor wget -c --user-agent="Mozilla/5.0 (Windows; U; Windows NT 6.1; LANG; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3" \
-            -O $(echo "$crl" | sha1sum|cut -f1 -d\  ).crl "$crl";
+            -O - "$crl" > "$savedpath" 2>/dev/null;
  if [ $? != 0 ];
  then
    echo "Error fetching $crl" 1>&2;
+ else
+   echo "Saved $crl to $savedpath";
  fi
 done
