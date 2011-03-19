@@ -1,0 +1,51 @@
+issuer=/C=AR/O=e-Ciencia/OU=UNLP/L=CeSPI/CN=PKIGrid
+SHA1 Fingerprint=90:A4:D1:28:26:5B:19:4F:C6:84:4D:45:FA:BE:81:A1:2D:FC:AC:92
+522b8537
+crlNumber=44
+lastUpdate=Mar 11 23:03:56 2011 GMT
+nextUpdate=Apr 10 23:03:56 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=AR/O=e-Ciencia/OU=UNLP/L=CeSPI/CN=PKIGrid
+        Last Update: Mar 11 23:03:56 2011 GMT
+        Next Update: Apr 10 23:03:56 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:B1:70:51:4D:79:0C:1D:5B:A8:65:DD:4B:ED:7C:92:8F:0B:3E:C9:42
+
+            X509v3 CRL Number: 
+                68
+Revoked Certificates:
+    Serial Number: 09
+        Revocation Date: Oct 30 22:19:26 2008 GMT
+    Serial Number: 12
+        Revocation Date: Apr 16 20:51:41 2008 GMT
+    Serial Number: 13
+        Revocation Date: Aug 20 22:32:44 2008 GMT
+    Serial Number: 14
+        Revocation Date: Aug 20 22:37:58 2008 GMT
+    Serial Number: 19
+        Revocation Date: Aug 20 22:39:37 2008 GMT
+    Serial Number: 34
+        Revocation Date: Sep 10 14:29:26 2009 GMT
+    Serial Number: 35
+        Revocation Date: Sep 10 14:28:52 2009 GMT
+    Serial Number: 39
+        Revocation Date: Jul  7 22:10:09 2009 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        f8:c3:02:94:2e:bb:0a:64:7b:ba:8d:03:7d:6f:a1:01:5d:fb:
+        57:0a:31:c7:8e:c5:bb:90:78:00:c7:94:22:69:e4:1c:03:fb:
+        77:eb:0c:0d:8e:33:c7:fe:12:fc:05:d7:d0:06:a2:d9:a8:2a:
+        a8:cb:54:1e:54:37:70:bc:e1:42:6b:4f:e5:2e:ac:e6:5a:c4:
+        2b:d7:af:ea:50:38:10:17:21:1a:10:b3:35:0d:5f:a2:f6:f0:
+        67:2d:47:bf:16:ad:14:c0:27:ae:10:3e:72:cf:a4:81:01:86:
+        fd:53:a9:89:71:d7:dc:ee:d6:fa:19:2b:5b:3a:1d:2b:9b:cd:
+        0c:79:a8:d3:f3:36:48:ea:b8:cb:a1:8d:a6:f8:35:50:80:e8:
+        ab:93:38:3d:08:e0:38:f9:a3:ea:51:5e:cc:5c:16:74:d2:01:
+        93:3f:dd:10:3c:b4:95:bc:58:fa:83:3d:ce:b9:cd:e1:af:4e:
+        2a:5b:ee:ba:62:82:a5:8a:6e:b9:25:1f:72:77:0f:95:ca:f6:
+        b7:de:e5:a3:02:f6:44:ee:c4:9a:d2:59:0f:ea:d4:85:bb:f6:
+        75:40:0c:07:7f:c4:ad:74:b5:e3:c2:42:f4:04:f0:c5:31:01:
+        d6:be:27:4f:98:b3:03:82:53:4d:e9:1f:e1:81:55:c3:81:39:
+        16:73:20:92
