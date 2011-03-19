@@ -1,0 +1,35 @@
+issuer=/C=DE/O=DFN-Verein/OU=DFN-PKI/CN=DFN SLCS-CA
+SHA1 Fingerprint=09:EF:B9:73:2F:ED:7B:B4:C6:D2:36:DD:7C:5C:7E:0E:2B:0F:23:C9
+02a45931
+crlNumber=80
+lastUpdate=Mar 14 09:03:09 2011 GMT
+nextUpdate=Apr 13 09:03:09 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=DE/O=DFN-Verein/OU=DFN-PKI/CN=DFN SLCS-CA
+        Last Update: Mar 14 09:03:09 2011 GMT
+        Next Update: Apr 13 09:03:09 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:59:81:66:C2:24:E1:6F:A3:B9:37:4A:C2:C9:58:2E:85:EB:1F:A1:3C
+
+            X509v3 CRL Number: 
+                128
+No Revoked Certificates.
+    Signature Algorithm: sha1WithRSAEncryption
+        20:d1:b3:ca:ce:80:4a:af:63:ad:96:7c:78:89:02:8a:92:94:
+        ba:58:57:ff:33:8c:7e:c0:26:a0:b3:c6:04:8a:f5:5a:74:00:
+        92:16:66:36:c3:14:ff:08:d7:5a:00:f2:c2:bf:14:cf:a2:ab:
+        05:d1:61:35:cf:bd:40:22:ae:46:a9:96:a1:e3:52:00:57:c4:
+        5d:91:ad:43:c2:67:60:ba:b8:51:02:42:b9:0b:08:06:94:46:
+        9a:1b:12:a7:4b:8d:8c:cb:a2:1a:b5:76:c2:86:18:d6:a7:d0:
+        68:01:2a:f7:47:d6:ca:5d:ca:ad:07:25:8e:7e:87:a3:30:7b:
+        84:69:3e:ed:9e:08:68:6a:cf:3f:a0:21:ac:3d:cc:40:59:18:
+        df:08:45:b0:51:c5:39:fb:b7:32:79:7c:ae:b3:86:c7:88:4b:
+        c5:b0:fb:77:53:9a:e0:4a:ab:c6:41:04:a2:32:a5:4d:b3:a6:
+        fc:f5:d1:ec:40:6e:3f:b7:c6:44:71:e0:4b:92:e8:d5:23:70:
+        57:de:e1:72:9f:fc:ba:7d:ff:82:7c:29:55:d5:63:3b:a7:33:
+        4b:aa:ab:79:e5:8d:52:d2:95:75:ac:36:7f:d4:ac:17:b5:ba:
+        51:ca:30:5b:86:97:fd:1c:2d:af:8b:db:c3:6a:47:60:6f:95:
+        5c:b4:e9:47
