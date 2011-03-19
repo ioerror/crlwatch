@@ -1,0 +1,71 @@
+issuer=/C=AM/O=ArmeSFo/CN=ArmeSFo CA
+SHA1 Fingerprint=14:82:B7:09:FD:67:B6:CC:70:65:C8:CD:21:99:4E:3F:4B:6A:4B:9F
+3fb4d8a6
+crlNumber=27
+lastUpdate=Feb 26 09:55:38 2011 GMT
+nextUpdate=Mar 28 09:55:38 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=AM/O=ArmeSFo/CN=ArmeSFo CA
+        Last Update: Feb 26 09:55:38 2011 GMT
+        Next Update: Mar 28 09:55:38 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:F1:97:0A:9E:B9:DF:F5:C7:DC:95:4F:58:64:B8:3F:4F:5E:EC:6E:57
+                DirName:/C=AM/O=ArmeSFo/CN=ArmeSFo CA
+                serial:00
+
+            X509v3 CRL Number: 
+                39
+Revoked Certificates:
+    Serial Number: 06
+        Revocation Date: Jun 25 12:11:58 2005 GMT
+    Serial Number: 2A
+        Revocation Date: Jun 16 13:44:54 2009 GMT
+    Serial Number: 2B
+        Revocation Date: Jun 16 13:59:28 2009 GMT
+    Serial Number: 2C
+        Revocation Date: Jun 16 14:00:01 2009 GMT
+    Serial Number: 3F
+        Revocation Date: Aug 11 13:04:54 2009 GMT
+    Serial Number: 41
+        Revocation Date: Apr 10 07:07:45 2010 GMT
+    Serial Number: 43
+        Revocation Date: Apr 10 07:08:15 2010 GMT
+    Serial Number: 48
+        Revocation Date: Sep 18 07:09:19 2009 GMT
+    Serial Number: 49
+        Revocation Date: Sep 18 07:10:04 2009 GMT
+    Serial Number: 4A
+        Revocation Date: Sep  5 11:03:05 2009 GMT
+    Serial Number: 4C
+        Revocation Date: Sep 11 08:46:45 2009 GMT
+    Serial Number: 54
+        Revocation Date: Oct 12 11:06:09 2009 GMT
+    Serial Number: 5B
+        Revocation Date: Mar 19 13:16:06 2010 GMT
+    Serial Number: 5E
+        Revocation Date: Jan 20 12:28:28 2010 GMT
+    Serial Number: 64
+        Revocation Date: Feb 23 12:07:40 2010 GMT
+    Serial Number: 76
+        Revocation Date: May 28 07:34:22 2010 GMT
+    Serial Number: 79
+        Revocation Date: Jun  8 11:43:08 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        22:79:9e:7a:5d:a8:cb:1b:5c:29:25:cc:b8:9d:93:2e:3d:e7:
+        71:0b:0e:17:f5:51:70:6f:2d:f4:ef:6c:25:97:c2:db:6d:da:
+        eb:e6:72:03:36:5f:e3:a3:0a:50:40:f8:66:e8:53:b8:2c:c6:
+        fa:7b:4c:dc:1a:ac:a1:c3:6e:ff:e4:e9:ed:17:23:ea:54:7a:
+        6a:55:3c:a5:b2:65:48:cd:f8:27:d6:6c:37:37:3d:d4:b8:19:
+        06:74:fb:eb:86:c8:84:b8:80:68:91:9f:87:3a:5a:9d:6a:5d:
+        f7:4e:54:b0:10:b4:42:89:0b:de:f5:83:c0:f6:4c:1f:77:49:
+        87:25:15:03:10:fd:46:9c:bb:d0:36:c4:80:95:2c:96:c1:40:
+        30:16:02:fa:03:90:90:19:c2:95:ff:0d:9e:e4:70:68:2c:c3:
+        f1:33:d7:ac:69:8c:e7:83:28:59:d9:0f:9f:47:fa:6f:6a:0c:
+        ba:a9:77:11:17:da:eb:df:1f:58:dc:14:eb:a2:03:71:7f:6d:
+        d2:13:53:2e:42:14:fd:b9:3a:cb:4e:ec:3a:c7:83:e2:27:2d:
+        78:56:0b:9e:da:85:dd:82:49:d7:95:da:22:60:b4:59:4d:10:
+        f4:97:1c:2a:86:b4:86:69:45:62:bd:01:40:5f:6b:2e:39:0f:
+        43:67:8b:8a
