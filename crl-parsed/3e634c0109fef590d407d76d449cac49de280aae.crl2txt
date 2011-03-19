@@ -1,0 +1,40 @@
+issuer=/C=CH/O=Switch - Teleinformatikdienste fuer Lehre und Forschung/CN=SWITCHgrid Root CA
+SHA1 Fingerprint=82:A2:DC:E8:01:A0:AC:48:CB:44:AB:A9:B0:84:73:44:58:F2:74:3D
+ff430c7f
+crlNumber=05
+lastUpdate=Mar  7 09:31:34 2011 GMT
+nextUpdate=Sep  5 09:31:34 2012 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=CH/O=Switch - Teleinformatikdienste fuer Lehre und Forschung/CN=SWITCHgrid Root CA
+        Last Update: Mar  7 09:31:34 2011 GMT
+        Next Update: Sep  5 09:31:34 2012 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:11:93:D3:4D:AC:6E:AB:69:F6:03:B3:4D:4F:54:51:56:B4:4E:1A:90
+
+            X509v3 CRL Number: 
+                5
+Revoked Certificates:
+    Serial Number: 496213087B2572CF8203
+        Revocation Date: Mar  9 10:15:00 2009 GMT
+        CRL entry extensions:
+            X509v3 CRL Reason Code: 
+                Superseded
+    Signature Algorithm: sha1WithRSAEncryption
+        87:c0:7c:f4:27:f0:d1:dc:57:50:5c:68:e1:2d:24:fa:f5:0d:
+        be:5e:a2:ae:39:d1:91:da:c3:c4:b0:e0:4f:29:5e:45:d9:d6:
+        d5:e0:8d:d8:df:ea:53:86:55:f9:50:83:b4:46:73:08:81:99:
+        06:5a:fb:07:f9:42:5e:78:8e:34:71:71:75:fa:ab:d0:2d:08:
+        17:dc:ef:19:a3:f8:69:5e:04:34:74:65:90:04:0c:a7:02:c7:
+        71:65:3d:89:e7:d2:85:22:d1:5b:6b:5d:94:96:aa:c2:b7:ce:
+        5d:55:0f:bc:67:a3:82:4c:41:77:c7:78:9e:df:16:94:c7:4e:
+        91:4f:6e:05:48:dd:8a:cd:91:05:41:66:4a:69:b8:9f:25:33:
+        44:fb:9e:a5:78:44:17:f3:d2:17:4b:9a:64:4f:90:1d:e6:bb:
+        6e:8d:62:2e:67:32:34:9e:a2:22:87:3f:8a:ce:d5:50:52:ed:
+        0a:f7:d8:a3:05:73:23:7e:a4:4a:66:c9:af:25:a6:32:d9:f2:
+        a1:93:ac:24:dc:a4:5f:e5:ae:ad:9c:79:3b:34:c2:b1:17:8e:
+        16:43:0e:3a:57:36:e1:75:91:2d:ff:f4:eb:92:a5:2d:fa:79:
+        fd:ad:10:df:28:1b:03:63:49:e7:54:c1:b9:58:47:e1:70:a5:
+        3d:3a:00:53
