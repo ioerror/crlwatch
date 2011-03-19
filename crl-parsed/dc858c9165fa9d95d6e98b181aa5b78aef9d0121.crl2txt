@@ -1,0 +1,43 @@
+issuer=/DC=by/DC=grid/O=uiip.bas-net.by/CN=Belarusian Grid Certification Authority
+SHA1 Fingerprint=5A:F1:EE:3E:9B:FD:13:6B:6F:DA:3A:FA:CC:44:DF:FD:7A:51:A2:18
+b1ac0d46
+crlNumber=36
+lastUpdate=Mar  1 13:28:06 2011 GMT
+nextUpdate=Mar 31 13:28:06 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /DC=by/DC=grid/O=uiip.bas-net.by/CN=Belarusian Grid Certification Authority
+        Last Update: Mar  1 13:28:06 2011 GMT
+        Next Update: Mar 31 13:28:06 2011 GMT
+        CRL extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:2F:31:2C:C1:85:53:47:64:DB:61:B0:0A:57:0D:2D:AC:13:10:FF:7B
+
+            X509v3 CRL Number: 
+                54
+Revoked Certificates:
+    Serial Number: 0F5FE0F856C80C8D
+        Revocation Date: Feb 10 11:42:26 2010 GMT
+    Serial Number: 57179108D090B1D0
+        Revocation Date: Aug 19 09:06:48 2010 GMT
+    Serial Number: 55B28AC3D176B956
+        Revocation Date: Dec  9 14:59:02 2010 GMT
+    Serial Number: 77D6EE39F169E1C9
+        Revocation Date: Dec  9 14:59:50 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        94:77:60:6e:a3:f1:72:28:cf:e2:87:a3:51:54:36:13:b7:a8:
+        56:33:44:df:13:39:3f:ef:c9:2a:e3:2e:e2:04:e5:00:6e:7d:
+        ce:78:82:25:ee:18:07:d5:2c:f5:0f:71:b1:5a:0a:d5:bd:49:
+        ab:5f:dd:c5:8c:a2:cc:73:50:cb:da:69:10:6b:44:ce:fa:f3:
+        24:3a:6d:3a:46:00:4a:9f:0a:91:42:f5:b6:46:e9:bc:ef:d2:
+        72:43:55:3e:41:55:48:86:78:46:ec:62:86:14:94:6b:8c:59:
+        cc:90:85:2c:ca:1c:b3:eb:8b:c4:49:4e:d8:01:a8:40:96:a2:
+        f0:d4:c2:bc:7f:00:a0:21:a7:d3:80:6d:38:dc:49:1a:4d:d3:
+        04:03:e8:de:5f:6e:8d:9f:a9:73:2c:9c:8b:34:f4:c7:6e:00:
+        18:46:c8:34:d5:52:0b:64:43:12:85:09:1e:37:ec:71:68:02:
+        62:64:c0:36:b8:2f:05:b1:bd:bc:8a:78:52:b5:ae:fc:92:5f:
+        a1:f9:f6:2e:b4:df:81:65:f3:7a:ee:33:43:78:ff:4d:5d:df:
+        db:74:c8:64:1b:24:7c:02:fa:db:23:bc:81:98:62:ad:a7:3f:
+        b9:76:8d:89:02:a7:20:c9:3d:4b:90:52:69:f6:64:3f:6c:17:
+        ee:28:03:c4
