@@ -1,0 +1,40 @@
+issuer=/C=US/O=National Center for Supercomputing Applications/OU=Certificate Authorities/CN=MyProxy
+SHA1 Fingerprint=5D:8A:D0:BD:9E:75:AD:6F:5A:5B:F8:46:35:50:C5:05:01:D8:D4:C1
+d492aff2
+crlNumber=03BB
+lastUpdate=Mar 19 11:04:01 2011 GMT
+nextUpdate=Apr  2 11:04:01 2011 GMT
+Certificate Revocation List (CRL):
+        Version 2 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: /C=US/O=National Center for Supercomputing Applications/OU=Certificate Authorities/CN=MyProxy
+        Last Update: Mar 19 11:04:01 2011 GMT
+        Next Update: Apr  2 11:04:01 2011 GMT
+        CRL extensions:
+            X509v3 CRL Number: 
+                955
+Revoked Certificates:
+    Serial Number: 01E87F
+        Revocation Date: Dec  8 19:48:32 2008 GMT
+    Serial Number: 01E9FB
+        Revocation Date: Dec  8 19:36:17 2008 GMT
+    Serial Number: 0D84A3
+        Revocation Date: Sep 10 22:56:28 2010 GMT
+    Serial Number: 0DACA5
+        Revocation Date: Sep 17 15:08:06 2010 GMT
+    Signature Algorithm: sha1WithRSAEncryption
+        79:19:67:fa:f9:0b:84:b1:55:0c:d9:88:a5:ee:ba:91:0b:7e:
+        14:40:80:66:51:e2:2d:c1:58:fa:73:eb:ce:9d:0a:f0:7a:d8:
+        84:b0:07:7d:40:18:c3:f3:d5:80:f7:64:30:85:ab:38:b3:41:
+        ee:41:63:d4:e3:b8:21:4f:9a:89:a8:cd:9d:f5:a8:33:51:2d:
+        ad:e8:0c:99:32:c8:ab:2b:f8:94:06:71:4a:6d:ba:4c:10:27:
+        cf:a6:c1:f4:c2:ff:02:c3:91:e5:ce:7a:eb:08:ba:dc:aa:6b:
+        9e:29:1f:61:09:c2:94:a7:4e:57:41:91:3f:21:98:76:ae:28:
+        5e:65:01:bb:2a:eb:44:79:e9:c4:d5:b1:b6:49:8d:71:49:37:
+        05:d3:63:3f:f4:e1:cb:4f:07:6d:ed:7b:50:5f:2b:9c:c4:58:
+        12:25:95:d5:ee:9d:80:3e:8c:6d:bd:3d:8d:a4:7b:85:34:bd:
+        ad:69:f5:2b:93:9e:73:8e:03:9a:b9:7e:45:17:03:da:d8:43:
+        32:25:1f:b4:f9:48:8b:1b:52:31:71:5e:cd:f1:b6:ef:9f:97:
+        33:1e:08:e5:4f:7e:bb:1d:b6:e6:89:bc:c6:99:62:a1:2f:22:
+        83:a9:a2:59:d4:2f:bb:06:a8:54:97:2a:b3:a1:24:f7:ca:51:
+        92:2f:1f:12
