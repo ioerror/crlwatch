@@ -15,7 +15,11 @@ parse-raw-crl-to-text.sh - parse a given CRL file into readable text
 generate-crl-list.sql - pull relevant information from the observatory
 parse-crl-list.py - parse raw SQL output into a list useful for sorting
 
-                                         Examples
+                                Examples
+
+Do a bunch of stuff that you want to do regularly:
+
+    make
 
 Generate a full list of all known CRL files:
 
